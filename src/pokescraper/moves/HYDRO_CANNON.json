@@ -1,0 +1,12 @@
+{
+    "name": "Hydro Cannon",
+    "category": "Special",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "User must recharge next turn.",
+    "isHighCrit": false
+}

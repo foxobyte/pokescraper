@@ -1,0 +1,12 @@
+{
+    "name": "Incinerate",
+    "category": "Special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "Destroys the target's held berry.",
+    "isHighCrit": false
+}

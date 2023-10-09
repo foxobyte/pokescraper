@@ -1,0 +1,96 @@
+{
+    "generation": 2,
+    "name": "Politoed",
+    "species": "Frog Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 90,
+    "attack": 75,
+    "defense": 75,
+    "speed": 70,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 186,
+    "specialName": null,
+    "specialAbilities": [
+        "Water Absorb",
+        "Damp"
+    ],
+    "hiddenAbility": "Drizzle",
+    "specialAttack": 90,
+    "specialDefense": 100,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Def": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 225,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Belly Drum": 1,
+        "Hydro Pump": 1,
+        "Pound": 1,
+        "Rain Dance": 1
+    },
+    "movesLearnedOnEvolution": [
+        "Bounce"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Low Kick": 12,
+        "Thief": 18,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Swift": 32,
+        "Icy Wind": 34,
+        "Mud Shot": 35,
+        "Low Sweep": 39,
+        "Fling": 43,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Dig": 55,
+        "Brick Break": 58,
+        "Body Slam": 66,
+        "Ice Punch": 69,
+        "Sleep Talk": 70,
+        "Waterfall": 77,
+        "Metronome": 80,
+        "Rest": 85,
+        "Substitute": 103,
+        "Liquidation": 110,
+        "Hyper Voice": 117,
+        "Psychic": 120,
+        "Encore": 122,
+        "Surf": 123,
+        "Amnesia": 128,
+        "Helping Hand": 130,
+        "Earth Power": 133,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Earthquake": 149,
+        "Giga Impact": 152,
+        "Focus Blast": 158,
+        "Hyper Beam": 163,
+        "Tera Blast": 171,
+        "Haze": 174,
+        "Focus Punch": 192,
+        "Weather Ball": 193
+    }
+}

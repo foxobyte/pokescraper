@@ -1,0 +1,43 @@
+{
+    "generation": 2,
+    "name": "Unown",
+    "species": "Symbol Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 48,
+    "attack": 72,
+    "defense": 48,
+    "speed": 48,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Psychic"
+    ],
+    "nationalNumber": 201,
+    "specialName": null,
+    "specialAbilities": [
+        "Levitate"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 72,
+    "specialDefense": 48,
+    "catchRate": 225,
+    "evYield": {
+        "Attack": 1,
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 118,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Hidden Power": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

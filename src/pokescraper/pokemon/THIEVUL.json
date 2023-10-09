@@ -1,0 +1,88 @@
+{
+    "generation": 8,
+    "name": "Thievul",
+    "species": "Fox Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 70,
+    "attack": 58,
+    "defense": 58,
+    "speed": 90,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dark"
+    ],
+    "nationalNumber": 828,
+    "specialName": null,
+    "specialAbilities": [
+        "Run Away",
+        "Unburden"
+    ],
+    "hiddenAbility": "Stakeout",
+    "specialAttack": 87,
+    "specialDefense": 92,
+    "catchRate": 127,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 159,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Beat Up": 1,
+        "Hone Claws": 1,
+        "Quick Attack": 1,
+        "Tail Whip": 1,
+        "Thief": 1,
+        "Snarl": 12,
+        "Assurance": 16,
+        "Nasty Plot": 22,
+        "Sucker Punch": 28,
+        "Night Slash": 34,
+        "Tail Slap": 40,
+        "Foul Play": 46,
+        "Parting Shot": 52
+    },
+    "movesLearnedOnEvolution": [
+        "Thief"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Burning Jealousy",
+        "Lash Out"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Screech": 16,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Beat Up": 37,
+        "Facade": 39,
+        "Swift": 40,
+        "Fake Tears": 47,
+        "Mud Shot": 53,
+        "U-turn": 56,
+        "Assurance": 58,
+        "Shadow Claw": 65,
+        "Thunder Fang": 66,
+        "Ice Fang": 67,
+        "Fire Fang": 68,
+        "Round": 76,
+        "Acrobatics": 78,
+        "Tail Slap": 84,
+        "Snarl": 85
+    }
+}

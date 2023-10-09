@@ -1,0 +1,92 @@
+{
+    "generation": 5,
+    "name": "Archeops",
+    "species": "First Bird Pok\u00e9mon",
+    "height": "1.4\u00a0m (4\u203207\u2033)",
+    "weight": "1.4\u00a0m (4\u203207\u2033)",
+    "hp": 75,
+    "attack": 140,
+    "defense": 65,
+    "speed": 110,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Flying"
+    ],
+    "nationalNumber": 567,
+    "specialName": null,
+    "specialAbilities": [
+        "Defeatist"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 112,
+    "specialDefense": 65,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 177,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Flying",
+        "Water 3"
+    ],
+    "eggCycles": 30,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Quick Attack": 1,
+        "Rock Throw": 1,
+        "Wing Attack": 1,
+        "Dragon Breath": 9,
+        "Ancient Power": 12,
+        "Pluck": 15,
+        "Quick Guard": 18,
+        "U-turn": 21,
+        "Rock Slide": 24,
+        "Scary Face": 27,
+        "Crunch": 30,
+        "Agility": 33,
+        "Tailwind": 36,
+        "Dragon Claw": 41,
+        "Thrash": 46,
+        "Endeavor": 51
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Dual Wingbeat",
+        "Lash Out",
+        "Meteor Beam"
+    ],
+    "movesLearnedByTm": {
+        "Fly": 6,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Steel Wing": 30,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Facade": 39,
+        "Swift": 40,
+        "Rock Tomb": 48,
+        "Bounce": 52,
+        "Rock Blast": 54,
+        "U-turn": 56,
+        "Assurance": 58,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Acrobatics": 78,
+        "Bulldoze": 81,
+        "Air Slash": 95
+    }
+}

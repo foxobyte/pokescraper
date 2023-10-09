@@ -1,0 +1,12 @@
+{
+    "name": "Poison Powder",
+    "category": "Status",
+    "power": null,
+    "accuracy": 75,
+    "pp": 35,
+    "probability": null,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "Poisons opponent.",
+    "isHighCrit": false
+}

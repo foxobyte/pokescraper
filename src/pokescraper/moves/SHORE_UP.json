@@ -1,0 +1,12 @@
+{
+    "name": "Shore Up",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "The user regains up to half of its max HP. It restores more HP in a sandstorm.",
+    "isHighCrit": false
+}

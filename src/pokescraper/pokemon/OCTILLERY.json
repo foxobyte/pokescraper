@@ -1,0 +1,98 @@
+{
+    "generation": 2,
+    "name": "Octillery",
+    "species": "Jet Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "0.9\u00a0m (2\u203211\u2033)",
+    "hp": 75,
+    "attack": 105,
+    "defense": 75,
+    "speed": 45,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 224,
+    "specialName": null,
+    "specialAbilities": [
+        "Suction Cups",
+        "Sniper"
+    ],
+    "hiddenAbility": "Moody",
+    "specialAttack": 105,
+    "specialDefense": 75,
+    "catchRate": 75,
+    "evYield": {
+        "Attack": 1,
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 168,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 1",
+        "Water 2"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Focus Energy": 1,
+        "Gunk Shot": 1,
+        "Helping Hand": 1,
+        "Octazooka": 1,
+        "Rock Blast": 1,
+        "Water Gun": 1,
+        "Water Pulse": 1,
+        "Wrap": 1,
+        "Psybeam": 12,
+        "Aurora Beam": 16,
+        "Bubble Beam": 20,
+        "Lock-On": 24,
+        "Bullet Seed": 30,
+        "Ice Beam": 36,
+        "Hydro Pump": 42,
+        "Soak": 48,
+        "Hyper Beam": 54
+    },
+    "movesLearnedOnEvolution": [
+        "Octazooka"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Bullet Seed": 9,
+        "Sunny Day": 11,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Psychic": 29,
+        "Double Team": 32,
+        "Flamethrower": 35,
+        "Sludge Bomb": 36,
+        "Fire Blast": 38,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Scald": 49,
+        "Energy Ball": 53,
+        "Brine": 55,
+        "Charge Beam": 57,
+        "Endure": 58,
+        "Payback": 66,
+        "Giga Impact": 68,
+        "Thunder Wave": 73,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Flash Cannon": 91,
+        "Surf": 95,
+        "Waterfall": 99
+    }
+}

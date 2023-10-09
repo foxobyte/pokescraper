@@ -1,0 +1,50 @@
+{
+    "generation": 4,
+    "name": "Burmy",
+    "species": "Bagworm Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.2\u00a0m (0\u203208\u2033)",
+    "hp": 40,
+    "attack": 29,
+    "defense": 45,
+    "speed": 36,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 412,
+    "specialName": "Plant Cloak",
+    "specialAbilities": [
+        "Shed Skin"
+    ],
+    "hiddenAbility": "Overcoat",
+    "specialAttack": 29,
+    "specialDefense": 45,
+    "catchRate": 120,
+    "evYield": {
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 45,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Protect": 1,
+        "Tackle": 10,
+        "Bug Bite": 15,
+        "String Shot": 20
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Protect": 17
+    }
+}

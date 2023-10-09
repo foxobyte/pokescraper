@@ -1,0 +1,12 @@
+{
+    "name": "Fly",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 95,
+    "pp": 15,
+    "probability": null,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "Flies up on first turn, attacks on second turn.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Rock Polish",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "Sharply raises user's Speed.",
+    "isHighCrit": false
+}

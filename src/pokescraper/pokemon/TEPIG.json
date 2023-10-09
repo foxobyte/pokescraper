@@ -1,0 +1,100 @@
+{
+    "generation": 5,
+    "name": "Tepig",
+    "species": "Fire Pig Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 65,
+    "attack": 63,
+    "defense": 45,
+    "speed": 45,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire"
+    ],
+    "nationalNumber": 498,
+    "specialName": null,
+    "specialAbilities": [
+        "Blaze"
+    ],
+    "hiddenAbility": "Thick Fat",
+    "specialAttack": 45,
+    "specialDefense": 45,
+    "catchRate": 45,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 62,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Tackle": 1,
+        "Tail Whip": 3,
+        "Ember": 7,
+        "Odor Sleuth": 9,
+        "Defense Curl": 13,
+        "Flame Charge": 15,
+        "Smog": 19,
+        "Rollout": 21,
+        "Take Down": 25,
+        "Heat Crash": 27,
+        "Assurance": 31,
+        "Flamethrower": 33,
+        "Head Smash": 37,
+        "Roar": 39,
+        "Flare Blitz": 43
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Covet",
+        "Endeavor",
+        "Fire Pledge",
+        "Heat Wave",
+        "Helping Hand",
+        "Iron Tail",
+        "Snore",
+        "Stomping Tantrum",
+        "Superpower",
+        "Zen Headbutt"
+    ],
+    "movesLearnedByTm": {
+        "Work Up": 1,
+        "Roar": 5,
+        "Toxic": 6,
+        "Hidden Power": 10,
+        "Sunny Day": 11,
+        "Taunt": 12,
+        "Protect": 17,
+        "Frustration": 21,
+        "Solar Beam": 22,
+        "Return": 27,
+        "Double Team": 32,
+        "Flamethrower": 35,
+        "Fire Blast": 38,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Flame Charge": 43,
+        "Rest": 44,
+        "Attract": 45,
+        "Round": 48,
+        "Echoed Voice": 49,
+        "Overheat": 50,
+        "Will-O-Wisp": 61,
+        "Gyro Ball": 74,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Sleep Talk": 88,
+        "Substitute": 90,
+        "Wild Charge": 93,
+        "Confide": 100
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "generation": 4,
+    "name": "Bonsly",
+    "species": "Bonsai Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 50,
+    "attack": 80,
+    "defense": 95,
+    "speed": 10,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock"
+    ],
+    "nationalNumber": 438,
+    "specialName": null,
+    "specialAbilities": [
+        "Sturdy",
+        "Rock Head"
+    ],
+    "hiddenAbility": "Rattled",
+    "specialAttack": 10,
+    "specialDefense": 45,
+    "catchRate": 255,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 58,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Copycat": 1,
+        "Fake Tears": 1,
+        "Flail": 4,
+        "Rock Throw": 8,
+        "Block": 12,
+        "Mimic": 16,
+        "Rock Tomb": 20,
+        "Tearful Look": 24,
+        "Sucker Punch": 28,
+        "Rock Slide": 32,
+        "Low Kick": 36,
+        "Counter": 40,
+        "Double-Edge": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Fake Tears": 3,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Low Kick": 12,
+        "Thief": 18,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Mud Shot": 35,
+        "Rock Tomb": 36,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Sandstorm": 51,
+        "Dig": 55,
+        "Brick Break": 58,
+        "Foul Play": 62,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Rock Blast": 76,
+        "Grass Knot": 81,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Spikes": 90,
+        "Power Gem": 101,
+        "Substitute": 103,
+        "Stealth Rock": 116,
+        "Calm Mind": 129,
+        "Helping Hand": 130,
+        "Earth Power": 133,
+        "Earthquake": 149,
+        "Stone Edge": 150,
+        "Tera Blast": 171
+    }
+}

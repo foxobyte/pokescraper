@@ -1,0 +1,102 @@
+{
+    "generation": 9,
+    "name": "Ceruledge",
+    "species": "Fire Blades Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 75,
+    "attack": 125,
+    "defense": 80,
+    "speed": 85,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire",
+        "Ghost"
+    ],
+    "nationalNumber": 937,
+    "specialName": null,
+    "specialAbilities": [
+        "Flash Fire"
+    ],
+    "hiddenAbility": "Weak Armor",
+    "specialAttack": 60,
+    "specialDefense": 100,
+    "catchRate": 25,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 20,
+    "baseExp": 263,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Human-Like"
+    ],
+    "eggCycles": 35,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Ember": 1,
+        "Leer": 1,
+        "Clear Smog": 8,
+        "Fire Spin": 12,
+        "Will-O-Wisp": 16,
+        "Night Shade": 20,
+        "Flame Charge": 24,
+        "Incinerate": 28,
+        "Lava Plume": 32,
+        "Swords Dance": 37,
+        "Ally Switch": 42,
+        "Bitter Blade": 48,
+        "Psycho Cut": 56,
+        "Flare Blitz": 62
+    },
+    "movesLearnedOnEvolution": [
+        "Shadow Claw"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Confuse Ray": 17,
+        "Fire Spin": 24,
+        "Facade": 25,
+        "Hex": 29,
+        "Flame Charge": 38,
+        "Stored Power": 41,
+        "Night Shade": 42,
+        "Fling": 43,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "False Swipe": 57,
+        "Brick Break": 58,
+        "Shadow Claw": 61,
+        "Bulk Up": 64,
+        "Sleep Talk": 70,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Dragon Claw": 78,
+        "Poison Jab": 83,
+        "Rest": 85,
+        "Taunt": 87,
+        "Swords Dance": 88,
+        "Iron Head": 99,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "X-Scissor": 105,
+        "Will-O-Wisp": 107,
+        "Shadow Ball": 114,
+        "Heat Wave": 118,
+        "Flamethrower": 125,
+        "Helping Hand": 130,
+        "Fire Blast": 141,
+        "Phantom Force": 151,
+        "Overheat": 157,
+        "Flare Blitz": 165,
+        "Close Combat": 167,
+        "Tera Blast": 171
+    }
+}

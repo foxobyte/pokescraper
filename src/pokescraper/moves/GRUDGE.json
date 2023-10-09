@@ -1,0 +1,12 @@
+{
+    "name": "Grudge",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "If the users faints after using this move, the PP for the opponent's last move is depleted.",
+    "isHighCrit": false
+}

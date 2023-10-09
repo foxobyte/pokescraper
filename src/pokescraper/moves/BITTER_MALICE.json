@@ -1,0 +1,12 @@
+{
+    "name": "Bitter Malice",
+    "category": "Special",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "Inflicts double damage if the target has a status condition.",
+    "isHighCrit": false
+}

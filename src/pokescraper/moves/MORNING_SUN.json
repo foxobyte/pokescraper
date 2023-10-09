@@ -1,0 +1,12 @@
+{
+    "name": "Morning Sun",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User recovers HP. Amount varies with the weather.",
+    "isHighCrit": false
+}

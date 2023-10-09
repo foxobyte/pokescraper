@@ -1,0 +1,12 @@
+{
+    "name": "Hyper Fang",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 90,
+    "pp": 15,
+    "probability": 10,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

@@ -1,0 +1,84 @@
+{
+    "generation": 7,
+    "name": "Buzzwole",
+    "species": "Swollen Pok\u00e9mon",
+    "height": "2.4\u00a0m (7\u203210\u2033)",
+    "weight": "2.4\u00a0m (7\u203210\u2033)",
+    "hp": 107,
+    "attack": 139,
+    "defense": 139,
+    "speed": 79,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Fighting"
+    ],
+    "nationalNumber": 794,
+    "specialName": null,
+    "specialAbilities": [
+        "Beast Boost"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 53,
+    "specialDefense": 53,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 1,
+        "Defense": 2
+    },
+    "baseFriendship": 0,
+    "baseExp": 257,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Harden": 1,
+        "Power-Up Punch": 1,
+        "Taunt": 5,
+        "Fell Stinger": 10,
+        "Vital Throw": 15,
+        "Bulk Up": 20,
+        "Endure": 25,
+        "Reversal": 30,
+        "Mega Punch": 35,
+        "Lunge": 40,
+        "Focus Energy": 45,
+        "Dynamic Punch": 50,
+        "Counter": 55,
+        "Hammer Arm": 60,
+        "Superpower": 65,
+        "Focus Punch": 70
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Coaching",
+        "Dual Wingbeat"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Ice Punch": 4,
+        "Thunder Punch": 5,
+        "Giga Impact": 9,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Facade": 39,
+        "Revenge": 42,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Bounce": 52,
+        "Payback": 57,
+        "Fling": 59,
+        "Drain Punch": 63,
+        "Low Sweep": 75,
+        "Round": 76,
+        "Bulldoze": 81,
+        "False Swipe": 94,
+        "Stomping Tantrum": 98
+    }
+}

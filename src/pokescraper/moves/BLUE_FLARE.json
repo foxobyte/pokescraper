@@ -1,0 +1,12 @@
+{
+    "name": "Blue Flare",
+    "category": "Special",
+    "power": 130,
+    "accuracy": 85,
+    "pp": 5,
+    "probability": 20,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "May burn opponent.",
+    "isHighCrit": false
+}

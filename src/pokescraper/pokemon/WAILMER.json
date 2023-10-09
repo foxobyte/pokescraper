@@ -1,0 +1,88 @@
+{
+    "generation": 3,
+    "name": "Wailmer",
+    "species": "Ball Whale Pok\u00e9mon",
+    "height": "2.0\u00a0m (6\u203207\u2033)",
+    "weight": "2.0\u00a0m (6\u203207\u2033)",
+    "hp": 130,
+    "attack": 70,
+    "defense": 35,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 320,
+    "specialName": null,
+    "specialAbilities": [
+        "Water Veil",
+        "Oblivious"
+    ],
+    "hiddenAbility": "Pressure",
+    "specialAttack": 70,
+    "specialDefense": 35,
+    "catchRate": 125,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 80,
+    "growthRate": "Fluctuating",
+    "eggGroups": [
+        "Field",
+        "Water 2"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Splash": 1,
+        "Growl": 3,
+        "Astonish": 6,
+        "Water Gun": 12,
+        "Mist": 15,
+        "Water Pulse": 18,
+        "Heavy Slam": 21,
+        "Brine": 24,
+        "Whirlpool": 27,
+        "Dive": 30,
+        "Bounce": 33,
+        "Body Slam": 36,
+        "Rest": 39,
+        "Amnesia": 42,
+        "Hydro Pump": 45,
+        "Water Spout": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Roar": 5,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Earthquake": 26,
+        "Double Team": 32,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Scald": 49,
+        "Brine": 55,
+        "Endure": 58,
+        "Avalanche": 72,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Surf": 95,
+        "Strength": 96,
+        "Rock Smash": 98,
+        "Waterfall": 99
+    }
+}

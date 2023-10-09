@@ -1,0 +1,12 @@
+{
+    "name": "Slash",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "High critical hit ratio.",
+    "isHighCrit": true
+}

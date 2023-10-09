@@ -1,0 +1,79 @@
+{
+    "generation": 3,
+    "name": "Taillow",
+    "species": "TinySwallow Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 40,
+    "attack": 55,
+    "defense": 30,
+    "speed": 85,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 276,
+    "specialName": null,
+    "specialAbilities": [
+        "Guts"
+    ],
+    "hiddenAbility": "Scrappy",
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "catchRate": 200,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 54,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Peck": 1,
+        "Focus Energy": 5,
+        "Quick Attack": 9,
+        "Wing Attack": 13,
+        "Double Team": 17,
+        "Aerial Ace": 21,
+        "Quick Guard": 25,
+        "Agility": 29,
+        "Air Slash": 33,
+        "Endeavor": 37,
+        "Brave Bird": 41,
+        "Reversal": 45
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Double Team": 32,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Steel Wing": 47,
+        "Roost": 51,
+        "Endure": 58,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Pluck": 88,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Fly": 94,
+        "Defog": 97
+    }
+}

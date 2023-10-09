@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "name": "Tympole",
+    "species": "Tadpole Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 50,
+    "attack": 50,
+    "defense": 40,
+    "speed": 64,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 535,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim",
+        "Hydration"
+    ],
+    "hiddenAbility": "Water Absorb",
+    "specialAttack": 50,
+    "specialDefense": 40,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 59,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Echoed Voice": 1,
+        "Growl": 1,
+        "Acid": 4,
+        "Supersonic": 8,
+        "Mud Shot": 12,
+        "Round": 16,
+        "Bubble Beam": 20,
+        "Flail": 24,
+        "Uproar": 28,
+        "Aqua Ring": 32,
+        "Hyper Voice": 36,
+        "Muddy Water": 40,
+        "Rain Dance": 44,
+        "Hydro Pump": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Screech": 16,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Facade": 39,
+        "Weather Ball": 46,
+        "Bounce": 52,
+        "Mud Shot": 53,
+        "Round": 76
+    }
+}

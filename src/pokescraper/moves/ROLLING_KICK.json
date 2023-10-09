@@ -1,0 +1,12 @@
+{
+    "name": "Rolling Kick",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 85,
+    "pp": 15,
+    "probability": 30,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

@@ -1,0 +1,75 @@
+{
+    "generation": 7,
+    "name": "Torracat",
+    "species": "Fire Cat Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 65,
+    "attack": 85,
+    "defense": 50,
+    "speed": 90,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire"
+    ],
+    "nationalNumber": 726,
+    "specialName": null,
+    "specialAbilities": [
+        "Blaze"
+    ],
+    "hiddenAbility": "Intimidate",
+    "specialAttack": 80,
+    "specialDefense": 50,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 147,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Ember": 1,
+        "Growl": 1,
+        "Lick": 1,
+        "Scratch": 1,
+        "Roar": 9,
+        "Fury Swipes": 12,
+        "Bite": 15,
+        "Double Kick": 20,
+        "Fire Fang": 25,
+        "Scary Face": 30,
+        "Swagger": 35,
+        "Flamethrower": 40,
+        "Thrash": 45,
+        "Flare Blitz": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Pay Day": 2,
+        "Fire Spin": 13,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Attract": 31,
+        "Sunny Day": 34,
+        "Will-O-Wisp": 38,
+        "Facade": 39,
+        "Revenge": 42,
+        "U-turn": 56,
+        "Shadow Claw": 65,
+        "Fire Fang": 68,
+        "Round": 76,
+        "Acrobatics": 78
+    }
+}

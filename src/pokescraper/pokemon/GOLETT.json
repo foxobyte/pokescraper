@@ -1,0 +1,90 @@
+{
+    "generation": 5,
+    "name": "Golett",
+    "species": "Automaton Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 59,
+    "attack": 74,
+    "defense": 50,
+    "speed": 35,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Ground",
+        "Ghost"
+    ],
+    "nationalNumber": 622,
+    "specialName": null,
+    "specialAbilities": [
+        "Iron Fist",
+        "Klutz"
+    ],
+    "hiddenAbility": "No Guard",
+    "specialAttack": 35,
+    "specialDefense": 50,
+    "catchRate": 190,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 61,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Mud-Slap": 1,
+        "Defense Curl": 4,
+        "Pound": 8,
+        "Shadow Punch": 12,
+        "Curse": 16,
+        "Night Shade": 20,
+        "Stomping Tantrum": 24,
+        "Iron Defense": 28,
+        "Mega Punch": 32,
+        "Shadow Ball": 36,
+        "Heavy Slam": 40,
+        "Phantom Force": 44,
+        "Hammer Arm": 48,
+        "Earthquake": 52,
+        "Dynamic Punch": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Poltergeist",
+        "Scorching Sands"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Fire Punch": 3,
+        "Ice Punch": 4,
+        "Thunder Punch": 5,
+        "Dig": 15,
+        "Safeguard": 19,
+        "Self-Destruct": 20,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Brick Break": 43,
+        "Imprison": 44,
+        "Rock Tomb": 48,
+        "Fling": 59,
+        "Drain Punch": 63,
+        "Low Sweep": 75,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Phantom Force": 86,
+        "Stomping Tantrum": 98
+    }
+}

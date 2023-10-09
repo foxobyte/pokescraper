@@ -1,0 +1,12 @@
+{
+    "name": "Power Shift",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Switches offensive and defensive stats.",
+    "isHighCrit": false
+}

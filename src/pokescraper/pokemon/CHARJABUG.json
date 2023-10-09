@@ -1,0 +1,92 @@
+{
+    "generation": 7,
+    "name": "Charjabug",
+    "species": "Battery Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 57,
+    "attack": 82,
+    "defense": 95,
+    "speed": 36,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Electric"
+    ],
+    "nationalNumber": 737,
+    "specialName": null,
+    "specialAbilities": [
+        "Battery"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 55,
+    "specialDefense": 75,
+    "catchRate": 120,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 140,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Bug Bite": 1,
+        "Mud-Slap": 1,
+        "String Shot": 1,
+        "Vise Grip": 1,
+        "Bite": 15,
+        "Spark": 23,
+        "Sticky Web": 29,
+        "X-Scissor": 36,
+        "Crunch": 43,
+        "Dig": 50,
+        "Iron Defense": 57,
+        "Discharge": 64
+    },
+    "movesLearnedOnEvolution": [
+        "Charge"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Struggle Bug": 15,
+        "Pounce": 21,
+        "Charge Beam": 23,
+        "Facade": 25,
+        "Mud Shot": 35,
+        "Endure": 47,
+        "Volt Switch": 48,
+        "Rain Dance": 50,
+        "Dig": 55,
+        "Sleep Talk": 70,
+        "Electro Ball": 72,
+        "Light Screen": 75,
+        "Thunder Wave": 82,
+        "Poison Jab": 83,
+        "Rest": 85,
+        "Eerie Impulse": 96,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "X-Scissor": 105,
+        "Crunch": 108,
+        "Thunderbolt": 126,
+        "Baton Pass": 132,
+        "Electric Terrain": 136,
+        "Wild Charge": 147,
+        "Thunder": 166,
+        "Tera Blast": 171,
+        "Charge": 173,
+        "Bug Bite": 182,
+        "Lunge": 185
+    }
+}

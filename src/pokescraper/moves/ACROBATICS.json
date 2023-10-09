@@ -1,0 +1,12 @@
+{
+    "name": "Acrobatics",
+    "category": "Physical",
+    "power": 55,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "Stronger when the user does not have a held item.",
+    "isHighCrit": false
+}

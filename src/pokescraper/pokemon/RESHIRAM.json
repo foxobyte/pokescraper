@@ -1,0 +1,91 @@
+{
+    "generation": 5,
+    "name": "Reshiram",
+    "species": "Vast White Pok\u00e9mon",
+    "height": "3.2\u00a0m (10\u203206\u2033)",
+    "weight": "3.2\u00a0m (10\u203206\u2033)",
+    "hp": 100,
+    "attack": 120,
+    "defense": 100,
+    "speed": 90,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Dragon",
+        "Fire"
+    ],
+    "nationalNumber": 643,
+    "specialName": null,
+    "specialAbilities": [
+        "Turboblaze"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 150,
+    "specialDefense": 120,
+    "catchRate": 3,
+    "evYield": {
+        "Sp. Atk": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 306,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Ancient Power": 1,
+        "Dragon Breath": 1,
+        "Fire Fang": 1,
+        "Noble Roar": 1,
+        "Slash": 8,
+        "Crunch": 16,
+        "Extrasensory": 24,
+        "Dragon Pulse": 32,
+        "Flamethrower": 40,
+        "Fusion Flare": 48,
+        "Hyper Voice": 56,
+        "Fire Blast": 64,
+        "Imprison": 72,
+        "Outrage": 80,
+        "Blue Flare": 88
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Dual Wingbeat",
+        "Scale Shot",
+        "Scorching Sands"
+    ],
+    "movesLearnedByTm": {
+        "Fly": 6,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Steel Wing": 30,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Will-O-Wisp": 38,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Imprison": 44,
+        "Weather Ball": 46,
+        "Rock Tomb": 48,
+        "Payback": 57,
+        "Fling": 59,
+        "Shadow Claw": 65,
+        "Fire Fang": 68,
+        "Round": 76,
+        "Mystical Fire": 92,
+        "Brutal Swing": 97,
+        "Breaking Swipe": 99
+    }
+}

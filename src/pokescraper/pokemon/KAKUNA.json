@@ -1,0 +1,60 @@
+{
+    "generation": 1,
+    "name": "Kakuna",
+    "species": "Cocoon Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 45,
+    "attack": 25,
+    "defense": 50,
+    "speed": 35,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {
+        "BEEDRILL": {
+            "level": 10,
+            "time": null,
+            "heldItem": null,
+            "usedItem": null,
+            "hasPokemon": null,
+            "highFriendship": null,
+            "needsTrade": null,
+            "usedMove": null,
+            "learnedMove": null
+        }
+    },
+    "type": [
+        "Bug",
+        "Poison"
+    ],
+    "nationalNumber": 14,
+    "specialName": null,
+    "specialAbilities": [
+        "Shed Skin"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 25,
+    "specialDefense": 25,
+    "catchRate": 120,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 72,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Harden": 1
+    },
+    "movesLearnedOnEvolution": [
+        "Harden"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

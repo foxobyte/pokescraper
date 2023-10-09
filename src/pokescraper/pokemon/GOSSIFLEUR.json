@@ -1,0 +1,74 @@
+{
+    "generation": 8,
+    "name": "Gossifleur",
+    "species": "Flowering Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 40,
+    "attack": 40,
+    "defense": 60,
+    "speed": 10,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 829,
+    "specialName": null,
+    "specialAbilities": [
+        "Cotton Down",
+        "Regenerator"
+    ],
+    "hiddenAbility": "Effect Spore",
+    "specialAttack": 40,
+    "specialDefense": 60,
+    "catchRate": 190,
+    "evYield": {
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 50,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Leafage": 1,
+        "Sing": 1,
+        "Rapid Spin": 4,
+        "Sweet Scent": 8,
+        "Razor Leaf": 12,
+        "Round": 16,
+        "Leaf Tornado": 21,
+        "Synthesis": 24,
+        "Hyper Voice": 28,
+        "Aromatherapy": 32,
+        "Leaf Storm": 36
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Grassy Glide"
+    ],
+    "movesLearnedByTm": {
+        "Magical Leaf": 10,
+        "Solar Beam": 11,
+        "Light Screen": 17,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Charm": 29,
+        "Attract": 31,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Bullet Seed": 50,
+        "Round": 76,
+        "Grassy Terrain": 88
+    }
+}

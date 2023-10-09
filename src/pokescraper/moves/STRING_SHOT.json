@@ -1,0 +1,12 @@
+{
+    "name": "String Shot",
+    "category": "Status",
+    "power": null,
+    "accuracy": 95,
+    "pp": 40,
+    "probability": null,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "Sharply lowers opponent's Speed.",
+    "isHighCrit": false
+}

@@ -1,0 +1,46 @@
+{
+    "generation": 2,
+    "name": "Smeargle",
+    "species": "Painter Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 55,
+    "attack": 20,
+    "defense": 35,
+    "speed": 75,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 235,
+    "specialName": null,
+    "specialAbilities": [
+        "Own Tempo",
+        "Technician"
+    ],
+    "hiddenAbility": "Moody",
+    "specialAttack": 20,
+    "specialDefense": 45,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 88,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Sketch": 91
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

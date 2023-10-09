@@ -1,0 +1,111 @@
+{
+    "generation": 1,
+    "name": "Charmander",
+    "species": "Lizard Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "speed": 65,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {
+        "CHARMELEON": {
+            "level": 16,
+            "time": null,
+            "heldItem": null,
+            "usedItem": null,
+            "hasPokemon": null,
+            "highFriendship": null,
+            "needsTrade": null,
+            "usedMove": null,
+            "learnedMove": null
+        }
+    },
+    "type": [
+        "Fire"
+    ],
+    "nationalNumber": 4,
+    "specialName": null,
+    "specialAbilities": [
+        "Blaze"
+    ],
+    "hiddenAbility": "Solar Power",
+    "specialAttack": 60,
+    "specialDefense": 50,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 62,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Dragon",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Scratch": 1,
+        "Ember": 4,
+        "Smokescreen": 8,
+        "Dragon Breath": 12,
+        "Fire Fang": 17,
+        "Slash": 20,
+        "Flamethrower": 24,
+        "Scary Face": 28,
+        "Fire Spin": 32,
+        "Inferno": 36,
+        "Flare Blitz": 40
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Fire Spin": 24,
+        "Facade": 25,
+        "Metal Claw": 31,
+        "Swift": 32,
+        "Rock Tomb": 36,
+        "Flame Charge": 38,
+        "Fling": 43,
+        "Dragon Tail": 44,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Dig": 55,
+        "False Swipe": 57,
+        "Brick Break": 58,
+        "Shadow Claw": 61,
+        "Body Slam": 66,
+        "Fire Punch": 67,
+        "Thunder Punch": 68,
+        "Sleep Talk": 70,
+        "Dragon Claw": 78,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Swords Dance": 88,
+        "Dragon Dance": 100,
+        "Substitute": 103,
+        "Will-O-Wisp": 107,
+        "Crunch": 108,
+        "Dragon Pulse": 115,
+        "Heat Wave": 118,
+        "Flamethrower": 125,
+        "Helping Hand": 130,
+        "Fire Blast": 141,
+        "Fire Pledge": 144,
+        "Outrage": 156,
+        "Overheat": 157,
+        "Focus Blast": 158,
+        "Flare Blitz": 165,
+        "Tera Blast": 171
+    }
+}

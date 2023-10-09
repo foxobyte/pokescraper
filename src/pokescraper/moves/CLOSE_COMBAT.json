@@ -1,0 +1,12 @@
+{
+    "name": "Close Combat",
+    "category": "Physical",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": 100,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Lowers user's Defense and Special Defense.",
+    "isHighCrit": false
+}

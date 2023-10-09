@@ -1,0 +1,12 @@
+{
+    "name": "Shadow Claw",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "High critical hit ratio.",
+    "isHighCrit": true
+}

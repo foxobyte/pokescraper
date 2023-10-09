@@ -1,0 +1,58 @@
+{
+    "generation": 5,
+    "name": "Zorua",
+    "species": "Tricky Fox Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 40,
+    "attack": 65,
+    "defense": 40,
+    "speed": 65,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dark"
+    ],
+    "nationalNumber": 570,
+    "specialName": null,
+    "specialAbilities": [
+        "Illusion"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 80,
+    "specialDefense": 40,
+    "catchRate": 75,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 66,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Scratch": 1,
+        "Torment": 4,
+        "Hone Claws": 8,
+        "Shadow Sneak": 12,
+        "Curse": 16,
+        "Taunt": 20,
+        "Knock Off": 24,
+        "Spite": 28,
+        "Agility": 32,
+        "Shadow Ball": 36,
+        "Bitter Malice": 40,
+        "Nasty Plot": 44,
+        "Foul Play": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

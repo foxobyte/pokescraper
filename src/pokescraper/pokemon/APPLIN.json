@@ -1,0 +1,52 @@
+{
+    "generation": 8,
+    "name": "Applin",
+    "species": "Apple Core Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.2\u00a0m (0\u203208\u2033)",
+    "hp": 40,
+    "attack": 40,
+    "defense": 80,
+    "speed": 20,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Dragon"
+    ],
+    "nationalNumber": 840,
+    "specialName": null,
+    "specialAbilities": [
+        "Ripen",
+        "Gluttony"
+    ],
+    "hiddenAbility": "Bulletproof",
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "catchRate": 255,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 52,
+    "growthRate": "Erratic",
+    "eggGroups": [
+        "Dragon",
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Withdraw": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Pounce": 21,
+        "Tera Blast": 171
+    }
+}

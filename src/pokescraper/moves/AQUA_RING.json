@@ -1,0 +1,12 @@
+{
+    "name": "Aqua Ring",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Restores a little HP each turn.",
+    "isHighCrit": false
+}

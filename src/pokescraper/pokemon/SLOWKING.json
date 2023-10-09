@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "name": "Slowking",
+    "species": "Royal Pok\u00e9mon",
+    "height": "2.0\u00a0m (6\u203207\u2033)",
+    "weight": "2.0\u00a0m (6\u203207\u2033)",
+    "hp": 95,
+    "attack": 75,
+    "defense": 80,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Psychic"
+    ],
+    "nationalNumber": 199,
+    "specialName": null,
+    "specialAbilities": [
+        "Oblivious",
+        "Own Tempo"
+    ],
+    "hiddenAbility": "Regenerator",
+    "specialAttack": 100,
+    "specialDefense": 110,
+    "catchRate": 70,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 172,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Monster",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Acid": 1,
+        "Curse": 1,
+        "Growl": 1,
+        "Nasty Plot": 1,
+        "Power Gem": 1,
+        "Swagger": 1,
+        "Tackle": 1,
+        "Yawn": 9,
+        "Confusion": 12,
+        "Disable": 15,
+        "Water Pulse": 18,
+        "Headbutt": 21,
+        "Zen Headbutt": 24,
+        "Amnesia": 27,
+        "Surf": 30,
+        "Slack Off": 33,
+        "Psychic": 36,
+        "Psych Up": 39,
+        "Rain Dance": 42,
+        "Heal Pulse": 45
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

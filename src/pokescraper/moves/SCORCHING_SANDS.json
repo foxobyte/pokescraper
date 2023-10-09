@@ -1,0 +1,12 @@
+{
+    "name": "Scorching Sands",
+    "category": "Special",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "May burn the target.",
+    "isHighCrit": false
+}

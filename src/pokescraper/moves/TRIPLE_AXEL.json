@@ -1,0 +1,12 @@
+{
+    "name": "Triple Axel",
+    "category": "Physical",
+    "power": 20,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "Attacks thrice with more power each time.",
+    "isHighCrit": false
+}

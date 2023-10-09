@@ -1,0 +1,12 @@
+{
+    "name": "Psycho Cut",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "High critical hit ratio.",
+    "isHighCrit": true
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Milk Drink",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User recovers half its max HP.",
+    "isHighCrit": false
+}

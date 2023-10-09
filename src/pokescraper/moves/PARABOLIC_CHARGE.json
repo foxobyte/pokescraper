@@ -1,0 +1,12 @@
+{
+    "name": "Parabolic Charge",
+    "category": "Special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "User recovers half the HP inflicted on opponent.",
+    "isHighCrit": false
+}

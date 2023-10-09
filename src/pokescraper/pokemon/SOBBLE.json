@@ -1,0 +1,79 @@
+{
+    "generation": 8,
+    "name": "Sobble",
+    "species": "Water Lizard Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 50,
+    "attack": 40,
+    "defense": 40,
+    "speed": 70,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 816,
+    "specialName": null,
+    "specialAbilities": [
+        "Torrent"
+    ],
+    "hiddenAbility": "Sniper",
+    "specialAttack": 70,
+    "specialDefense": 40,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Def": 1,
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 62,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Pound": 1,
+        "Water Gun": 6,
+        "Bind": 8,
+        "Water Pulse": 12,
+        "Tearful Look": 17,
+        "Sucker Punch": 20,
+        "U-turn": 24,
+        "Liquidation": 28,
+        "Soak": 32,
+        "Rain Dance": 36
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Swift": 32,
+        "Mud Shot": 35,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "U-turn": 60,
+        "Sleep Talk": 70,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Waterfall": 77,
+        "Rest": 85,
+        "Substitute": 103,
+        "Liquidation": 110,
+        "Surf": 123,
+        "Hydro Pump": 142,
+        "Water Pledge": 145,
+        "Tera Blast": 171
+    }
+}

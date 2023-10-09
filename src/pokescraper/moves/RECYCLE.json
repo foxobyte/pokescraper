@@ -1,0 +1,12 @@
+{
+    "name": "Recycle",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User's used hold item is restored.",
+    "isHighCrit": false
+}

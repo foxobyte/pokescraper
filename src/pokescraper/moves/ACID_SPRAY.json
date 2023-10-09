@@ -1,0 +1,12 @@
+{
+    "name": "Acid Spray",
+    "category": "Special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 100,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "Sharply lowers opponent's Special Defense.",
+    "isHighCrit": false
+}

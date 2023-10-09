@@ -1,0 +1,12 @@
+{
+    "name": "Double Iron Bash",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": 30,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Hits twice in one turn; may cause flinching.",
+    "isHighCrit": false
+}

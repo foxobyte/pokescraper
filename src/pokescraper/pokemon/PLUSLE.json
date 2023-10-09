@@ -1,0 +1,89 @@
+{
+    "generation": 3,
+    "name": "Plusle",
+    "species": "Cheering Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 60,
+    "attack": 50,
+    "defense": 40,
+    "speed": 95,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric"
+    ],
+    "nationalNumber": 311,
+    "specialName": null,
+    "specialAbilities": [
+        "Plus"
+    ],
+    "hiddenAbility": "Lightning Rod",
+    "specialAttack": 85,
+    "specialDefense": 75,
+    "catchRate": 200,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 142,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Fairy"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Nuzzle": 1,
+        "Play Nice": 1,
+        "Quick Attack": 1,
+        "Thunder Wave": 1,
+        "Helping Hand": 4,
+        "Spark": 7,
+        "Encore": 10,
+        "Skill Swap": 13,
+        "Swift": 16,
+        "Electro Ball": 19,
+        "Copycat": 22,
+        "Charm": 25,
+        "Charge": 28,
+        "Discharge": 31,
+        "Baton Pass": 34,
+        "Agility": 37,
+        "Last Resort": 40,
+        "Thunder": 43,
+        "Nasty Plot": 46,
+        "Entrainment": 49
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Light Screen": 16,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Iron Tail": 23,
+        "Thunderbolt": 24,
+        "Thunder": 25,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Facade": 42,
+        "Volt Switch": 43,
+        "Rest": 44,
+        "Attract": 45,
+        "Skill Swap": 48,
+        "Fling": 56,
+        "Charge Beam": 57,
+        "Endure": 58,
+        "Nasty Plot": 63,
+        "Flash": 70,
+        "Thunder Wave": 73,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90
+    }
+}

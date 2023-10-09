@@ -1,0 +1,94 @@
+{
+    "generation": 5,
+    "name": "Seismitoad",
+    "species": "Vibration Pok\u00e9mon",
+    "height": "1.5\u00a0m (4\u203211\u2033)",
+    "weight": "1.5\u00a0m (4\u203211\u2033)",
+    "hp": 105,
+    "attack": 95,
+    "defense": 75,
+    "speed": 74,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Ground"
+    ],
+    "nationalNumber": 537,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim",
+        "Poison Touch"
+    ],
+    "hiddenAbility": "Water Absorb",
+    "specialAttack": 85,
+    "specialDefense": 75,
+    "catchRate": 45,
+    "evYield": {
+        "HP": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 229,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Acid": 1,
+        "Drain Punch": 1,
+        "Echoed Voice": 1,
+        "Gastro Acid": 1,
+        "Growl": 1,
+        "Supersonic": 1,
+        "Mud Shot": 12,
+        "Round": 16,
+        "Bubble Beam": 20,
+        "Flail": 24,
+        "Uproar": 30,
+        "Aqua Ring": 39,
+        "Hyper Voice": 46,
+        "Muddy Water": 54,
+        "Rain Dance": 62,
+        "Hydro Pump": 70
+    },
+    "movesLearnedOnEvolution": [
+        "Drain Punch"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Ice Punch": 4,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Screech": 16,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Facade": 39,
+        "Brick Break": 43,
+        "Dive": 45,
+        "Weather Ball": 46,
+        "Rock Tomb": 48,
+        "Bounce": 52,
+        "Mud Shot": 53,
+        "Payback": 57,
+        "Fling": 59,
+        "Drain Punch": 63,
+        "Venoshock": 74,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Stomping Tantrum": 98
+    }
+}

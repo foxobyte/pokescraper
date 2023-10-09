@@ -1,0 +1,12 @@
+{
+    "name": "Flame Burst",
+    "category": "Special",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "May also injure nearby Pok\u00e9mon.",
+    "isHighCrit": false
+}

@@ -1,0 +1,98 @@
+{
+    "generation": 1,
+    "name": "Exeggutor",
+    "species": "Coconut Pok\u00e9mon",
+    "height": "2.0\u00a0m (6\u203207\u2033)",
+    "weight": "2.0\u00a0m (6\u203207\u2033)",
+    "hp": 95,
+    "attack": 95,
+    "defense": 85,
+    "speed": 55,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Psychic"
+    ],
+    "nationalNumber": 103,
+    "specialName": null,
+    "specialAbilities": [
+        "Chlorophyll"
+    ],
+    "hiddenAbility": "Harvest",
+    "specialAttack": 125,
+    "specialDefense": 75,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 186,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Bullet Seed": 1,
+        "Confusion": 1,
+        "Extrasensory": 1,
+        "Giga Drain": 1,
+        "Hypnosis": 1,
+        "Leaf Storm": 1,
+        "Leech Seed": 1,
+        "Mega Drain": 1,
+        "Psyshock": 1,
+        "Reflect": 1,
+        "Seed Bomb": 1,
+        "Solar Beam": 1,
+        "Stomp": 1,
+        "Synthesis": 1,
+        "Uproar": 1,
+        "Wood Hammer": 1,
+        "Worry Seed": 1
+    },
+    "movesLearnedOnEvolution": [
+        "Stomp"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Calm Mind": 4,
+        "Bullet Seed": 9,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Solar Beam": 22,
+        "Psychic": 29,
+        "Double Team": 32,
+        "Reflect": 33,
+        "Sludge Bomb": 36,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Skill Swap": 48,
+        "Energy Ball": 53,
+        "Endure": 58,
+        "Explosion": 64,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Psych Up": 77,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Dream Eater": 85,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Trick Room": 92,
+        "Strength": 96
+    }
+}

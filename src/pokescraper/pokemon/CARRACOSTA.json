@@ -1,0 +1,89 @@
+{
+    "generation": 5,
+    "name": "Carracosta",
+    "species": "Prototurtle Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 74,
+    "attack": 108,
+    "defense": 133,
+    "speed": 32,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Rock"
+    ],
+    "nationalNumber": 565,
+    "specialName": null,
+    "specialAbilities": [
+        "Solid Rock",
+        "Sturdy"
+    ],
+    "hiddenAbility": "Swift Swim",
+    "specialAttack": 83,
+    "specialDefense": 65,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 173,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 1",
+        "Water 3"
+    ],
+    "eggCycles": 30,
+    "movesLearnedAtLevel": {
+        "Aqua Jet": 1,
+        "Protect": 1,
+        "Water Gun": 1,
+        "Withdraw": 1,
+        "Smack Down": 9,
+        "Ancient Power": 12,
+        "Bite": 15,
+        "Wide Guard": 18,
+        "Brine": 21,
+        "Rock Slide": 24,
+        "Crunch": 27,
+        "Curse": 30,
+        "Iron Defense": 33,
+        "Aqua Tail": 36,
+        "Rain Dance": 41,
+        "Hydro Pump": 46,
+        "Shell Smash": 51
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Meteor Beam"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Rain Dance": 33,
+        "Whirlpool": 36,
+        "Facade": 39,
+        "Dive": 45,
+        "Rock Tomb": 48,
+        "Mud Shot": 53,
+        "Rock Blast": 54,
+        "Brine": 55,
+        "Guard Swap": 61,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Razor Shell": 83
+    }
+}

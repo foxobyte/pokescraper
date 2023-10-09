@@ -1,0 +1,100 @@
+{
+    "generation": 8,
+    "name": "Inteleon",
+    "species": "Secret Agent Pok\u00e9mon",
+    "height": "1.9\u00a0m (6\u203203\u2033)",
+    "weight": "1.9\u00a0m (6\u203203\u2033)",
+    "hp": 70,
+    "attack": 85,
+    "defense": 65,
+    "speed": 120,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 818,
+    "specialName": null,
+    "specialAbilities": [
+        "Torrent"
+    ],
+    "hiddenAbility": "Sniper",
+    "specialAttack": 125,
+    "specialDefense": 65,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 265,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Acrobatics": 1,
+        "Bind": 1,
+        "Growl": 1,
+        "Pound": 1,
+        "Water Gun": 1,
+        "Water Pulse": 12,
+        "Tearful Look": 19,
+        "Sucker Punch": 24,
+        "U-turn": 30,
+        "Liquidation": 38,
+        "Soak": 46,
+        "Rain Dance": 54,
+        "Hydro Pump": 62
+    },
+    "movesLearnedOnEvolution": [
+        "Snipe Shot"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Acrobatics": 14,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Swift": 32,
+        "Icy Wind": 34,
+        "Mud Shot": 35,
+        "Air Cutter": 40,
+        "Fling": 43,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Snowscape": 52,
+        "U-turn": 60,
+        "Air Slash": 65,
+        "Sleep Talk": 70,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Waterfall": 77,
+        "Metronome": 80,
+        "Rest": 85,
+        "Taunt": 87,
+        "Swords Dance": 88,
+        "Dark Pulse": 94,
+        "Substitute": 103,
+        "Liquidation": 110,
+        "Shadow Ball": 114,
+        "Surf": 123,
+        "Baton Pass": 132,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Water Pledge": 145,
+        "Giga Impact": 152,
+        "Hydro Cannon": 154,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

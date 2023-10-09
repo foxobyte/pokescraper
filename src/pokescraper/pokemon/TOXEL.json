@@ -1,0 +1,62 @@
+{
+    "generation": 8,
+    "name": "Toxel",
+    "species": "Baby Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 40,
+    "attack": 38,
+    "defense": 35,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric",
+        "Poison"
+    ],
+    "nationalNumber": 848,
+    "specialName": null,
+    "specialAbilities": [
+        "Rattled",
+        "Static"
+    ],
+    "hiddenAbility": "Klutz",
+    "specialAttack": 54,
+    "specialDefense": 35,
+    "catchRate": 75,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 48,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Acid": 1,
+        "Belch": 1,
+        "Flail": 1,
+        "Growl": 1,
+        "Nuzzle": 1,
+        "Tearful Look": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Charm": 2,
+        "Protect": 7,
+        "Facade": 25,
+        "Endure": 47,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Substitute": 103,
+        "Encore": 122,
+        "Tera Blast": 171
+    }
+}

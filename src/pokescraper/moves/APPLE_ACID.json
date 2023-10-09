@@ -1,0 +1,12 @@
+{
+    "name": "Apple Acid",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 100,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Lowers target's Special Defense.",
+    "isHighCrit": false
+}

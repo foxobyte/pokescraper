@@ -1,0 +1,12 @@
+{
+    "name": "Fell Stinger",
+    "category": "Physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 25,
+    "probability": null,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "Drastically raises user's Attack if target is KO'd.",
+    "isHighCrit": false
+}

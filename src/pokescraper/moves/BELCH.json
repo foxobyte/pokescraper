@@ -1,0 +1,12 @@
+{
+    "name": "Belch",
+    "category": "Special",
+    "power": 120,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "User must have consumed a Berry.",
+    "isHighCrit": false
+}

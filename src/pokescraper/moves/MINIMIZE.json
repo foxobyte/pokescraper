@@ -1,0 +1,12 @@
+{
+    "name": "Minimize",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Sharply raises user's Evasiveness.",
+    "isHighCrit": false
+}

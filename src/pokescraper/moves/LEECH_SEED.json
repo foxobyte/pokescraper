@@ -1,0 +1,12 @@
+{
+    "name": "Leech Seed",
+    "category": "Status",
+    "power": null,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Drains HP from opponent each turn.",
+    "isHighCrit": false
+}

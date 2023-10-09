@@ -1,0 +1,12 @@
+{
+    "name": "Thunderous Kick",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 100,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Lowers opponent's Defense.",
+    "isHighCrit": false
+}

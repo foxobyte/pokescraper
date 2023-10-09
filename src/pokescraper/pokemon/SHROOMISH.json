@@ -1,0 +1,89 @@
+{
+    "generation": 3,
+    "name": "Shroomish",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 60,
+    "attack": 40,
+    "defense": 60,
+    "speed": 35,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 285,
+    "specialName": null,
+    "specialAbilities": [
+        "Effect Spore",
+        "Poison Heal"
+    ],
+    "hiddenAbility": "Quick Feet",
+    "specialAttack": 40,
+    "specialDefense": 60,
+    "catchRate": 255,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 59,
+    "growthRate": "Fluctuating",
+    "eggGroups": [
+        "Fairy",
+        "Grass"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Tackle": 1,
+        "Stun Spore": 5,
+        "Leech Seed": 8,
+        "Mega Drain": 12,
+        "Headbutt": 15,
+        "Poison Powder": 19,
+        "Giga Drain": 26,
+        "Growth": 29,
+        "Toxic": 33,
+        "Seed Bomb": 36,
+        "Spore": 40
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Fake Tears": 3,
+        "Protect": 7,
+        "Pounce": 21,
+        "Facade": 25,
+        "Swift": 32,
+        "Magical Leaf": 33,
+        "Venoshock": 45,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Bullet Seed": 56,
+        "False Swipe": 57,
+        "Zen Headbutt": 59,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Drain Punch": 73,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Gunk Shot": 102,
+        "Substitute": 103,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Helping Hand": 130,
+        "Grassy Terrain": 137,
+        "Sludge Bomb": 148,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

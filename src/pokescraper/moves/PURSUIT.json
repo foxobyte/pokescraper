@@ -1,0 +1,12 @@
+{
+    "name": "Pursuit",
+    "category": "Physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Double power if the opponent is switching out.",
+    "isHighCrit": false
+}

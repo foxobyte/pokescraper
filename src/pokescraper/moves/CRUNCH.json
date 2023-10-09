@@ -1,0 +1,12 @@
+{
+    "name": "Crunch",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 20,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "May lower opponent's Defense.",
+    "isHighCrit": false
+}

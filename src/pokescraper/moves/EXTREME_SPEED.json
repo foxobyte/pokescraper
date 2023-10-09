@@ -1,0 +1,12 @@
+{
+    "name": "Extreme Speed",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User attacks first.",
+    "isHighCrit": false
+}

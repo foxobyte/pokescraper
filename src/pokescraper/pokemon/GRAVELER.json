@@ -1,0 +1,62 @@
+{
+    "generation": 1,
+    "name": "Graveler",
+    "species": "Rock Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 55,
+    "attack": 95,
+    "defense": 115,
+    "speed": 35,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Ground"
+    ],
+    "nationalNumber": 75,
+    "specialName": null,
+    "specialAbilities": [
+        "Rock Head",
+        "Sturdy"
+    ],
+    "hiddenAbility": "Sand Veil",
+    "specialAttack": 45,
+    "specialDefense": 45,
+    "catchRate": 120,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 137,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Charge": 1,
+        "Defense Curl": 1,
+        "Rock Polish": 1,
+        "Tackle": 1,
+        "Rollout": 10,
+        "Spark": 12,
+        "Rock Throw": 16,
+        "Smack Down": 18,
+        "Thunder Punch": 22,
+        "Self-Destruct": 24,
+        "Stealth Rock": 30,
+        "Rock Blast": 34,
+        "Discharge": 40,
+        "Explosion": 44,
+        "Double-Edge": 50,
+        "Stone Edge": 54
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

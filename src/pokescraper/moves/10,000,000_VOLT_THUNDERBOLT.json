@@ -1,0 +1,12 @@
+{
+    "name": "10,000,000 Volt Thunderbolt",
+    "category": "Special",
+    "power": 195,
+    "accuracy": null,
+    "pp": 1,
+    "probability": null,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "Pikachu-exclusive Z-Move. High critical hit ratio.",
+    "isHighCrit": false
+}

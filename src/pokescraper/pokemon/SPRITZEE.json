@@ -1,0 +1,77 @@
+{
+    "generation": 6,
+    "name": "Spritzee",
+    "species": "Perfume Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.2\u00a0m (0\u203208\u2033)",
+    "hp": 78,
+    "attack": 52,
+    "defense": 60,
+    "speed": 23,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fairy"
+    ],
+    "nationalNumber": 682,
+    "specialName": null,
+    "specialAbilities": [
+        "Healer"
+    ],
+    "hiddenAbility": "Aroma Veil",
+    "specialAttack": 63,
+    "specialDefense": 65,
+    "catchRate": 200,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 68,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Fairy"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Fairy Wind": 1,
+        "Sweet Scent": 1,
+        "Sweet Kiss": 3,
+        "Echoed Voice": 6,
+        "Draining Kiss": 15,
+        "Aromatherapy": 12,
+        "Attract": 18,
+        "Flail": 21,
+        "Misty Terrain": 24,
+        "Psychic": 27,
+        "Charm": 30,
+        "Calm Mind": 33,
+        "Moonblast": 36,
+        "Skill Swap": 39
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Misty Explosion"
+    ],
+    "movesLearnedByTm": {
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Charm": 29,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Fake Tears": 47,
+        "Trick Room": 70,
+        "Round": 76,
+        "Draining Kiss": 87,
+        "Misty Terrain": 89
+    }
+}

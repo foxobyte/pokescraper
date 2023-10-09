@@ -1,0 +1,12 @@
+{
+    "name": "Synchronoise",
+    "category": "Special",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Hits any Pok\u00e9mon that shares a type with the user.",
+    "isHighCrit": false
+}

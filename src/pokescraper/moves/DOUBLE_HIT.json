@@ -1,0 +1,12 @@
+{
+    "name": "Double Hit",
+    "category": "Physical",
+    "power": 35,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Hits twice in one turn.",
+    "isHighCrit": false
+}

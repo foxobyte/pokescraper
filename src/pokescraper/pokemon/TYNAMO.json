@@ -1,0 +1,52 @@
+{
+    "generation": 5,
+    "name": "Tynamo",
+    "species": "EleFish Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.2\u00a0m (0\u203208\u2033)",
+    "hp": 35,
+    "attack": 55,
+    "defense": 40,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric"
+    ],
+    "nationalNumber": 602,
+    "specialName": null,
+    "specialAbilities": [
+        "Levitate"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 45,
+    "specialDefense": 40,
+    "catchRate": 190,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 55,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Amorphous"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Charge Beam": 1,
+        "Spark": 1,
+        "Tackle": 1,
+        "Thunder Wave": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Charge Beam": 23,
+        "Thunder Wave": 82,
+        "Tera Blast": 171
+    }
+}

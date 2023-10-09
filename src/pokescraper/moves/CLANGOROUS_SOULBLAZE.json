@@ -1,0 +1,12 @@
+{
+    "name": "Clangorous Soulblaze",
+    "category": "Special",
+    "power": 185,
+    "accuracy": null,
+    "pp": 1,
+    "probability": null,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "Kommo-o exclusive Z-Move.",
+    "isHighCrit": false
+}

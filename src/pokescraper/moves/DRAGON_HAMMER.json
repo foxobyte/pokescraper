@@ -1,0 +1,12 @@
+{
+    "name": "Dragon Hammer",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "The user uses its body like a hammer to attack the target and inflict damage.",
+    "isHighCrit": false
+}

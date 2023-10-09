@@ -1,0 +1,12 @@
+{
+    "name": "Hold Hands",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Makes the user and an ally very happy.",
+    "isHighCrit": false
+}

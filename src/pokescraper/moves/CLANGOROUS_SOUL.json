@@ -1,0 +1,12 @@
+{
+    "name": "Clangorous Soul",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": 100,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "Raises all user's stats but loses HP.",
+    "isHighCrit": false
+}

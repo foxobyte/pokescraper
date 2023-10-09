@@ -1,0 +1,67 @@
+{
+    "generation": 1,
+    "name": "Weezing",
+    "species": "Poison Gas Pok\u00e9mon",
+    "height": "3.0\u00a0m (9\u203210\u2033)",
+    "weight": "3.0\u00a0m (9\u203210\u2033)",
+    "hp": 65,
+    "attack": 90,
+    "defense": 120,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Poison",
+        "Fairy"
+    ],
+    "nationalNumber": 110,
+    "specialName": "Galarian Weezing",
+    "specialAbilities": [
+        "Levitate",
+        "Neutralizing Gas"
+    ],
+    "hiddenAbility": "Misty Surge",
+    "specialAttack": 85,
+    "specialDefense": 70,
+    "catchRate": 60,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 172,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Aromatic Mist": 1,
+        "Defog": 1,
+        "Haze": 1,
+        "Heat Wave": 1,
+        "Poison Gas": 1,
+        "Smog": 1,
+        "Smokescreen": 1,
+        "Strange Steam": 1,
+        "Tackle": 1,
+        "Clear Smog": 12,
+        "Assurance": 16,
+        "Sludge": 20,
+        "Fairy Wind": 24,
+        "Self-Destruct": 28,
+        "Sludge Bomb": 32,
+        "Toxic": 38,
+        "Belch": 44,
+        "Explosion": 50,
+        "Memento": 56,
+        "Destiny Bond": 62,
+        "Misty Terrain": 68
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

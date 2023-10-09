@@ -1,0 +1,12 @@
+{
+    "name": "Liquidation",
+    "category": "Physical",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 20,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "May lower opponent's Defense.",
+    "isHighCrit": false
+}

@@ -1,0 +1,84 @@
+{
+    "generation": 5,
+    "name": "Crustle",
+    "species": "Stone Home Pok\u00e9mon",
+    "height": "1.4\u00a0m (4\u203207\u2033)",
+    "weight": "1.4\u00a0m (4\u203207\u2033)",
+    "hp": 70,
+    "attack": 105,
+    "defense": 125,
+    "speed": 45,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Rock"
+    ],
+    "nationalNumber": 558,
+    "specialName": null,
+    "specialAbilities": [
+        "Sturdy",
+        "Shell Armor"
+    ],
+    "hiddenAbility": "Weak Armor",
+    "specialAttack": 65,
+    "specialDefense": 75,
+    "catchRate": 75,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 170,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug",
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Fury Cutter": 1,
+        "Sand Attack": 1,
+        "Smack Down": 1,
+        "Withdraw": 1,
+        "Bug Bite": 12,
+        "Flail": 16,
+        "Slash": 20,
+        "Rock Slide": 24,
+        "Stealth Rock": 28,
+        "Rock Blast": 32,
+        "X-Scissor": 38,
+        "Rock Polish": 44,
+        "Shell Smash": 50,
+        "Rock Wrecker": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Meteor Beam",
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Solar Blade": 12,
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Facade": 39,
+        "Rock Tomb": 48,
+        "Sand Tomb": 49,
+        "Rock Blast": 54,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Stomping Tantrum": 98
+    }
+}

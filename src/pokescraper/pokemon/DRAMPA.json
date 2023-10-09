@@ -1,0 +1,90 @@
+{
+    "generation": 7,
+    "name": "Drampa",
+    "species": "Placid Pok\u00e9mon",
+    "height": "3.0\u00a0m (9\u203210\u2033)",
+    "weight": "3.0\u00a0m (9\u203210\u2033)",
+    "hp": 78,
+    "attack": 60,
+    "defense": 85,
+    "speed": 36,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Dragon"
+    ],
+    "nationalNumber": 780,
+    "specialName": null,
+    "specialAbilities": [
+        "Berserk",
+        "Sap Sipper"
+    ],
+    "hiddenAbility": "Cloud Nine",
+    "specialAttack": 135,
+    "specialDefense": 91,
+    "catchRate": 70,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 170,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Dragon",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Echoed Voice": 1,
+        "Play Nice": 1,
+        "Twister": 5,
+        "Protect": 10,
+        "Glare": 15,
+        "Safeguard": 20,
+        "Dragon Breath": 25,
+        "Extrasensory": 30,
+        "Dragon Pulse": 35,
+        "Light Screen": 40,
+        "Fly": 45,
+        "Hyper Voice": 50,
+        "Outrage": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Lash Out",
+        "Scale Shot"
+    ],
+    "movesLearnedByTm": {
+        "Fly": 6,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Steel Wing": 30,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Fling": 59,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Snarl": 85,
+        "Stomping Tantrum": 98,
+        "Breaking Swipe": 99
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "generation": 6,
+    "name": "Goomy",
+    "species": "Soft Tissue Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 45,
+    "attack": 50,
+    "defense": 35,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dragon"
+    ],
+    "nationalNumber": 704,
+    "specialName": null,
+    "specialAbilities": [
+        "Sap Sipper",
+        "Hydration"
+    ],
+    "hiddenAbility": "Gooey",
+    "specialAttack": 55,
+    "specialDefense": 75,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Def": 1
+    },
+    "baseFriendship": 35,
+    "baseExp": 60,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Dragon"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Tackle": 1,
+        "Water Gun": 5,
+        "Dragon Breath": 10,
+        "Protect": 15,
+        "Flail": 20,
+        "Water Pulse": 25,
+        "Rain Dance": 30,
+        "Dragon Pulse": 35,
+        "Curse": 41,
+        "Body Slam": 45,
+        "Muddy Water": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Mud Shot": 35,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Substitute": 103,
+        "Dragon Pulse": 115,
+        "Thunderbolt": 126,
+        "Sludge Bomb": 148,
+        "Outrage": 156,
+        "Draco Meteor": 169,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Skill Swap",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "The user swaps Abilities with the opponent.",
+    "isHighCrit": false
+}

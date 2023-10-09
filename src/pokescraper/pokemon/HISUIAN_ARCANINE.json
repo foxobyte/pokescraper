@@ -1,0 +1,64 @@
+{
+    "generation": 1,
+    "name": "Arcanine",
+    "species": "Legendary Pok\u00e9mon",
+    "height": "2.0\u00a0m (6\u203207\u2033)",
+    "weight": "2.0\u00a0m (6\u203207\u2033)",
+    "hp": 95,
+    "attack": 115,
+    "defense": 80,
+    "speed": 90,
+    "gender": {
+        "male": "75%",
+        "female": "25%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire",
+        "Rock"
+    ],
+    "nationalNumber": 59,
+    "specialName": "Hisuian Arcanine",
+    "specialAbilities": [
+        "Intimidate",
+        "Flash Fire"
+    ],
+    "hiddenAbility": "Rock Head",
+    "specialAttack": 95,
+    "specialDefense": 80,
+    "catchRate": 75,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 194,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Agility": 1,
+        "Bite": 1,
+        "Crunch": 1,
+        "Ember": 1,
+        "Fire Fang": 1,
+        "Flame Wheel": 1,
+        "Flare Blitz": 1,
+        "Helping Hand": 1,
+        "Howl": 1,
+        "Leer": 1,
+        "Retaliate": 1,
+        "Reversal": 1,
+        "Roar": 1,
+        "Rock Slide": 1,
+        "Rock Throw": 1,
+        "Take Down": 1,
+        "Flamethrower": 5,
+        "Raging Fury": 64
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

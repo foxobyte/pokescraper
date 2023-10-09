@@ -1,0 +1,59 @@
+{
+    "generation": 5,
+    "name": "Zoroark",
+    "species": "Illusion Fox Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 60,
+    "attack": 105,
+    "defense": 60,
+    "speed": 105,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dark"
+    ],
+    "nationalNumber": 571,
+    "specialName": null,
+    "specialAbilities": [
+        "Illusion"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 120,
+    "specialDefense": 60,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 179,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Hone Claws": 1,
+        "Leer": 1,
+        "Scratch": 1,
+        "Torment": 1,
+        "U-turn": 1,
+        "Shadow Sneak": 12,
+        "Curse": 16,
+        "Taunt": 20,
+        "Knock Off": 24,
+        "Spite": 28,
+        "Agility": 34,
+        "Shadow Ball": 40,
+        "Bitter Malice": 46,
+        "Nasty Plot": 52,
+        "Foul Play": 58
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

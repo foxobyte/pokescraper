@@ -1,0 +1,12 @@
+{
+    "name": "Infestation",
+    "category": "Special",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 100,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "Traps opponent, damaging them for 4-5 turns.",
+    "isHighCrit": false
+}

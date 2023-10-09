@@ -1,0 +1,12 @@
+{
+    "name": "Coaching",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Boosts Attack and Defense of a teammate.",
+    "isHighCrit": false
+}

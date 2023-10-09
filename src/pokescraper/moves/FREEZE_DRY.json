@@ -1,0 +1,12 @@
+{
+    "name": "Freeze-Dry",
+    "category": "Special",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 10,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "May freeze opponent. Super-effective against Water types.",
+    "isHighCrit": false
+}

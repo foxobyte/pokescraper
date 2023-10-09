@@ -1,0 +1,12 @@
+{
+    "name": "Mud-Slap",
+    "category": "Special",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 100,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "Lowers opponent's Accuracy.",
+    "isHighCrit": false
+}

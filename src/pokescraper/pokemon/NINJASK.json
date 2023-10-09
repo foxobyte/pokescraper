@@ -1,0 +1,97 @@
+{
+    "generation": 3,
+    "name": "Ninjask",
+    "species": "Ninja Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 61,
+    "attack": 90,
+    "defense": 45,
+    "speed": 160,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Flying"
+    ],
+    "nationalNumber": 291,
+    "specialName": null,
+    "specialAbilities": [
+        "Speed Boost"
+    ],
+    "hiddenAbility": "Infiltrator",
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "catchRate": 120,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 160,
+    "growthRate": "Erratic",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Aerial Ace": 1,
+        "Baton Pass": 1,
+        "Dig": 1,
+        "Double Team": 1,
+        "False Swipe": 1,
+        "Fury Cutter": 1,
+        "Harden": 1,
+        "Metal Claw": 1,
+        "Mud-Slap": 1,
+        "Sand Attack": 1,
+        "Scratch": 1,
+        "Screech": 1,
+        "Agility": 15,
+        "Absorb": 23,
+        "Bug Bite": 29,
+        "Fury Swipes": 36,
+        "Mind Reader": 43,
+        "Slash": 50,
+        "Swords Dance": 57,
+        "X-Scissor": 64
+    },
+    "movesLearnedOnEvolution": [
+        "Double Team",
+        "Fury Cutter",
+        "Screech"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Solar Beam": 22,
+        "Dig": 28,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Sandstorm": 37,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Thief": 46,
+        "Roost": 51,
+        "False Swipe": 54,
+        "Endure": 58,
+        "Bug Buzz": 62,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "X-Scissor": 81,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Cut": 93,
+        "Defog": 97
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "generation": 1,
+    "name": "Slowpoke",
+    "species": "Dopey Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 90,
+    "attack": 65,
+    "defense": 65,
+    "speed": 15,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Psychic"
+    ],
+    "nationalNumber": 79,
+    "specialName": null,
+    "specialAbilities": [
+        "Oblivious",
+        "Own Tempo"
+    ],
+    "hiddenAbility": "Regenerator",
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "catchRate": 190,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 63,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Monster",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Curse": 1,
+        "Tackle": 1,
+        "Growl": 3,
+        "Acid": 6,
+        "Yawn": 9,
+        "Confusion": 12,
+        "Disable": 15,
+        "Water Pulse": 18,
+        "Headbutt": 21,
+        "Zen Headbutt": 24,
+        "Amnesia": 27,
+        "Surf": 30,
+        "Slack Off": 33,
+        "Psychic": 36,
+        "Psych Up": 39,
+        "Rain Dance": 42,
+        "Heal Pulse": 45
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

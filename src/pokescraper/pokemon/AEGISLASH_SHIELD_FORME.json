@@ -1,0 +1,86 @@
+{
+    "generation": 6,
+    "name": "Aegislash",
+    "species": "Royal Sword Pok\u00e9mon",
+    "height": "1.7\u00a0m (5\u203207\u2033)",
+    "weight": "1.7\u00a0m (5\u203207\u2033)",
+    "hp": 60,
+    "attack": 50,
+    "defense": 140,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Steel",
+        "Ghost"
+    ],
+    "nationalNumber": 681,
+    "specialName": "Shield Forme",
+    "specialAbilities": [
+        "Stance Change"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 50,
+    "specialDefense": 140,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 2,
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 234,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Aerial Ace": 1,
+        "Autotomize": 1,
+        "Fury Cutter": 1,
+        "Head Smash": 1,
+        "Iron Defense": 1,
+        "Iron Head": 1,
+        "King's Shield": 1,
+        "Metal Sound": 1,
+        "Night Slash": 1,
+        "Power Trick": 1,
+        "Retaliate": 1,
+        "Sacred Sword": 1,
+        "Shadow Sneak": 1,
+        "Slash": 1,
+        "Swords Dance": 1,
+        "Tackle": 1
+    },
+    "movesLearnedOnEvolution": [
+        "King's Shield"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Blade": 12,
+        "Screech": 16,
+        "Reflect": 18,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Brick Break": 43,
+        "Shadow Claw": 65,
+        "Psycho Cut": 69,
+        "Round": 76,
+        "Retaliate": 79,
+        "False Swipe": 94,
+        "Air Slash": 95,
+        "Brutal Swing": 97
+    }
+}

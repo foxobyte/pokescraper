@@ -1,0 +1,78 @@
+{
+    "generation": 8,
+    "name": "Arrokuda",
+    "species": "Rush Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 41,
+    "attack": 63,
+    "defense": 40,
+    "speed": 66,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 846,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim"
+    ],
+    "hiddenAbility": "Propeller Tail",
+    "specialAttack": 40,
+    "specialDefense": 30,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 56,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Water 2"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Aqua Jet": 1,
+        "Peck": 1,
+        "Fury Attack": 6,
+        "Bite": 12,
+        "Agility": 18,
+        "Dive": 24,
+        "Focus Energy": 30,
+        "Crunch": 36,
+        "Liquidation": 42,
+        "Double-Edge": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Protect": 7,
+        "Ice Fang": 10,
+        "Water Pulse": 11,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Swift": 32,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Brick Break": 58,
+        "Psychic Fangs": 63,
+        "Sleep Talk": 70,
+        "Waterfall": 77,
+        "Rest": 85,
+        "Substitute": 103,
+        "Drill Run": 106,
+        "Crunch": 108,
+        "Liquidation": 110,
+        "Surf": 123,
+        "Hydro Pump": 142,
+        "Close Combat": 167,
+        "Tera Blast": 171
+    }
+}

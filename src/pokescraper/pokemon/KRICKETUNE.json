@@ -1,0 +1,88 @@
+{
+    "generation": 4,
+    "name": "Kricketune",
+    "species": "Cricket Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 77,
+    "attack": 85,
+    "defense": 51,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 402,
+    "specialName": null,
+    "specialAbilities": [
+        "Swarm"
+    ],
+    "hiddenAbility": "Technician",
+    "specialAttack": 55,
+    "specialDefense": 51,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 134,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Tackle": 1,
+        "Absorb": 14,
+        "Sing": 18,
+        "Focus Energy": 22,
+        "Slash": 26,
+        "X-Scissor": 30,
+        "Screech": 34,
+        "Fell Stinger": 36,
+        "Taunt": 38,
+        "Night Slash": 42,
+        "Sticky Web": 44,
+        "Bug Buzz": 46,
+        "Perish Song": 50
+    },
+    "movesLearnedOnEvolution": [
+        "Fury Cutter"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Struggle Bug": 15,
+        "Trailblaze": 20,
+        "Pounce": 21,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "False Swipe": 57,
+        "Brick Break": 58,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Taunt": 87,
+        "Swords Dance": 88,
+        "Leech Life": 95,
+        "Substitute": 103,
+        "X-Scissor": 105,
+        "Giga Drain": 111,
+        "Hyper Voice": 117,
+        "Helping Hand": 130,
+        "Baton Pass": 132,
+        "Giga Impact": 152,
+        "Bug Buzz": 162,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

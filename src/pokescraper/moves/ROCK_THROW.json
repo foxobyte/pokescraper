@@ -1,0 +1,12 @@
+{
+    "name": "Rock Throw",
+    "category": "Physical",
+    "power": 50,
+    "accuracy": 90,
+    "pp": 15,
+    "probability": null,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Flatter",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Confuses opponent, but raises its Special Attack.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Axe Kick",
+    "category": "Physical",
+    "power": 120,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "May confuse opponent. If it misses, the user loses HP.",
+    "isHighCrit": false
+}

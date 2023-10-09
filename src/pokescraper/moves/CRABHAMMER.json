@@ -1,0 +1,12 @@
+{
+    "name": "Crabhammer",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "High critical hit ratio.",
+    "isHighCrit": true
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Ingrain",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "User restores HP each turn. User cannot escape/switch.",
+    "isHighCrit": false
+}

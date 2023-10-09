@@ -1,0 +1,48 @@
+{
+    "generation": 1,
+    "name": "Magikarp",
+    "species": "Fish Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "0.9\u00a0m (2\u203211\u2033)",
+    "hp": 20,
+    "attack": 10,
+    "defense": 55,
+    "speed": 80,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 129,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim"
+    ],
+    "hiddenAbility": "Rattled",
+    "specialAttack": 15,
+    "specialDefense": 20,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 40,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Dragon",
+        "Water 2"
+    ],
+    "eggCycles": 5,
+    "movesLearnedAtLevel": {
+        "Splash": 1,
+        "Tackle": 15,
+        "Flail": 25
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

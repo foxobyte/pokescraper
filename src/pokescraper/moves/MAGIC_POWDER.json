@@ -1,0 +1,12 @@
+{
+    "name": "Magic Powder",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Changes target's type to Psychic.",
+    "isHighCrit": false
+}

@@ -1,0 +1,85 @@
+{
+    "generation": 3,
+    "name": "Huntail",
+    "species": "Deep Sea Pok\u00e9mon",
+    "height": "1.7\u00a0m (5\u203207\u2033)",
+    "weight": "1.7\u00a0m (5\u203207\u2033)",
+    "hp": 55,
+    "attack": 104,
+    "defense": 105,
+    "speed": 52,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 367,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim"
+    ],
+    "hiddenAbility": "Water Veil",
+    "specialAttack": 94,
+    "specialDefense": 75,
+    "catchRate": 60,
+    "evYield": {
+        "Attack": 1,
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 170,
+    "growthRate": "Erratic",
+    "eggGroups": [
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Bite": 1,
+        "Iron Defense": 1,
+        "Shell Smash": 1,
+        "Water Gun": 1,
+        "Whirlpool": 1,
+        "Screech": 5,
+        "Scary Face": 9,
+        "Rain Dance": 11,
+        "Water Pulse": 14,
+        "Ice Fang": 16,
+        "Brine": 19,
+        "Sucker Punch": 23,
+        "Dive": 26,
+        "Baton Pass": 29,
+        "Crunch": 34,
+        "Aqua Tail": 39,
+        "Coil": 45,
+        "Hydro Pump": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Double Team": 32,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Scald": 49,
+        "Brine": 55,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Surf": 95,
+        "Waterfall": 99
+    }
+}

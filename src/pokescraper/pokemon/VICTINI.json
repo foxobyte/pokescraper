@@ -1,0 +1,93 @@
+{
+    "generation": 5,
+    "name": "Victini",
+    "species": "Victory Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "speed": 100,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Psychic",
+        "Fire"
+    ],
+    "nationalNumber": 494,
+    "specialName": null,
+    "specialAbilities": [
+        "Victory Star"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 100,
+    "specialDefense": 100,
+    "catchRate": 3,
+    "evYield": {
+        "HP": 3
+    },
+    "baseFriendship": 100,
+    "baseExp": 270,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Confusion": 1,
+        "Flame Charge": 1,
+        "Focus Energy": 1,
+        "Quick Attack": 1,
+        "V-create": 1,
+        "Work Up": 7,
+        "Incinerate": 14,
+        "Stored Power": 21,
+        "Headbutt": 28,
+        "Endure": 35,
+        "Zen Headbutt": 42,
+        "Inferno": 49,
+        "Reversal": 56,
+        "Searing Shot": 63,
+        "Double-Edge": 70,
+        "Flare Blitz": 77,
+        "Overheat": 84,
+        "Final Gambit": 91
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Expanding Force",
+        "Scorching Sands"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Fire Punch": 3,
+        "Thunder Punch": 5,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Fire Spin": 13,
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Sunny Day": 34,
+        "Will-O-Wisp": 38,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Brick Break": 43,
+        "Bounce": 52,
+        "U-turn": 56,
+        "Fling": 59,
+        "Power Swap": 60,
+        "Guard Swap": 61,
+        "Speed Swap": 62,
+        "Trick Room": 70,
+        "Round": 76,
+        "Mystical Fire": 92
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "generation": 7,
+    "name": "Pyukumuku",
+    "species": "Sea Cucumber Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 55,
+    "attack": 60,
+    "defense": 130,
+    "speed": 5,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 771,
+    "specialName": null,
+    "specialAbilities": [
+        "Innards Out"
+    ],
+    "hiddenAbility": "Unaware",
+    "specialAttack": 30,
+    "specialDefense": 130,
+    "catchRate": 60,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 144,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Water 1"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Baton Pass": 1,
+        "Harden": 1,
+        "Helping Hand": 5,
+        "Taunt": 10,
+        "Safeguard": 15,
+        "Counter": 20,
+        "Purify": 25,
+        "Curse": 30,
+        "Gastro Acid": 35,
+        "Pain Split": 40,
+        "Recover": 45,
+        "Soak": 50,
+        "Toxic": 55,
+        "Memento": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Screech": 16,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Protect": 25,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Helping Hand": 41
+    }
+}

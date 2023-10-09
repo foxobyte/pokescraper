@@ -1,0 +1,90 @@
+{
+    "generation": 8,
+    "name": "Cufant",
+    "species": "Copperderm Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 72,
+    "attack": 80,
+    "defense": 49,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Steel"
+    ],
+    "nationalNumber": 878,
+    "specialName": null,
+    "specialAbilities": [
+        "Sheer Force"
+    ],
+    "hiddenAbility": "Heavy Metal",
+    "specialAttack": 40,
+    "specialDefense": 49,
+    "catchRate": 190,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 66,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field",
+        "Mineral"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Tackle": 1,
+        "Rollout": 5,
+        "Rock Smash": 10,
+        "Bulldoze": 15,
+        "Stomp": 20,
+        "Iron Defense": 25,
+        "Dig": 30,
+        "Strength": 35,
+        "Iron Head": 40,
+        "Play Rough": 45,
+        "High Horsepower": 50,
+        "Superpower": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Mud Shot": 35,
+        "Rock Tomb": 36,
+        "Fling": 43,
+        "Endure": 47,
+        "Sandstorm": 51,
+        "Dig": 55,
+        "Brick Break": 58,
+        "Zen Headbutt": 59,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Rock Blast": 76,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Body Press": 89,
+        "Flash Cannon": 93,
+        "Iron Head": 99,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Stealth Rock": 116,
+        "Heavy Slam": 121,
+        "Play Rough": 127,
+        "Earth Power": 133,
+        "Earthquake": 149,
+        "Stone Edge": 150,
+        "Steel Beam": 170,
+        "Tera Blast": 171
+    }
+}

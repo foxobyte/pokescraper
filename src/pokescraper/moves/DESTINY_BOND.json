@@ -1,0 +1,12 @@
+{
+    "name": "Destiny Bond",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "If the user faints, the opponent also faints.",
+    "isHighCrit": false
+}

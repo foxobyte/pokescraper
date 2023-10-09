@@ -1,0 +1,12 @@
+{
+    "name": "Psybeam",
+    "category": "Special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 10,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "May confuse opponent.",
+    "isHighCrit": false
+}

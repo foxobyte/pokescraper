@@ -1,0 +1,12 @@
+{
+    "name": "Dynamic Punch",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 50,
+    "pp": 5,
+    "probability": 100,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Confuses opponent.",
+    "isHighCrit": false
+}

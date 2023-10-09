@@ -1,0 +1,12 @@
+{
+    "name": "Parting Shot",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 100,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Lowers opponent's Attack and Special Attack then switches out. ",
+    "isHighCrit": false
+}

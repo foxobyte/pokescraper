@@ -1,0 +1,62 @@
+{
+    "generation": 5,
+    "name": "Braviary",
+    "species": "Battle Cry Pok\u00e9mon",
+    "height": "1.7\u00a0m (5\u203207\u2033)",
+    "weight": "1.7\u00a0m (5\u203207\u2033)",
+    "hp": 110,
+    "attack": 83,
+    "defense": 70,
+    "speed": 65,
+    "gender": {
+        "male": "100%",
+        "female": "0%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic",
+        "Flying"
+    ],
+    "nationalNumber": 628,
+    "specialName": "Hisuian Braviary",
+    "specialAbilities": [
+        "Keen Eye",
+        "Sheer Force"
+    ],
+    "hiddenAbility": "Tinted Lens",
+    "specialAttack": 112,
+    "specialDefense": 70,
+    "catchRate": 60,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 179,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Hone Claws": 1,
+        "Leer": 1,
+        "Peck": 1,
+        "Sky Attack": 1,
+        "Superpower": 1,
+        "Wing Attack": 1,
+        "Tailwind": 18,
+        "Scary Face": 24,
+        "Aerial Ace": 30,
+        "Slash": 36,
+        "Whirlwind": 42,
+        "Crush Claw": 48,
+        "Air Slash": 57,
+        "Defog": 64,
+        "Thrash": 72,
+        "Hurricane": 80
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

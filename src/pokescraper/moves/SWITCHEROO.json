@@ -1,0 +1,12 @@
+{
+    "name": "Switcheroo",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Swaps held items with the opponent.",
+    "isHighCrit": false
+}

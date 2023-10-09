@@ -1,0 +1,12 @@
+{
+    "name": "Dual Chop",
+    "category": "Physical",
+    "power": 40,
+    "accuracy": 90,
+    "pp": 15,
+    "probability": null,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "Hits twice in one turn.",
+    "isHighCrit": false
+}

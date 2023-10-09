@@ -1,0 +1,91 @@
+{
+    "generation": 1,
+    "name": "Poliwag",
+    "species": "Tadpole Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 40,
+    "attack": 50,
+    "defense": 40,
+    "speed": 90,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 60,
+    "specialName": null,
+    "specialAbilities": [
+        "Water Absorb",
+        "Damp"
+    ],
+    "hiddenAbility": "Swift Swim",
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 60,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Hypnosis": 1,
+        "Water Gun": 1,
+        "Pound": 6,
+        "Mud Shot": 12,
+        "Bubble Beam": 18,
+        "Rain Dance": 24,
+        "Body Slam": 30,
+        "Earth Power": 36,
+        "Hydro Pump": 42,
+        "Belly Drum": 48,
+        "Double-Edge": 54
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Low Kick": 12,
+        "Thief": 18,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Swift": 32,
+        "Icy Wind": 34,
+        "Mud Shot": 35,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Dig": 55,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Waterfall": 77,
+        "Rest": 85,
+        "Substitute": 103,
+        "Liquidation": 110,
+        "Psychic": 120,
+        "Encore": 122,
+        "Surf": 123,
+        "Amnesia": 128,
+        "Helping Hand": 130,
+        "Earth Power": 133,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Tera Blast": 171,
+        "Haze": 174,
+        "Focus Punch": 192,
+        "Weather Ball": 193
+    }
+}

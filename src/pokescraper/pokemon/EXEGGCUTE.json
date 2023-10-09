@@ -1,0 +1,87 @@
+{
+    "generation": 1,
+    "name": "Exeggcute",
+    "species": "Egg Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 60,
+    "attack": 40,
+    "defense": 80,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Psychic"
+    ],
+    "nationalNumber": 102,
+    "specialName": null,
+    "specialAbilities": [
+        "Chlorophyll"
+    ],
+    "hiddenAbility": "Harvest",
+    "specialAttack": 60,
+    "specialDefense": 45,
+    "catchRate": 90,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 65,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Hypnosis": 1,
+        "Reflect": 5,
+        "Leech Seed": 10,
+        "Mega Drain": 15,
+        "Confusion": 20,
+        "Synthesis": 25,
+        "Bullet Seed": 30,
+        "Giga Drain": 35,
+        "Extrasensory": 40,
+        "Uproar": 45,
+        "Worry Seed": 50,
+        "Solar Beam": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Bullet Seed": 9,
+        "Sunny Day": 11,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Solar Beam": 22,
+        "Psychic": 29,
+        "Double Team": 32,
+        "Reflect": 33,
+        "Sludge Bomb": 36,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Skill Swap": 48,
+        "Energy Ball": 53,
+        "Endure": 58,
+        "Explosion": 64,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Psych Up": 77,
+        "Sleep Talk": 82,
+        "Dream Eater": 85,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Trick Room": 92,
+        "Strength": 96
+    }
+}

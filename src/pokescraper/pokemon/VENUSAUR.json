@@ -1,0 +1,101 @@
+{
+    "generation": 1,
+    "name": "Venusaur",
+    "species": "Seed Pok\u00e9mon",
+    "height": "2.0\u00a0m (6\u203207\u2033)",
+    "weight": "2.0\u00a0m (6\u203207\u2033)",
+    "hp": 80,
+    "attack": 82,
+    "defense": 83,
+    "speed": 80,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Poison"
+    ],
+    "nationalNumber": 3,
+    "specialName": null,
+    "specialAbilities": [
+        "Overgrow"
+    ],
+    "hiddenAbility": "Chlorophyll",
+    "specialAttack": 100,
+    "specialDefense": 100,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 2,
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 236,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Grass",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Growth": 1,
+        "Petal Blizzard": 1,
+        "Petal Dance": 1,
+        "Tackle": 1,
+        "Vine Whip": 1,
+        "Leech Seed": 9,
+        "Razor Leaf": 12,
+        "Poison Powder": 15,
+        "Sleep Powder": 15,
+        "Seed Bomb": 20,
+        "Take Down": 25,
+        "Sweet Scent": 30,
+        "Synthesis": 37,
+        "Worry Seed": 44,
+        "Double-Edge": 51,
+        "Solar Beam": 58
+    },
+    "movesLearnedOnEvolution": [
+        "Petal Blizzard"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Frenzy Plant"
+    ],
+    "movesLearnedByTm": {
+        "Roar": 5,
+        "Toxic": 6,
+        "Bullet Seed": 9,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Safeguard": 20,
+        "Solar Beam": 22,
+        "Earthquake": 26,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Energy Ball": 53,
+        "False Swipe": 54,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Strength": 96,
+        "Rock Smash": 98,
+        "Rock Climb": 100
+    }
+}

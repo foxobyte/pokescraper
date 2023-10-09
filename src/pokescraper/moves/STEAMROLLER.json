@@ -1,0 +1,12 @@
+{
+    "name": "Steamroller",
+    "category": "Physical",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 30,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

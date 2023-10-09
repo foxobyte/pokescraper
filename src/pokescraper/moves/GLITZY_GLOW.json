@@ -1,0 +1,12 @@
+{
+    "name": "Glitzy Glow",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Reduces damage from Special attacks.",
+    "isHighCrit": false
+}

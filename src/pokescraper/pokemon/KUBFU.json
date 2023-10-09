@@ -1,0 +1,89 @@
+{
+    "generation": 8,
+    "name": "Kubfu",
+    "species": "Wushu Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 60,
+    "attack": 90,
+    "defense": 60,
+    "speed": 72,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting"
+    ],
+    "nationalNumber": 891,
+    "specialName": null,
+    "specialAbilities": [
+        "Inner Focus"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 53,
+    "specialDefense": 50,
+    "catchRate": 3,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 77,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Rock Smash": 1,
+        "Endure": 4,
+        "Focus Energy": 8,
+        "Aerial Ace": 12,
+        "Scary Face": 16,
+        "Headbutt": 20,
+        "Brick Break": 24,
+        "Detect": 28,
+        "Bulk Up": 32,
+        "Iron Head": 36,
+        "Dynamic Punch": 40,
+        "Counter": 44,
+        "Close Combat": 48,
+        "Focus Punch": 52
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Low Kick": 12,
+        "Acrobatics": 14,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Metal Claw": 31,
+        "Low Sweep": 39,
+        "Fling": 43,
+        "Endure": 47,
+        "Dig": 55,
+        "Brick Break": 58,
+        "Zen Headbutt": 59,
+        "U-turn": 60,
+        "Bulk Up": 64,
+        "Body Slam": 66,
+        "Fire Punch": 67,
+        "Thunder Punch": 68,
+        "Ice Punch": 69,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Swords Dance": 88,
+        "Iron Head": 99,
+        "Substitute": 103,
+        "Helping Hand": 130,
+        "Reversal": 134,
+        "Close Combat": 167,
+        "Tera Blast": 171
+    }
+}

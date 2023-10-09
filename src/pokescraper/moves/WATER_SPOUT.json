@@ -1,0 +1,12 @@
+{
+    "name": "Water Spout",
+    "category": "Special",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "The higher the user's HP, the higher the damage caused.",
+    "isHighCrit": false
+}

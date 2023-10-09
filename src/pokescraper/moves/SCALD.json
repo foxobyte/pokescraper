@@ -1,0 +1,12 @@
+{
+    "name": "Scald",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 30,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "May burn opponent.",
+    "isHighCrit": false
+}

@@ -1,0 +1,89 @@
+{
+    "generation": 7,
+    "name": "Necrozma",
+    "species": "Prism Pok\u00e9mon",
+    "height": "3.8\u00a0m (12\u203206\u2033)",
+    "weight": "3.8\u00a0m (12\u203206\u2033)",
+    "hp": 97,
+    "attack": 157,
+    "defense": 127,
+    "speed": 77,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Psychic",
+        "Steel"
+    ],
+    "nationalNumber": 800,
+    "specialName": "Dusk Mane Necrozma",
+    "specialAbilities": [
+        "Prism Armor"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 113,
+    "specialDefense": 109,
+    "catchRate": 3,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 306,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Charge Beam": 1,
+        "Confusion": 1,
+        "Gravity": 1,
+        "Metal Claw": 1,
+        "Moonlight": 1,
+        "Morning Sun": 1,
+        "Stealth Rock": 8,
+        "Slash": 16,
+        "Night Slash": 24,
+        "Psycho Cut": 32,
+        "Stored Power": 40,
+        "Rock Blast": 48,
+        "Iron Defense": 56,
+        "Power Gem": 64,
+        "Photon Geyser": 72,
+        "Autotomize": 80,
+        "Prismatic Laser": 88
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Expanding Force",
+        "Meteor Beam"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Facade": 39,
+        "Brick Break": 43,
+        "Imprison": 44,
+        "Rock Tomb": 48,
+        "Rock Blast": 54,
+        "Fling": 59,
+        "Shadow Claw": 65,
+        "Psycho Cut": 69,
+        "Trick Room": 70,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Smart Strike": 96,
+        "Brutal Swing": 97,
+        "Breaking Swipe": 99
+    }
+}

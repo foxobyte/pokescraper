@@ -1,0 +1,12 @@
+{
+    "name": "Jaw Lock",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Prevents user and opponent from switching out.",
+    "isHighCrit": false
+}

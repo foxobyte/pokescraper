@@ -1,0 +1,12 @@
+{
+    "name": "Laser Focus",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User's next attack is guaranteed to result in a critical hit.",
+    "isHighCrit": false
+}

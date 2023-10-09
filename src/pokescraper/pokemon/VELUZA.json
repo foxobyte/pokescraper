@@ -1,0 +1,89 @@
+{
+    "generation": 9,
+    "name": "Veluza",
+    "species": "Jettison Pok\u00e9mon",
+    "height": "2.5\u00a0m (8\u203202\u2033)",
+    "weight": "2.5\u00a0m (8\u203202\u2033)",
+    "hp": 90,
+    "attack": 102,
+    "defense": 73,
+    "speed": 70,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Psychic"
+    ],
+    "nationalNumber": 976,
+    "specialName": null,
+    "specialAbilities": [
+        "Mold Breaker"
+    ],
+    "hiddenAbility": "Sharpness",
+    "specialAttack": 78,
+    "specialDefense": 65,
+    "catchRate": 100,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 167,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Water 2"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Aqua Jet": 1,
+        "Tackle": 1,
+        "Pluck": 7,
+        "Water Pulse": 11,
+        "Focus Energy": 15,
+        "Slash": 20,
+        "Aqua Cutter": 25,
+        "Fillet Away": 30,
+        "Night Slash": 35,
+        "Psycho Cut": 40,
+        "Liquidation": 45,
+        "Crunch": 50,
+        "Final Gambit": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Protect": 7,
+        "Ice Fang": 10,
+        "Water Pulse": 11,
+        "Chilling Water": 22,
+        "Icy Wind": 34,
+        "Stored Power": 41,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Snowscape": 52,
+        "Zen Headbutt": 59,
+        "Psychic Fangs": 63,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Waterfall": 77,
+        "Rest": 85,
+        "Substitute": 103,
+        "Drill Run": 106,
+        "Crunch": 108,
+        "Liquidation": 110,
+        "Psychic": 120,
+        "Surf": 123,
+        "Ice Beam": 135,
+        "Psychic Terrain": 138,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Giga Impact": 152,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

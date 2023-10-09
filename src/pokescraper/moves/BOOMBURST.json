@@ -1,0 +1,12 @@
+{
+    "name": "Boomburst",
+    "category": "Special",
+    "power": 140,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Hits all adjacent Pok\u00e9mon.",
+    "isHighCrit": false
+}

@@ -1,0 +1,77 @@
+{
+    "generation": 1,
+    "name": "Goldeen",
+    "species": "Goldfish Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 45,
+    "attack": 67,
+    "defense": 60,
+    "speed": 63,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 118,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim",
+        "Water Veil"
+    ],
+    "hiddenAbility": "Lightning Rod",
+    "specialAttack": 35,
+    "specialDefense": 50,
+    "catchRate": 225,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 64,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 2"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Peck": 1,
+        "Tail Whip": 1,
+        "Supersonic": 5,
+        "Water Pulse": 10,
+        "Horn Attack": 15,
+        "Agility": 20,
+        "Aqua Ring": 25,
+        "Flail": 30,
+        "Waterfall": 35,
+        "Soak": 40,
+        "Megahorn": 45,
+        "Horn Drill": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Double Team": 32,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Scald": 49,
+        "Endure": 58,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Poison Jab": 84,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Surf": 95,
+        "Waterfall": 99
+    }
+}

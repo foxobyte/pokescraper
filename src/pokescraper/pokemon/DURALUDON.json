@@ -1,0 +1,83 @@
+{
+    "generation": 8,
+    "name": "Duraludon",
+    "species": "Alloy Pok\u00e9mon",
+    "height": "1.8\u00a0m (5\u203211\u2033)",
+    "weight": "1.8\u00a0m (5\u203211\u2033)",
+    "hp": 70,
+    "attack": 95,
+    "defense": 115,
+    "speed": 85,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Steel",
+        "Dragon"
+    ],
+    "nationalNumber": 884,
+    "specialName": null,
+    "specialAbilities": [
+        "Light Metal",
+        "Heavy Metal"
+    ],
+    "hiddenAbility": "Stalwart",
+    "specialAttack": 120,
+    "specialDefense": 50,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 187,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Dragon",
+        "Mineral"
+    ],
+    "eggCycles": 30,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Metal Claw": 1,
+        "Rock Smash": 6,
+        "Hone Claws": 12,
+        "Metal Sound": 18,
+        "Breaking Swipe": 24,
+        "Dragon Tail": 30,
+        "Iron Defense": 36,
+        "Laser Focus": 42,
+        "Dragon Claw": 48,
+        "Flash Cannon": 54,
+        "Metal Burst": 60,
+        "Hyper Beam": 66
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Steel Roller"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Thunder Wave": 14,
+        "Screech": 16,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Attract": 31,
+        "Facade": 39,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Round": 76,
+        "Snarl": 85,
+        "Stomping Tantrum": 98,
+        "Breaking Swipe": 99
+    }
+}

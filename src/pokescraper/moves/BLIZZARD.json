@@ -1,0 +1,12 @@
+{
+    "name": "Blizzard",
+    "category": "Special",
+    "power": 110,
+    "accuracy": 70,
+    "pp": 5,
+    "probability": 10,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "May freeze opponent.",
+    "isHighCrit": false
+}

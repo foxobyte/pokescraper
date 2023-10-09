@@ -1,0 +1,12 @@
+{
+    "name": "Strange Steam",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 95,
+    "pp": 10,
+    "probability": 20,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "May confuse opponent.",
+    "isHighCrit": false
+}

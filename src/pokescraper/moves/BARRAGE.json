@@ -1,0 +1,12 @@
+{
+    "name": "Barrage",
+    "category": "Physical",
+    "power": 15,
+    "accuracy": 85,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Hits 2-5 times in one turn.",
+    "isHighCrit": false
+}

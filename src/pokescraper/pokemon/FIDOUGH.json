@@ -1,0 +1,90 @@
+{
+    "generation": 9,
+    "name": "Fidough",
+    "species": "Puppy Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 37,
+    "attack": 55,
+    "defense": 70,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fairy"
+    ],
+    "nationalNumber": 926,
+    "specialName": null,
+    "specialAbilities": [
+        "Own Tempo"
+    ],
+    "hiddenAbility": "Klutz",
+    "specialAttack": 30,
+    "specialDefense": 55,
+    "catchRate": 190,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 62,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Tackle": 1,
+        "Lick": 3,
+        "Tail Whip": 6,
+        "Covet": 8,
+        "Bite": 11,
+        "Baby-Doll Eyes": 15,
+        "Play Rough": 18,
+        "Work Up": 22,
+        "Baton Pass": 26,
+        "Roar": 30,
+        "Double-Edge": 33,
+        "Charm": 36,
+        "Crunch": 40,
+        "Last Resort": 45
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Agility": 4,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Thunder Fang": 9,
+        "Ice Fang": 10,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Snarl": 30,
+        "Mud Shot": 35,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Dig": 55,
+        "Psychic Fangs": 63,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Dazzling Gleam": 79,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Substitute": 103,
+        "Crunch": 108,
+        "Play Rough": 127,
+        "Helping Hand": 130,
+        "Baton Pass": 132,
+        "Misty Terrain": 139,
+        "Tera Blast": 171
+    }
+}

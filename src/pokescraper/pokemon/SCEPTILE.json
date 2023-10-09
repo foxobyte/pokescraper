@@ -1,0 +1,113 @@
+{
+    "generation": 3,
+    "name": "Sceptile",
+    "species": "Forest Pok\u00e9mon",
+    "height": "1.7\u00a0m (5\u203207\u2033)",
+    "weight": "1.7\u00a0m (5\u203207\u2033)",
+    "hp": 70,
+    "attack": 85,
+    "defense": 65,
+    "speed": 120,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 254,
+    "specialName": null,
+    "specialAbilities": [
+        "Overgrow"
+    ],
+    "hiddenAbility": "Unburden",
+    "specialAttack": 105,
+    "specialDefense": 85,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 239,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Dragon",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Dual Chop": 1,
+        "Energy Ball": 1,
+        "False Swipe": 1,
+        "Fury Cutter": 1,
+        "Leafage": 1,
+        "Leer": 1,
+        "Pound": 1,
+        "Quick Attack": 1,
+        "X-Scissor": 1,
+        "Mega Drain": 5,
+        "Detect": 12,
+        "Quick Guard": 15,
+        "Assurance": 20,
+        "Giga Drain": 25,
+        "Slam": 30,
+        "Double Team": 35,
+        "Leaf Blade": 42,
+        "Screech": 49,
+        "Endeavor": 56,
+        "Leaf Storm": 63
+    },
+    "movesLearnedOnEvolution": [
+        "Dual Chop"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Frenzy Plant"
+    ],
+    "movesLearnedByTm": {
+        "Focus Punch": 1,
+        "Dragon Claw": 2,
+        "Roar": 5,
+        "Bullet Seed": 9,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Safeguard": 20,
+        "Solar Beam": 22,
+        "Iron Tail": 23,
+        "Earthquake": 26,
+        "Low Sweep": 27,
+        "Dig": 28,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Rock Tomb": 39,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Focus Blast": 52,
+        "Energy Ball": 53,
+        "False Swipe": 54,
+        "Fling": 56,
+        "Endure": 58,
+        "Dragon Pulse": 59,
+        "Drain Punch": 60,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Rock Slide": 80,
+        "X-Scissor": 81,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Strength": 96,
+        "Rock Smash": 98,
+        "Rock Climb": 100
+    }
+}

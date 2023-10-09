@@ -1,0 +1,94 @@
+{
+    "generation": 8,
+    "name": "Carkol",
+    "species": "Coal Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 80,
+    "attack": 60,
+    "defense": 90,
+    "speed": 50,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Fire"
+    ],
+    "nationalNumber": 838,
+    "specialName": null,
+    "specialAbilities": [
+        "Steam Engine",
+        "Flame Body"
+    ],
+    "hiddenAbility": "Flash Fire",
+    "specialAttack": 60,
+    "specialDefense": 70,
+    "catchRate": 120,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 144,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Rapid Spin": 1,
+        "Smack Down": 1,
+        "Smokescreen": 1,
+        "Tackle": 1,
+        "Rock Polish": 15,
+        "Ancient Power": 20,
+        "Incinerate": 27,
+        "Stealth Rock": 35,
+        "Heat Crash": 41,
+        "Rock Blast": 48,
+        "Stone Edge": 55
+    },
+    "movesLearnedOnEvolution": [
+        "Flame Charge"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Fire Spin": 24,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Rock Tomb": 36,
+        "Flame Charge": 38,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Sandstorm": 51,
+        "Dig": 55,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Reflect": 74,
+        "Rock Blast": 76,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Body Press": 89,
+        "Spikes": 90,
+        "Iron Head": 99,
+        "Power Gem": 101,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Will-O-Wisp": 107,
+        "Stealth Rock": 116,
+        "Heat Wave": 118,
+        "Heavy Slam": 121,
+        "Flamethrower": 125,
+        "Fire Blast": 141,
+        "Stone Edge": 150,
+        "Overheat": 157,
+        "Flare Blitz": 165,
+        "Tera Blast": 171
+    }
+}

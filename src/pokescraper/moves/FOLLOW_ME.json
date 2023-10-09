@@ -1,0 +1,12 @@
+{
+    "name": "Follow Me",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "In Double Battle, the user takes all the attacks.",
+    "isHighCrit": false
+}

@@ -1,0 +1,106 @@
+{
+    "generation": 1,
+    "name": "Blastoise",
+    "species": "Shellfish Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 79,
+    "attack": 83,
+    "defense": 100,
+    "speed": 78,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 9,
+    "specialName": null,
+    "specialAbilities": [
+        "Torrent"
+    ],
+    "hiddenAbility": "Rain Dish",
+    "specialAttack": 85,
+    "specialDefense": 105,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Def": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 239,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Monster",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Flash Cannon": 1,
+        "Tackle": 1,
+        "Tail Whip": 1,
+        "Water Gun": 1,
+        "Withdraw": 1,
+        "Rapid Spin": 9,
+        "Bite": 12,
+        "Water Pulse": 15,
+        "Protect": 20,
+        "Rain Dance": 25,
+        "Aqua Tail": 30,
+        "Shell Smash": 35,
+        "Iron Defense": 42,
+        "Hydro Pump": 49,
+        "Skull Bash": 56
+    },
+    "movesLearnedOnEvolution": [
+        "Flash Cannon"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Hydro Cannon"
+    ],
+    "movesLearnedByTm": {
+        "Focus Punch": 1,
+        "Water Pulse": 3,
+        "Roar": 5,
+        "Hail": 7,
+        "Work Up": 10,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Iron Tail": 23,
+        "Earthquake": 26,
+        "Dig": 28,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Scald": 49,
+        "Focus Blast": 52,
+        "False Swipe": 54,
+        "Brine": 55,
+        "Fling": 56,
+        "Endure": 58,
+        "Dragon Pulse": 59,
+        "Giga Impact": 68,
+        "Avalanche": 72,
+        "Gyro Ball": 74,
+        "Dark Pulse": 79,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Flash Cannon": 91,
+        "Surf": 95,
+        "Strength": 96,
+        "Rock Smash": 98,
+        "Waterfall": 99,
+        "Rock Climb": 100
+    }
+}

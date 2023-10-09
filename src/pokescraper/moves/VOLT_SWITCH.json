@@ -1,0 +1,12 @@
+{
+    "name": "Volt Switch",
+    "category": "Special",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "User must switch out after attacking.",
+    "isHighCrit": false
+}

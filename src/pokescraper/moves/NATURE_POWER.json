@@ -1,0 +1,12 @@
+{
+    "name": "Nature Power",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Uses a certain move based on the current terrain.",
+    "isHighCrit": false
+}

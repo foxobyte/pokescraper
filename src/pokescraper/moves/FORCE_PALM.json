@@ -1,0 +1,12 @@
+{
+    "name": "Force Palm",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 30,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "May paralyze opponent.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Spore",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Puts opponent to sleep.",
+    "isHighCrit": false
+}

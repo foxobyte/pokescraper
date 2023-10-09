@@ -1,0 +1,82 @@
+{
+    "generation": 8,
+    "name": "Regidrago",
+    "species": "Dragon Orb Pok\u00e9mon",
+    "height": "2.1\u00a0m (6\u203211\u2033)",
+    "weight": "2.1\u00a0m (6\u203211\u2033)",
+    "hp": 200,
+    "attack": 100,
+    "defense": 50,
+    "speed": 80,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Dragon"
+    ],
+    "nationalNumber": 895,
+    "specialName": null,
+    "specialAbilities": [
+        "Dragon's Maw"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 100,
+    "specialDefense": 50,
+    "catchRate": 3,
+    "evYield": {
+        "HP": 3
+    },
+    "baseFriendship": 35,
+    "baseExp": 290,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Twister": 1,
+        "Vise Grip": 1,
+        "Bite": 6,
+        "Ancient Power": 12,
+        "Dragon Breath": 18,
+        "Crunch": 30,
+        "Dragon Claw": 36,
+        "Hammer Arm": 42,
+        "Dragon Dance": 48,
+        "Thrash": 54,
+        "Focus Energy": 60,
+        "Dragon Energy": 66,
+        "Hyper Beam": 72,
+        "Explosion": 78
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Thunder Fang": 9,
+        "Ice Fang": 10,
+        "Facade": 25,
+        "Swift": 32,
+        "Endure": 47,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Dragon Claw": 78,
+        "Rest": 85,
+        "Dragon Dance": 100,
+        "Substitute": 103,
+        "Crunch": 108,
+        "Dragon Pulse": 115,
+        "Earth Power": 133,
+        "Reversal": 134,
+        "Earthquake": 149,
+        "Giga Impact": 152,
+        "Outrage": 156,
+        "Hyper Beam": 163,
+        "Draco Meteor": 169,
+        "Tera Blast": 171
+    }
+}

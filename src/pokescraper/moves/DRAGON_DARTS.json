@@ -1,0 +1,12 @@
+{
+    "name": "Dragon Darts",
+    "category": "Physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "User attacks twice.",
+    "isHighCrit": false
+}

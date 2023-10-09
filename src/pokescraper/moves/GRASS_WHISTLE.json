@@ -1,0 +1,12 @@
+{
+    "name": "Grass Whistle",
+    "category": "Status",
+    "power": null,
+    "accuracy": 55,
+    "pp": 15,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Puts opponent to sleep.",
+    "isHighCrit": false
+}

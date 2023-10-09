@@ -1,0 +1,12 @@
+{
+    "name": "Dizzy Punch",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 20,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "May confuse opponent.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Bitter Blade",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "User recovers half the HP inflicted on opponent.",
+    "isHighCrit": false
+}

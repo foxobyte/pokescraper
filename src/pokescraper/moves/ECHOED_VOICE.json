@@ -1,0 +1,12 @@
+{
+    "name": "Echoed Voice",
+    "category": "Special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Power increases each turn.",
+    "isHighCrit": false
+}

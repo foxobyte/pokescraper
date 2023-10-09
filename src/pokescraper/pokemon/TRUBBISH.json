@@ -1,0 +1,80 @@
+{
+    "generation": 5,
+    "name": "Trubbish",
+    "species": "Trash Bag Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 50,
+    "attack": 50,
+    "defense": 62,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Poison"
+    ],
+    "nationalNumber": 568,
+    "specialName": null,
+    "specialAbilities": [
+        "Stench",
+        "Sticky Hold"
+    ],
+    "hiddenAbility": "Aftermath",
+    "specialAttack": 40,
+    "specialDefense": 62,
+    "catchRate": 190,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 66,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Poison Gas": 1,
+        "Pound": 1,
+        "Recycle": 3,
+        "Acid Spray": 6,
+        "Amnesia": 9,
+        "Clear Smog": 12,
+        "Toxic Spikes": 15,
+        "Sludge": 18,
+        "Stockpile": 21,
+        "Swallow": 21,
+        "Take Down": 24,
+        "Sludge Bomb": 27,
+        "Toxic": 30,
+        "Belch": 33,
+        "Pain Split": 37,
+        "Gunk Shot": 39,
+        "Explosion": 42
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Corrosive Gas"
+    ],
+    "movesLearnedByTm": {
+        "Self-Destruct": 20,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Rock Blast": 54,
+        "Payback": 57,
+        "Drain Punch": 63,
+        "Venoshock": 74,
+        "Round": 76
+    }
+}

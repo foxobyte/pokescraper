@@ -1,0 +1,12 @@
+{
+    "name": "After You",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Gives target priority in the next turn.",
+    "isHighCrit": false
+}

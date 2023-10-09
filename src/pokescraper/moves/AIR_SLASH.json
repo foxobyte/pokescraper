@@ -1,0 +1,12 @@
+{
+    "name": "Air Slash",
+    "category": "Special",
+    "power": 75,
+    "accuracy": 95,
+    "pp": 15,
+    "probability": 30,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

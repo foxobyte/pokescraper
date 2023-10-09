@@ -1,0 +1,81 @@
+{
+    "generation": 9,
+    "name": "Dolliv",
+    "species": "Olive Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 52,
+    "attack": 53,
+    "defense": 60,
+    "speed": 33,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Normal"
+    ],
+    "nationalNumber": 929,
+    "specialName": null,
+    "specialAbilities": [
+        "Early Bird"
+    ],
+    "hiddenAbility": "Harvest",
+    "specialAttack": 78,
+    "specialDefense": 78,
+    "catchRate": 120,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 124,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Sweet Scent": 1,
+        "Tackle": 1,
+        "Absorb": 5,
+        "Growth": 7,
+        "Razor Leaf": 10,
+        "Helping Hand": 13,
+        "Flail": 16,
+        "Mega Drain": 20,
+        "Grassy Terrain": 23,
+        "Seed Bomb": 29,
+        "Energy Ball": 34,
+        "Leech Seed": 37,
+        "Terrain Pulse": 42
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Charm": 2,
+        "Protect": 7,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Swift": 32,
+        "Magical Leaf": 33,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Bullet Seed": 56,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Substitute": 103,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Helping Hand": 130,
+        "Earth Power": 133,
+        "Grassy Terrain": 137,
+        "Leaf Storm": 159,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

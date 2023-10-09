@@ -1,0 +1,12 @@
+{
+    "name": "Stored Power",
+    "category": "Special",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Power increases when user's stats have been raised.",
+    "isHighCrit": false
+}

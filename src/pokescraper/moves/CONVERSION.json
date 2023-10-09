@@ -1,0 +1,12 @@
+{
+    "name": "Conversion",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Changes user's type to that of its first move.",
+    "isHighCrit": false
+}

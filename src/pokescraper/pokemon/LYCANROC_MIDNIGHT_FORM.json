@@ -1,0 +1,67 @@
+{
+    "generation": 7,
+    "name": "Lycanroc",
+    "species": "Wolf Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 85,
+    "attack": 115,
+    "defense": 75,
+    "speed": 82,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock"
+    ],
+    "nationalNumber": 745,
+    "specialName": "Midnight Form",
+    "specialAbilities": [
+        "Keen Eye",
+        "Vital Spirit"
+    ],
+    "hiddenAbility": "No Guard",
+    "specialAttack": 55,
+    "specialDefense": 75,
+    "catchRate": 90,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 170,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Accelerock": 1,
+        "Counter": 1,
+        "Double Team": 1,
+        "Endure": 1,
+        "Leer": 1,
+        "Quick Attack": 1,
+        "Quick Guard": 1,
+        "Reversal": 1,
+        "Sand Attack": 1,
+        "Sucker Punch": 1,
+        "Tackle": 1,
+        "Taunt": 1,
+        "Rock Throw": 12,
+        "Howl": 16,
+        "Bite": 20,
+        "Rock Tomb": 24,
+        "Roar": 30,
+        "Rock Slide": 36,
+        "Crunch": 42,
+        "Scary Face": 48,
+        "Stealth Rock": 54,
+        "Stone Edge": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

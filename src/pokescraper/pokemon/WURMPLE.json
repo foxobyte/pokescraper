@@ -1,0 +1,48 @@
+{
+    "generation": 3,
+    "name": "Wurmple",
+    "species": "Worm Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 45,
+    "attack": 45,
+    "defense": 35,
+    "speed": 20,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 265,
+    "specialName": null,
+    "specialAbilities": [
+        "Shield Dust"
+    ],
+    "hiddenAbility": "Run Away",
+    "specialAttack": 20,
+    "specialDefense": 30,
+    "catchRate": 255,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 56,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "String Shot": 1,
+        "Tackle": 1,
+        "Poison Sting": 5,
+        "Bug Bite": 15
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

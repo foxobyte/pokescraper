@@ -1,0 +1,72 @@
+{
+    "generation": 3,
+    "name": "Feebas",
+    "species": "Fish Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 20,
+    "attack": 15,
+    "defense": 20,
+    "speed": 80,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 349,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim",
+        "Oblivious"
+    ],
+    "hiddenAbility": "Adaptability",
+    "specialAttack": 10,
+    "specialDefense": 55,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 40,
+    "growthRate": "Erratic",
+    "eggGroups": [
+        "Dragon",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Splash": 1,
+        "Tackle": 15,
+        "Flail": 25
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Confuse Ray": 17,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Swift": 32,
+        "Icy Wind": 34,
+        "Mud Shot": 35,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Sleep Talk": 70,
+        "Light Screen": 75,
+        "Waterfall": 77,
+        "Rest": 85,
+        "Substitute": 103,
+        "Dragon Pulse": 115,
+        "Surf": 123,
+        "Ice Beam": 135,
+        "Blizzard": 143,
+        "Tera Blast": 171,
+        "Haze": 174,
+        "Scale Shot": 200
+    }
+}

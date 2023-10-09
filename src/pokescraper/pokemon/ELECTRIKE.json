@@ -1,0 +1,83 @@
+{
+    "generation": 3,
+    "name": "Electrike",
+    "species": "Lightning Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric"
+    ],
+    "nationalNumber": 309,
+    "specialName": null,
+    "specialAbilities": [
+        "Static",
+        "Lightning Rod"
+    ],
+    "hiddenAbility": "Minus",
+    "specialAttack": 65,
+    "specialDefense": 40,
+    "catchRate": 120,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 59,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Tackle": 1,
+        "Thunder Wave": 1,
+        "Leer": 4,
+        "Howl": 8,
+        "Quick Attack": 12,
+        "Shock Wave": 16,
+        "Bite": 20,
+        "Thunder Fang": 24,
+        "Roar": 28,
+        "Discharge": 32,
+        "Charge": 36,
+        "Wild Charge": 40,
+        "Thunder": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Roar": 5,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Iron Tail": 23,
+        "Thunderbolt": 24,
+        "Thunder": 25,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Flamethrower": 35,
+        "Facade": 42,
+        "Volt Switch": 43,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Charge Beam": 57,
+        "Endure": 58,
+        "Flash": 70,
+        "Thunder Wave": 73,
+        "Snarl": 78,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Strength": 96
+    }
+}

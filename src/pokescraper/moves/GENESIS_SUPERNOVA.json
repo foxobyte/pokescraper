@@ -1,0 +1,12 @@
+{
+    "name": "Genesis Supernova",
+    "category": "Special",
+    "power": 185,
+    "accuracy": null,
+    "pp": 1,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Mew-exclusive Z-Move.",
+    "isHighCrit": false
+}

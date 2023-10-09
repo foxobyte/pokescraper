@@ -1,0 +1,12 @@
+{
+    "name": "Razor Shell",
+    "category": "Physical",
+    "power": 75,
+    "accuracy": 95,
+    "pp": 10,
+    "probability": 50,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "May lower opponent's Defense.",
+    "isHighCrit": false
+}

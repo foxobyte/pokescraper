@@ -1,0 +1,12 @@
+{
+    "name": "Shadow Ball",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 20,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "May lower opponent's Special Defense.",
+    "isHighCrit": false
+}

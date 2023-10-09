@@ -1,0 +1,12 @@
+{
+    "name": "Flower Shield",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": 100,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "Sharply raises Defense of all Grass-type Pok\u00e9mon on the field.",
+    "isHighCrit": false
+}

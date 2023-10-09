@@ -1,0 +1,43 @@
+{
+    "generation": 3,
+    "name": "Beldum",
+    "species": "Iron Ball Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 40,
+    "attack": 55,
+    "defense": 80,
+    "speed": 30,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Steel",
+        "Psychic"
+    ],
+    "nationalNumber": 374,
+    "specialName": null,
+    "specialAbilities": [
+        "Clear Body"
+    ],
+    "hiddenAbility": "Light Metal",
+    "specialAttack": 35,
+    "specialDefense": 60,
+    "catchRate": 3,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 35,
+    "baseExp": 60,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Tackle": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

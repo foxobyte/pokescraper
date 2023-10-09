@@ -1,0 +1,12 @@
+{
+    "name": "Present",
+    "category": "Physical",
+    "power": null,
+    "accuracy": 90,
+    "pp": 15,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Either deals damage or heals.",
+    "isHighCrit": false
+}

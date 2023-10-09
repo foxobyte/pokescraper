@@ -1,0 +1,12 @@
+{
+    "name": "Howl",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Raises Attack of allies.",
+    "isHighCrit": false
+}

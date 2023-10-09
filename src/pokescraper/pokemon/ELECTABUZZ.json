@@ -1,0 +1,91 @@
+{
+    "generation": 1,
+    "name": "Electabuzz",
+    "species": "Electric Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 65,
+    "attack": 83,
+    "defense": 57,
+    "speed": 105,
+    "gender": {
+        "male": "75%",
+        "female": "25%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric"
+    ],
+    "nationalNumber": 125,
+    "specialName": null,
+    "specialAbilities": [
+        "Static"
+    ],
+    "hiddenAbility": "Vital Spirit",
+    "specialAttack": 95,
+    "specialDefense": 85,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 172,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Human-Like"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Charge": 1,
+        "Leer": 1,
+        "Quick Attack": 1,
+        "Thunder Shock": 1,
+        "Swift": 12,
+        "Shock Wave": 16,
+        "Thunder Wave": 20,
+        "Screech": 24,
+        "Thunder Punch": 28,
+        "Discharge": 34,
+        "Low Kick": 40,
+        "Thunderbolt": 46,
+        "Light Screen": 52,
+        "Thunder": 58,
+        "Giga Impact": 64
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Focus Punch": 1,
+        "Hyper Beam": 15,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Iron Tail": 23,
+        "Thunderbolt": 24,
+        "Thunder": 25,
+        "Low Sweep": 27,
+        "Psychic": 29,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Facade": 42,
+        "Volt Switch": 43,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Focus Blast": 52,
+        "Fling": 56,
+        "Charge Beam": 57,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Thunder Wave": 73,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Strength": 96,
+        "Rock Smash": 98,
+        "Rock Climb": 100
+    }
+}

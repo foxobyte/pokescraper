@@ -1,0 +1,12 @@
+{
+    "name": "Charge Beam",
+    "category": "Special",
+    "power": 50,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": 70,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "May raise user's Special Attack.",
+    "isHighCrit": false
+}

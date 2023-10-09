@@ -1,0 +1,89 @@
+{
+    "generation": 7,
+    "name": "Turtonator",
+    "species": "Blast Turtle Pok\u00e9mon",
+    "height": "2.0\u00a0m (6\u203207\u2033)",
+    "weight": "2.0\u00a0m (6\u203207\u2033)",
+    "hp": 60,
+    "attack": 78,
+    "defense": 135,
+    "speed": 36,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire",
+        "Dragon"
+    ],
+    "nationalNumber": 776,
+    "specialName": null,
+    "specialAbilities": [
+        "Shell Armor"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 91,
+    "specialDefense": 85,
+    "catchRate": 70,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 170,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Dragon",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Smog": 1,
+        "Tackle": 1,
+        "Ember": 4,
+        "Protect": 8,
+        "Endure": 12,
+        "Flail": 16,
+        "Incinerate": 20,
+        "Iron Defense": 24,
+        "Dragon Pulse": 28,
+        "Body Slam": 32,
+        "Flamethrower": 36,
+        "Shell Trap": 40,
+        "Shell Smash": 44,
+        "Overheat": 48,
+        "Explosion": 52
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Burning Jealousy",
+        "Lash Out",
+        "Scale Shot",
+        "Scorching Sands"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Fire Spin": 13,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sunny Day": 34,
+        "Will-O-Wisp": 38,
+        "Facade": 39,
+        "Revenge": 42,
+        "Rock Tomb": 48,
+        "Payback": 57,
+        "Fling": 59,
+        "Venoshock": 74,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Brutal Swing": 97,
+        "Stomping Tantrum": 98
+    }
+}

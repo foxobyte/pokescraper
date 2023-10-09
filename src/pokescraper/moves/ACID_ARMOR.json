@@ -1,0 +1,12 @@
+{
+    "name": "Acid Armor",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "Sharply raises user's Defense.",
+    "isHighCrit": false
+}

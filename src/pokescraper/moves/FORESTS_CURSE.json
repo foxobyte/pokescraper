@@ -1,0 +1,12 @@
+{
+    "name": "Forest's Curse",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Adds Grass type to opponent.",
+    "isHighCrit": false
+}

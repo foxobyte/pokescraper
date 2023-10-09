@@ -1,0 +1,61 @@
+{
+    "generation": 5,
+    "name": "Samurott",
+    "species": "Formidable Pok\u00e9mon",
+    "height": "1.5\u00a0m (4\u203211\u2033)",
+    "weight": "1.5\u00a0m (4\u203211\u2033)",
+    "hp": 95,
+    "attack": 100,
+    "defense": 85,
+    "speed": 70,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 503,
+    "specialName": null,
+    "specialAbilities": [
+        "Torrent"
+    ],
+    "hiddenAbility": "Shell Armor",
+    "specialAttack": 108,
+    "specialDefense": 70,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 264,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Megahorn": 1,
+        "Slash": 1,
+        "Sucker Punch": 1,
+        "Tackle": 1,
+        "Tail Whip": 1,
+        "Water Gun": 1,
+        "Focus Energy": 13,
+        "Razor Shell": 18,
+        "Fury Cutter": 21,
+        "Water Pulse": 25,
+        "Aerial Ace": 29,
+        "Aqua Jet": 34,
+        "Encore": 39,
+        "Aqua Tail": 46,
+        "Retaliate": 51,
+        "Swords Dance": 58,
+        "Hydro Pump": 63
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

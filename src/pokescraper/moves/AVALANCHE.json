@@ -1,0 +1,12 @@
+{
+    "name": "Avalanche",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "Power doubles if user took damage first.",
+    "isHighCrit": false
+}

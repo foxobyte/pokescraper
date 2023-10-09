@@ -1,0 +1,12 @@
+{
+    "name": "Revenge",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Power increases if user was hit first.",
+    "isHighCrit": false
+}

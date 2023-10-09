@@ -1,0 +1,12 @@
+{
+    "name": "Focus Energy",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Increases critical hit ratio.",
+    "isHighCrit": false
+}

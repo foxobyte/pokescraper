@@ -1,0 +1,12 @@
+{
+    "name": "Feather Dance",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "Sharply lowers opponent's Attack.",
+    "isHighCrit": false
+}

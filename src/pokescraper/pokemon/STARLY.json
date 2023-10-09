@@ -1,0 +1,82 @@
+{
+    "generation": 4,
+    "name": "Starly",
+    "species": "Starling Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 40,
+    "attack": 55,
+    "defense": 30,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 396,
+    "specialName": null,
+    "specialAbilities": [
+        "Keen Eye"
+    ],
+    "hiddenAbility": "Reckless",
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 49,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Tackle": 1,
+        "Quick Attack": 5,
+        "Wing Attack": 9,
+        "Double Team": 13,
+        "Endeavor": 17,
+        "Whirlwind": 21,
+        "Aerial Ace": 25,
+        "Take Down": 29,
+        "Agility": 33,
+        "Brave Bird": 37,
+        "Final Gambit": 41
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Protect": 7,
+        "Acrobatics": 14,
+        "Thief": 18,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Swift": 32,
+        "Air Cutter": 40,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "U-turn": 60,
+        "Air Slash": 65,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Fly": 97,
+        "Substitute": 103,
+        "Tailwind": 113,
+        "Heat Wave": 118,
+        "Helping Hand": 130,
+        "Hurricane": 160,
+        "Brave Bird": 164,
+        "Tera Blast": 171
+    }
+}

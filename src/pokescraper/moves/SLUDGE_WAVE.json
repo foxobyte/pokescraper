@@ -1,0 +1,12 @@
+{
+    "name": "Sludge Wave",
+    "category": "Special",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 10,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "May poison opponent.",
+    "isHighCrit": false
+}

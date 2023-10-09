@@ -1,0 +1,79 @@
+{
+    "generation": 5,
+    "name": "Whirlipede",
+    "species": "Curlipede Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 40,
+    "attack": 55,
+    "defense": 99,
+    "speed": 47,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Poison"
+    ],
+    "nationalNumber": 544,
+    "specialName": null,
+    "specialAbilities": [
+        "Poison Point",
+        "Swarm"
+    ],
+    "hiddenAbility": "Speed Boost",
+    "specialAttack": 40,
+    "specialDefense": 79,
+    "catchRate": 120,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 126,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Defense Curl": 1,
+        "Iron Defense": 1,
+        "Poison Sting": 1,
+        "Protect": 1,
+        "Rollout": 1,
+        "Poison Tail": 12,
+        "Screech": 16,
+        "Bug Bite": 20,
+        "Venoshock": 26,
+        "Take Down": 32,
+        "Agility": 38,
+        "Toxic": 44,
+        "Venom Drench": 50,
+        "Double-Edge": 56
+    },
+    "movesLearnedOnEvolution": [
+        "Iron Defense"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Skitter Smack",
+        "Steel Roller"
+    ],
+    "movesLearnedByTm": {
+        "Pin Missile": 7,
+        "Solar Beam": 11,
+        "Screech": 16,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Payback": 57,
+        "Venoshock": 74,
+        "Round": 76,
+        "Hex": 77
+    }
+}

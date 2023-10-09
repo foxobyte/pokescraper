@@ -1,0 +1,12 @@
+{
+    "name": "Lick",
+    "category": "Physical",
+    "power": 30,
+    "accuracy": 100,
+    "pp": 30,
+    "probability": 30,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "May paralyze opponent.",
+    "isHighCrit": false
+}

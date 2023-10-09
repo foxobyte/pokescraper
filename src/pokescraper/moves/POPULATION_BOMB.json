@@ -1,0 +1,12 @@
+{
+    "name": "Population Bomb",
+    "category": "Physical",
+    "power": 20,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Hits 1-10 times in a row.",
+    "isHighCrit": false
+}

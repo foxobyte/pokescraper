@@ -1,0 +1,88 @@
+{
+    "generation": 5,
+    "name": "Excadrill",
+    "species": "Subterrene Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 110,
+    "attack": 135,
+    "defense": 60,
+    "speed": 88,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ground",
+        "Steel"
+    ],
+    "nationalNumber": 530,
+    "specialName": null,
+    "specialAbilities": [
+        "Sand Rush",
+        "Sand Force"
+    ],
+    "hiddenAbility": "Mold Breaker",
+    "specialAttack": 50,
+    "specialDefense": 65,
+    "catchRate": 60,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 178,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Hone Claws": 1,
+        "Horn Drill": 1,
+        "Mud-Slap": 1,
+        "Rapid Spin": 1,
+        "Scratch": 1,
+        "Fury Swipes": 12,
+        "Metal Claw": 16,
+        "Sandstorm": 20,
+        "Crush Claw": 24,
+        "Rock Slide": 28,
+        "Dig": 34,
+        "Swords Dance": 40,
+        "Drill Run": 46,
+        "Earthquake": 52,
+        "Fissure": 58
+    },
+    "movesLearnedOnEvolution": [
+        "Horn Drill"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Scorching Sands"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Facade": 39,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Sand Tomb": 49,
+        "Mud Shot": 53,
+        "Rock Blast": 54,
+        "Fling": 59,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Smart Strike": 96,
+        "Brutal Swing": 97,
+        "Stomping Tantrum": 98
+    }
+}

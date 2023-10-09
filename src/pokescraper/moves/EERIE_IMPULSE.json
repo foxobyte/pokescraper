@@ -1,0 +1,12 @@
+{
+    "name": "Eerie Impulse",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "Sharply lowers opponent's Special Attack.",
+    "isHighCrit": false
+}

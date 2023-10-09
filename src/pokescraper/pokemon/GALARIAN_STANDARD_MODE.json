@@ -1,0 +1,59 @@
+{
+    "generation": 5,
+    "name": "Darmanitan",
+    "species": "Zen Charm Pok\u00e9mon",
+    "height": "1.7\u00a0m (5\u203207\u2033)",
+    "weight": "1.7\u00a0m (5\u203207\u2033)",
+    "hp": 105,
+    "attack": 140,
+    "defense": 55,
+    "speed": 95,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice"
+    ],
+    "nationalNumber": 555,
+    "specialName": "Galarian Standard Mode",
+    "specialAbilities": [
+        "Gorilla Tactics"
+    ],
+    "hiddenAbility": "Zen Mode",
+    "specialAttack": 30,
+    "specialDefense": 55,
+    "catchRate": 60,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 168,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Bite": 1,
+        "Icicle Crash": 1,
+        "Powder Snow": 1,
+        "Tackle": 1,
+        "Taunt": 1,
+        "Avalanche": 12,
+        "Work Up": 16,
+        "Ice Fang": 20,
+        "Headbutt": 24,
+        "Ice Punch": 28,
+        "Uproar": 32,
+        "Belly Drum": 38,
+        "Blizzard": 44,
+        "Thrash": 50,
+        "Superpower": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

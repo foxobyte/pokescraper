@@ -1,0 +1,12 @@
+{
+    "name": "Rock Tomb",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 95,
+    "pp": 15,
+    "probability": 100,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "Lowers opponent's Speed.",
+    "isHighCrit": false
+}

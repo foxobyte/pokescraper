@@ -1,0 +1,93 @@
+{
+    "generation": 8,
+    "name": "Sandaconda",
+    "species": "Sand Snake Pok\u00e9mon",
+    "height": "3.8\u00a0m (12\u203206\u2033)",
+    "weight": "3.8\u00a0m (12\u203206\u2033)",
+    "hp": 72,
+    "attack": 107,
+    "defense": 125,
+    "speed": 71,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ground"
+    ],
+    "nationalNumber": 844,
+    "specialName": null,
+    "specialAbilities": [
+        "Sand Spit",
+        "Shed Skin"
+    ],
+    "hiddenAbility": "Sand Veil",
+    "specialAttack": 65,
+    "specialDefense": 70,
+    "catchRate": 120,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 179,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Dragon",
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Brutal Swing": 1,
+        "Minimize": 1,
+        "Sand Attack": 1,
+        "Wrap": 1,
+        "Bulldoze": 15,
+        "Headbutt": 20,
+        "Glare": 25,
+        "Dig": 30,
+        "Sandstorm": 35,
+        "Slam": 42,
+        "Coil": 49,
+        "Sand Tomb": 51
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Thunder Fang": 9,
+        "Facade": 25,
+        "Poison Tail": 26,
+        "Bulldoze": 28,
+        "Mud Shot": 35,
+        "Rock Tomb": 36,
+        "Endure": 47,
+        "Sandstorm": 51,
+        "Dig": 55,
+        "Zen Headbutt": 59,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Rock Blast": 76,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Body Press": 89,
+        "Iron Head": 99,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Drill Run": 106,
+        "Stealth Rock": 116,
+        "Earth Power": 133,
+        "Earthquake": 149,
+        "Stone Edge": 150,
+        "Giga Impact": 152,
+        "Outrage": 156,
+        "Hurricane": 160,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

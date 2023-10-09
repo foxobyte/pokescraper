@@ -1,0 +1,83 @@
+{
+    "generation": 5,
+    "name": "Munna",
+    "species": "Dream Eater Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 76,
+    "attack": 25,
+    "defense": 45,
+    "speed": 24,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic"
+    ],
+    "nationalNumber": 517,
+    "specialName": null,
+    "specialAbilities": [
+        "Forewarn",
+        "Synchronize"
+    ],
+    "hiddenAbility": "Telepathy",
+    "specialAttack": 67,
+    "specialDefense": 55,
+    "catchRate": 190,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 58,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 10,
+    "movesLearnedAtLevel": {
+        "Defense Curl": 1,
+        "Stored Power": 1,
+        "Hypnosis": 4,
+        "Psybeam": 8,
+        "Imprison": 12,
+        "Moonlight": 16,
+        "Magic Coat": 20,
+        "Zen Headbutt": 24,
+        "Calm Mind": 28,
+        "Yawn": 32,
+        "Psychic": 36,
+        "Moonblast": 40,
+        "Dream Eater": 44,
+        "Future Sight": 48,
+        "Wonder Room": 52
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Expanding Force"
+    ],
+    "movesLearnedByTm": {
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Imprison": 44,
+        "Rock Tomb": 48,
+        "Power Swap": 60,
+        "Guard Swap": 61,
+        "Trick Room": 70,
+        "Wonder Room": 71,
+        "Round": 76
+    }
+}

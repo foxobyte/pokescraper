@@ -1,0 +1,12 @@
+{
+    "name": "Steel Wing",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": 90,
+    "pp": 25,
+    "probability": 10,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "May raise user's Defense.",
+    "isHighCrit": false
+}

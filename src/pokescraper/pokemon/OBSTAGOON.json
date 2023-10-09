@@ -1,0 +1,109 @@
+{
+    "generation": 8,
+    "name": "Obstagoon",
+    "species": "Blocking Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 93,
+    "attack": 90,
+    "defense": 101,
+    "speed": 95,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dark",
+        "Normal"
+    ],
+    "nationalNumber": 862,
+    "specialName": null,
+    "specialAbilities": [
+        "Reckless",
+        "Guts"
+    ],
+    "hiddenAbility": "Defiant",
+    "specialAttack": 60,
+    "specialDefense": 81,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 260,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Baby-Doll Eyes": 1,
+        "Cross Chop": 1,
+        "Leer": 1,
+        "Lick": 1,
+        "Night Slash": 1,
+        "Obstruct": 1,
+        "Pin Missile": 1,
+        "Sand Attack": 1,
+        "Submission": 1,
+        "Switcheroo": 1,
+        "Tackle": 1,
+        "Snarl": 9,
+        "Headbutt": 12,
+        "Hone Claws": 15,
+        "Fury Swipes": 18,
+        "Rest": 23,
+        "Take Down": 28,
+        "Scary Face": 35,
+        "Counter": 42,
+        "Taunt": 49,
+        "Double-Edge": 56
+    },
+    "movesLearnedOnEvolution": [
+        "Obstruct"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Lash Out"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Fire Punch": 3,
+        "Ice Punch": 4,
+        "Thunder Punch": 5,
+        "Pin Missile": 7,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Dig": 15,
+        "Screech": 16,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Icy Wind": 27,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Whirlpool": 36,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Revenge": 42,
+        "Brick Break": 43,
+        "Fake Tears": 47,
+        "Mud Shot": 53,
+        "Payback": 57,
+        "Assurance": 58,
+        "Fling": 59,
+        "Shadow Claw": 65,
+        "Cross Poison": 73,
+        "Round": 76,
+        "Retaliate": 79,
+        "Snarl": 85,
+        "Stomping Tantrum": 98
+    }
+}

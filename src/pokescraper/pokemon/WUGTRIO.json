@@ -1,0 +1,88 @@
+{
+    "generation": 9,
+    "name": "Wugtrio",
+    "species": "Garden Eel Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 35,
+    "attack": 100,
+    "defense": 50,
+    "speed": 120,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 961,
+    "specialName": null,
+    "specialAbilities": [
+        "Gooey",
+        "Rattled"
+    ],
+    "hiddenAbility": "Sand Veil",
+    "specialAttack": 50,
+    "specialDefense": 70,
+    "catchRate": 50,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 149,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 3"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Mud-Slap": 1,
+        "Sand Attack": 1,
+        "Water Gun": 1,
+        "Wrap": 1,
+        "Aqua Jet": 12,
+        "Slam": 16,
+        "Water Pulse": 20,
+        "Headbutt": 24,
+        "Triple Dive": 30,
+        "Dig": 36,
+        "Sucker Punch": 42,
+        "Throat Chop": 48,
+        "Liquidation": 54
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Swift": 32,
+        "Mud Shot": 35,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Sandstorm": 51,
+        "Dig": 55,
+        "Foul Play": 62,
+        "Sleep Talk": 70,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Substitute": 103,
+        "Liquidation": 110,
+        "Surf": 123,
+        "Helping Hand": 130,
+        "Earth Power": 133,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Giga Impact": 152,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

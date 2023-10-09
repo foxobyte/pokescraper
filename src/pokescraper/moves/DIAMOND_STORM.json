@@ -1,0 +1,12 @@
+{
+    "name": "Diamond Storm",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 5,
+    "probability": 50,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "May sharply raise user's Defense.",
+    "isHighCrit": false
+}

@@ -1,0 +1,91 @@
+{
+    "generation": 3,
+    "name": "Surskit",
+    "species": "Pond Skater Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 40,
+    "attack": 30,
+    "defense": 32,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Water"
+    ],
+    "nationalNumber": 283,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim"
+    ],
+    "hiddenAbility": "Rain Dish",
+    "specialAttack": 50,
+    "specialDefense": 52,
+    "catchRate": 200,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 54,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug",
+        "Water 1"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Water Gun": 1,
+        "Quick Attack": 6,
+        "Sweet Scent": 9,
+        "Soak": 14,
+        "Bubble Beam": 17,
+        "Agility": 22,
+        "Haze": 25,
+        "Mist": 25,
+        "Baton Pass": 35,
+        "Sticky Web": 38
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Acrobatics": 14,
+        "Struggle Bug": 15,
+        "Psybeam": 16,
+        "Thief": 18,
+        "Pounce": 21,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Icy Wind": 34,
+        "Mud Shot": 35,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Sleep Talk": 70,
+        "Waterfall": 77,
+        "Rest": 85,
+        "Leech Life": 95,
+        "Substitute": 103,
+        "Liquidation": 110,
+        "Giga Drain": 111,
+        "Shadow Ball": 114,
+        "Surf": 123,
+        "Helping Hand": 130,
+        "Baton Pass": 132,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Bug Buzz": 162,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Rock Smash",
+    "category": "Physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 50,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "May lower opponent's Defense.",
+    "isHighCrit": false
+}

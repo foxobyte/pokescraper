@@ -1,0 +1,12 @@
+{
+    "name": "Mountain Gale",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 85,
+    "pp": 10,
+    "probability": null,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "Lowers user's Speed.",
+    "isHighCrit": false
+}

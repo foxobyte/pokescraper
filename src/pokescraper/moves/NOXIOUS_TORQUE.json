@@ -1,0 +1,12 @@
+{
+    "name": "Noxious Torque",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "",
+    "isHighCrit": false
+}

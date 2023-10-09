@@ -1,0 +1,92 @@
+{
+    "generation": 6,
+    "name": "Tyrantrum",
+    "species": "Despot Pok\u00e9mon",
+    "height": "2.5\u00a0m (8\u203202\u2033)",
+    "weight": "2.5\u00a0m (8\u203202\u2033)",
+    "hp": 82,
+    "attack": 121,
+    "defense": 119,
+    "speed": 71,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Dragon"
+    ],
+    "nationalNumber": 697,
+    "specialName": null,
+    "specialAbilities": [
+        "Strong Jaw"
+    ],
+    "hiddenAbility": "Rock Head",
+    "specialAttack": 69,
+    "specialDefense": 59,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 182,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Dragon",
+        "Monster"
+    ],
+    "eggCycles": 30,
+    "movesLearnedAtLevel": {
+        "Ancient Power": 1,
+        "Roar": 1,
+        "Tackle": 1,
+        "Tail Whip": 1,
+        "Charm": 12,
+        "Bite": 16,
+        "Dragon Tail": 20,
+        "Stomp": 24,
+        "Rock Slide": 28,
+        "Crunch": 32,
+        "Dragon Claw": 36,
+        "Thrash": 42,
+        "Earthquake": 48,
+        "Horn Drill": 54,
+        "Giga Impact": 60,
+        "Head Smash": 66
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Lash Out",
+        "Meteor Beam",
+        "Scale Shot"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Charm": 29,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Rock Blast": 54,
+        "Assurance": 58,
+        "Thunder Fang": 66,
+        "Ice Fang": 67,
+        "Fire Fang": 68,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Brutal Swing": 97,
+        "Stomping Tantrum": 98,
+        "Breaking Swipe": 99
+    }
+}

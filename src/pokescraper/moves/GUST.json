@@ -1,0 +1,12 @@
+{
+    "name": "Gust",
+    "category": "Special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 35,
+    "probability": null,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "Hits Pok\u00e9mon using Fly/Bounce/Sky Drop with double power.",
+    "isHighCrit": false
+}

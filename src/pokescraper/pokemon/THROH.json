@@ -1,0 +1,88 @@
+{
+    "generation": 5,
+    "name": "Throh",
+    "species": "Judo Pok\u00e9mon",
+    "height": "1.3\u00a0m (4\u203203\u2033)",
+    "weight": "1.3\u00a0m (4\u203203\u2033)",
+    "hp": 120,
+    "attack": 100,
+    "defense": 85,
+    "speed": 45,
+    "gender": {
+        "male": "100%",
+        "female": "0%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting"
+    ],
+    "nationalNumber": 538,
+    "specialName": null,
+    "specialAbilities": [
+        "Guts",
+        "Inner Focus"
+    ],
+    "hiddenAbility": "Mold Breaker",
+    "specialAttack": 30,
+    "specialDefense": 85,
+    "catchRate": 45,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 163,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Human-Like"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Bind": 1,
+        "Leer": 1,
+        "Focus Energy": 5,
+        "Circle Throw": 10,
+        "Wide Guard": 15,
+        "Revenge": 20,
+        "Bulk Up": 25,
+        "Storm Throw": 30,
+        "Vital Throw": 35,
+        "Seismic Toss": 40,
+        "Endure": 45,
+        "Reversal": 50,
+        "Superpower": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Coaching"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Fire Punch": 3,
+        "Ice Punch": 4,
+        "Thunder Punch": 5,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Revenge": 42,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Payback": 57,
+        "Fling": 59,
+        "Low Sweep": 75,
+        "Round": 76,
+        "Retaliate": 79,
+        "Bulldoze": 81,
+        "Stomping Tantrum": 98
+    }
+}

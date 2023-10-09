@@ -1,0 +1,92 @@
+{
+    "generation": 8,
+    "name": "Polteageist",
+    "species": "Black Tea Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.2\u00a0m (0\u203208\u2033)",
+    "hp": 60,
+    "attack": 65,
+    "defense": 65,
+    "speed": 70,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Ghost"
+    ],
+    "nationalNumber": 855,
+    "specialName": null,
+    "specialAbilities": [
+        "Weak Armor"
+    ],
+    "hiddenAbility": "Cursed Body",
+    "specialAttack": 134,
+    "specialDefense": 114,
+    "catchRate": 60,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 178,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous",
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Aromatic Mist": 1,
+        "Astonish": 1,
+        "Mega Drain": 1,
+        "Strength Sap": 1,
+        "Withdraw": 1,
+        "Protect": 18,
+        "Sucker Punch": 24,
+        "Sweet Scent": 30,
+        "Giga Drain": 36,
+        "Nasty Plot": 42,
+        "Shadow Ball": 48,
+        "Memento": 54,
+        "Shell Smash": 60,
+        "Curse": 66
+    },
+    "movesLearnedOnEvolution": [
+        "Teatime"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Protect": 7,
+        "Psybeam": 16,
+        "Confuse Ray": 17,
+        "Facade": 25,
+        "Hex": 29,
+        "Magical Leaf": 33,
+        "Stored Power": 41,
+        "Night Shade": 42,
+        "Endure": 47,
+        "Psyshock": 54,
+        "Foul Play": 62,
+        "Sleep Talk": 70,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Metronome": 80,
+        "Rest": 85,
+        "Imprison": 92,
+        "Dark Pulse": 94,
+        "Skill Swap": 98,
+        "Substitute": 103,
+        "Will-O-Wisp": 107,
+        "Trick": 109,
+        "Giga Drain": 111,
+        "Shadow Ball": 114,
+        "Psychic": 120,
+        "Calm Mind": 129,
+        "Baton Pass": 132,
+        "Nasty Plot": 140,
+        "Phantom Force": 151,
+        "Giga Impact": 152,
+        "Trick Room": 161,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

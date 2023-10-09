@@ -1,0 +1,12 @@
+{
+    "name": "Rain Dance",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Makes it rain for 5 turns.",
+    "isHighCrit": false
+}

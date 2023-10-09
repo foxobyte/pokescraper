@@ -1,0 +1,85 @@
+{
+    "generation": 5,
+    "name": "Stoutland",
+    "species": "Big-Hearted Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 85,
+    "attack": 110,
+    "defense": 90,
+    "speed": 80,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 508,
+    "specialName": null,
+    "specialAbilities": [
+        "Intimidate",
+        "Sand Rush"
+    ],
+    "hiddenAbility": "Scrappy",
+    "specialAttack": 45,
+    "specialDefense": 90,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 225,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Bite": 1,
+        "Fire Fang": 1,
+        "Ice Fang": 1,
+        "Leer": 1,
+        "Tackle": 1,
+        "Thunder Fang": 1,
+        "Work Up": 1,
+        "Retaliate": 12,
+        "Baby-Doll Eyes": 19,
+        "Play Rough": 24,
+        "Crunch": 30,
+        "Take Down": 38,
+        "Helping Hand": 46,
+        "Reversal": 54,
+        "Roar": 62,
+        "Last Resort": 70,
+        "Giga Impact": 78
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Dig": 15,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Charm": 29,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Rock Tomb": 48,
+        "Payback": 57,
+        "Thunder Fang": 66,
+        "Ice Fang": 67,
+        "Fire Fang": 68,
+        "Round": 76,
+        "Retaliate": 79,
+        "Snarl": 85,
+        "Stomping Tantrum": 98
+    }
+}

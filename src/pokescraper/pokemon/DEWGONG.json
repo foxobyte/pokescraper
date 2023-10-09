@@ -1,0 +1,93 @@
+{
+    "generation": 1,
+    "name": "Dewgong",
+    "species": "Sea Lion Pok\u00e9mon",
+    "height": "1.7\u00a0m (5\u203207\u2033)",
+    "weight": "1.7\u00a0m (5\u203207\u2033)",
+    "hp": 90,
+    "attack": 70,
+    "defense": 80,
+    "speed": 70,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Ice"
+    ],
+    "nationalNumber": 87,
+    "specialName": null,
+    "specialAbilities": [
+        "Thick Fat",
+        "Hydration"
+    ],
+    "hiddenAbility": "Ice Body",
+    "specialAttack": 70,
+    "specialDefense": 95,
+    "catchRate": 75,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 166,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Bubble Beam": 7,
+        "Growl": 3,
+        "Headbutt": 1,
+        "Icy Wind": 11,
+        "Sheer Cold": 1,
+        "Water Gun": 1,
+        "Encore": 13,
+        "Ice Shard": 17,
+        "Rest": 21,
+        "Aqua Ring": 23,
+        "Aurora Beam": 27,
+        "Aqua Jet": 31,
+        "Brine": 33,
+        "Take Down": 39,
+        "Dive": 45,
+        "Aqua Tail": 49,
+        "Ice Beam": 55,
+        "Safeguard": 61,
+        "Hail": 65
+    },
+    "movesLearnedOnEvolution": [
+        "Sheer Cold"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Safeguard": 20,
+        "Iron Tail": 23,
+        "Double Team": 32,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Brine": 55,
+        "Fling": 56,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Avalanche": 72,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Surf": 95,
+        "Waterfall": 99
+    }
+}

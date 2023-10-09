@@ -1,0 +1,12 @@
+{
+    "name": "Coil",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "Raises user's Attack, Defense and Accuracy.",
+    "isHighCrit": false
+}

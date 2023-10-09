@@ -1,0 +1,61 @@
+{
+    "generation": 1,
+    "name": "Growlithe",
+    "species": "Scout Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 60,
+    "attack": 75,
+    "defense": 45,
+    "speed": 55,
+    "gender": {
+        "male": "75%",
+        "female": "25%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire",
+        "Rock"
+    ],
+    "nationalNumber": 58,
+    "specialName": "Hisuian Growlithe",
+    "specialAbilities": [
+        "Intimidate",
+        "Flash Fire"
+    ],
+    "hiddenAbility": "Rock Head",
+    "specialAttack": 65,
+    "specialDefense": 50,
+    "catchRate": 190,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 70,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Ember": 1,
+        "Leer": 1,
+        "Howl": 4,
+        "Bite": 8,
+        "Flame Wheel": 12,
+        "Helping Hand": 16,
+        "Fire Fang": 24,
+        "Retaliate": 28,
+        "Crunch": 32,
+        "Take Down": 36,
+        "Flamethrower": 40,
+        "Roar": 44,
+        "Rock Slide": 48,
+        "Reversal": 52,
+        "Flare Blitz": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

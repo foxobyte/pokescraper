@@ -1,0 +1,12 @@
+{
+    "name": "Sinister Arrow Raid",
+    "category": "Physical",
+    "power": 180,
+    "accuracy": null,
+    "pp": 1,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "Decidueye-exclusive Z-Move.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Guillotine",
+    "category": "Physical",
+    "power": null,
+    "accuracy": 30,
+    "pp": 5,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "One-Hit-KO, if it hits.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Self-Destruct",
+    "category": "Physical",
+    "power": 200,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User faints.",
+    "isHighCrit": false
+}

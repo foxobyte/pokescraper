@@ -1,0 +1,12 @@
+{
+    "name": "Me First",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User copies the opponent's attack with 1.5\u00d7 power.",
+    "isHighCrit": false
+}

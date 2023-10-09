@@ -1,0 +1,88 @@
+{
+    "generation": 9,
+    "name": "Finizen",
+    "species": "Dolphin Pok\u00e9mon",
+    "height": "1.3\u00a0m (4\u203203\u2033)",
+    "weight": "1.3\u00a0m (4\u203203\u2033)",
+    "hp": 70,
+    "attack": 45,
+    "defense": 40,
+    "speed": 75,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 963,
+    "specialName": null,
+    "specialAbilities": [
+        "Water Veil"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 45,
+    "specialDefense": 40,
+    "catchRate": 200,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 63,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Field",
+        "Water 2"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Supersonic": 1,
+        "Water Gun": 1,
+        "Astonish": 7,
+        "Focus Energy": 10,
+        "Aqua Jet": 13,
+        "Double Hit": 17,
+        "Dive": 21,
+        "Charm": 25,
+        "Acrobatics": 29,
+        "Encore": 34,
+        "Aqua Tail": 39,
+        "Mist": 44,
+        "Hydro Pump": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Agility": 4,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Acrobatics": 14,
+        "Disarming Voice": 19,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Swift": 32,
+        "Icy Wind": 34,
+        "Draining Kiss": 37,
+        "Fling": 43,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Zen Headbutt": 59,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Waterfall": 77,
+        "Rest": 85,
+        "Substitute": 103,
+        "Liquidation": 110,
+        "Encore": 122,
+        "Surf": 123,
+        "Helping Hand": 130,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Tera Blast": 171
+    }
+}

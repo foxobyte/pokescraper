@@ -1,0 +1,12 @@
+{
+    "name": "Hex",
+    "category": "Special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "Inflicts more damage if the target has a status condition.",
+    "isHighCrit": false
+}

@@ -1,0 +1,98 @@
+{
+    "generation": 9,
+    "name": "Scovillain",
+    "species": "Spicy Pepper Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "0.9\u00a0m (2\u203211\u2033)",
+    "hp": 65,
+    "attack": 108,
+    "defense": 65,
+    "speed": 75,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Fire"
+    ],
+    "nationalNumber": 952,
+    "specialName": null,
+    "specialAbilities": [
+        "Chlorophyll",
+        "Insomnia"
+    ],
+    "hiddenAbility": "Moody",
+    "specialAttack": 108,
+    "specialDefense": 65,
+    "catchRate": 75,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 170,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Fire Fang": 1,
+        "Leafage": 1,
+        "Leer": 1,
+        "Bite": 4,
+        "Growth": 10,
+        "Razor Leaf": 13,
+        "Sunny Day": 17,
+        "Bullet Seed": 21,
+        "Headbutt": 24,
+        "Zen Headbutt": 28,
+        "Worry Seed": 33,
+        "Crunch": 38,
+        "Seed Bomb": 44,
+        "Overheat": 48,
+        "Solar Beam": 48
+    },
+    "movesLearnedOnEvolution": [
+        "Flamethrower",
+        "Spicy Extract"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Thief": 18,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Magical Leaf": 33,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Sandstorm": 51,
+        "Bullet Seed": 56,
+        "Zen Headbutt": 59,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Grass Knot": 81,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Substitute": 103,
+        "Will-O-Wisp": 107,
+        "Crunch": 108,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Flamethrower": 125,
+        "Helping Hand": 130,
+        "Grassy Terrain": 137,
+        "Fire Blast": 141,
+        "Giga Impact": 152,
+        "Overheat": 157,
+        "Leaf Storm": 159,
+        "Hyper Beam": 163,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "generation": 6,
+    "name": "Diggersby",
+    "species": "Digging Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 85,
+    "attack": 56,
+    "defense": 77,
+    "speed": 78,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Ground"
+    ],
+    "nationalNumber": 660,
+    "specialName": null,
+    "specialAbilities": [
+        "Pickup",
+        "Cheek Pouch"
+    ],
+    "hiddenAbility": "Huge Power",
+    "specialAttack": 50,
+    "specialDefense": 77,
+    "catchRate": 127,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 148,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Laser Focus": 1,
+        "Leer": 1,
+        "Mud-Slap": 1,
+        "Tackle": 1,
+        "Quick Attack": 9,
+        "Mud Shot": 12,
+        "Flail": 15,
+        "Double Kick": 18,
+        "Bulldoze": 23,
+        "Dig": 28,
+        "Bounce": 33,
+        "Take Down": 38,
+        "Swords Dance": 43,
+        "Earthquake": 48,
+        "Super Fang": 53,
+        "Hammer Arm": 58
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Scorching Sands"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Fire Punch": 3,
+        "Ice Punch": 4,
+        "Thunder Punch": 5,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Facade": 39,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Sand Tomb": 49,
+        "Bounce": 52,
+        "Mud Shot": 53,
+        "U-turn": 56,
+        "Payback": 57,
+        "Fling": 59,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Brutal Swing": 97,
+        "Stomping Tantrum": 98
+    }
+}

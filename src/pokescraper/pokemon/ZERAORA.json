@@ -1,0 +1,93 @@
+{
+    "generation": 7,
+    "name": "Zeraora",
+    "species": "Thunderclap Pok\u00e9mon",
+    "height": "1.5\u00a0m (4\u203211\u2033)",
+    "weight": "1.5\u00a0m (4\u203211\u2033)",
+    "hp": 88,
+    "attack": 112,
+    "defense": 75,
+    "speed": 143,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Electric"
+    ],
+    "nationalNumber": 807,
+    "specialName": null,
+    "specialAbilities": [
+        "Volt Absorb"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 102,
+    "specialDefense": 80,
+    "catchRate": 3,
+    "evYield": {
+        "Speed": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 270,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Fake Out": 1,
+        "Power-Up Punch": 1,
+        "Quick Attack": 1,
+        "Scratch": 1,
+        "Snarl": 1,
+        "Spark": 1,
+        "Fury Swipes": 8,
+        "Quick Guard": 16,
+        "Slash": 24,
+        "Volt Switch": 32,
+        "Charge": 40,
+        "Thunder Punch": 48,
+        "Hone Claws": 56,
+        "Discharge": 64,
+        "Wild Charge": 72,
+        "Agility": 80,
+        "Plasma Fists": 88,
+        "Close Combat": 96
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Coaching",
+        "Rising Voltage"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Pay Day": 2,
+        "Fire Punch": 3,
+        "Thunder Punch": 5,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Revenge": 42,
+        "Brick Break": 43,
+        "Bounce": 52,
+        "Assurance": 58,
+        "Fling": 59,
+        "Drain Punch": 63,
+        "Low Sweep": 75,
+        "Round": 76,
+        "Acrobatics": 78,
+        "Volt Switch": 80,
+        "Electroweb": 82,
+        "Snarl": 85,
+        "Electric Terrain": 90,
+        "False Swipe": 94,
+        "Brutal Swing": 97
+    }
+}

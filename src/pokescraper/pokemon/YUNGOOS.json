@@ -1,0 +1,93 @@
+{
+    "generation": 7,
+    "name": "Yungoos",
+    "species": "Loitering Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 48,
+    "attack": 70,
+    "defense": 30,
+    "speed": 45,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 734,
+    "specialName": null,
+    "specialAbilities": [
+        "Strong Jaw",
+        "Stakeout"
+    ],
+    "hiddenAbility": "Adaptability",
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "catchRate": 255,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 51,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Tackle": 1,
+        "Leer": 3,
+        "Payback": 7,
+        "Sand Attack": 10,
+        "Work Up": 13,
+        "Bite": 19,
+        "Mud-Slap": 22,
+        "Super Fang": 25,
+        "Take Down": 28,
+        "Scary Face": 31,
+        "Crunch": 34,
+        "Yawn": 37,
+        "Thrash": 40,
+        "Rest": 43
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Thunder Fang": 9,
+        "Ice Fang": 10,
+        "Thief": 18,
+        "Trailblaze": 20,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Mud Shot": 35,
+        "Rock Tomb": 36,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Sandstorm": 51,
+        "Dig": 55,
+        "Zen Headbutt": 59,
+        "U-turn": 60,
+        "Psychic Fangs": 63,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Taunt": 87,
+        "Substitute": 103,
+        "Crunch": 108,
+        "Helping Hand": 130,
+        "Reversal": 134,
+        "Wild Charge": 147,
+        "Tera Blast": 171
+    }
+}

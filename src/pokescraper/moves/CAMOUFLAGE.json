@@ -1,0 +1,12 @@
+{
+    "name": "Camouflage",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Changes user's type according to the location.",
+    "isHighCrit": false
+}

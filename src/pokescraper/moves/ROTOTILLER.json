@@ -1,0 +1,12 @@
+{
+    "name": "Rototiller",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": 100,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "Raises Attack and Special Attack of Grass-types.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Withdraw",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Raises user's Defense.",
+    "isHighCrit": false
+}

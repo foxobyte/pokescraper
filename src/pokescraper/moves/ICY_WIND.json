@@ -1,0 +1,12 @@
+{
+    "name": "Icy Wind",
+    "category": "Special",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 15,
+    "probability": 100,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "Lowers opponent's Speed.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Catastropika",
+    "category": "Physical",
+    "power": 210,
+    "accuracy": null,
+    "pp": 1,
+    "probability": null,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "Pikachu-exclusive Z-Move.",
+    "isHighCrit": false
+}

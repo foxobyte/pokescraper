@@ -1,0 +1,12 @@
+{
+    "name": "Armor Cannon",
+    "category": "Special",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "Lowers user's Defense and Special Defense.",
+    "isHighCrit": false
+}

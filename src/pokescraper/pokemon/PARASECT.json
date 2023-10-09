@@ -1,0 +1,91 @@
+{
+    "generation": 1,
+    "name": "Parasect",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 60,
+    "attack": 95,
+    "defense": 80,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Grass"
+    ],
+    "nationalNumber": 47,
+    "specialName": null,
+    "specialAbilities": [
+        "Effect Spore",
+        "Dry Skin"
+    ],
+    "hiddenAbility": "Damp",
+    "specialAttack": 60,
+    "specialDefense": 80,
+    "catchRate": 75,
+    "evYield": {
+        "Attack": 2,
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 142,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug",
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 11,
+        "Cross Poison": 1,
+        "Poison Powder": 6,
+        "Scratch": 1,
+        "Stun Spore": 6,
+        "Fury Cutter": 17,
+        "Spore": 22,
+        "Slash": 29,
+        "Growth": 37,
+        "Giga Drain": 44,
+        "Aromatherapy": 51,
+        "Rage Powder": 59,
+        "X-Scissor": 66
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Bullet Seed": 9,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Solar Beam": 22,
+        "Dig": 28,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Energy Ball": 53,
+        "False Swipe": 54,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "X-Scissor": 81,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Rock Smash": 98
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "generation": 2,
+    "name": "Phanpy",
+    "species": "Long Nose Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 90,
+    "attack": 60,
+    "defense": 60,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ground"
+    ],
+    "nationalNumber": 231,
+    "specialName": null,
+    "specialAbilities": [
+        "Pickup"
+    ],
+    "hiddenAbility": "Sand Veil",
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "catchRate": 120,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 66,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Defense Curl": 1,
+        "Growl": 1,
+        "Tackle": 1,
+        "Flail": 6,
+        "Rollout": 10,
+        "Bulldoze": 15,
+        "Endure": 19,
+        "Slam": 24,
+        "Take Down": 28,
+        "Charm": 33,
+        "Last Resort": 37,
+        "Double-Edge": 42
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Thief": 18,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Mud Shot": 35,
+        "Rock Tomb": 36,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Sandstorm": 51,
+        "Dig": 55,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Iron Head": 99,
+        "Gunk Shot": 102,
+        "Substitute": 103,
+        "Stealth Rock": 116,
+        "Hyper Voice": 117,
+        "Heavy Slam": 121,
+        "Encore": 122,
+        "Play Rough": 127,
+        "Helping Hand": 130,
+        "Earth Power": 133,
+        "Earthquake": 149,
+        "Stone Edge": 150,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "generation": 9,
+    "name": "Tinkatink",
+    "species": "Metalsmith Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 50,
+    "attack": 45,
+    "defense": 45,
+    "speed": 58,
+    "gender": {
+        "male": "0%",
+        "female": "100%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fairy",
+        "Steel"
+    ],
+    "nationalNumber": 957,
+    "specialName": null,
+    "specialAbilities": [
+        "Mold Breaker",
+        "Own Tempo"
+    ],
+    "hiddenAbility": "Pickpocket",
+    "specialAttack": 35,
+    "specialDefense": 64,
+    "catchRate": 190,
+    "evYield": {
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 59,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Fairy"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Fairy Wind": 1,
+        "Baby-Doll Eyes": 5,
+        "Metal Claw": 8,
+        "Covet": 11,
+        "Rock Smash": 14,
+        "Draining Kiss": 17,
+        "Sweet Kiss": 21,
+        "Brutal Swing": 24,
+        "Slam": 27,
+        "Flash Cannon": 31,
+        "Play Rough": 35,
+        "Fake Out": 39,
+        "Flatter": 43,
+        "Skitter Smack": 47,
+        "Knock Off": 52
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Fake Tears": 3,
+        "Protect": 7,
+        "Thief": 18,
+        "Pounce": 21,
+        "Facade": 25,
+        "Metal Claw": 31,
+        "Rock Tomb": 36,
+        "Draining Kiss": 37,
+        "Fling": 43,
+        "Endure": 47,
+        "Foul Play": 62,
+        "Sleep Talk": 70,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Metronome": 80,
+        "Thunder Wave": 82,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Swords Dance": 88,
+        "Flash Cannon": 93,
+        "Skill Swap": 98,
+        "Substitute": 103,
+        "Stealth Rock": 116,
+        "Encore": 122,
+        "Play Rough": 127,
+        "Helping Hand": 130,
+        "Stone Edge": 150,
+        "Steel Beam": 170,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Knock Off",
+    "category": "Physical",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Removes opponent's held item for the rest of the battle.",
+    "isHighCrit": false
+}

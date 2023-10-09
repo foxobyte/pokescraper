@@ -1,0 +1,83 @@
+{
+    "generation": 4,
+    "name": "Carnivine",
+    "species": "Bug Catcher Pok\u00e9mon",
+    "height": "1.4\u00a0m (4\u203207\u2033)",
+    "weight": "1.4\u00a0m (4\u203207\u2033)",
+    "hp": 74,
+    "attack": 100,
+    "defense": 72,
+    "speed": 46,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 455,
+    "specialName": null,
+    "specialAbilities": [
+        "Levitate"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 90,
+    "specialDefense": 72,
+    "catchRate": 200,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 159,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Bind": 1,
+        "Growth": 1,
+        "Bite": 7,
+        "Vine Whip": 11,
+        "Sweet Scent": 17,
+        "Ingrain": 21,
+        "Grass Knot": 27,
+        "Leaf Tornado": 31,
+        "Spit Up": 37,
+        "Stockpile": 37,
+        "Swallow": 37,
+        "Crunch": 41,
+        "Seed Bomb": 47,
+        "Power Whip": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Bullet Seed": 9,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Solar Beam": 22,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Energy Ball": 53,
+        "Fling": 56,
+        "Endure": 58,
+        "Payback": 66,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93
+    }
+}

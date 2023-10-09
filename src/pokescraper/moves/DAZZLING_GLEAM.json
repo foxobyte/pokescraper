@@ -1,0 +1,12 @@
+{
+    "name": "Dazzling Gleam",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "Hits all adjacent opponents.",
+    "isHighCrit": false
+}

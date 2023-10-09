@@ -1,0 +1,91 @@
+{
+    "generation": 1,
+    "name": "Spearow",
+    "species": "Tiny Bird Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 40,
+    "attack": 60,
+    "defense": 30,
+    "speed": 70,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {
+        "FEAROW": {
+            "level": 20,
+            "time": null,
+            "heldItem": null,
+            "usedItem": null,
+            "hasPokemon": null,
+            "highFriendship": null,
+            "needsTrade": null,
+            "usedMove": null,
+            "learnedMove": null
+        }
+    },
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 21,
+    "specialName": null,
+    "specialAbilities": [
+        "Keen Eye"
+    ],
+    "hiddenAbility": "Sniper",
+    "specialAttack": 31,
+    "specialDefense": 31,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 52,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Peck": 1,
+        "Leer": 4,
+        "Assurance": 8,
+        "Fury Attack": 11,
+        "Aerial Ace": 15,
+        "Wing Attack": 18,
+        "Take Down": 22,
+        "Agility": 25,
+        "Focus Energy": 29,
+        "Roost": 32,
+        "Drill Peck": 36
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Double Team": 32,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Steel Wing": 47,
+        "Roost": 51,
+        "False Swipe": 54,
+        "Endure": 58,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Pluck": 88,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Fly": 94,
+        "Defog": 97
+    }
+}

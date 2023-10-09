@@ -1,0 +1,12 @@
+{
+    "name": "Aurora Beam",
+    "category": "Special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 10,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "May lower opponent's Attack.",
+    "isHighCrit": false
+}

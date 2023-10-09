@@ -1,0 +1,12 @@
+{
+    "name": "Sleep Talk",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User performs one of its own moves while sleeping.",
+    "isHighCrit": false
+}

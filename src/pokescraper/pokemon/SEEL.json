@@ -1,0 +1,85 @@
+{
+    "generation": 1,
+    "name": "Seel",
+    "species": "Sea Lion Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 65,
+    "attack": 45,
+    "defense": 55,
+    "speed": 45,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 86,
+    "specialName": null,
+    "specialAbilities": [
+        "Thick Fat",
+        "Hydration"
+    ],
+    "hiddenAbility": "Ice Body",
+    "specialAttack": 45,
+    "specialDefense": 70,
+    "catchRate": 190,
+    "evYield": {
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 65,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Headbutt": 1,
+        "Growl": 3,
+        "Water Gun": 7,
+        "Icy Wind": 11,
+        "Encore": 13,
+        "Ice Shard": 17,
+        "Rest": 21,
+        "Aqua Ring": 23,
+        "Aurora Beam": 27,
+        "Aqua Jet": 31,
+        "Brine": 33,
+        "Take Down": 37,
+        "Dive": 41,
+        "Aqua Tail": 43,
+        "Ice Beam": 47,
+        "Safeguard": 51,
+        "Hail": 53
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Safeguard": 20,
+        "Iron Tail": 23,
+        "Double Team": 32,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Brine": 55,
+        "Fling": 56,
+        "Endure": 58,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Surf": 95,
+        "Waterfall": 99
+    }
+}

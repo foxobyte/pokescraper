@@ -1,0 +1,12 @@
+{
+    "name": "Tidy Up",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Removes the effects of entry hazards and Substitute, and boosts user\u2019s Attack and Speed.",
+    "isHighCrit": false
+}

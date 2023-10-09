@@ -1,0 +1,96 @@
+{
+    "generation": 5,
+    "name": "Zebstrika",
+    "species": "Thunderbolt Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 75,
+    "attack": 100,
+    "defense": 63,
+    "speed": 116,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric"
+    ],
+    "nationalNumber": 523,
+    "specialName": null,
+    "specialAbilities": [
+        "Lightning Rod",
+        "Motor Drive"
+    ],
+    "hiddenAbility": "Sap Sipper",
+    "specialAttack": 80,
+    "specialDefense": 63,
+    "catchRate": 75,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 174,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Charge": 8,
+        "Ion Deluge": 58,
+        "Quick Attack": 1,
+        "Tail Whip": 4,
+        "Thunder Wave": 15,
+        "Shock Wave": 11,
+        "Flame Charge": 18,
+        "Pursuit": 22,
+        "Spark": 25,
+        "Stomp": 31,
+        "Discharge": 36,
+        "Agility": 42,
+        "Wild Charge": 47,
+        "Thrash": 53
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Ally Switch",
+        "Bounce",
+        "Laser Focus",
+        "Low Kick",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snatch",
+        "Snore"
+    ],
+    "movesLearnedByTm": {
+        "Toxic": 6,
+        "Hidden Power": 10,
+        "Hyper Beam": 15,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Frustration": 21,
+        "Thunderbolt": 24,
+        "Thunder": 25,
+        "Return": 27,
+        "Double Team": 32,
+        "Facade": 42,
+        "Flame Charge": 43,
+        "Rest": 44,
+        "Attract": 45,
+        "Round": 48,
+        "Overheat": 50,
+        "Charge Beam": 57,
+        "Giga Impact": 68,
+        "Volt Switch": 72,
+        "Thunder Wave": 73,
+        "Swagger": 87,
+        "Sleep Talk": 88,
+        "Substitute": 90,
+        "Wild Charge": 93,
+        "Confide": 100
+    }
+}

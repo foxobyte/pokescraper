@@ -1,0 +1,113 @@
+{
+    "generation": 3,
+    "name": "Flygon",
+    "species": "Mystic Pok\u00e9mon",
+    "height": "2.0\u00a0m (6\u203207\u2033)",
+    "weight": "2.0\u00a0m (6\u203207\u2033)",
+    "hp": 80,
+    "attack": 100,
+    "defense": 80,
+    "speed": 100,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ground",
+        "Dragon"
+    ],
+    "nationalNumber": 330,
+    "specialName": null,
+    "specialAbilities": [
+        "Levitate"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 80,
+    "specialDefense": 80,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 1,
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 234,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Bug",
+        "Dragon"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Bite": 1,
+        "Bulldoze": 1,
+        "Crunch": 1,
+        "Dig": 1,
+        "Dragon Breath": 1,
+        "Dragon Claw": 1,
+        "Dragon Dance": 1,
+        "Feint": 1,
+        "Fissure": 1,
+        "Laser Focus": 1,
+        "Outrage": 1,
+        "Sand Attack": 1,
+        "Superpower": 1,
+        "Supersonic": 1,
+        "Mud-Slap": 12,
+        "Sand Tomb": 16,
+        "Dragon Tail": 20,
+        "Screech": 24,
+        "Bug Buzz": 28,
+        "Sandstorm": 32,
+        "Earth Power": 38,
+        "Earthquake": 44,
+        "Uproar": 52,
+        "Dragon Rush": 60,
+        "Boomburst": 68
+    },
+    "movesLearnedOnEvolution": [
+        "Dragon Claw"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Draco Meteor"
+    ],
+    "movesLearnedByTm": {
+        "Dragon Claw": 2,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Solar Beam": 22,
+        "Iron Tail": 23,
+        "Earthquake": 26,
+        "Dig": 28,
+        "Double Team": 32,
+        "Flamethrower": 35,
+        "Sandstorm": 37,
+        "Fire Blast": 38,
+        "Rock Tomb": 39,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Steel Wing": 47,
+        "Roost": 51,
+        "Endure": 58,
+        "Dragon Pulse": 59,
+        "Bug Buzz": 62,
+        "Giga Impact": 68,
+        "Stone Edge": 71,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Fly": 94,
+        "Strength": 96,
+        "Defog": 97,
+        "Rock Smash": 98
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Leaf Blade",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "High critical hit ratio.",
+    "isHighCrit": true
+}

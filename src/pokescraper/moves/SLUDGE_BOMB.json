@@ -1,0 +1,12 @@
+{
+    "name": "Sludge Bomb",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 30,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "May poison opponent.",
+    "isHighCrit": false
+}

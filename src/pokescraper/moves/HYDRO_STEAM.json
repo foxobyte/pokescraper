@@ -1,0 +1,12 @@
+{
+    "name": "Hydro Steam",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Power increases in harsh sunlight.",
+    "isHighCrit": false
+}

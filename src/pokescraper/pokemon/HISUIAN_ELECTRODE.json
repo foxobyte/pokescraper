@@ -1,0 +1,60 @@
+{
+    "generation": 1,
+    "name": "Electrode",
+    "species": "Sphere Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "speed": 150,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Electric",
+        "Grass"
+    ],
+    "nationalNumber": 101,
+    "specialName": "Hisuian Electrode",
+    "specialAbilities": [
+        "Soundproof",
+        "Static"
+    ],
+    "hiddenAbility": "Aftermath",
+    "specialAttack": 80,
+    "specialDefense": 80,
+    "catchRate": 60,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 172,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Charge": 1,
+        "Tackle": 1,
+        "Thunder Shock": 4,
+        "Stun Spore": 6,
+        "Bullet Seed": 9,
+        "Rollout": 11,
+        "Screech": 13,
+        "Charge Beam": 16,
+        "Swift": 20,
+        "Electro Ball": 22,
+        "Self-Destruct": 26,
+        "Energy Ball": 29,
+        "Discharge": 34,
+        "Seed Bomb": 34,
+        "Explosion": 41,
+        "Gyro Ball": 46,
+        "Grassy Terrain": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Hydro Pump",
+    "category": "Special",
+    "power": 110,
+    "accuracy": 80,
+    "pp": 5,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "",
+    "isHighCrit": false
+}

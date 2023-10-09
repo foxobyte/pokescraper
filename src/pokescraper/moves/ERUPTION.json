@@ -1,0 +1,12 @@
+{
+    "name": "Eruption",
+    "category": "Special",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "Stronger when the user's HP is higher.",
+    "isHighCrit": false
+}

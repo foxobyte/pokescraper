@@ -1,0 +1,81 @@
+{
+    "generation": 7,
+    "name": "Popplio",
+    "species": "Sea Lion Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 50,
+    "attack": 54,
+    "defense": 54,
+    "speed": 40,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 728,
+    "specialName": null,
+    "specialAbilities": [
+        "Torrent"
+    ],
+    "hiddenAbility": "Liquid Voice",
+    "specialAttack": 66,
+    "specialDefense": 56,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 64,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Water 1"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Pound": 1,
+        "Water Gun": 3,
+        "Disarming Voice": 6,
+        "Aqua Jet": 9,
+        "Baby-Doll Eyes": 12,
+        "Icy Wind": 15,
+        "Sing": 18,
+        "Bubble Beam": 21,
+        "Encore": 24,
+        "Misty Terrain": 27,
+        "Hyper Voice": 30,
+        "Moonblast": 33,
+        "Hydro Pump": 36
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Flip Turn",
+        "Triple Axel"
+    ],
+    "movesLearnedByTm": {
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Charm": 29,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Whirlpool": 36,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Dive": 45,
+        "Brine": 55,
+        "Wonder Room": 71,
+        "Round": 76,
+        "Acrobatics": 78,
+        "Draining Kiss": 87,
+        "Misty Terrain": 89
+    }
+}

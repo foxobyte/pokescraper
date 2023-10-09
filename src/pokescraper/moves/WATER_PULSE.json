@@ -1,0 +1,12 @@
+{
+    "name": "Water Pulse",
+    "category": "Special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 20,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "May confuse opponent.",
+    "isHighCrit": false
+}

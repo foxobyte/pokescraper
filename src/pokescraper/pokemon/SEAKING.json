@@ -1,0 +1,79 @@
+{
+    "generation": 1,
+    "name": "Seaking",
+    "species": "Goldfish Pok\u00e9mon",
+    "height": "1.3\u00a0m (4\u203203\u2033)",
+    "weight": "1.3\u00a0m (4\u203203\u2033)",
+    "hp": 80,
+    "attack": 92,
+    "defense": 65,
+    "speed": 68,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 119,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim",
+        "Water Veil"
+    ],
+    "hiddenAbility": "Lightning Rod",
+    "specialAttack": 65,
+    "specialDefense": 80,
+    "catchRate": 60,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 158,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 2"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Peck": 1,
+        "Supersonic": 1,
+        "Tail Whip": 1,
+        "Water Pulse": 1,
+        "Horn Attack": 15,
+        "Agility": 20,
+        "Aqua Ring": 25,
+        "Flail": 30,
+        "Waterfall": 37,
+        "Soak": 44,
+        "Megahorn": 51,
+        "Horn Drill": 58
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Double Team": 32,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Scald": 49,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Poison Jab": 84,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Surf": 95,
+        "Waterfall": 99
+    }
+}

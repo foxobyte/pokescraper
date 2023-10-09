@@ -1,0 +1,12 @@
+{
+    "name": "Lunar Blessing",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Heals user's status conditions and recovers HP.",
+    "isHighCrit": false
+}

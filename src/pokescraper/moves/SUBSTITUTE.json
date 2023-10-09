@@ -1,0 +1,12 @@
+{
+    "name": "Substitute",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Uses HP to creates a decoy that takes hits.",
+    "isHighCrit": false
+}

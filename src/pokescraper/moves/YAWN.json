@@ -1,0 +1,12 @@
+{
+    "name": "Yawn",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Puts opponent to sleep in the next turn.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Entrainment",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Makes target's ability same as user's.",
+    "isHighCrit": false
+}

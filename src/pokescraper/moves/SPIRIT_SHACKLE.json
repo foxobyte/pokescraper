@@ -1,0 +1,12 @@
+{
+    "name": "Spirit Shackle",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "Prevents the opponent from switching out.",
+    "isHighCrit": false
+}

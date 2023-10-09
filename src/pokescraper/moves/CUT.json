@@ -1,0 +1,12 @@
+{
+    "name": "Cut",
+    "category": "Physical",
+    "power": 50,
+    "accuracy": 95,
+    "pp": 30,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "",
+    "isHighCrit": false
+}

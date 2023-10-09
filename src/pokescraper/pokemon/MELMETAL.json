@@ -1,0 +1,80 @@
+{
+    "generation": 7,
+    "name": "Melmetal",
+    "species": "Hex Nut Pok\u00e9mon",
+    "height": "2.5\u00a0m (8\u203202\u2033)",
+    "weight": "2.5\u00a0m (8\u203202\u2033)",
+    "hp": 135,
+    "attack": 143,
+    "defense": 143,
+    "speed": 34,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Steel"
+    ],
+    "nationalNumber": 809,
+    "specialName": null,
+    "specialAbilities": [
+        "Iron Fist"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 80,
+    "specialDefense": 65,
+    "catchRate": 3,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 300,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Harden": 1,
+        "Headbutt": 1,
+        "Tail Whip": 1,
+        "Thunder Punch": 1,
+        "Thunder Shock": 1,
+        "Thunder Wave": 24,
+        "Acid Armor": 32,
+        "Flash Cannon": 40,
+        "Mega Punch": 48,
+        "Protect": 56,
+        "Discharge": 64,
+        "Dynamic Punch": 72,
+        "Superpower": 80,
+        "Double Iron Bash": 88,
+        "Hyper Beam": 96
+    },
+    "movesLearnedOnEvolution": [
+        "Thunder Punch"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Steel Roller"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Ice Punch": 4,
+        "Thunder Punch": 5,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Thunder Wave": 14,
+        "Self-Destruct": 20,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Facade": 39,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Round": 76,
+        "Electric Terrain": 90,
+        "Brutal Swing": 97
+    }
+}

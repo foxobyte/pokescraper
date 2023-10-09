@@ -1,0 +1,93 @@
+{
+    "generation": 9,
+    "name": "Naclstack",
+    "species": "Rock Salt Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 60,
+    "attack": 60,
+    "defense": 100,
+    "speed": 35,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock"
+    ],
+    "nationalNumber": 933,
+    "specialName": null,
+    "specialAbilities": [
+        "Purifying Salt",
+        "Sturdy"
+    ],
+    "hiddenAbility": "Clear Body",
+    "specialAttack": 35,
+    "specialDefense": 65,
+    "catchRate": 120,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 124,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Harden": 1,
+        "Tackle": 1,
+        "Rock Throw": 5,
+        "Mud Shot": 7,
+        "Smack Down": 10,
+        "Rock Polish": 13,
+        "Headbutt": 16,
+        "Iron Defense": 20,
+        "Recover": 30,
+        "Rock Slide": 34,
+        "Stealth Rock": 38,
+        "Heavy Slam": 41,
+        "Earthquake": 45,
+        "Stone Edge": 51
+    },
+    "movesLearnedOnEvolution": [
+        "Salt Cure"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Mud Shot": 35,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Sandstorm": 51,
+        "Dig": 55,
+        "Zen Headbutt": 59,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Body Press": 89,
+        "Flash Cannon": 93,
+        "Iron Head": 99,
+        "Power Gem": 101,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Stealth Rock": 116,
+        "Heavy Slam": 121,
+        "Helping Hand": 130,
+        "Earth Power": 133,
+        "Earthquake": 149,
+        "Stone Edge": 150,
+        "Giga Impact": 152,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

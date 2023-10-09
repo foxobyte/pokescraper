@@ -1,0 +1,12 @@
+{
+    "name": "Iron Defense",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Sharply raises user's Defense.",
+    "isHighCrit": false
+}

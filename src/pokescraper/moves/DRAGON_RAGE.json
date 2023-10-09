@@ -1,0 +1,12 @@
+{
+    "name": "Dragon Rage",
+    "category": "Special",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "Always inflicts 40 HP.",
+    "isHighCrit": false
+}

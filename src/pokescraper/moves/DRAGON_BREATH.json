@@ -1,0 +1,12 @@
+{
+    "name": "Dragon Breath",
+    "category": "Special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 30,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "May paralyze opponent.",
+    "isHighCrit": false
+}

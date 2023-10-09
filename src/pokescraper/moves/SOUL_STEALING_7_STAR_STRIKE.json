@@ -1,0 +1,12 @@
+{
+    "name": "Soul-Stealing 7-Star Strike",
+    "category": "Physical",
+    "power": 195,
+    "accuracy": null,
+    "pp": 1,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "Marshadow-exclusive Z-Move.",
+    "isHighCrit": false
+}

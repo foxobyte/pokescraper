@@ -1,0 +1,12 @@
+{
+    "name": "Aqua Tail",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "",
+    "isHighCrit": false
+}

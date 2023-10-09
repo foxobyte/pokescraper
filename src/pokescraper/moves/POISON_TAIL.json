@@ -1,0 +1,12 @@
+{
+    "name": "Poison Tail",
+    "category": "Physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 25,
+    "probability": 10,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "High critical hit ratio. May poison opponent.",
+    "isHighCrit": true
+}

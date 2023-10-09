@@ -1,0 +1,12 @@
+{
+    "name": "Hurricane",
+    "category": "Special",
+    "power": 110,
+    "accuracy": 70,
+    "pp": 10,
+    "probability": 30,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "May confuse opponent.",
+    "isHighCrit": false
+}

@@ -1,0 +1,97 @@
+{
+    "generation": 7,
+    "name": "Trumbeak",
+    "species": "Bugle Beak Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 55,
+    "attack": 85,
+    "defense": 50,
+    "speed": 75,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 732,
+    "specialName": null,
+    "specialAbilities": [
+        "Keen Eye",
+        "Skill Link"
+    ],
+    "hiddenAbility": "Pickup",
+    "specialAttack": 40,
+    "specialDefense": 50,
+    "catchRate": 120,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 124,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Echoed Voice": 7,
+        "Growl": 3,
+        "Peck": 1,
+        "Rock Blast": 1,
+        "Rock Smash": 9,
+        "Supersonic": 13,
+        "Pluck": 16,
+        "Roost": 21,
+        "Fury Attack": 24,
+        "Screech": 29,
+        "Drill Peck": 32,
+        "Bullet Seed": 37,
+        "Feather Dance": 40,
+        "Hyper Voice": 45
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Defog",
+        "Gunk Shot",
+        "Heat Wave",
+        "Hyper Voice",
+        "Knock Off",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar"
+    ],
+    "movesLearnedByTm": {
+        "Work Up": 1,
+        "Toxic": 6,
+        "Hidden Power": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Roost": 19,
+        "Frustration": 21,
+        "Smack Down": 23,
+        "Return": 27,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Aerial Ace": 40,
+        "Flame Charge": 43,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Round": 48,
+        "Echoed Voice": 49,
+        "Steel Wing": 51,
+        "Swords Dance": 75,
+        "Fly": 76,
+        "Swagger": 87,
+        "Sleep Talk": 88,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Confide": 100
+    }
+}

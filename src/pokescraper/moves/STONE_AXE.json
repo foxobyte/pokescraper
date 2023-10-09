@@ -1,0 +1,12 @@
+{
+    "name": "Stone Axe",
+    "category": "Physical",
+    "power": 65,
+    "accuracy": 90,
+    "pp": 15,
+    "probability": null,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "High critical hit ratio. Damages target with splinters each turn.",
+    "isHighCrit": true
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Dragon Rush",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 75,
+    "pp": 10,
+    "probability": 20,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

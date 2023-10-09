@@ -1,0 +1,12 @@
+{
+    "name": "Roar of Time",
+    "category": "Special",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "probability": null,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "User must recharge next turn.",
+    "isHighCrit": false
+}

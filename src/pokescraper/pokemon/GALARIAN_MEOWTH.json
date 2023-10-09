@@ -1,0 +1,58 @@
+{
+    "generation": 1,
+    "name": "Meowth",
+    "species": "Scratch Cat Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 50,
+    "attack": 65,
+    "defense": 55,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Steel"
+    ],
+    "nationalNumber": 52,
+    "specialName": "Galarian Meowth",
+    "specialAbilities": [
+        "Pickup",
+        "Tough Claws"
+    ],
+    "hiddenAbility": "Unnerve",
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "catchRate": 255,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 58,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Fake Out": 1,
+        "Growl": 1,
+        "Hone Claws": 4,
+        "Scratch": 8,
+        "Pay Day": 12,
+        "Metal Claw": 16,
+        "Taunt": 20,
+        "Swagger": 24,
+        "Fury Swipes": 29,
+        "Screech": 32,
+        "Slash": 36,
+        "Metal Sound": 40,
+        "Thrash": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

@@ -1,0 +1,86 @@
+{
+    "generation": 2,
+    "name": "Chinchou",
+    "species": "Angler Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 75,
+    "attack": 38,
+    "defense": 38,
+    "speed": 67,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Electric"
+    ],
+    "nationalNumber": 170,
+    "specialName": null,
+    "specialAbilities": [
+        "Volt Absorb",
+        "Illuminate"
+    ],
+    "hiddenAbility": "Water Absorb",
+    "specialAttack": 56,
+    "specialDefense": 56,
+    "catchRate": 190,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 66,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Water 2"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Supersonic": 1,
+        "Water Gun": 1,
+        "Electro Ball": 4,
+        "Thunder Wave": 8,
+        "Bubble Beam": 12,
+        "Confuse Ray": 16,
+        "Spark": 20,
+        "Charge": 24,
+        "Discharge": 28,
+        "Aqua Ring": 32,
+        "Flail": 36,
+        "Take Down": 40,
+        "Hydro Pump": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Dazzling Gleam": 21,
+        "Thunderbolt": 24,
+        "Thunder": 25,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Facade": 42,
+        "Volt Switch": 43,
+        "Rest": 44,
+        "Attract": 45,
+        "Scald": 49,
+        "Brine": 55,
+        "Charge Beam": 57,
+        "Endure": 58,
+        "Flash": 70,
+        "Thunder Wave": 73,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Surf": 95,
+        "Waterfall": 99
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "generation": 8,
+    "name": "Copperajah",
+    "species": "Copperderm Pok\u00e9mon",
+    "height": "3.0\u00a0m (9\u203210\u2033)",
+    "weight": "3.0\u00a0m (9\u203210\u2033)",
+    "hp": 122,
+    "attack": 130,
+    "defense": 69,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Steel"
+    ],
+    "nationalNumber": 879,
+    "specialName": null,
+    "specialAbilities": [
+        "Sheer Force"
+    ],
+    "hiddenAbility": "Heavy Metal",
+    "specialAttack": 80,
+    "specialDefense": 69,
+    "catchRate": 90,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 175,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field",
+        "Mineral"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Rock Smash": 1,
+        "Rollout": 1,
+        "Tackle": 1,
+        "Bulldoze": 15,
+        "Stomp": 20,
+        "Iron Defense": 25,
+        "Dig": 30,
+        "Strength": 37,
+        "Iron Head": 44,
+        "Play Rough": 51,
+        "High Horsepower": 58,
+        "Superpower": 65
+    },
+    "movesLearnedOnEvolution": [
+        "Heavy Slam"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Snarl": 30,
+        "Mud Shot": 35,
+        "Rock Tomb": 36,
+        "Fling": 43,
+        "Endure": 47,
+        "Sandstorm": 51,
+        "Dig": 55,
+        "Brick Break": 58,
+        "Zen Headbutt": 59,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Rock Blast": 76,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Taunt": 87,
+        "Body Press": 89,
+        "Flash Cannon": 93,
+        "Iron Head": 99,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Stealth Rock": 116,
+        "Heavy Slam": 121,
+        "Play Rough": 127,
+        "Earth Power": 133,
+        "Earthquake": 149,
+        "Stone Edge": 150,
+        "Giga Impact": 152,
+        "Outrage": 156,
+        "Hyper Beam": 163,
+        "Steel Beam": 170,
+        "Tera Blast": 171
+    }
+}

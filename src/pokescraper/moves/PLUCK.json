@@ -1,0 +1,12 @@
+{
+    "name": "Pluck",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "If the opponent is holding a berry, its effect is stolen by user.",
+    "isHighCrit": false
+}

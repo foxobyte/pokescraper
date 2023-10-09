@@ -1,0 +1,12 @@
+{
+    "name": "Power Split",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Averages Attack and Special Attack with the target.",
+    "isHighCrit": false
+}

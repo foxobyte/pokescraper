@@ -1,0 +1,12 @@
+{
+    "name": "Bone Rush",
+    "category": "Physical",
+    "power": 25,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "Hits 2-5 times in one turn.",
+    "isHighCrit": false
+}

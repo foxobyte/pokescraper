@@ -1,0 +1,95 @@
+{
+    "generation": 5,
+    "name": "Scraggy",
+    "species": "Shedding Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 50,
+    "attack": 75,
+    "defense": 70,
+    "speed": 48,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dark",
+        "Fighting"
+    ],
+    "nationalNumber": 559,
+    "specialName": null,
+    "specialAbilities": [
+        "Shed Skin",
+        "Moxie"
+    ],
+    "hiddenAbility": "Intimidate",
+    "specialAttack": 35,
+    "specialDefense": 70,
+    "catchRate": 180,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 35,
+    "baseExp": 70,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Dragon",
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Low Kick": 1,
+        "Payback": 4,
+        "Headbutt": 8,
+        "Sand Attack": 12,
+        "Facade": 16,
+        "Protect": 20,
+        "Beat Up": 24,
+        "Scary Face": 28,
+        "Brick Break": 32,
+        "Swagger": 36,
+        "Crunch": 40,
+        "High Jump Kick": 44,
+        "Focus Punch": 48,
+        "Head Smash": 52
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Coaching",
+        "Lash Out"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Fire Punch": 3,
+        "Ice Punch": 4,
+        "Thunder Punch": 5,
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Beat Up": 37,
+        "Facade": 39,
+        "Revenge": 42,
+        "Brick Break": 43,
+        "Fake Tears": 47,
+        "Rock Tomb": 48,
+        "Payback": 57,
+        "Assurance": 58,
+        "Fling": 59,
+        "Drain Punch": 63,
+        "Low Sweep": 75,
+        "Round": 76,
+        "Retaliate": 79,
+        "Snarl": 85
+    }
+}

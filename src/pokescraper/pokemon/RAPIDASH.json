@@ -1,0 +1,86 @@
+{
+    "generation": 1,
+    "name": "Rapidash",
+    "species": "Fire Horse Pok\u00e9mon",
+    "height": "1.7\u00a0m (5\u203207\u2033)",
+    "weight": "1.7\u00a0m (5\u203207\u2033)",
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "speed": 105,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire"
+    ],
+    "nationalNumber": 78,
+    "specialName": null,
+    "specialAbilities": [
+        "Run Away",
+        "Flash Fire"
+    ],
+    "hiddenAbility": "Flame Body",
+    "specialAttack": 80,
+    "specialDefense": 80,
+    "catchRate": 60,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 175,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Ember": 1,
+        "Growl": 1,
+        "Megahorn": 1,
+        "Poison Jab": 1,
+        "Quick Attack": 1,
+        "Smart Strike": 1,
+        "Tackle": 1,
+        "Tail Whip": 1,
+        "Flame Charge": 15,
+        "Agility": 20,
+        "Flame Wheel": 25,
+        "Stomp": 30,
+        "Fire Spin": 35,
+        "Take Down": 43,
+        "Inferno": 49,
+        "Fire Blast": 56,
+        "Flare Blitz": 63
+    },
+    "movesLearnedOnEvolution": [
+        "Smart Strike"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Solar Beam": 22,
+        "Iron Tail": 23,
+        "Double Team": 32,
+        "Flamethrower": 35,
+        "Fire Blast": 38,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Overheat": 50,
+        "Endure": 58,
+        "Will-O-Wisp": 61,
+        "Giga Impact": 68,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Poison Jab": 84,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Strength": 96
+    }
+}

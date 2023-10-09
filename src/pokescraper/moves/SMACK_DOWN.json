@@ -1,0 +1,12 @@
+{
+    "name": "Smack Down",
+    "category": "Physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 100,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "Makes Flying-type Pok\u00e9mon vulnerable to Ground moves.",
+    "isHighCrit": false
+}

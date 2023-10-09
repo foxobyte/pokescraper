@@ -1,0 +1,12 @@
+{
+    "name": "Natural Gift",
+    "category": "Physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Power and type depend on the user's held berry.",
+    "isHighCrit": false
+}

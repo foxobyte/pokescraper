@@ -1,0 +1,62 @@
+{
+    "generation": 1,
+    "name": "Grimer",
+    "species": "Sludge Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 80,
+    "attack": 80,
+    "defense": 50,
+    "speed": 25,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Poison",
+        "Dark"
+    ],
+    "nationalNumber": 88,
+    "specialName": "Alolan Grimer",
+    "specialAbilities": [
+        "Poison Touch",
+        "Gluttony"
+    ],
+    "hiddenAbility": "Power of Alchemy",
+    "specialAttack": 40,
+    "specialDefense": 50,
+    "catchRate": 190,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 65,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Poison Gas": 1,
+        "Pound": 1,
+        "Harden": 4,
+        "Bite": 7,
+        "Disable": 12,
+        "Acid Spray": 15,
+        "Poison Fang": 18,
+        "Minimize": 21,
+        "Toxic": 26,
+        "Knock Off": 29,
+        "Crunch": 32,
+        "Screech": 37,
+        "Gunk Shot": 40,
+        "Acid Armor": 43,
+        "Belch": 46,
+        "Memento": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

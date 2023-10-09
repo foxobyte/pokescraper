@@ -1,0 +1,47 @@
+{
+    "generation": 3,
+    "name": "Silcoon",
+    "species": "Cocoon Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 50,
+    "attack": 35,
+    "defense": 55,
+    "speed": 15,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 266,
+    "specialName": null,
+    "specialAbilities": [
+        "Shed Skin"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 25,
+    "specialDefense": 25,
+    "catchRate": 120,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 72,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Harden": 1
+    },
+    "movesLearnedOnEvolution": [
+        "Harden"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

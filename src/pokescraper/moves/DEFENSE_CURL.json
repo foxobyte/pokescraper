@@ -1,0 +1,12 @@
+{
+    "name": "Defense Curl",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Raises user's Defense.",
+    "isHighCrit": false
+}

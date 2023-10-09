@@ -1,0 +1,12 @@
+{
+    "name": "Ice Fang",
+    "category": "Physical",
+    "power": 65,
+    "accuracy": 95,
+    "pp": 15,
+    "probability": 10,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "May cause flinching and/or freeze opponent.",
+    "isHighCrit": false
+}

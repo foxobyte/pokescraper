@@ -1,0 +1,12 @@
+{
+    "name": "Dragon Dance",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "Raises user's Attack and Speed.",
+    "isHighCrit": false
+}

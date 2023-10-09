@@ -1,0 +1,94 @@
+{
+    "generation": 2,
+    "name": "Hitmontop",
+    "species": "Handstand Pok\u00e9mon",
+    "height": "1.4\u00a0m (4\u203207\u2033)",
+    "weight": "1.4\u00a0m (4\u203207\u2033)",
+    "hp": 50,
+    "attack": 95,
+    "defense": 95,
+    "speed": 70,
+    "gender": {
+        "male": "100%",
+        "female": "0%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting"
+    ],
+    "nationalNumber": 237,
+    "specialName": null,
+    "specialAbilities": [
+        "Intimidate",
+        "Technician"
+    ],
+    "hiddenAbility": "Steadfast",
+    "specialAttack": 35,
+    "specialDefense": 110,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 159,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Human-Like"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Fake Out": 1,
+        "Feint": 1,
+        "Focus Energy": 1,
+        "Helping Hand": 1,
+        "Rapid Spin": 1,
+        "Tackle": 1,
+        "Triple Kick": 1,
+        "Quick Attack": 4,
+        "Gyro Ball": 8,
+        "Detect": 12,
+        "Revenge": 16,
+        "Quick Guard": 21,
+        "Wide Guard": 21,
+        "Sucker Punch": 24,
+        "Agility": 28,
+        "Dig": 32,
+        "Close Combat": 36,
+        "Counter": 40,
+        "Endeavor": 44
+    },
+    "movesLearnedOnEvolution": [
+        "Triple Kick"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Bulk Up": 8,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Earthquake": 26,
+        "Low Sweep": 27,
+        "Dig": 28,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Sandstorm": 37,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Focus Blast": 52,
+        "Endure": 58,
+        "Stone Edge": 71,
+        "Gyro Ball": 74,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

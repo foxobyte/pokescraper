@@ -1,0 +1,12 @@
+{
+    "name": "Lucky Chant",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Opponent cannot land critical hits for 5 turns.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Light of Ruin",
+    "category": "Special",
+    "power": 140,
+    "accuracy": 90,
+    "pp": 5,
+    "probability": null,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "User receives recoil damage.",
+    "isHighCrit": false
+}

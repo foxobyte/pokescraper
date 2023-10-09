@@ -1,0 +1,99 @@
+{
+    "generation": 9,
+    "name": "Pawmo",
+    "species": "Mouse Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 60,
+    "attack": 75,
+    "defense": 40,
+    "speed": 85,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric",
+        "Fighting"
+    ],
+    "nationalNumber": 922,
+    "specialName": null,
+    "specialAbilities": [
+        "Volt Absorb",
+        "Natural Cure"
+    ],
+    "hiddenAbility": "Iron Fist",
+    "specialAttack": 50,
+    "specialDefense": 40,
+    "catchRate": 80,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 123,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Scratch": 1,
+        "Thunder Shock": 3,
+        "Quick Attack": 6,
+        "Charge": 8,
+        "Nuzzle": 12,
+        "Dig": 15,
+        "Bite": 19,
+        "Spark": 23,
+        "Thunder Wave": 27,
+        "Slam": 32,
+        "Entrainment": 38,
+        "Discharge": 42,
+        "Agility": 46,
+        "Wild Charge": 52
+    },
+    "movesLearnedOnEvolution": [
+        "Arm Thrust"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Agility": 4,
+        "Protect": 7,
+        "Thunder Fang": 9,
+        "Low Kick": 12,
+        "Thief": 18,
+        "Charge Beam": 23,
+        "Facade": 25,
+        "Metal Claw": 31,
+        "Swift": 32,
+        "Low Sweep": 39,
+        "Fling": 43,
+        "Endure": 47,
+        "Volt Switch": 48,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Dig": 55,
+        "Thunder Punch": 68,
+        "Sleep Talk": 70,
+        "Electro Ball": 72,
+        "Thunder Wave": 82,
+        "Rest": 85,
+        "Eerie Impulse": 96,
+        "Substitute": 103,
+        "Crunch": 108,
+        "Encore": 122,
+        "Thunderbolt": 126,
+        "Play Rough": 127,
+        "Helping Hand": 130,
+        "Baton Pass": 132,
+        "Electric Terrain": 136,
+        "Wild Charge": 147,
+        "Thunder": 166,
+        "Tera Blast": 171
+    }
+}

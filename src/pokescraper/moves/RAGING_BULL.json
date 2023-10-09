@@ -1,0 +1,12 @@
+{
+    "name": "Raging Bull",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Type depends on the user\u2019s form. Breaks through Reflect and Light Screen barriers.",
+    "isHighCrit": false
+}

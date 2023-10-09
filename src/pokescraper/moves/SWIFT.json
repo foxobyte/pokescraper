@@ -1,0 +1,12 @@
+{
+    "name": "Swift",
+    "category": "Special",
+    "power": 60,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Ignores Accuracy and Evasiveness.",
+    "isHighCrit": false
+}

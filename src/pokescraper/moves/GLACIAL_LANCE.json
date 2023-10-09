@@ -1,0 +1,12 @@
+{
+    "name": "Glacial Lance",
+    "category": "Physical",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pok\u00e9mon.",
+    "isHighCrit": false
+}

@@ -1,0 +1,103 @@
+{
+    "generation": 6,
+    "name": "Pangoro",
+    "species": "Daunting Pok\u00e9mon",
+    "height": "2.1\u00a0m (6\u203211\u2033)",
+    "weight": "2.1\u00a0m (6\u203211\u2033)",
+    "hp": 95,
+    "attack": 124,
+    "defense": 78,
+    "speed": 58,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting",
+        "Dark"
+    ],
+    "nationalNumber": 675,
+    "specialName": null,
+    "specialAbilities": [
+        "Iron Fist",
+        "Mold Breaker"
+    ],
+    "hiddenAbility": "Scrappy",
+    "specialAttack": 69,
+    "specialDefense": 71,
+    "catchRate": 65,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 173,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field",
+        "Human-Like"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Arm Thrust": 1,
+        "Bullet Punch": 1,
+        "Leer": 1,
+        "Night Slash": 1,
+        "Tackle": 1,
+        "Taunt": 1,
+        "Circle Throw": 12,
+        "Low Sweep": 16,
+        "Work Up": 20,
+        "Slash": 24,
+        "Vital Throw": 28,
+        "Crunch": 35,
+        "Body Slam": 40,
+        "Parting Shot": 46,
+        "Entrainment": 52,
+        "Hammer Arm": 58
+    },
+    "movesLearnedOnEvolution": [
+        "Night Slash"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Coaching",
+        "Lash Out"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Fire Punch": 3,
+        "Ice Punch": 4,
+        "Thunder Punch": 5,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Beat Up": 37,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Revenge": 42,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Payback": 57,
+        "Fling": 59,
+        "Drain Punch": 63,
+        "Shadow Claw": 65,
+        "Low Sweep": 75,
+        "Round": 76,
+        "Retaliate": 79,
+        "Bulldoze": 81,
+        "Snarl": 85,
+        "False Swipe": 94,
+        "Stomping Tantrum": 98
+    }
+}

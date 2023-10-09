@@ -1,0 +1,12 @@
+{
+    "name": "Reflect Type",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User becomes the target's type.",
+    "isHighCrit": false
+}

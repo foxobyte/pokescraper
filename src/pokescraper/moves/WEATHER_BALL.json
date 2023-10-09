@@ -1,0 +1,12 @@
+{
+    "name": "Weather Ball",
+    "category": "Special",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Move's power and type changes with the weather.",
+    "isHighCrit": false
+}

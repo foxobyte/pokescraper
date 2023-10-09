@@ -1,0 +1,86 @@
+{
+    "generation": 2,
+    "name": "Remoraid",
+    "species": "Jet Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 35,
+    "attack": 65,
+    "defense": 35,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 223,
+    "specialName": null,
+    "specialAbilities": [
+        "Hustle",
+        "Sniper"
+    ],
+    "hiddenAbility": "Moody",
+    "specialAttack": 65,
+    "specialDefense": 35,
+    "catchRate": 190,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 60,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 1",
+        "Water 2"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Helping Hand": 1,
+        "Water Gun": 1,
+        "Water Pulse": 4,
+        "Focus Energy": 8,
+        "Psybeam": 12,
+        "Aurora Beam": 16,
+        "Bubble Beam": 20,
+        "Lock-On": 24,
+        "Bullet Seed": 28,
+        "Ice Beam": 32,
+        "Hydro Pump": 36,
+        "Soak": 40,
+        "Hyper Beam": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Bullet Seed": 9,
+        "Sunny Day": 11,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Psychic": 29,
+        "Double Team": 32,
+        "Flamethrower": 35,
+        "Fire Blast": 38,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Scald": 49,
+        "Brine": 55,
+        "Charge Beam": 57,
+        "Endure": 58,
+        "Thunder Wave": 73,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Surf": 95,
+        "Waterfall": 99
+    }
+}

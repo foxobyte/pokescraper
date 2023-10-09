@@ -1,0 +1,12 @@
+{
+    "name": "Last Respects",
+    "category": "Physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "Damages increases the more party Pok\u00e9mon have been defeated.",
+    "isHighCrit": false
+}

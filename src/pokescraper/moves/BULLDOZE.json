@@ -1,0 +1,12 @@
+{
+    "name": "Bulldoze",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 100,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "Lowers opponent's Speed.",
+    "isHighCrit": false
+}

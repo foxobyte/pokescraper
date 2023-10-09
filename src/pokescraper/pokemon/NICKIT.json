@@ -1,0 +1,75 @@
+{
+    "generation": 8,
+    "name": "Nickit",
+    "species": "Fox Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 40,
+    "attack": 28,
+    "defense": 28,
+    "speed": 50,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dark"
+    ],
+    "nationalNumber": 827,
+    "specialName": null,
+    "specialAbilities": [
+        "Run Away",
+        "Unburden"
+    ],
+    "hiddenAbility": "Stakeout",
+    "specialAttack": 47,
+    "specialDefense": 52,
+    "catchRate": 255,
+    "evYield": {
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 49,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Quick Attack": 1,
+        "Tail Whip": 1,
+        "Beat Up": 4,
+        "Hone Claws": 8,
+        "Snarl": 12,
+        "Assurance": 16,
+        "Nasty Plot": 20,
+        "Sucker Punch": 24,
+        "Night Slash": 28,
+        "Tail Slap": 32,
+        "Foul Play": 36
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Lash Out"
+    ],
+    "movesLearnedByTm": {
+        "Dig": 15,
+        "Screech": 16,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Beat Up": 37,
+        "Facade": 39,
+        "Swift": 40,
+        "Fake Tears": 47,
+        "Mud Shot": 53,
+        "Assurance": 58,
+        "Round": 76,
+        "Tail Slap": 84,
+        "Snarl": 85
+    }
+}

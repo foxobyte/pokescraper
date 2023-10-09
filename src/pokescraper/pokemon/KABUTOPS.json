@@ -1,0 +1,103 @@
+{
+    "generation": 1,
+    "name": "Kabutops",
+    "species": "Shellfish Pok\u00e9mon",
+    "height": "1.3\u00a0m (4\u203203\u2033)",
+    "weight": "1.3\u00a0m (4\u203203\u2033)",
+    "hp": 60,
+    "attack": 115,
+    "defense": 105,
+    "speed": 80,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Water"
+    ],
+    "nationalNumber": 141,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim",
+        "Battle Armor"
+    ],
+    "hiddenAbility": "Weak Armor",
+    "specialAttack": 65,
+    "specialDefense": 70,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 173,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 1",
+        "Water 3"
+    ],
+    "eggCycles": 30,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Feint": 1,
+        "Harden": 1,
+        "Night Slash": 1,
+        "Sand Attack": 1,
+        "Scratch": 1,
+        "Slash": 1,
+        "Aqua Jet": 15,
+        "Leer": 20,
+        "Mud Shot": 25,
+        "Ancient Power": 30,
+        "Brine": 35,
+        "Protect": 43,
+        "Leech Life": 49,
+        "Liquidation": 56,
+        "Metal Sound": 63,
+        "Stone Edge": 70
+    },
+    "movesLearnedOnEvolution": [
+        "Slash"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Giga Drain": 19,
+        "Dig": 28,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Sandstorm": 37,
+        "Rock Tomb": 39,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Scald": 49,
+        "Brine": 55,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Rock Polish": 69,
+        "Stone Edge": 71,
+        "Swords Dance": 75,
+        "Stealth Rock": 76,
+        "Rock Slide": 80,
+        "X-Scissor": 81,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Surf": 95,
+        "Rock Smash": 98,
+        "Waterfall": 99,
+        "Rock Climb": 100
+    }
+}

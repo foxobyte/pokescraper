@@ -1,0 +1,12 @@
+{
+    "name": "Behemoth Bash",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Damage doubles if target is Dynamaxed.",
+    "isHighCrit": false
+}

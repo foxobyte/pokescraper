@@ -1,0 +1,93 @@
+{
+    "generation": 4,
+    "name": "Mothim",
+    "species": "Moth Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "0.9\u00a0m (2\u203211\u2033)",
+    "hp": 70,
+    "attack": 94,
+    "defense": 50,
+    "speed": 66,
+    "gender": {
+        "male": "100%",
+        "female": "0%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Flying"
+    ],
+    "nationalNumber": 414,
+    "specialName": null,
+    "specialAbilities": [
+        "Swarm"
+    ],
+    "hiddenAbility": "Tinted Lens",
+    "specialAttack": 94,
+    "specialDefense": 50,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 1,
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 148,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Bug Bite": 15,
+        "Protect": 10,
+        "Quiver Dance": 1,
+        "Tackle": 1,
+        "String Shot": 20,
+        "Confusion": 23,
+        "Gust": 26,
+        "Poison Powder": 29,
+        "Psybeam": 32,
+        "Roost": 35,
+        "Struggle Bug": 38,
+        "Air Slash": 41,
+        "Psychic": 44,
+        "Lunge": 47,
+        "Bug Buzz": 50
+    },
+    "movesLearnedOnEvolution": [
+        "Quiver Dance"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Giga Drain": 19,
+        "Safeguard": 20,
+        "Solar Beam": 22,
+        "Psychic": 29,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Skill Swap": 48,
+        "Roost": 51,
+        "Energy Ball": 53,
+        "Endure": 58,
+        "Bug Buzz": 62,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Psych Up": 77,
+        "Sleep Talk": 82,
+        "Dream Eater": 85,
+        "Swagger": 87,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Defog": 97
+    }
+}

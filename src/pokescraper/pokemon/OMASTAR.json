@@ -1,0 +1,95 @@
+{
+    "generation": 1,
+    "name": "Omastar",
+    "species": "Spiral Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 70,
+    "attack": 60,
+    "defense": 125,
+    "speed": 55,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Water"
+    ],
+    "nationalNumber": 139,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim",
+        "Shell Armor"
+    ],
+    "hiddenAbility": "Weak Armor",
+    "specialAttack": 115,
+    "specialDefense": 70,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 173,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 1",
+        "Water 3"
+    ],
+    "eggCycles": 30,
+    "movesLearnedAtLevel": {
+        "Bind": 1,
+        "Crunch": 1,
+        "Rollout": 1,
+        "Sand Attack": 1,
+        "Withdraw": 1,
+        "Water Gun": 15,
+        "Leer": 20,
+        "Mud Shot": 25,
+        "Ancient Power": 30,
+        "Brine": 35,
+        "Protect": 43,
+        "Rock Blast": 49,
+        "Surf": 56,
+        "Shell Smash": 63,
+        "Hydro Pump": 70
+    },
+    "movesLearnedOnEvolution": [
+        "Crunch"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Double Team": 32,
+        "Sandstorm": 37,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Scald": 49,
+        "Brine": 55,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Rock Polish": 69,
+        "Stone Edge": 71,
+        "Gyro Ball": 74,
+        "Stealth Rock": 76,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Surf": 95,
+        "Rock Smash": 98,
+        "Waterfall": 99,
+        "Rock Climb": 100
+    }
+}

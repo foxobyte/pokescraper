@@ -1,0 +1,12 @@
+{
+    "name": "Vise Grip",
+    "category": "Physical",
+    "power": 55,
+    "accuracy": 100,
+    "pp": 30,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "",
+    "isHighCrit": false
+}

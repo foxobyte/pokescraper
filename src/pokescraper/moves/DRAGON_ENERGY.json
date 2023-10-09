@@ -1,0 +1,12 @@
+{
+    "name": "Dragon Energy",
+    "category": "Special",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "The higher the user's HP, the higher the power.",
+    "isHighCrit": false
+}

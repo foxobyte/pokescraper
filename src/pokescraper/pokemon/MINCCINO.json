@@ -1,0 +1,82 @@
+{
+    "generation": 5,
+    "name": "Minccino",
+    "species": "Chinchilla Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 55,
+    "attack": 50,
+    "defense": 40,
+    "speed": 75,
+    "gender": {
+        "male": "25%",
+        "female": "75%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 572,
+    "specialName": null,
+    "specialAbilities": [
+        "Cute Charm",
+        "Technician"
+    ],
+    "hiddenAbility": "Skill Link",
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 60,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Baby-Doll Eyes": 1,
+        "Pound": 1,
+        "Helping Hand": 4,
+        "Echoed Voice": 8,
+        "Sing": 12,
+        "Charm": 16,
+        "Swift": 20,
+        "Encore": 24,
+        "After You": 28,
+        "Tail Slap": 32,
+        "Tickle": 36,
+        "Slam": 40,
+        "Hyper Voice": 44,
+        "Last Resort": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Triple Axel"
+    ],
+    "movesLearnedByTm": {
+        "Thunder Wave": 14,
+        "Dig": 15,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Charm": 29,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Fake Tears": 47,
+        "U-turn": 56,
+        "Fling": 59,
+        "Round": 76,
+        "Retaliate": 79,
+        "Tail Slap": 84
+    }
+}

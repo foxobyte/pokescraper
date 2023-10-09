@@ -1,0 +1,12 @@
+{
+    "name": "Storm Throw",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 100,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Always results in a critical hit.",
+    "isHighCrit": false
+}

@@ -1,0 +1,74 @@
+{
+    "generation": 7,
+    "name": "Dewpider",
+    "species": "Water Bubble Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 38,
+    "attack": 40,
+    "defense": 52,
+    "speed": 27,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Bug"
+    ],
+    "nationalNumber": 751,
+    "specialName": null,
+    "specialAbilities": [
+        "Water Bubble"
+    ],
+    "hiddenAbility": "Water Absorb",
+    "specialAttack": 40,
+    "specialDefense": 72,
+    "catchRate": 200,
+    "evYield": {
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 54,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug",
+        "Water 1"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Infestation": 1,
+        "Water Gun": 1,
+        "Bug Bite": 4,
+        "Bite": 8,
+        "Bubble Beam": 12,
+        "Aqua Ring": 16,
+        "Headbutt": 20,
+        "Crunch": 24,
+        "Soak": 28,
+        "Entrainment": 32,
+        "Lunge": 36,
+        "Liquidation": 40,
+        "Leech Life": 44,
+        "Mirror Coat": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Wonder Room": 71,
+        "Magic Room": 72,
+        "Round": 76
+    }
+}

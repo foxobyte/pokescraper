@@ -1,0 +1,84 @@
+{
+    "generation": 6,
+    "name": "Helioptile",
+    "species": "Generator Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 44,
+    "attack": 38,
+    "defense": 33,
+    "speed": 70,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric",
+        "Normal"
+    ],
+    "nationalNumber": 694,
+    "specialName": null,
+    "specialAbilities": [
+        "Dry Skin",
+        "Sand Veil"
+    ],
+    "hiddenAbility": "Solar Power",
+    "specialAttack": 61,
+    "specialDefense": 43,
+    "catchRate": 190,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 58,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Dragon",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Mud-Slap": 1,
+        "Tail Whip": 1,
+        "Pound": 4,
+        "Thunder Shock": 8,
+        "Quick Attack": 12,
+        "Charge": 16,
+        "Bulldoze": 20,
+        "Volt Switch": 24,
+        "Parabolic Charge": 28,
+        "Thunder Wave": 32,
+        "Thunderbolt": 36,
+        "Electrify": 40,
+        "Thunder": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Rising Voltage",
+        "Scale Shot"
+    ],
+    "movesLearnedByTm": {
+        "Thunder Wave": 14,
+        "Dig": 15,
+        "Light Screen": 17,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Swift": 40,
+        "Rock Tomb": 48,
+        "U-turn": 56,
+        "Low Sweep": 75,
+        "Round": 76,
+        "Volt Switch": 80,
+        "Bulldoze": 81,
+        "Electroweb": 82,
+        "Electric Terrain": 90
+    }
+}

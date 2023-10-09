@@ -1,0 +1,12 @@
+{
+    "name": "Roost",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "User recovers half of its max HP and loses the Flying type temporarily.",
+    "isHighCrit": false
+}

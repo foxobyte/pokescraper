@@ -1,0 +1,95 @@
+{
+    "generation": 3,
+    "name": "Shelgon",
+    "species": "Endurance Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 65,
+    "attack": 95,
+    "defense": 100,
+    "speed": 50,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dragon"
+    ],
+    "nationalNumber": 372,
+    "specialName": null,
+    "specialAbilities": [
+        "Rock Head"
+    ],
+    "hiddenAbility": "Overcoat",
+    "specialAttack": 60,
+    "specialDefense": 50,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 35,
+    "baseExp": 147,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Dragon"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Bite": 1,
+        "Dragon Breath": 1,
+        "Ember": 1,
+        "Leer": 1,
+        "Headbutt": 15,
+        "Scary Face": 20,
+        "Crunch": 25,
+        "Dragon Claw": 33,
+        "Zen Headbutt": 39,
+        "Focus Energy": 46,
+        "Flamethrower": 53,
+        "Outrage": 60,
+        "Double-Edge": 67
+    },
+    "movesLearnedOnEvolution": [
+        "Protect"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Thunder Fang": 9,
+        "Fire Spin": 24,
+        "Facade": 25,
+        "Rock Tomb": 36,
+        "Dragon Tail": 44,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Brick Break": 58,
+        "Zen Headbutt": 59,
+        "Shadow Claw": 61,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Dragon Claw": 78,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Iron Head": 99,
+        "Dragon Dance": 100,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Crunch": 108,
+        "Dragon Pulse": 115,
+        "Hyper Voice": 117,
+        "Flamethrower": 125,
+        "Helping Hand": 130,
+        "Fire Blast": 141,
+        "Hydro Pump": 142,
+        "Outrage": 156,
+        "Draco Meteor": 169,
+        "Tera Blast": 171
+    }
+}

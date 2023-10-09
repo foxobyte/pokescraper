@@ -1,0 +1,12 @@
+{
+    "name": "Nuzzle",
+    "category": "Physical",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 100,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "Paralyzes opponent.",
+    "isHighCrit": false
+}

@@ -1,0 +1,96 @@
+{
+    "generation": 8,
+    "name": "Cursola",
+    "species": "Coral Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 60,
+    "attack": 95,
+    "defense": 50,
+    "speed": 30,
+    "gender": {
+        "male": "25%",
+        "female": "75%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ghost"
+    ],
+    "nationalNumber": 864,
+    "specialName": null,
+    "specialAbilities": [
+        "Weak Armor"
+    ],
+    "hiddenAbility": "Perish Body",
+    "specialAttack": 145,
+    "specialDefense": 130,
+    "catchRate": 30,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 179,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Water 1",
+        "Water 3"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Disable": 1,
+        "Harden": 1,
+        "Perish Song": 1,
+        "Tackle": 1,
+        "Spite": 15,
+        "Ancient Power": 20,
+        "Hex": 25,
+        "Curse": 30,
+        "Strength Sap": 35,
+        "Power Gem": 40,
+        "Night Shade": 45,
+        "Grudge": 50,
+        "Mirror Coat": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Burning Jealousy",
+        "Meteor Beam",
+        "Poltergeist"
+    ],
+    "movesLearnedByTm": {
+        "Pin Missile": 7,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Screech": 16,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Self-Destruct": 20,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Hail": 35,
+        "Whirlpool": 36,
+        "Will-O-Wisp": 38,
+        "Facade": 39,
+        "Revenge": 42,
+        "Rock Tomb": 48,
+        "Icicle Spear": 51,
+        "Rock Blast": 54,
+        "Brine": 55,
+        "Round": 76,
+        "Hex": 77,
+        "Bulldoze": 81,
+        "Stomping Tantrum": 98
+    }
+}

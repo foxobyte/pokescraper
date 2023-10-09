@@ -1,0 +1,83 @@
+{
+    "generation": 5,
+    "name": "Sewaddle",
+    "species": "Sewing Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 45,
+    "attack": 53,
+    "defense": 70,
+    "speed": 42,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Grass"
+    ],
+    "nationalNumber": 540,
+    "specialName": null,
+    "specialAbilities": [
+        "Swarm",
+        "Chlorophyll"
+    ],
+    "hiddenAbility": "Overcoat",
+    "specialAttack": 40,
+    "specialDefense": 60,
+    "catchRate": 255,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 62,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "String Shot": 1,
+        "Tackle": 1,
+        "Bug Bite": 8,
+        "Razor Leaf": 15,
+        "Struggle Bug": 22,
+        "Endure": 29,
+        "Sticky Web": 31,
+        "Bug Buzz": 36,
+        "Flail": 43
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Protect": 7,
+        "Struggle Bug": 15,
+        "Trailblaze": 20,
+        "Pounce": 21,
+        "Facade": 25,
+        "Magical Leaf": 33,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Baton Pass": 132,
+        "Grassy Terrain": 137,
+        "Bug Buzz": 162,
+        "Solar Beam": 168,
+        "Tera Blast": 171,
+        "Bug Bite": 182,
+        "Lunge": 185,
+        "Grassy Glide": 194
+    }
+}

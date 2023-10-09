@@ -1,0 +1,12 @@
+{
+    "name": "Mirror Move",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "User performs the opponent's last move.",
+    "isHighCrit": false
+}

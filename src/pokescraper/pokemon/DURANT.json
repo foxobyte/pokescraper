@@ -1,0 +1,84 @@
+{
+    "generation": 5,
+    "name": "Durant",
+    "species": "Iron Ant Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 58,
+    "attack": 109,
+    "defense": 112,
+    "speed": 109,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Steel"
+    ],
+    "nationalNumber": 632,
+    "specialName": null,
+    "specialAbilities": [
+        "Swarm",
+        "Hustle"
+    ],
+    "hiddenAbility": "Truant",
+    "specialAttack": 48,
+    "specialDefense": 48,
+    "catchRate": 90,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 169,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Fury Cutter": 1,
+        "Sand Attack": 1,
+        "Vise Grip": 4,
+        "Metal Claw": 8,
+        "Beat Up": 12,
+        "Bug Bite": 16,
+        "Bite": 20,
+        "Agility": 24,
+        "Dig": 28,
+        "X-Scissor": 32,
+        "Crunch": 36,
+        "Metal Sound": 40,
+        "Iron Head": 44,
+        "Entrainment": 48,
+        "Iron Defense": 52,
+        "Guillotine": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Dig": 15,
+        "Screech": 16,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Beat Up": 37,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Rock Tomb": 48,
+        "Shadow Claw": 65,
+        "Thunder Fang": 66,
+        "Round": 76,
+        "Retaliate": 79,
+        "Stomping Tantrum": 98
+    }
+}

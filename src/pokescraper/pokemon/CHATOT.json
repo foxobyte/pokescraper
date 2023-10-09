@@ -1,0 +1,85 @@
+{
+    "generation": 4,
+    "name": "Chatot",
+    "species": "Music Note Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 76,
+    "attack": 65,
+    "defense": 45,
+    "speed": 91,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 441,
+    "specialName": null,
+    "specialAbilities": [
+        "Keen Eye",
+        "Tangled Feet"
+    ],
+    "hiddenAbility": "Big Pecks",
+    "specialAttack": 92,
+    "specialDefense": 42,
+    "catchRate": 30,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 35,
+    "baseExp": 144,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Chatter": 21,
+        "Confide": 1,
+        "Hyper Voice": 57,
+        "Taunt": 25,
+        "Peck": 5,
+        "Growl": 9,
+        "Sing": 13,
+        "Fury Attack": 17,
+        "Round": 29,
+        "Mimic": 33,
+        "Echoed Voice": 37,
+        "Roost": 41,
+        "Uproar": 45,
+        "Parting Shot": 49,
+        "Feather Dance": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Taunt": 12,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Double Team": 32,
+        "Aerial Ace": 40,
+        "Torment": 41,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Steel Wing": 47,
+        "Roost": 51,
+        "Endure": 58,
+        "Nasty Plot": 63,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Pluck": 88,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Fly": 94,
+        "Defog": 97
+    }
+}

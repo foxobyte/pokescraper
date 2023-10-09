@@ -1,0 +1,80 @@
+{
+    "generation": 5,
+    "name": "Genesect",
+    "species": "Paleozoic Pok\u00e9mon",
+    "height": "1.5\u00a0m (4\u203211\u2033)",
+    "weight": "1.5\u00a0m (4\u203211\u2033)",
+    "hp": 71,
+    "attack": 120,
+    "defense": 95,
+    "speed": 99,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Steel"
+    ],
+    "nationalNumber": 649,
+    "specialName": null,
+    "specialAbilities": [
+        "Download"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 120,
+    "specialDefense": 95,
+    "catchRate": 3,
+    "evYield": {
+        "Attack": 1,
+        "Sp. Atk": 1,
+        "Speed": 1
+    },
+    "baseFriendship": 0,
+    "baseExp": 270,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Fury Cutter": 1,
+        "Quick Attack": 1,
+        "Screech": 7,
+        "Metal Claw": 14,
+        "Fell Stinger": 21,
+        "Flame Charge": 28,
+        "Metal Sound": 35,
+        "X-Scissor": 42,
+        "Magnet Rise": 49,
+        "Bug Buzz": 56,
+        "Simple Beam": 63,
+        "Zap Cannon": 70,
+        "Lock-On": 77,
+        "Techno Blast": 84,
+        "Self-Destruct": 91
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Fly": 6,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Thunder Wave": 14,
+        "Screech": 16,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Self-Destruct": 20,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Facade": 39,
+        "Swift": 40,
+        "U-turn": 56,
+        "Assurance": 58,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Electroweb": 82
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "generation": 2,
+    "name": "Sunflora",
+    "species": "Sun Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 75,
+    "attack": 75,
+    "defense": 55,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 192,
+    "specialName": null,
+    "specialAbilities": [
+        "Chlorophyll",
+        "Solar Power"
+    ],
+    "hiddenAbility": "Early Bird",
+    "specialAttack": 105,
+    "specialDefense": 85,
+    "catchRate": 120,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 149,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growth": 1,
+        "Pound": 1,
+        "Tackle": 1,
+        "Ingrain": 4,
+        "Absorb": 7,
+        "Mega Drain": 10,
+        "Leech Seed": 13,
+        "Razor Leaf": 16,
+        "Worry Seed": 19,
+        "Giga Drain": 22,
+        "Bullet Seed": 25,
+        "Petal Dance": 28,
+        "Solar Beam": 31,
+        "Double-Edge": 34,
+        "Sunny Day": 39,
+        "Leaf Storm": 43,
+        "Petal Blizzard": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Magical Leaf": 33,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Bullet Seed": 56,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Light Screen": 75,
+        "Dazzling Gleam": 79,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Swords Dance": 88,
+        "Substitute": 103,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Encore": 122,
+        "Helping Hand": 130,
+        "Earth Power": 133,
+        "Grassy Terrain": 137,
+        "Sludge Bomb": 148,
+        "Giga Impact": 152,
+        "Leaf Storm": 159,
+        "Hyper Beam": 163,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

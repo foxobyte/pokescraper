@@ -1,0 +1,12 @@
+{
+    "name": "Cosmic Power",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Raises user's Defense and Special Defense.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Copycat",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Copies opponent's last move.",
+    "isHighCrit": false
+}

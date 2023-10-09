@@ -1,0 +1,61 @@
+{
+    "generation": 8,
+    "name": "Urshifu",
+    "species": "Wushu Pok\u00e9mon",
+    "height": "1.9\u00a0m (6\u203203\u2033)",
+    "weight": "1.9\u00a0m (6\u203203\u2033)",
+    "hp": 100,
+    "attack": 130,
+    "defense": 100,
+    "speed": 97,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting",
+        "Water"
+    ],
+    "nationalNumber": 892,
+    "specialName": "Rapid Strike Style",
+    "specialAbilities": [
+        "Unseen Fist"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 63,
+    "specialDefense": 60,
+    "catchRate": 3,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 275,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Aqua Jet": 1,
+        "Endure": 1,
+        "Focus Energy": 1,
+        "Leer": 1,
+        "Rock Smash": 1,
+        "Aerial Ace": 12,
+        "Scary Face": 16,
+        "Headbutt": 20,
+        "Brick Break": 24,
+        "Detect": 28,
+        "Bulk Up": 32,
+        "Iron Head": 36,
+        "Dynamic Punch": 40,
+        "Counter": 44,
+        "Close Combat": 48,
+        "Focus Punch": 52
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

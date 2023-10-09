@@ -1,0 +1,85 @@
+{
+    "generation": 8,
+    "name": "Sirfetch'd",
+    "species": "Wild Duck Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 62,
+    "attack": 135,
+    "defense": 95,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting"
+    ],
+    "nationalNumber": 865,
+    "specialName": null,
+    "specialAbilities": [
+        "Steadfast"
+    ],
+    "hiddenAbility": "Scrappy",
+    "specialAttack": 68,
+    "specialDefense": 82,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 177,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field",
+        "Flying"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "First Impression": 1,
+        "Fury Cutter": 1,
+        "Iron Defense": 1,
+        "Leer": 1,
+        "Peck": 1,
+        "Sand Attack": 1,
+        "Rock Smash": 15,
+        "Brutal Swing": 20,
+        "Detect": 25,
+        "Knock Off": 30,
+        "Defog": 35,
+        "Brick Break": 40,
+        "Swords Dance": 45,
+        "Slam": 50,
+        "Leaf Blade": 55,
+        "Final Gambit": 60,
+        "Brave Bird": 65,
+        "Meteor Assault": 70
+    },
+    "movesLearnedOnEvolution": [
+        "Iron Defense"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Coaching",
+        "Dual Wingbeat",
+        "Grassy Glide"
+    ],
+    "movesLearnedByTm": {
+        "Solar Blade": 12,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Steel Wing": 30,
+        "Attract": 31,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Revenge": 42,
+        "Brick Break": 43,
+        "Assurance": 58,
+        "Round": 76,
+        "Retaliate": 79,
+        "Brutal Swing": 97
+    }
+}

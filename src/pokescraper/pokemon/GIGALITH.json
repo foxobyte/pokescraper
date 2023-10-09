@@ -1,0 +1,80 @@
+{
+    "generation": 5,
+    "name": "Gigalith",
+    "species": "Compressed Pok\u00e9mon",
+    "height": "1.7\u00a0m (5\u203207\u2033)",
+    "weight": "1.7\u00a0m (5\u203207\u2033)",
+    "hp": 85,
+    "attack": 135,
+    "defense": 130,
+    "speed": 25,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock"
+    ],
+    "nationalNumber": 526,
+    "specialName": null,
+    "specialAbilities": [
+        "Sturdy",
+        "Sand Stream"
+    ],
+    "hiddenAbility": "Sand Force",
+    "specialAttack": 60,
+    "specialDefense": 80,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 232,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Harden": 1,
+        "Power Gem": 1,
+        "Sand Attack": 1,
+        "Stealth Rock": 1,
+        "Tackle": 1,
+        "Mud-Slap": 12,
+        "Smack Down": 16,
+        "Iron Defense": 20,
+        "Headbutt": 24,
+        "Rock Slide": 30,
+        "Rock Blast": 36,
+        "Sandstorm": 42,
+        "Stone Edge": 48,
+        "Explosion": 54
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Meteor Beam"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Self-Destruct": 20,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Facade": 39,
+        "Weather Ball": 46,
+        "Rock Tomb": 48,
+        "Sand Tomb": 49,
+        "Rock Blast": 54,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Stomping Tantrum": 98
+    }
+}

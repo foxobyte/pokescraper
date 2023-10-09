@@ -1,0 +1,88 @@
+{
+    "generation": 8,
+    "name": "Grapploct",
+    "species": "Tantrum Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 80,
+    "attack": 118,
+    "defense": 90,
+    "speed": 42,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting"
+    ],
+    "nationalNumber": 853,
+    "specialName": null,
+    "specialAbilities": [
+        "Limber"
+    ],
+    "hiddenAbility": "Technician",
+    "specialAttack": 70,
+    "specialDefense": 80,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 168,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Human-Like",
+        "Water 1"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Bind": 1,
+        "Feint": 1,
+        "Leer": 1,
+        "Octazooka": 1,
+        "Octolock": 1,
+        "Rock Smash": 1,
+        "Detect": 15,
+        "Brick Break": 20,
+        "Bulk Up": 25,
+        "Submission": 30,
+        "Taunt": 35,
+        "Reversal": 40,
+        "Superpower": 45,
+        "Topsy-Turvy": 50
+    },
+    "movesLearnedOnEvolution": [
+        "Octolock"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Coaching",
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Ice Punch": 4,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Attract": 31,
+        "Whirlpool": 36,
+        "Facade": 39,
+        "Revenge": 42,
+        "Brick Break": 43,
+        "Dive": 45,
+        "Mud Shot": 53,
+        "Brine": 55,
+        "Payback": 57,
+        "Drain Punch": 63,
+        "Round": 76,
+        "Retaliate": 79,
+        "Brutal Swing": 97,
+        "Stomping Tantrum": 98
+    }
+}

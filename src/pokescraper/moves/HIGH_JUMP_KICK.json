@@ -1,0 +1,12 @@
+{
+    "name": "High Jump Kick",
+    "category": "Physical",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "If it misses, the user loses half their HP.",
+    "isHighCrit": false
+}

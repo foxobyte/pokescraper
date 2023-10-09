@@ -1,0 +1,12 @@
+{
+    "name": "Power Trip",
+    "category": "Physical",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "The user boasts its strength and attacks the target. The more the user's stats are raised, the greater the move's power.",
+    "isHighCrit": false
+}

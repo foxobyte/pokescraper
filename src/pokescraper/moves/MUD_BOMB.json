@@ -1,0 +1,12 @@
+{
+    "name": "Mud Bomb",
+    "category": "Special",
+    "power": 65,
+    "accuracy": 85,
+    "pp": 10,
+    "probability": 30,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "May lower opponent's Accuracy.",
+    "isHighCrit": false
+}

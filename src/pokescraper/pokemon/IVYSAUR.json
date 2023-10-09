@@ -1,0 +1,101 @@
+{
+    "generation": 1,
+    "name": "Ivysaur",
+    "species": "Seed Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 60,
+    "attack": 62,
+    "defense": 63,
+    "speed": 60,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {
+        "VENUSAUR": {
+            "level": 32,
+            "time": null,
+            "heldItem": null,
+            "usedItem": null,
+            "hasPokemon": null,
+            "highFriendship": null,
+            "needsTrade": null,
+            "usedMove": null,
+            "learnedMove": null
+        }
+    },
+    "type": [
+        "Grass",
+        "Poison"
+    ],
+    "nationalNumber": 2,
+    "specialName": null,
+    "specialAbilities": [
+        "Overgrow"
+    ],
+    "hiddenAbility": "Chlorophyll",
+    "specialAttack": 80,
+    "specialDefense": 80,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 1,
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 142,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Grass",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Growth": 1,
+        "Tackle": 1,
+        "Vine Whip": 1,
+        "Leech Seed": 9,
+        "Razor Leaf": 12,
+        "Poison Powder": 15,
+        "Sleep Powder": 15,
+        "Seed Bomb": 20,
+        "Take Down": 25,
+        "Sweet Scent": 30,
+        "Synthesis": 35,
+        "Worry Seed": 40,
+        "Double-Edge": 45,
+        "Solar Beam": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Toxic": 6,
+        "Bullet Seed": 9,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Safeguard": 20,
+        "Solar Beam": 22,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Energy Ball": 53,
+        "False Swipe": 54,
+        "Endure": 58,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

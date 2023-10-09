@@ -1,0 +1,12 @@
+{
+    "name": "Thunder",
+    "category": "Special",
+    "power": 110,
+    "accuracy": 70,
+    "pp": 10,
+    "probability": 30,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "May paralyze opponent.",
+    "isHighCrit": false
+}

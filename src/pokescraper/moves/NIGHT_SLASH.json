@@ -1,0 +1,12 @@
+{
+    "name": "Night Slash",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "High critical hit ratio.",
+    "isHighCrit": true
+}

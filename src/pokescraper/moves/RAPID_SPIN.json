@@ -1,0 +1,12 @@
+{
+    "name": "Rapid Spin",
+    "category": "Physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 40,
+    "probability": 100,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Raises user's Speed and removes entry hazards and trap move effects.",
+    "isHighCrit": false
+}

@@ -1,0 +1,57 @@
+{
+    "generation": 1,
+    "name": "Articuno",
+    "species": "Freeze Pok\u00e9mon",
+    "height": "1.7\u00a0m (5\u203207\u2033)",
+    "weight": "1.7\u00a0m (5\u203207\u2033)",
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "speed": 85,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Ice",
+        "Flying"
+    ],
+    "nationalNumber": 144,
+    "specialName": null,
+    "specialAbilities": [
+        "Pressure"
+    ],
+    "hiddenAbility": "Snow Cloak",
+    "specialAttack": 95,
+    "specialDefense": 125,
+    "catchRate": 3,
+    "evYield": {
+        "Sp. Def": 3
+    },
+    "baseFriendship": 35,
+    "baseExp": 290,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 80,
+    "movesLearnedAtLevel": {
+        "Gust": 1,
+        "Confusion": 5,
+        "Reflect": 10,
+        "Hypnosis": 15,
+        "Agility": 20,
+        "Ancient Power": 25,
+        "Tailwind": 30,
+        "Psycho Cut": 35,
+        "Recover": 40,
+        "Freezing Glare": 45,
+        "Dream Eater": 50,
+        "Hurricane": 55,
+        "Double Team": 60,
+        "Future Sight": 65,
+        "Trick Room": 70
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

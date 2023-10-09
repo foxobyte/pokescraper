@@ -1,0 +1,12 @@
+{
+    "name": "Ion Deluge",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 25,
+    "probability": null,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "Changes Normal-type moves to Electric-type.",
+    "isHighCrit": false
+}

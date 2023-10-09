@@ -1,0 +1,12 @@
+{
+    "name": "Foul Play",
+    "category": "Physical",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Uses the opponent's Attack stat.",
+    "isHighCrit": false
+}

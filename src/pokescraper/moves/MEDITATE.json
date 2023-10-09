@@ -1,0 +1,12 @@
+{
+    "name": "Meditate",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Raises user's Attack.",
+    "isHighCrit": false
+}

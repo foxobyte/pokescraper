@@ -1,0 +1,65 @@
+{
+    "generation": 6,
+    "name": "Avalugg",
+    "species": "Iceberg Pok\u00e9mon",
+    "height": "2.0\u00a0m (6\u203207\u2033)",
+    "weight": "2.0\u00a0m (6\u203207\u2033)",
+    "hp": 95,
+    "attack": 117,
+    "defense": 184,
+    "speed": 28,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice"
+    ],
+    "nationalNumber": 713,
+    "specialName": null,
+    "specialAbilities": [
+        "Own Tempo",
+        "Ice Body"
+    ],
+    "hiddenAbility": "Sturdy",
+    "specialAttack": 44,
+    "specialDefense": 46,
+    "catchRate": 55,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 180,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Mineral",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Harden": 1,
+        "Powder Snow": 1,
+        "Rapid Spin": 1,
+        "Tackle": 1,
+        "Wide Guard": 1,
+        "Curse": 9,
+        "Icy Wind": 12,
+        "Protect": 15,
+        "Avalanche": 18,
+        "Bite": 21,
+        "Ice Fang": 24,
+        "Iron Defense": 27,
+        "Recover": 30,
+        "Crunch": 33,
+        "Take Down": 36,
+        "Blizzard": 41,
+        "Double-Edge": 46,
+        "Stone Edge": 51,
+        "Mountain Gale": 61
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

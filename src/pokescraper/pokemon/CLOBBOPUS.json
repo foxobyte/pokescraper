@@ -1,0 +1,74 @@
+{
+    "generation": 8,
+    "name": "Clobbopus",
+    "species": "Tantrum Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 50,
+    "attack": 68,
+    "defense": 60,
+    "speed": 32,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting"
+    ],
+    "nationalNumber": 852,
+    "specialName": null,
+    "specialAbilities": [
+        "Limber"
+    ],
+    "hiddenAbility": "Technician",
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "catchRate": 180,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 62,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Human-Like",
+        "Water 1"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Rock Smash": 1,
+        "Feint": 5,
+        "Bind": 10,
+        "Detect": 15,
+        "Brick Break": 20,
+        "Bulk Up": 25,
+        "Submission": 30,
+        "Taunt": 35,
+        "Reversal": 40,
+        "Superpower": 45
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Coaching"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Ice Punch": 4,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Facade": 39,
+        "Revenge": 42,
+        "Brick Break": 43,
+        "Dive": 45,
+        "Mud Shot": 53,
+        "Brine": 55,
+        "Payback": 57,
+        "Round": 76,
+        "Retaliate": 79
+    }
+}

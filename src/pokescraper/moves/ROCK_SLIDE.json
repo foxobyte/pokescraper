@@ -1,0 +1,12 @@
+{
+    "name": "Rock Slide",
+    "category": "Physical",
+    "power": 75,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": 30,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

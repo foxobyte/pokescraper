@@ -1,0 +1,69 @@
+{
+    "generation": 8,
+    "name": "Wooloo",
+    "species": "Sheep Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 42,
+    "attack": 40,
+    "defense": 55,
+    "speed": 48,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 831,
+    "specialName": null,
+    "specialAbilities": [
+        "Fluffy",
+        "Run Away"
+    ],
+    "hiddenAbility": "Bulletproof",
+    "specialAttack": 40,
+    "specialDefense": 45,
+    "catchRate": 255,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 122,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Tackle": 1,
+        "Defense Curl": 4,
+        "Copycat": 8,
+        "Guard Split": 12,
+        "Double Kick": 16,
+        "Headbutt": 21,
+        "Take Down": 25,
+        "Guard Swap": 28,
+        "Reversal": 32,
+        "Cotton Guard": 36,
+        "Double-Edge": 40
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Grassy Glide"
+    ],
+    "movesLearnedByTm": {
+        "Thunder Wave": 14,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Facade": 39,
+        "Payback": 57,
+        "Guard Swap": 61,
+        "Round": 76
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "generation": 5,
+    "name": "Accelgor",
+    "species": "Shell Out Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 80,
+    "attack": 70,
+    "defense": 40,
+    "speed": 145,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 617,
+    "specialName": null,
+    "specialAbilities": [
+        "Hydration",
+        "Sticky Hold"
+    ],
+    "hiddenAbility": "Unburden",
+    "specialAttack": 100,
+    "specialDefense": 60,
+    "catchRate": 75,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 173,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Acid": 1,
+        "Acid Armor": 1,
+        "Acid Spray": 1,
+        "Body Slam": 1,
+        "Curse": 1,
+        "Double Team": 1,
+        "Guard Swap": 1,
+        "Quick Attack": 1,
+        "Water Shuriken": 1,
+        "Yawn": 1,
+        "Mega Drain": 12,
+        "Struggle Bug": 16,
+        "Swift": 20,
+        "Agility": 24,
+        "Giga Drain": 28,
+        "Power Swap": 32,
+        "U-turn": 36,
+        "Recover": 40,
+        "Bug Buzz": 44,
+        "Final Gambit": 48,
+        "Toxic": 52
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Swift": 40,
+        "Mud Shot": 53,
+        "U-turn": 56,
+        "Power Swap": 60,
+        "Guard Swap": 61,
+        "Drain Punch": 63,
+        "Venoshock": 74,
+        "Round": 76
+    }
+}

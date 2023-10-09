@@ -1,0 +1,62 @@
+{
+    "generation": 5,
+    "name": "Stunfisk",
+    "species": "Trap Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 109,
+    "attack": 66,
+    "defense": 84,
+    "speed": 32,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ground",
+        "Electric"
+    ],
+    "nationalNumber": 618,
+    "specialName": null,
+    "specialAbilities": [
+        "Static",
+        "Limber"
+    ],
+    "hiddenAbility": "Sand Veil",
+    "specialAttack": 81,
+    "specialDefense": 99,
+    "catchRate": 75,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 70,
+    "baseExp": 165,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Metal Claw": 1,
+        "Mud-Slap": 1,
+        "Tackle": 1,
+        "Water Gun": 1,
+        "Endure": 5,
+        "Mud Shot": 10,
+        "Revenge": 15,
+        "Metal Sound": 20,
+        "Sucker Punch": 25,
+        "Iron Defense": 30,
+        "Bounce": 35,
+        "Muddy Water": 40,
+        "Snap Trap": 45,
+        "Flail": 50,
+        "Fissure": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

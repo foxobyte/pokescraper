@@ -1,0 +1,12 @@
+{
+    "name": "Searing Sunraze Smash",
+    "category": "Physical",
+    "power": 200,
+    "accuracy": null,
+    "pp": 1,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Solgaleo-exclusive Z-Move.",
+    "isHighCrit": false
+}

@@ -1,0 +1,83 @@
+{
+    "generation": 1,
+    "name": "Seadra",
+    "species": "Dragon Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 55,
+    "attack": 65,
+    "defense": 95,
+    "speed": 85,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 117,
+    "specialName": null,
+    "specialAbilities": [
+        "Poison Point",
+        "Sniper"
+    ],
+    "hiddenAbility": "Damp",
+    "specialAttack": 95,
+    "specialDefense": 45,
+    "catchRate": 75,
+    "evYield": {
+        "Defense": 1,
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 154,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Dragon",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Smokescreen": 1,
+        "Twister": 1,
+        "Water Gun": 1,
+        "Focus Energy": 15,
+        "Dragon Breath": 20,
+        "Bubble Beam": 25,
+        "Agility": 30,
+        "Laser Focus": 37,
+        "Dragon Pulse": 44,
+        "Hydro Pump": 51,
+        "Dragon Dance": 58,
+        "Rain Dance": 65
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Double Team": 32,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Scald": 49,
+        "Brine": 55,
+        "Endure": 58,
+        "Dragon Pulse": 59,
+        "Giga Impact": 68,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Flash Cannon": 91,
+        "Surf": 95,
+        "Waterfall": 99
+    }
+}

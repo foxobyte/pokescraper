@@ -1,0 +1,12 @@
+{
+    "name": "Power Gem",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "",
+    "isHighCrit": false
+}

@@ -1,0 +1,97 @@
+{
+    "generation": 1,
+    "name": "Zubat",
+    "species": "Bat Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "speed": 55,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {
+        "GOLBAT": {
+            "level": 22,
+            "time": null,
+            "heldItem": null,
+            "usedItem": null,
+            "hasPokemon": null,
+            "highFriendship": null,
+            "needsTrade": null,
+            "usedMove": null,
+            "learnedMove": null
+        }
+    },
+    "type": [
+        "Poison",
+        "Flying"
+    ],
+    "nationalNumber": 41,
+    "specialName": null,
+    "specialAbilities": [
+        "Inner Focus"
+    ],
+    "hiddenAbility": "Infiltrator",
+    "specialAttack": 30,
+    "specialDefense": 40,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 49,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Supersonic": 1,
+        "Astonish": 5,
+        "Mean Look": 10,
+        "Poison Fang": 15,
+        "Quick Guard": 20,
+        "Air Cutter": 25,
+        "Bite": 30,
+        "Haze": 35,
+        "Venoshock": 40,
+        "Confuse Ray": 45,
+        "Air Slash": 50,
+        "Leech Life": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Sunny Day": 11,
+        "Taunt": 12,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Giga Drain": 19,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Aerial Ace": 40,
+        "Torment": 41,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Steel Wing": 47,
+        "Roost": 51,
+        "Endure": 58,
+        "Nasty Plot": 63,
+        "Payback": 66,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Pluck": 88,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Fly": 94,
+        "Defog": 97
+    }
+}

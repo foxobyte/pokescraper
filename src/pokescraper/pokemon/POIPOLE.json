@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "name": "Poipole",
+    "species": "Poison Pin Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 67,
+    "attack": 73,
+    "defense": 67,
+    "speed": 73,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Poison"
+    ],
+    "nationalNumber": 803,
+    "specialName": null,
+    "specialAbilities": [
+        "Beast Boost"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 73,
+    "specialDefense": 67,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 0,
+    "baseExp": 189,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Acid": 1,
+        "Dragon Pulse": 1,
+        "Growl": 1,
+        "Helping Hand": 1,
+        "Peck": 1,
+        "Fury Attack": 7,
+        "Fell Stinger": 14,
+        "Charm": 21,
+        "Venoshock": 28,
+        "Venom Drench": 35,
+        "Nasty Plot": 42,
+        "Poison Jab": 49,
+        "Gastro Acid": 56,
+        "Toxic": 63
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Pin Missile": 7,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Charm": 29,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Venoshock": 74,
+        "Round": 76
+    }
+}

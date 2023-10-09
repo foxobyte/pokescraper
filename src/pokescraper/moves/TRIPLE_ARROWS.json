@@ -1,0 +1,12 @@
+{
+    "name": "Triple Arrows",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Raises critical hit ratio and lowers target's Defense.",
+    "isHighCrit": false
+}

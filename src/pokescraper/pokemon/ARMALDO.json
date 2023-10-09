@@ -1,0 +1,93 @@
+{
+    "generation": 3,
+    "name": "Armaldo",
+    "species": "Plate Pok\u00e9mon",
+    "height": "1.5\u00a0m (4\u203211\u2033)",
+    "weight": "1.5\u00a0m (4\u203211\u2033)",
+    "hp": 75,
+    "attack": 125,
+    "defense": 100,
+    "speed": 45,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Bug"
+    ],
+    "nationalNumber": 348,
+    "specialName": null,
+    "specialAbilities": [
+        "Battle Armor"
+    ],
+    "hiddenAbility": "Swift Swim",
+    "specialAttack": 70,
+    "specialDefense": 80,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 173,
+    "growthRate": "Erratic",
+    "eggGroups": [
+        "Water 3"
+    ],
+    "eggCycles": 30,
+    "movesLearnedAtLevel": {
+        "Fury Cutter": 1,
+        "Harden": 1,
+        "Smack Down": 1,
+        "Water Gun": 1,
+        "Metal Claw": 12,
+        "Ancient Power": 16,
+        "Bug Bite": 20,
+        "Brine": 24,
+        "Slash": 28,
+        "Crush Claw": 32,
+        "Rock Blast": 36,
+        "Protect": 43,
+        "X-Scissor": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Iron Tail": 23,
+        "Earthquake": 26,
+        "Dig": 28,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Sandstorm": 37,
+        "Rock Tomb": 39,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "False Swipe": 54,
+        "Brine": 55,
+        "Endure": 58,
+        "Shadow Claw": 65,
+        "Giga Impact": 68,
+        "Rock Polish": 69,
+        "Stone Edge": 71,
+        "Swords Dance": 75,
+        "Stealth Rock": 76,
+        "Rock Slide": 80,
+        "X-Scissor": 81,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Flash Cannon": 91,
+        "Cut": 93,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

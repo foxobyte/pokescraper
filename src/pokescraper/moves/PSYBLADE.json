@@ -1,0 +1,12 @@
+{
+    "name": "Psyblade",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Power increases on Electric Terrain.",
+    "isHighCrit": false
+}

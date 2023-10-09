@@ -1,0 +1,82 @@
+{
+    "generation": 3,
+    "name": "Swellow",
+    "species": "Swallow Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "speed": 125,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 277,
+    "specialName": null,
+    "specialAbilities": [
+        "Guts"
+    ],
+    "hiddenAbility": "Scrappy",
+    "specialAttack": 75,
+    "specialDefense": 50,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 159,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Air Slash": 39,
+        "Brave Bird": 51,
+        "Focus Energy": 5,
+        "Growl": 1,
+        "Peck": 1,
+        "Pluck": 1,
+        "Quick Attack": 9,
+        "Wing Attack": 13,
+        "Double Team": 17,
+        "Aerial Ace": 21,
+        "Quick Guard": 27,
+        "Agility": 33,
+        "Endeavor": 45,
+        "Reversal": 57
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Double Team": 32,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Steel Wing": 47,
+        "Roost": 51,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Pluck": 88,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Fly": 94,
+        "Defog": 97
+    }
+}

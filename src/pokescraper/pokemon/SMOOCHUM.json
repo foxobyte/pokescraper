@@ -1,0 +1,92 @@
+{
+    "generation": 2,
+    "name": "Smoochum",
+    "species": "Kiss Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 45,
+    "attack": 30,
+    "defense": 15,
+    "speed": 65,
+    "gender": {
+        "male": "0%",
+        "female": "100%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice",
+        "Psychic"
+    ],
+    "nationalNumber": 238,
+    "specialName": null,
+    "specialAbilities": [
+        "Oblivious",
+        "Forewarn"
+    ],
+    "hiddenAbility": "Hydration",
+    "specialAttack": 85,
+    "specialDefense": 65,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 61,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Lick": 1,
+        "Pound": 1,
+        "Powder Snow": 4,
+        "Copycat": 8,
+        "Confusion": 12,
+        "Covet": 16,
+        "Sing": 20,
+        "Fake Tears": 24,
+        "Ice Punch": 28,
+        "Psychic": 32,
+        "Sweet Kiss": 36,
+        "Mean Look": 40,
+        "Perish Song": 44,
+        "Blizzard": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Calm Mind": 4,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Psychic": 29,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Reflect": 33,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Skill Swap": 48,
+        "Fling": 56,
+        "Endure": 58,
+        "Nasty Plot": 63,
+        "Payback": 66,
+        "Recycle": 67,
+        "Flash": 70,
+        "Avalanche": 72,
+        "Psych Up": 77,
+        "Sleep Talk": 82,
+        "Dream Eater": 85,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Trick Room": 92
+    }
+}

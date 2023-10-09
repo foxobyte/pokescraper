@@ -1,0 +1,12 @@
+{
+    "name": "Mind Reader",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User's next attack is guaranteed to hit.",
+    "isHighCrit": false
+}

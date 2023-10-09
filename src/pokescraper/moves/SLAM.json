@@ -1,0 +1,12 @@
+{
+    "name": "Slam",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 75,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "",
+    "isHighCrit": false
+}

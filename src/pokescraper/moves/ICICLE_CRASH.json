@@ -1,0 +1,12 @@
+{
+    "name": "Icicle Crash",
+    "category": "Physical",
+    "power": 85,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": 30,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

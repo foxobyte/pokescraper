@@ -1,0 +1,12 @@
+{
+    "name": "Flame Wheel",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "probability": 10,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "May burn opponent.",
+    "isHighCrit": false
+}

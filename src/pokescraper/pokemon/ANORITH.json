@@ -1,0 +1,84 @@
+{
+    "generation": 3,
+    "name": "Anorith",
+    "species": "Old Shrimp Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 45,
+    "attack": 95,
+    "defense": 50,
+    "speed": 75,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Bug"
+    ],
+    "nationalNumber": 347,
+    "specialName": null,
+    "specialAbilities": [
+        "Battle Armor"
+    ],
+    "hiddenAbility": "Swift Swim",
+    "specialAttack": 40,
+    "specialDefense": 50,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 71,
+    "growthRate": "Erratic",
+    "eggGroups": [
+        "Water 3"
+    ],
+    "eggCycles": 30,
+    "movesLearnedAtLevel": {
+        "Fury Cutter": 1,
+        "Harden": 1,
+        "Water Gun": 4,
+        "Smack Down": 8,
+        "Metal Claw": 12,
+        "Ancient Power": 16,
+        "Bug Bite": 20,
+        "Brine": 24,
+        "Slash": 28,
+        "Crush Claw": 32,
+        "Rock Blast": 36,
+        "Protect": 41,
+        "X-Scissor": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Dig": 28,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Sandstorm": 37,
+        "Rock Tomb": 39,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "False Swipe": 54,
+        "Brine": 55,
+        "Endure": 58,
+        "Rock Polish": 69,
+        "Swords Dance": 75,
+        "Stealth Rock": 76,
+        "Rock Slide": 80,
+        "X-Scissor": 81,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Rock Smash": 98
+    }
+}

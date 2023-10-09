@@ -1,0 +1,92 @@
+{
+    "generation": 3,
+    "name": "Roselia",
+    "species": "Thorn Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 50,
+    "attack": 60,
+    "defense": 45,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Poison"
+    ],
+    "nationalNumber": 315,
+    "specialName": null,
+    "specialAbilities": [
+        "Natural Cure",
+        "Poison Point"
+    ],
+    "hiddenAbility": "Leaf Guard",
+    "specialAttack": 100,
+    "specialDefense": 80,
+    "catchRate": 150,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 140,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Fairy",
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Growth": 1,
+        "Poison Sting": 1,
+        "Stun Spore": 1,
+        "Worry Seed": 1,
+        "Mega Drain": 5,
+        "Leech Seed": 10,
+        "Magical Leaf": 15,
+        "Toxic Spikes": 20,
+        "Sweet Scent": 25,
+        "Giga Drain": 30,
+        "Synthesis": 35,
+        "Toxic": 40,
+        "Petal Blizzard": 45,
+        "Aromatherapy": 50,
+        "Ingrain": 55,
+        "Petal Dance": 60
+    },
+    "movesLearnedOnEvolution": [
+        "Poison Sting"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Toxic": 6,
+        "Bullet Seed": 9,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Giga Drain": 19,
+        "Dazzling Gleam": 21,
+        "Solar Beam": 22,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Energy Ball": 53,
+        "Endure": 58,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Psych Up": 77,
+        "Sleep Talk": 82,
+        "Poison Jab": 84,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93
+    }
+}

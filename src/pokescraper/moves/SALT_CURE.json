@@ -1,0 +1,12 @@
+{
+    "name": "Salt Cure",
+    "category": "Physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "Deals damage each turn; Steel and Water types are more affected.",
+    "isHighCrit": false
+}

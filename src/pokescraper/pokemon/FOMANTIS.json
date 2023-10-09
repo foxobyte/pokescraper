@@ -1,0 +1,81 @@
+{
+    "generation": 7,
+    "name": "Fomantis",
+    "species": "Sickle Grass Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 40,
+    "attack": 55,
+    "defense": 35,
+    "speed": 35,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 753,
+    "specialName": null,
+    "specialAbilities": [
+        "Leaf Guard"
+    ],
+    "hiddenAbility": "Contrary",
+    "specialAttack": 50,
+    "specialDefense": 35,
+    "catchRate": 190,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 50,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Fury Cutter": 1,
+        "Leafage": 1,
+        "Growth": 5,
+        "Ingrain": 10,
+        "Razor Leaf": 15,
+        "Sweet Scent": 20,
+        "Slash": 25,
+        "X-Scissor": 30,
+        "Synthesis": 35,
+        "Leaf Blade": 40,
+        "Sunny Day": 45,
+        "Solar Beam": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Magical Leaf": 33,
+        "Fling": 43,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Bullet Seed": 56,
+        "False Swipe": 57,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Swords Dance": 88,
+        "Leech Life": 95,
+        "Substitute": 103,
+        "X-Scissor": 105,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Grassy Terrain": 137,
+        "Leaf Storm": 159,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

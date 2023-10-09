@@ -1,0 +1,12 @@
+{
+    "name": "Misty Terrain",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "Protects the field from status conditions for 5 turns.",
+    "isHighCrit": false
+}

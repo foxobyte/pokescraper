@@ -1,0 +1,83 @@
+{
+    "generation": 1,
+    "name": "Fearow",
+    "species": "Beak Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 65,
+    "attack": 90,
+    "defense": 65,
+    "speed": 100,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 22,
+    "specialName": null,
+    "specialAbilities": [
+        "Keen Eye"
+    ],
+    "hiddenAbility": "Sniper",
+    "specialAttack": 61,
+    "specialDefense": 61,
+    "catchRate": 90,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 155,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Drill Run": 45,
+        "Growl": 1,
+        "Leer": 4,
+        "Peck": 1,
+        "Pluck": 1,
+        "Assurance": 8,
+        "Fury Attack": 11,
+        "Aerial Ace": 15,
+        "Wing Attack": 18,
+        "Take Down": 23,
+        "Agility": 27,
+        "Focus Energy": 32,
+        "Roost": 36,
+        "Drill Peck": 41
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Double Team": 32,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Steel Wing": 47,
+        "Roost": 51,
+        "False Swipe": 54,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Pluck": 88,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Fly": 94,
+        "Defog": 97
+    }
+}

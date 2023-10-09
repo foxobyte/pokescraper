@@ -1,0 +1,66 @@
+{
+    "generation": 6,
+    "name": "Avalugg",
+    "species": "Iceberg Pok\u00e9mon",
+    "height": "1.4\u00a0m (4\u203207\u2033)",
+    "weight": "1.4\u00a0m (4\u203207\u2033)",
+    "hp": 95,
+    "attack": 127,
+    "defense": 184,
+    "speed": 38,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice",
+        "Rock"
+    ],
+    "nationalNumber": 713,
+    "specialName": "Hisuian Avalugg",
+    "specialAbilities": [
+        "Strong Jaw",
+        "Ice Body"
+    ],
+    "hiddenAbility": "Sturdy",
+    "specialAttack": 34,
+    "specialDefense": 36,
+    "catchRate": 55,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 180,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Mineral",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Harden": 1,
+        "Powder Snow": 1,
+        "Rapid Spin": 1,
+        "Tackle": 1,
+        "Wide Guard": 1,
+        "Curse": 9,
+        "Icy Wind": 12,
+        "Protect": 15,
+        "Avalanche": 18,
+        "Bite": 21,
+        "Ice Fang": 24,
+        "Iron Defense": 27,
+        "Recover": 30,
+        "Crunch": 33,
+        "Take Down": 36,
+        "Blizzard": 41,
+        "Double-Edge": 46,
+        "Stone Edge": 51,
+        "Mountain Gale": 61
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

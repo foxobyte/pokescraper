@@ -1,0 +1,12 @@
+{
+    "name": "Freezing Glare",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 10,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "May freeze opponent.",
+    "isHighCrit": false
+}

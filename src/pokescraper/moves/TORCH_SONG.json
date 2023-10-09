@@ -1,0 +1,12 @@
+{
+    "name": "Torch Song",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "Raises user's Special Attack.",
+    "isHighCrit": false
+}

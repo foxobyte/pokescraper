@@ -1,0 +1,78 @@
+{
+    "generation": 8,
+    "name": "Dracovish",
+    "species": "Fossil Pok\u00e9mon",
+    "height": "2.3\u00a0m (7\u203207\u2033)",
+    "weight": "2.3\u00a0m (7\u203207\u2033)",
+    "hp": 90,
+    "attack": 90,
+    "defense": 100,
+    "speed": 75,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Dragon"
+    ],
+    "nationalNumber": 882,
+    "specialName": null,
+    "specialAbilities": [
+        "Water Absorb",
+        "Strong Jaw"
+    ],
+    "hiddenAbility": "Sand Rush",
+    "specialAttack": 70,
+    "specialDefense": 80,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 177,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 35,
+    "movesLearnedAtLevel": {
+        "Tackle": 1,
+        "Water Gun": 1,
+        "Protect": 7,
+        "Brutal Swing": 14,
+        "Ancient Power": 21,
+        "Bite": 28,
+        "Dragon Breath": 35,
+        "Stomp": 42,
+        "Super Fang": 49,
+        "Crunch": 56,
+        "Fishious Rend": 63,
+        "Dragon Pulse": 70,
+        "Dragon Rush": 77
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Meteor Beam"
+    ],
+    "movesLearnedByTm": {
+        "Mega Kick": 1,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Rain Dance": 33,
+        "Whirlpool": 36,
+        "Facade": 39,
+        "Dive": 45,
+        "Rock Tomb": 48,
+        "Rock Blast": 54,
+        "Brine": 55,
+        "Ice Fang": 67,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Brutal Swing": 97,
+        "Stomping Tantrum": 98
+    }
+}

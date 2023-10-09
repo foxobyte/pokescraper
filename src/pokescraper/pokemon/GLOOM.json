@@ -1,0 +1,83 @@
+{
+    "generation": 1,
+    "name": "Gloom",
+    "species": "Weed Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 60,
+    "attack": 65,
+    "defense": 70,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Poison"
+    ],
+    "nationalNumber": 44,
+    "specialName": null,
+    "specialAbilities": [
+        "Chlorophyll"
+    ],
+    "hiddenAbility": "Stench",
+    "specialAttack": 85,
+    "specialDefense": 75,
+    "catchRate": 120,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 138,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Acid": 1,
+        "Growth": 1,
+        "Sweet Scent": 1,
+        "Mega Drain": 12,
+        "Poison Powder": 14,
+        "Stun Spore": 16,
+        "Sleep Powder": 18,
+        "Giga Drain": 20,
+        "Toxic": 26,
+        "Moonblast": 32,
+        "Grassy Terrain": 38,
+        "Moonlight": 44,
+        "Petal Dance": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Toxic": 6,
+        "Bullet Seed": 9,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Dazzling Gleam": 21,
+        "Solar Beam": 22,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Energy Ball": 53,
+        "Fling": 56,
+        "Endure": 58,
+        "Drain Punch": 60,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93
+    }
+}

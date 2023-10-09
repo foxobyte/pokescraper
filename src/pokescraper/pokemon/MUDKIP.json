@@ -1,0 +1,86 @@
+{
+    "generation": 3,
+    "name": "Mudkip",
+    "species": "Mud Fish Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 50,
+    "attack": 70,
+    "defense": 50,
+    "speed": 40,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 258,
+    "specialName": null,
+    "specialAbilities": [
+        "Torrent"
+    ],
+    "hiddenAbility": "Damp",
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 62,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Monster",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Tackle": 1,
+        "Water Gun": 3,
+        "Rock Smash": 6,
+        "Rock Throw": 9,
+        "Protect": 12,
+        "Supersonic": 15,
+        "Water Pulse": 18,
+        "Rock Slide": 21,
+        "Take Down": 24,
+        "Amnesia": 27,
+        "Surf": 30,
+        "Screech": 33,
+        "Endeavor": 36,
+        "Hydro Pump": 39
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Work Up": 10,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Iron Tail": 23,
+        "Dig": 28,
+        "Double Team": 32,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Scald": 49,
+        "Endure": 58,
+        "Avalanche": 72,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Surf": 95,
+        "Strength": 96,
+        "Rock Smash": 98,
+        "Waterfall": 99
+    }
+}

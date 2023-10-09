@@ -1,0 +1,12 @@
+{
+    "name": "Multi-Attack",
+    "category": "Physical",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Type matches Memory item held.",
+    "isHighCrit": false
+}

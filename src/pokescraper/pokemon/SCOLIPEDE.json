@@ -1,0 +1,89 @@
+{
+    "generation": 5,
+    "name": "Scolipede",
+    "species": "Megapede Pok\u00e9mon",
+    "height": "2.5\u00a0m (8\u203202\u2033)",
+    "weight": "2.5\u00a0m (8\u203202\u2033)",
+    "hp": 60,
+    "attack": 100,
+    "defense": 89,
+    "speed": 112,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Poison"
+    ],
+    "nationalNumber": 545,
+    "specialName": null,
+    "specialAbilities": [
+        "Poison Point",
+        "Swarm"
+    ],
+    "hiddenAbility": "Speed Boost",
+    "specialAttack": 55,
+    "specialDefense": 69,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 218,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Baton Pass": 1,
+        "Defense Curl": 1,
+        "Iron Defense": 1,
+        "Poison Sting": 1,
+        "Protect": 1,
+        "Rollout": 1,
+        "Poison Tail": 12,
+        "Screech": 16,
+        "Bug Bite": 20,
+        "Venoshock": 26,
+        "Take Down": 34,
+        "Agility": 42,
+        "Toxic": 50,
+        "Venom Drench": 58,
+        "Double-Edge": 66,
+        "Megahorn": 74
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Skitter Smack",
+        "Steel Roller"
+    ],
+    "movesLearnedByTm": {
+        "Pin Missile": 7,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Dig": 15,
+        "Screech": 16,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Rock Tomb": 48,
+        "Payback": 57,
+        "Assurance": 58,
+        "Cross Poison": 73,
+        "Venoshock": 74,
+        "Round": 76,
+        "Hex": 77,
+        "Bulldoze": 81,
+        "Smart Strike": 96,
+        "Stomping Tantrum": 98
+    }
+}

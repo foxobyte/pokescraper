@@ -1,0 +1,97 @@
+{
+    "generation": 9,
+    "name": "Spidops",
+    "species": "Trap Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 60,
+    "attack": 79,
+    "defense": 92,
+    "speed": 35,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 918,
+    "specialName": null,
+    "specialAbilities": [
+        "Insomnia"
+    ],
+    "hiddenAbility": "Stakeout",
+    "specialAttack": 52,
+    "specialDefense": 86,
+    "catchRate": 120,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 141,
+    "growthRate": "Erratic",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "String Shot": 1,
+        "Tackle": 1,
+        "Struggle Bug": 5,
+        "Assurance": 8,
+        "Feint": 11,
+        "Bug Bite": 14,
+        "Block": 19,
+        "Counter": 24,
+        "Headbutt": 28,
+        "Sticky Web": 33,
+        "Gastro Acid": 37,
+        "Circle Throw": 41,
+        "Throat Chop": 45,
+        "Skitter Smack": 49
+    },
+    "movesLearnedOnEvolution": [
+        "Silk Trap"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Low Kick": 12,
+        "Struggle Bug": 15,
+        "Thief": 18,
+        "Trailblaze": 20,
+        "Pounce": 21,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Rock Tomb": 36,
+        "Fling": 43,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Bullet Seed": 56,
+        "False Swipe": 57,
+        "Brick Break": 58,
+        "U-turn": 60,
+        "Shadow Claw": 61,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Grass Knot": 81,
+        "Poison Jab": 83,
+        "Rest": 85,
+        "Taunt": 87,
+        "Spikes": 90,
+        "Toxic Spikes": 91,
+        "Leech Life": 95,
+        "Substitute": 103,
+        "X-Scissor": 105,
+        "Giga Drain": 111,
+        "Reversal": 134,
+        "Giga Impact": 152,
+        "Bug Buzz": 162,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "generation": 7,
+    "name": "Golisopod",
+    "species": "Hard Scale Pok\u00e9mon",
+    "height": "2.0\u00a0m (6\u203207\u2033)",
+    "weight": "2.0\u00a0m (6\u203207\u2033)",
+    "hp": 75,
+    "attack": 125,
+    "defense": 140,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Water"
+    ],
+    "nationalNumber": 768,
+    "specialName": null,
+    "specialAbilities": [
+        "Emergency Exit"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 60,
+    "specialDefense": 90,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 186,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug",
+        "Water 3"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Defense Curl": 1,
+        "First Impression": 1,
+        "Sand Attack": 1,
+        "Spite": 1,
+        "Struggle Bug": 1,
+        "Rock Smash": 4,
+        "Fury Cutter": 8,
+        "Mud Shot": 12,
+        "Bug Bite": 16,
+        "Iron Defense": 20,
+        "Sucker Punch": 24,
+        "Slash": 28,
+        "Razor Shell": 32,
+        "Pin Missile": 36,
+        "Swords Dance": 40,
+        "Liquidation": 44
+    },
+    "movesLearnedOnEvolution": [
+        "First Impression"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Pin Missile": 7,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Screech": 16,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Facade": 39,
+        "Swift": 40,
+        "Brick Break": 43,
+        "Dive": 45,
+        "Rock Tomb": 48,
+        "Mud Shot": 53,
+        "Payback": 57,
+        "Assurance": 58,
+        "Fling": 59,
+        "Shadow Claw": 65,
+        "Venoshock": 74,
+        "Round": 76,
+        "Razor Shell": 83,
+        "Snarl": 85,
+        "False Swipe": 94
+    }
+}

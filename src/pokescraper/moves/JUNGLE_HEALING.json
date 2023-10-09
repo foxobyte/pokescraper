@@ -1,0 +1,12 @@
+{
+    "name": "Jungle Healing",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Restores team's HP and cures status conditions.",
+    "isHighCrit": false
+}

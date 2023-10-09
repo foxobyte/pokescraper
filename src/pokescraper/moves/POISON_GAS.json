@@ -1,0 +1,12 @@
+{
+    "name": "Poison Gas",
+    "category": "Status",
+    "power": null,
+    "accuracy": 90,
+    "pp": 40,
+    "probability": null,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "Poisons opponent.",
+    "isHighCrit": false
+}

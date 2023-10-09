@@ -1,0 +1,12 @@
+{
+    "name": "Uproar",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User attacks for 3 turns and prevents sleep.",
+    "isHighCrit": false
+}

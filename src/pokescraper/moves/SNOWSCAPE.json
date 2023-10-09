@@ -1,0 +1,12 @@
+{
+    "name": "Snowscape",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "Raises Defense of Ice types for 5 turns.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Aqua Cutter",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "High critical hit ratio.",
+    "isHighCrit": true
+}

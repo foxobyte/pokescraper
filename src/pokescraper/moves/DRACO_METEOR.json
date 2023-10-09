@@ -1,0 +1,12 @@
+{
+    "name": "Draco Meteor",
+    "category": "Special",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 5,
+    "probability": 100,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "Sharply lowers user's Special Attack.",
+    "isHighCrit": false
+}

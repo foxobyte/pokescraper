@@ -1,0 +1,12 @@
+{
+    "name": "Zing Zap",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 30,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

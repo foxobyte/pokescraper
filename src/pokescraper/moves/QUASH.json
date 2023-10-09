@@ -1,0 +1,12 @@
+{
+    "name": "Quash",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Makes the target act last this turn.",
+    "isHighCrit": false
+}

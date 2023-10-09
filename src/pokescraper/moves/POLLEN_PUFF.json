@@ -1,0 +1,12 @@
+{
+    "name": "Pollen Puff",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "Deals damage to opponent or restores HP of teammate.",
+    "isHighCrit": false
+}

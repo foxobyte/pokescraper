@@ -1,0 +1,86 @@
+{
+    "generation": 2,
+    "name": "Bayleef",
+    "species": "Leaf Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 60,
+    "attack": 62,
+    "defense": 80,
+    "speed": 60,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 153,
+    "specialName": null,
+    "specialAbilities": [
+        "Overgrow"
+    ],
+    "hiddenAbility": "Leaf Guard",
+    "specialAttack": 63,
+    "specialDefense": 80,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 1,
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 142,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Grass",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Poison Powder": 9,
+        "Razor Leaf": 6,
+        "Tackle": 1,
+        "Synthesis": 12,
+        "Reflect": 18,
+        "Magical Leaf": 22,
+        "Nature Power": 26,
+        "Sweet Scent": 32,
+        "Light Screen": 36,
+        "Body Slam": 40,
+        "Safeguard": 46,
+        "Aromatherapy": 50,
+        "Solar Beam": 54
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Bullet Seed": 9,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Safeguard": 20,
+        "Solar Beam": 22,
+        "Iron Tail": 23,
+        "Double Team": 32,
+        "Reflect": 33,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Energy Ball": 53,
+        "Endure": 58,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

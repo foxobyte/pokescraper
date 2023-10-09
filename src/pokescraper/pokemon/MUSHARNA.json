@@ -1,0 +1,88 @@
+{
+    "generation": 5,
+    "name": "Musharna",
+    "species": "Drowsing Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 116,
+    "attack": 55,
+    "defense": 85,
+    "speed": 29,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic"
+    ],
+    "nationalNumber": 518,
+    "specialName": null,
+    "specialAbilities": [
+        "Forewarn",
+        "Synchronize"
+    ],
+    "hiddenAbility": "Telepathy",
+    "specialAttack": 107,
+    "specialDefense": 95,
+    "catchRate": 75,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 170,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 10,
+    "movesLearnedAtLevel": {
+        "Calm Mind": 1,
+        "Defense Curl": 1,
+        "Dream Eater": 1,
+        "Future Sight": 1,
+        "Hypnosis": 1,
+        "Imprison": 1,
+        "Magic Coat": 1,
+        "Moonblast": 1,
+        "Moonlight": 1,
+        "Psybeam": 1,
+        "Psychic": 1,
+        "Psychic Terrain": 1,
+        "Stored Power": 1,
+        "Wonder Room": 1,
+        "Yawn": 1,
+        "Zen Headbutt": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Expanding Force",
+        "Misty Explosion"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Imprison": 44,
+        "Rock Tomb": 48,
+        "Power Swap": 60,
+        "Guard Swap": 61,
+        "Trick Room": 70,
+        "Wonder Room": 71,
+        "Round": 76,
+        "Psychic Terrain": 91
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "generation": 8,
+    "name": "Arctozolt",
+    "species": "Fossil Pok\u00e9mon",
+    "height": "2.3\u00a0m (7\u203207\u2033)",
+    "weight": "2.3\u00a0m (7\u203207\u2033)",
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "speed": 55,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Electric",
+        "Ice"
+    ],
+    "nationalNumber": 881,
+    "specialName": null,
+    "specialAbilities": [
+        "Volt Absorb",
+        "Static"
+    ],
+    "hiddenAbility": "Slush Rush",
+    "specialAttack": 90,
+    "specialDefense": 80,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 177,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 35,
+    "movesLearnedAtLevel": {
+        "Powder Snow": 1,
+        "Thunder Shock": 1,
+        "Charge": 7,
+        "Echoed Voice": 14,
+        "Ancient Power": 21,
+        "Pluck": 28,
+        "Avalanche": 35,
+        "Freeze-Dry": 42,
+        "Slam": 49,
+        "Discharge": 56,
+        "Bolt Beak": 63,
+        "Icicle Crash": 70,
+        "Blizzard": 77
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Meteor Beam",
+        "Rising Voltage"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Thunder Punch": 5,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Facade": 39,
+        "Rock Tomb": 48,
+        "Icicle Spear": 51,
+        "Rock Blast": 54,
+        "Payback": 57,
+        "Avalanche": 64,
+        "Thunder Fang": 66,
+        "Ice Fang": 67,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Stomping Tantrum": 98
+    }
+}

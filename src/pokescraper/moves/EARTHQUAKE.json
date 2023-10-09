@@ -1,0 +1,12 @@
+{
+    "name": "Earthquake",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "Power is doubled if opponent is underground from using Dig.",
+    "isHighCrit": false
+}

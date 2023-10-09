@@ -1,0 +1,78 @@
+{
+    "generation": 8,
+    "name": "Skwovet",
+    "species": "Cheeky Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 70,
+    "attack": 55,
+    "defense": 55,
+    "speed": 25,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 819,
+    "specialName": null,
+    "specialAbilities": [
+        "Cheek Pouch"
+    ],
+    "hiddenAbility": "Gluttony",
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "catchRate": 255,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 55,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Tackle": 1,
+        "Tail Whip": 1,
+        "Bite": 5,
+        "Stuff Cheeks": 10,
+        "Spit Up": 15,
+        "Stockpile": 15,
+        "Swallow": 15,
+        "Body Slam": 20,
+        "Rest": 25,
+        "Counter": 30,
+        "Bullet Seed": 35,
+        "Super Fang": 40,
+        "Belch": 45
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Thief": 18,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Mud Shot": 35,
+        "Fling": 43,
+        "Endure": 47,
+        "Dig": 55,
+        "Bullet Seed": 56,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Rest": 85,
+        "Substitute": 103,
+        "Crunch": 108,
+        "Hyper Voice": 117,
+        "Amnesia": 128,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Spin Out",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Harshly lowers user\u2019s Speed.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Constrict",
+    "category": "Physical",
+    "power": 10,
+    "accuracy": 100,
+    "pp": 35,
+    "probability": 10,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "May lower opponent's Speed by one stage.",
+    "isHighCrit": false
+}

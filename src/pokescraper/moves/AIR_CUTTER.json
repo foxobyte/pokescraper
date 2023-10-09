@@ -1,0 +1,12 @@
+{
+    "name": "Air Cutter",
+    "category": "Special",
+    "power": 60,
+    "accuracy": 95,
+    "pp": 25,
+    "probability": null,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "High critical hit ratio.",
+    "isHighCrit": true
+}

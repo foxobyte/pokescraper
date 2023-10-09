@@ -1,0 +1,88 @@
+{
+    "generation": 9,
+    "name": "Arctibax",
+    "species": "Ice Fin Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 90,
+    "attack": 95,
+    "defense": 66,
+    "speed": 62,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dragon",
+        "Ice"
+    ],
+    "nationalNumber": 997,
+    "specialName": null,
+    "specialAbilities": [
+        "Thermal Exchange"
+    ],
+    "hiddenAbility": "Ice Body",
+    "specialAttack": 45,
+    "specialDefense": 65,
+    "catchRate": 25,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 148,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Dragon",
+        "Mineral"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Dragon Tail": 1,
+        "Leer": 1,
+        "Tackle": 1,
+        "Icy Wind": 6,
+        "Dragon Breath": 12,
+        "Focus Energy": 18,
+        "Bite": 24,
+        "Ice Fang": 29,
+        "Take Down": 40,
+        "Ice Beam": 45,
+        "Crunch": 50,
+        "Icicle Crash": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Ice Fang": 10,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Icy Wind": 34,
+        "Dragon Tail": 44,
+        "Avalanche": 46,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Snowscape": 52,
+        "Dig": 55,
+        "Brick Break": 58,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Dragon Claw": 78,
+        "Rest": 85,
+        "Swords Dance": 88,
+        "Iron Head": 99,
+        "Substitute": 103,
+        "Crunch": 108,
+        "Dragon Pulse": 115,
+        "Helping Hand": 130,
+        "Ice Beam": 135,
+        "Blizzard": 143,
+        "Outrage": 156,
+        "Draco Meteor": 169,
+        "Tera Blast": 171
+    }
+}

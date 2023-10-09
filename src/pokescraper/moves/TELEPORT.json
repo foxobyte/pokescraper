@@ -1,0 +1,12 @@
+{
+    "name": "Teleport",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Allows user to flee wild battles; also warps player to last Pok\u00e9Center.",
+    "isHighCrit": false
+}

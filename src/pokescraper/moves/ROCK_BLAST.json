@@ -1,0 +1,12 @@
+{
+    "name": "Rock Blast",
+    "category": "Physical",
+    "power": 25,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "Hits 2-5 times in one turn.",
+    "isHighCrit": false
+}

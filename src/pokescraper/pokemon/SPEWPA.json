@@ -1,0 +1,53 @@
+{
+    "generation": 6,
+    "name": "Spewpa",
+    "species": "Scatterdust Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 45,
+    "attack": 22,
+    "defense": 60,
+    "speed": 29,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 665,
+    "specialName": null,
+    "specialAbilities": [
+        "Shed Skin"
+    ],
+    "hiddenAbility": "Friend Guard",
+    "specialAttack": 27,
+    "specialDefense": 30,
+    "catchRate": 120,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 75,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Harden": 1
+    },
+    "movesLearnedOnEvolution": [
+        "Protect"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Protect": 7,
+        "Struggle Bug": 15,
+        "Pounce": 21,
+        "Iron Defense": 104,
+        "Tera Blast": 171
+    }
+}

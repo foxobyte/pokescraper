@@ -1,0 +1,64 @@
+{
+    "generation": 6,
+    "name": "Meowstic",
+    "species": "Constraint Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 74,
+    "attack": 48,
+    "defense": 76,
+    "speed": 104,
+    "gender": {
+        "male": "100%",
+        "female": "0%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic"
+    ],
+    "nationalNumber": 678,
+    "specialName": "Male",
+    "specialAbilities": [
+        "Keen Eye",
+        "Infiltrator"
+    ],
+    "hiddenAbility": "Prankster",
+    "specialAttack": 83,
+    "specialDefense": 81,
+    "catchRate": 75,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 163,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Disarming Voice": 1,
+        "Fake Out": 1,
+        "Leer": 1,
+        "Magical Leaf": 1,
+        "Scratch": 1,
+        "Confusion": 9,
+        "Stored Power": 12,
+        "Charge Beam": 15,
+        "Covet": 18,
+        "Psybeam": 21,
+        "Sucker Punch": 24,
+        "Role Play": 29,
+        "Light Screen": 34,
+        "Reflect": 34,
+        "Psyshock": 39,
+        "Extrasensory": 44,
+        "Shadow Ball": 49,
+        "Psychic": 54,
+        "Future Sight": 59
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

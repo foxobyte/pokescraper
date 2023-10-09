@@ -1,0 +1,12 @@
+{
+    "name": "Corrosive Gas",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 40,
+    "probability": null,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "Removes opponent's items.",
+    "isHighCrit": false
+}

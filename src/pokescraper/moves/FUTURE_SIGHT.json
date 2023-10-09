@@ -1,0 +1,12 @@
+{
+    "name": "Future Sight",
+    "category": "Special",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Damage occurs 2 turns later.",
+    "isHighCrit": false
+}

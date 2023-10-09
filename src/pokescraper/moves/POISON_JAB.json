@@ -1,0 +1,12 @@
+{
+    "name": "Poison Jab",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 30,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "May poison the opponent.",
+    "isHighCrit": false
+}

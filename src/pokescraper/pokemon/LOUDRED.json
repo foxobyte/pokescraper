@@ -1,0 +1,93 @@
+{
+    "generation": 3,
+    "name": "Loudred",
+    "species": "Big Voice Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 84,
+    "attack": 71,
+    "defense": 43,
+    "speed": 48,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 294,
+    "specialName": null,
+    "specialAbilities": [
+        "Soundproof"
+    ],
+    "hiddenAbility": "Scrappy",
+    "specialAttack": 71,
+    "specialDefense": 43,
+    "catchRate": 120,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 126,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Bite": 1,
+        "Echoed Voice": 1,
+        "Howl": 1,
+        "Pound": 1,
+        "Rest": 15,
+        "Sleep Talk": 15,
+        "Stomp": 23,
+        "Roar": 29,
+        "Supersonic": 36,
+        "Uproar": 43,
+        "Screech": 50,
+        "Hyper Voice": 57
+    },
+    "movesLearnedOnEvolution": [
+        "Bite"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Roar": 5,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Taunt": 12,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Solar Beam": 22,
+        "Earthquake": 26,
+        "Shadow Ball": 30,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Flamethrower": 35,
+        "Fire Blast": 38,
+        "Rock Tomb": 39,
+        "Torment": 41,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Overheat": 50,
+        "Fling": 56,
+        "Endure": 58,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

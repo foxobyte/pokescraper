@@ -1,0 +1,12 @@
+{
+    "name": "Snatch",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Steals the effects of the opponent's next move.",
+    "isHighCrit": false
+}

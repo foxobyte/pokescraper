@@ -1,0 +1,12 @@
+{
+    "name": "Shelter",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Raises Defense and Evasion.",
+    "isHighCrit": false
+}

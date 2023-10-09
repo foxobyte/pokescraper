@@ -1,0 +1,78 @@
+{
+    "generation": 7,
+    "name": "Araquanid",
+    "species": "Water Bubble Pok\u00e9mon",
+    "height": "1.8\u00a0m (5\u203211\u2033)",
+    "weight": "1.8\u00a0m (5\u203211\u2033)",
+    "hp": 68,
+    "attack": 70,
+    "defense": 92,
+    "speed": 42,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Bug"
+    ],
+    "nationalNumber": 752,
+    "specialName": null,
+    "specialAbilities": [
+        "Water Bubble"
+    ],
+    "hiddenAbility": "Water Absorb",
+    "specialAttack": 50,
+    "specialDefense": 132,
+    "catchRate": 100,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 159,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug",
+        "Water 1"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Bite": 1,
+        "Bug Bite": 1,
+        "Infestation": 1,
+        "Water Gun": 1,
+        "Wide Guard": 1,
+        "Bubble Beam": 12,
+        "Aqua Ring": 16,
+        "Headbutt": 20,
+        "Crunch": 26,
+        "Soak": 32,
+        "Entrainment": 38,
+        "Lunge": 44,
+        "Liquidation": 50,
+        "Leech Life": 56,
+        "Mirror Coat": 62
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Dive": 45,
+        "Wonder Room": 71,
+        "Magic Room": 72,
+        "Round": 76
+    }
+}

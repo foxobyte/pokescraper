@@ -1,0 +1,12 @@
+{
+    "name": "Spacial Rend",
+    "category": "Special",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 5,
+    "probability": null,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "High critical hit ratio.",
+    "isHighCrit": true
+}

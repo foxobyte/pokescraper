@@ -1,0 +1,89 @@
+{
+    "generation": 6,
+    "name": "Pancham",
+    "species": "Playful Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 67,
+    "attack": 82,
+    "defense": 62,
+    "speed": 43,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting"
+    ],
+    "nationalNumber": 674,
+    "specialName": null,
+    "specialAbilities": [
+        "Iron Fist",
+        "Mold Breaker"
+    ],
+    "hiddenAbility": "Scrappy",
+    "specialAttack": 46,
+    "specialDefense": 48,
+    "catchRate": 220,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 70,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field",
+        "Human-Like"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Tackle": 1,
+        "Arm Thrust": 4,
+        "Taunt": 8,
+        "Circle Throw": 12,
+        "Low Sweep": 16,
+        "Work Up": 20,
+        "Slash": 24,
+        "Vital Throw": 28,
+        "Crunch": 33,
+        "Body Slam": 36,
+        "Parting Shot": 40,
+        "Entrainment": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Coaching",
+        "Lash Out"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Fire Punch": 3,
+        "Ice Punch": 4,
+        "Thunder Punch": 5,
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Payback": 57,
+        "Fling": 59,
+        "Drain Punch": 63,
+        "Shadow Claw": 65,
+        "Low Sweep": 75,
+        "Round": 76,
+        "Retaliate": 79,
+        "Bulldoze": 81,
+        "False Swipe": 94
+    }
+}

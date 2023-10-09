@@ -1,0 +1,12 @@
+{
+    "name": "Topsy-Turvy",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Reverses stat changes of opponent.",
+    "isHighCrit": false
+}

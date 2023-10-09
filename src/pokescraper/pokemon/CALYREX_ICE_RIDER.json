@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "name": "Calyrex",
+    "species": "High King Pok\u00e9mon",
+    "height": "2.4\u00a0m (7\u203210\u2033)",
+    "weight": "2.4\u00a0m (7\u203210\u2033)",
+    "hp": 100,
+    "attack": 165,
+    "defense": 150,
+    "speed": 50,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Psychic",
+        "Ice"
+    ],
+    "nationalNumber": 898,
+    "specialName": "Ice Rider",
+    "specialAbilities": [
+        "As One"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 85,
+    "specialDefense": 130,
+    "catchRate": 3,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 100,
+    "baseExp": 340,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Agility": 1,
+        "Astral Barrage": 1,
+        "Confuse Ray": 1,
+        "Confusion": 1,
+        "Disable": 1,
+        "Double-Edge": 1,
+        "Double Kick": 1,
+        "Growth": 1,
+        "Haze": 1,
+        "Hex": 1,
+        "Mega Drain": 1,
+        "Nasty Plot": 1,
+        "Pound": 1,
+        "Shadow Ball": 1,
+        "Stomp": 1,
+        "Tackle": 1,
+        "Tail Whip": 1,
+        "Take Down": 1,
+        "Thrash": 1,
+        "Life Dew": 8,
+        "Giga Drain": 16,
+        "Psyshock": 24,
+        "Helping Hand": 32,
+        "Grassy Terrain": 40,
+        "Psychic Terrain": 40,
+        "Energy Ball": 48,
+        "Psychic": 56,
+        "Leech Seed": 64,
+        "Heal Pulse": 72,
+        "Solar Beam": 80,
+        "Future Sight": 88
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

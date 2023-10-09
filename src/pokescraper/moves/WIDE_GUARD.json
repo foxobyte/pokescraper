@@ -1,0 +1,12 @@
+{
+    "name": "Wide Guard",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "Protects the user's team from multi-target attacks.",
+    "isHighCrit": false
+}

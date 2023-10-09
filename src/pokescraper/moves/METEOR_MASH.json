@@ -1,0 +1,12 @@
+{
+    "name": "Meteor Mash",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": 20,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "May raise user's Attack.",
+    "isHighCrit": false
+}

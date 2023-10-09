@@ -1,0 +1,88 @@
+{
+    "generation": 3,
+    "name": "Manectric",
+    "species": "Discharge Pok\u00e9mon",
+    "height": "1.5\u00a0m (4\u203211\u2033)",
+    "weight": "1.5\u00a0m (4\u203211\u2033)",
+    "hp": 70,
+    "attack": 75,
+    "defense": 60,
+    "speed": 105,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric"
+    ],
+    "nationalNumber": 310,
+    "specialName": null,
+    "specialAbilities": [
+        "Static",
+        "Lightning Rod"
+    ],
+    "hiddenAbility": "Minus",
+    "specialAttack": 105,
+    "specialDefense": 60,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 166,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Fire Fang": 1,
+        "Howl": 1,
+        "Leer": 1,
+        "Tackle": 1,
+        "Thunder Wave": 1,
+        "Quick Attack": 12,
+        "Shock Wave": 16,
+        "Bite": 20,
+        "Thunder Fang": 24,
+        "Roar": 30,
+        "Discharge": 36,
+        "Charge": 42,
+        "Wild Charge": 48,
+        "Thunder": 54,
+        "Electric Terrain": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Roar": 5,
+        "Hyper Beam": 15,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Iron Tail": 23,
+        "Thunderbolt": 24,
+        "Thunder": 25,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Flamethrower": 35,
+        "Facade": 42,
+        "Volt Switch": 43,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Overheat": 50,
+        "Charge Beam": 57,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Thunder Wave": 73,
+        "Snarl": 78,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Strength": 96
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "generation": 8,
+    "name": "Eldegoss",
+    "species": "Cotton Bloom Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 60,
+    "attack": 50,
+    "defense": 90,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 830,
+    "specialName": null,
+    "specialAbilities": [
+        "Cotton Down",
+        "Regenerator"
+    ],
+    "hiddenAbility": "Effect Spore",
+    "specialAttack": 80,
+    "specialDefense": 120,
+    "catchRate": 75,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 161,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Cotton Spore": 1,
+        "Leafage": 1,
+        "Rapid Spin": 1,
+        "Sing": 1,
+        "Sweet Scent": 1,
+        "Razor Leaf": 12,
+        "Round": 16,
+        "Leaf Tornado": 23,
+        "Synthesis": 28,
+        "Hyper Voice": 34,
+        "Aromatherapy": 40,
+        "Leaf Storm": 46,
+        "Cotton Guard": 52
+    },
+    "movesLearnedOnEvolution": [
+        "Cotton Spore"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Grassy Glide"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Magical Leaf": 10,
+        "Solar Beam": 11,
+        "Light Screen": 17,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Charm": 29,
+        "Attract": 31,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Weather Ball": 46,
+        "Bullet Seed": 50,
+        "Round": 76,
+        "Grassy Terrain": 88
+    }
+}

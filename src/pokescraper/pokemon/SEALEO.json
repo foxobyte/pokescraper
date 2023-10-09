@@ -1,0 +1,91 @@
+{
+    "generation": 3,
+    "name": "Sealeo",
+    "species": "Ball Roll Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 90,
+    "attack": 60,
+    "defense": 70,
+    "speed": 45,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice",
+        "Water"
+    ],
+    "nationalNumber": 364,
+    "specialName": null,
+    "specialAbilities": [
+        "Thick Fat",
+        "Ice Body"
+    ],
+    "hiddenAbility": "Oblivious",
+    "specialAttack": 75,
+    "specialDefense": 70,
+    "catchRate": 120,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 144,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Defense Curl": 1,
+        "Growl": 1,
+        "Rollout": 1,
+        "Swagger": 1,
+        "Water Gun": 1,
+        "Powder Snow": 12,
+        "Rest": 16,
+        "Snore": 20,
+        "Brine": 24,
+        "Aurora Beam": 28,
+        "Encore": 35,
+        "Body Slam": 40,
+        "Surf": 46,
+        "Blizzard": 52,
+        "Hail": 58,
+        "Sheer Cold": 64
+    },
+    "movesLearnedOnEvolution": [
+        "Swagger"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Roar": 5,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Iron Tail": 23,
+        "Earthquake": 26,
+        "Double Team": 32,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Brine": 55,
+        "Endure": 58,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Surf": 95,
+        "Strength": 96,
+        "Rock Smash": 98,
+        "Waterfall": 99
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "generation": 1,
+    "name": "Dugtrio",
+    "species": "Mole Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 35,
+    "attack": 100,
+    "defense": 60,
+    "speed": 110,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ground",
+        "Steel"
+    ],
+    "nationalNumber": 51,
+    "specialName": "Alolan Dugtrio",
+    "specialAbilities": [
+        "Sand Veil",
+        "Tangling Hair"
+    ],
+    "hiddenAbility": "Sand Force",
+    "specialAttack": 50,
+    "specialDefense": 70,
+    "catchRate": 50,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 149,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Growl": 1,
+        "Metal Claw": 1,
+        "Night Slash": 1,
+        "Sand Attack": 1,
+        "Tri Attack": 1,
+        "Mud-Slap": 12,
+        "Bulldoze": 16,
+        "Sucker Punch": 20,
+        "Iron Head": 24,
+        "Sandstorm": 30,
+        "Dig": 36,
+        "Earth Power": 42,
+        "Earthquake": 48,
+        "Fissure": 54
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

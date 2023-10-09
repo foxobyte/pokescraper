@@ -1,0 +1,80 @@
+{
+    "generation": 7,
+    "name": "Shiinotic",
+    "species": "Illuminating Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 60,
+    "attack": 45,
+    "defense": 80,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Fairy"
+    ],
+    "nationalNumber": 756,
+    "specialName": null,
+    "specialAbilities": [
+        "Illuminate",
+        "Effect Spore"
+    ],
+    "hiddenAbility": "Rain Dish",
+    "specialAttack": 90,
+    "specialDefense": 100,
+    "catchRate": 75,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 142,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Astonish": 1,
+        "Confuse Ray": 1,
+        "Ingrain": 1,
+        "Mega Drain": 12,
+        "Sleep Powder": 16,
+        "Moonlight": 20,
+        "Strength Sap": 27,
+        "Giga Drain": 32,
+        "Dazzling Gleam": 38,
+        "Spore": 44,
+        "Moonblast": 50,
+        "Dream Eater": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Weather Ball": 46,
+        "Drain Punch": 63,
+        "Wonder Room": 71,
+        "Magic Room": 72,
+        "Round": 76,
+        "Draining Kiss": 87
+    }
+}

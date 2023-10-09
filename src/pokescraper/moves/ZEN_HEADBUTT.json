@@ -1,0 +1,12 @@
+{
+    "name": "Zen Headbutt",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 90,
+    "pp": 15,
+    "probability": 20,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

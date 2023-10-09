@@ -1,0 +1,12 @@
+{
+    "name": "Rage Fist",
+    "category": "Physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "The more times the user has been hit by attacks, the greater the move's power.",
+    "isHighCrit": false
+}

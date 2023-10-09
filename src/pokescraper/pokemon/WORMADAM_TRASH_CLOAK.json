@@ -1,0 +1,62 @@
+{
+    "generation": 4,
+    "name": "Wormadam",
+    "species": "Bagworm Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 60,
+    "attack": 69,
+    "defense": 95,
+    "speed": 36,
+    "gender": {
+        "male": "0%",
+        "female": "100%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Steel"
+    ],
+    "nationalNumber": 413,
+    "specialName": "Trash Cloak",
+    "specialAbilities": [
+        "Anticipation"
+    ],
+    "hiddenAbility": "Overcoat",
+    "specialAttack": 69,
+    "specialDefense": 95,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 1,
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 148,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Bug Bite": 15,
+        "Metal Burst": 26,
+        "Protect": 10,
+        "Quiver Dance": 1,
+        "Sucker Punch": 1,
+        "Tackle": 1,
+        "String Shot": 20,
+        "Confusion": 23,
+        "Metal Sound": 29,
+        "Psybeam": 32,
+        "Infestation": 35,
+        "Flail": 38,
+        "Attract": 41,
+        "Psychic": 44,
+        "Iron Head": 47,
+        "Bug Buzz": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

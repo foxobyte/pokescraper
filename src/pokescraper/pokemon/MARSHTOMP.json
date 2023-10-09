@@ -1,0 +1,97 @@
+{
+    "generation": 3,
+    "name": "Marshtomp",
+    "species": "Mud Fish Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 70,
+    "attack": 85,
+    "defense": 70,
+    "speed": 50,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Ground"
+    ],
+    "nationalNumber": 259,
+    "specialName": null,
+    "specialAbilities": [
+        "Torrent"
+    ],
+    "hiddenAbility": "Damp",
+    "specialAttack": 60,
+    "specialDefense": 70,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 142,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Monster",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Earthquake": 1,
+        "Growl": 1,
+        "Mud Shot": 1,
+        "Rock Smash": 1,
+        "Surf": 1,
+        "Tackle": 1,
+        "Water Gun": 1,
+        "Rock Throw": 9,
+        "Protect": 12,
+        "Supersonic": 15,
+        "Water Pulse": 20,
+        "Rock Slide": 25,
+        "Take Down": 30,
+        "Amnesia": 35,
+        "Muddy Water": 40,
+        "Screech": 45,
+        "Endeavor": 50,
+        "Hydro Pump": 55
+    },
+    "movesLearnedOnEvolution": [
+        "Mud Shot"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Work Up": 10,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Iron Tail": 23,
+        "Earthquake": 26,
+        "Dig": 28,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Scald": 49,
+        "Fling": 56,
+        "Endure": 58,
+        "Avalanche": 72,
+        "Stealth Rock": 76,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Surf": 95,
+        "Strength": 96,
+        "Rock Smash": 98,
+        "Waterfall": 99
+    }
+}

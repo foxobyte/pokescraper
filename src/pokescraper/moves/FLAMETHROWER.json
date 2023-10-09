@@ -1,0 +1,12 @@
+{
+    "name": "Flamethrower",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 10,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "May burn opponent.",
+    "isHighCrit": false
+}

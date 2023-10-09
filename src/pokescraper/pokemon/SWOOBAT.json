@@ -1,0 +1,93 @@
+{
+    "generation": 5,
+    "name": "Swoobat",
+    "species": "Courting Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "0.9\u00a0m (2\u203211\u2033)",
+    "hp": 67,
+    "attack": 57,
+    "defense": 55,
+    "speed": 114,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic",
+        "Flying"
+    ],
+    "nationalNumber": 528,
+    "specialName": null,
+    "specialAbilities": [
+        "Unaware",
+        "Klutz"
+    ],
+    "hiddenAbility": "Simple",
+    "specialAttack": 77,
+    "specialDefense": 55,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 149,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field",
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Attract": 1,
+        "Confusion": 1,
+        "Endeavor": 1,
+        "Gust": 1,
+        "Air Cutter": 15,
+        "Imprison": 20,
+        "Assurance": 25,
+        "Amnesia": 30,
+        "Air Slash": 35,
+        "Psychic": 40,
+        "Calm Mind": 45,
+        "Future Sight": 50,
+        "Simple Beam": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Dual Wingbeat",
+        "Expanding Force"
+    ],
+    "movesLearnedByTm": {
+        "Fly": 6,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Charm": 29,
+        "Steel Wing": 30,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Imprison": 44,
+        "Fake Tears": 47,
+        "U-turn": 56,
+        "Assurance": 58,
+        "Speed Swap": 62,
+        "Psycho Cut": 69,
+        "Trick Room": 70,
+        "Round": 76,
+        "Acrobatics": 78,
+        "Air Slash": 95
+    }
+}

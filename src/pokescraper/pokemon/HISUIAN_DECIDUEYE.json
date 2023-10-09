@@ -1,0 +1,60 @@
+{
+    "generation": 7,
+    "name": "Decidueye",
+    "species": "Arrow Quill Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 88,
+    "attack": 112,
+    "defense": 80,
+    "speed": 60,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Fighting"
+    ],
+    "nationalNumber": 724,
+    "specialName": "Hisuian Decidueye",
+    "specialAbilities": [
+        "Overgrow"
+    ],
+    "hiddenAbility": "Scrappy",
+    "specialAttack": 95,
+    "specialDefense": 95,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 265,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Leaf Storm": 1,
+        "Leafage": 1,
+        "Tackle": 1,
+        "U-turn": 1,
+        "Peck": 9,
+        "Shadow Sneak": 12,
+        "Razor Leaf": 15,
+        "Synthesis": 20,
+        "Pluck": 25,
+        "Bulk Up": 30,
+        "Sucker Punch": 37,
+        "Leaf Blade": 44,
+        "Feather Dance": 51,
+        "Brave Bird": 58
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

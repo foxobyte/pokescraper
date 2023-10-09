@@ -1,0 +1,12 @@
+{
+    "name": "Sheer Cold",
+    "category": "Special",
+    "power": null,
+    "accuracy": 30,
+    "pp": 5,
+    "probability": null,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "One-Hit-KO, if it hits.",
+    "isHighCrit": false
+}

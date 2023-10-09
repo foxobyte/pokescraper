@@ -1,0 +1,12 @@
+{
+    "name": "Sandstorm",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "Creates a sandstorm for 5 turns.",
+    "isHighCrit": false
+}

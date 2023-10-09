@@ -1,0 +1,80 @@
+{
+    "generation": 7,
+    "name": "Nihilego",
+    "species": "Parasite Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 109,
+    "attack": 53,
+    "defense": 47,
+    "speed": 103,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Poison"
+    ],
+    "nationalNumber": 793,
+    "specialName": null,
+    "specialAbilities": [
+        "Beast Boost"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 127,
+    "specialDefense": 131,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Def": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 257,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Pound": 1,
+        "Wrap": 1,
+        "Acid": 5,
+        "Tickle": 10,
+        "Acid Spray": 15,
+        "Clear Smog": 20,
+        "Guard Split": 25,
+        "Power Split": 25,
+        "Venoshock": 30,
+        "Headbutt": 35,
+        "Toxic Spikes": 40,
+        "Venom Drench": 45,
+        "Power Gem": 50,
+        "Stealth Rock": 55,
+        "Mirror Coat": 60,
+        "Wonder Room": 65,
+        "Head Smash": 70
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Corrosive Gas",
+        "Meteor Beam"
+    ],
+    "movesLearnedByTm": {
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Sandstorm": 32,
+        "Facade": 39,
+        "Rock Tomb": 48,
+        "Trick Room": 70,
+        "Wonder Room": 71,
+        "Cross Poison": 73,
+        "Venoshock": 74,
+        "Round": 76,
+        "Hex": 77,
+        "Brutal Swing": 97
+    }
+}

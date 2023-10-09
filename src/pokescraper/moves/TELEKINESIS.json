@@ -1,0 +1,12 @@
+{
+    "name": "Telekinesis",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Ignores opponent's Evasiveness for three turns, add Ground immunity.",
+    "isHighCrit": false
+}

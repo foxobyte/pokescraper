@@ -1,0 +1,12 @@
+{
+    "name": "Fake Tears",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Sharply lowers opponent's Special Defense.",
+    "isHighCrit": false
+}

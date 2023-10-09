@@ -1,0 +1,12 @@
+{
+    "name": "Core Enforcer",
+    "category": "Special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "Suppresses the target's ability if the target has already moved.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Precipice Blades",
+    "category": "Physical",
+    "power": 120,
+    "accuracy": 85,
+    "pp": 10,
+    "probability": null,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "Hits all adjacent opponents.",
+    "isHighCrit": false
+}

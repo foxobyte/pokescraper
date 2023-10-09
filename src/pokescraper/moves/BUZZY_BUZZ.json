@@ -1,0 +1,12 @@
+{
+    "name": "Buzzy Buzz",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 100,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "Paralyzes the opponent.",
+    "isHighCrit": false
+}

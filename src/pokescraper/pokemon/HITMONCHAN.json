@@ -1,0 +1,97 @@
+{
+    "generation": 1,
+    "name": "Hitmonchan",
+    "species": "Punching Pok\u00e9mon",
+    "height": "1.4\u00a0m (4\u203207\u2033)",
+    "weight": "1.4\u00a0m (4\u203207\u2033)",
+    "hp": 50,
+    "attack": 105,
+    "defense": 79,
+    "speed": 76,
+    "gender": {
+        "male": "100%",
+        "female": "0%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting"
+    ],
+    "nationalNumber": 107,
+    "specialName": null,
+    "specialAbilities": [
+        "Keen Eye",
+        "Iron Fist"
+    ],
+    "hiddenAbility": "Inner Focus",
+    "specialAttack": 35,
+    "specialDefense": 110,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 159,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Human-Like"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Bullet Punch": 1,
+        "Drain Punch": 1,
+        "Fake Out": 1,
+        "Feint": 1,
+        "Focus Energy": 1,
+        "Helping Hand": 1,
+        "Tackle": 1,
+        "Vacuum Wave": 1,
+        "Mach Punch": 4,
+        "Power-Up Punch": 8,
+        "Detect": 12,
+        "Revenge": 16,
+        "Quick Guard": 21,
+        "Fire Punch": 24,
+        "Ice Punch": 24,
+        "Thunder Punch": 24,
+        "Agility": 28,
+        "Mega Punch": 32,
+        "Close Combat": 36,
+        "Counter": 40,
+        "Focus Punch": 44
+    },
+    "movesLearnedOnEvolution": [
+        "Drain Punch"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Focus Punch": 1,
+        "Bulk Up": 8,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Earthquake": 26,
+        "Low Sweep": 27,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Focus Blast": 52,
+        "Fling": 56,
+        "Endure": 58,
+        "Drain Punch": 60,
+        "Stone Edge": 71,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Strength": 96,
+        "Rock Smash": 98,
+        "Rock Climb": 100
+    }
+}

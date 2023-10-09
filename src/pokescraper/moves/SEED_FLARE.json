@@ -1,0 +1,12 @@
+{
+    "name": "Seed Flare",
+    "category": "Special",
+    "power": 120,
+    "accuracy": 85,
+    "pp": 5,
+    "probability": 40,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "May lower opponent's Special Defense.",
+    "isHighCrit": false
+}

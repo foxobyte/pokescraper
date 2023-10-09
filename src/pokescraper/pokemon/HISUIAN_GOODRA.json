@@ -1,0 +1,64 @@
+{
+    "generation": 6,
+    "name": "Goodra",
+    "species": "Shell Bunker Pok\u00e9mon",
+    "height": "1.7\u00a0m (5\u203207\u2033)",
+    "weight": "1.7\u00a0m (5\u203207\u2033)",
+    "hp": 80,
+    "attack": 100,
+    "defense": 100,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Steel",
+        "Dragon"
+    ],
+    "nationalNumber": 706,
+    "specialName": "Hisuian Goodra",
+    "specialAbilities": [
+        "Sap Sipper",
+        "Shell Armor"
+    ],
+    "hiddenAbility": "Gooey",
+    "specialAttack": 110,
+    "specialDefense": 150,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Def": 3
+    },
+    "baseFriendship": 35,
+    "baseExp": 300,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Dragon"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Acid Spray": 1,
+        "Dragon Breath": 1,
+        "Feint": 1,
+        "Shelter": 1,
+        "Tackle": 1,
+        "Tearful Look": 1,
+        "Water Gun": 1,
+        "Protect": 15,
+        "Flail": 20,
+        "Water Pulse": 25,
+        "Rain Dance": 30,
+        "Dragon Pulse": 35,
+        "Curse": 43,
+        "Body Slam": 49,
+        "Iron Head": 49,
+        "Muddy Water": 58,
+        "Heavy Slam": 67
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

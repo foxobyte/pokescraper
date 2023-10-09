@@ -1,0 +1,12 @@
+{
+    "name": "Surf",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Hits all adjacent Pok\u00e9mon.",
+    "isHighCrit": false
+}

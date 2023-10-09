@@ -1,0 +1,87 @@
+{
+    "generation": 8,
+    "name": "Alcremie",
+    "species": "Cream Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 65,
+    "attack": 60,
+    "defense": 75,
+    "speed": 64,
+    "gender": {
+        "male": "0%",
+        "female": "100%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fairy"
+    ],
+    "nationalNumber": 869,
+    "specialName": null,
+    "specialAbilities": [
+        "Sweet Veil"
+    ],
+    "hiddenAbility": "Aroma Veil",
+    "specialAttack": 110,
+    "specialDefense": 121,
+    "catchRate": 100,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 173,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous",
+        "Fairy"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Aromatic Mist": 1,
+        "Decorate": 1,
+        "Sweet Kiss": 1,
+        "Sweet Scent": 1,
+        "Tackle": 1,
+        "Draining Kiss": 15,
+        "Aromatherapy": 20,
+        "Attract": 25,
+        "Acid Armor": 30,
+        "Dazzling Gleam": 35,
+        "Recover": 40,
+        "Misty Terrain": 45,
+        "Entrainment": 50
+    },
+    "movesLearnedOnEvolution": [
+        "Decorate"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Misty Explosion"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Magical Leaf": 10,
+        "Solar Beam": 11,
+        "Light Screen": 17,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Charm": 29,
+        "Attract": 31,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Imprison": 44,
+        "Fake Tears": 47,
+        "Fling": 59,
+        "Drain Punch": 63,
+        "Wonder Room": 71,
+        "Magic Room": 72,
+        "Round": 76,
+        "Draining Kiss": 87,
+        "Misty Terrain": 89,
+        "Mystical Fire": 92
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Snap Trap",
+    "category": "Physical",
+    "power": 35,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 100,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Traps opponent, damaging them for 4-5 turns.",
+    "isHighCrit": false
+}

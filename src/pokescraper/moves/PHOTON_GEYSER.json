@@ -1,0 +1,12 @@
+{
+    "name": "Photon Geyser",
+    "category": "Special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Uses Attack or Special Attack stat, whichever is higher.",
+    "isHighCrit": false
+}

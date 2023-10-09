@@ -1,0 +1,72 @@
+{
+    "generation": 7,
+    "name": "Kartana",
+    "species": "Drawn Sword Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 59,
+    "attack": 181,
+    "defense": 131,
+    "speed": 109,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Steel"
+    ],
+    "nationalNumber": 798,
+    "specialName": null,
+    "specialAbilities": [
+        "Beast Boost"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 59,
+    "specialDefense": 31,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 257,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Fury Cutter": 1,
+        "Vacuum Wave": 1,
+        "Razor Leaf": 5,
+        "False Swipe": 10,
+        "Cut": 15,
+        "Air Cutter": 20,
+        "Aerial Ace": 25,
+        "Detect": 30,
+        "Night Slash": 35,
+        "Synthesis": 40,
+        "Laser Focus": 45,
+        "Defog": 50,
+        "Leaf Blade": 55,
+        "Sacred Sword": 60,
+        "Swords Dance": 65,
+        "Guillotine": 70
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Giga Impact": 9,
+        "Solar Blade": 12,
+        "Screech": 16,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Brick Break": 43,
+        "Psycho Cut": 69,
+        "Round": 76,
+        "False Swipe": 94,
+        "Air Slash": 95,
+        "Smart Strike": 96
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "generation": 8,
+    "name": "Rookidee",
+    "species": "Tiny Bird Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.2\u00a0m (0\u203208\u2033)",
+    "hp": 38,
+    "attack": 47,
+    "defense": 35,
+    "speed": 57,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Flying"
+    ],
+    "nationalNumber": 821,
+    "specialName": null,
+    "specialAbilities": [
+        "Keen Eye",
+        "Unnerve"
+    ],
+    "hiddenAbility": "Big Pecks",
+    "specialAttack": 33,
+    "specialDefense": 35,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 49,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Peck": 1,
+        "Power Trip": 4,
+        "Hone Claws": 8,
+        "Fury Attack": 12,
+        "Pluck": 16,
+        "Taunt": 20,
+        "Scary Face": 24,
+        "Drill Peck": 28,
+        "Swagger": 32,
+        "Brave Bird": 36
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Fake Tears": 3,
+        "Agility": 4,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Thief": 18,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Swift": 32,
+        "Air Cutter": 40,
+        "Endure": 47,
+        "U-turn": 60,
+        "Air Slash": 65,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Taunt": 87,
+        "Fly": 97,
+        "Substitute": 103,
+        "Tailwind": 113,
+        "Reversal": 134,
+        "Nasty Plot": 140,
+        "Brave Bird": 164,
+        "Tera Blast": 171
+    }
+}

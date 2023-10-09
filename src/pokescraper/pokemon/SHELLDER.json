@@ -1,0 +1,88 @@
+{
+    "generation": 1,
+    "name": "Shellder",
+    "species": "Bivalve Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 30,
+    "attack": 65,
+    "defense": 100,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 90,
+    "specialName": null,
+    "specialAbilities": [
+        "Shell Armor",
+        "Skill Link"
+    ],
+    "hiddenAbility": "Overcoat",
+    "specialAttack": 45,
+    "specialDefense": 25,
+    "catchRate": 190,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 61,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Water 3"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Tackle": 1,
+        "Water Gun": 1,
+        "Withdraw": 4,
+        "Ice Shard": 8,
+        "Leer": 12,
+        "Whirlpool": 16,
+        "Supersonic": 20,
+        "Aurora Beam": 24,
+        "Protect": 28,
+        "Razor Shell": 32,
+        "Iron Defense": 36,
+        "Ice Beam": 40,
+        "Shell Smash": 44,
+        "Hydro Pump": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Swift": 32,
+        "Icy Wind": 34,
+        "Mud Shot": 35,
+        "Avalanche": 46,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Snowscape": 52,
+        "Sleep Talk": 70,
+        "Rock Blast": 76,
+        "Waterfall": 77,
+        "Rest": 85,
+        "Spikes": 90,
+        "Toxic Spikes": 91,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Liquidation": 110,
+        "Surf": 123,
+        "Ice Spinner": 124,
+        "Helping Hand": 130,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Tera Blast": 171
+    }
+}

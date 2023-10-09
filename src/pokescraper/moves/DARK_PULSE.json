@@ -1,0 +1,12 @@
+{
+    "name": "Dark Pulse",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 20,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

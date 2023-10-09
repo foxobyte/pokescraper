@@ -1,0 +1,88 @@
+{
+    "generation": 1,
+    "name": "Tentacool",
+    "species": "Jellyfish Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "0.9\u00a0m (2\u203211\u2033)",
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "speed": 70,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Poison"
+    ],
+    "nationalNumber": 72,
+    "specialName": null,
+    "specialAbilities": [
+        "Clear Body",
+        "Liquid Ooze"
+    ],
+    "hiddenAbility": "Rain Dish",
+    "specialAttack": 50,
+    "specialDefense": 100,
+    "catchRate": 190,
+    "evYield": {
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 67,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Water 3"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Poison Sting": 1,
+        "Water Gun": 1,
+        "Acid": 4,
+        "Wrap": 8,
+        "Supersonic": 12,
+        "Water Pulse": 16,
+        "Screech": 20,
+        "Bubble Beam": 24,
+        "Hex": 28,
+        "Acid Armor": 32,
+        "Poison Jab": 36,
+        "Surf": 40,
+        "Sludge Wave": 44,
+        "Hydro Pump": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Giga Drain": 19,
+        "Safeguard": 20,
+        "Dazzling Gleam": 21,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Scald": 49,
+        "Brine": 55,
+        "Endure": 58,
+        "Payback": 66,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Poison Jab": 84,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Surf": 95,
+        "Waterfall": 99
+    }
+}

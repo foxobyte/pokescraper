@@ -1,0 +1,12 @@
+{
+    "name": "Combat Torque",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "",
+    "isHighCrit": false
+}

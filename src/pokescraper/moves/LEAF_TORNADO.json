@@ -1,0 +1,12 @@
+{
+    "name": "Leaf Tornado",
+    "category": "Special",
+    "power": 65,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": 50,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "May lower opponent's Accuracy.",
+    "isHighCrit": false
+}

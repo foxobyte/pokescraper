@@ -1,0 +1,12 @@
+{
+    "name": "Thousand Arrows",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "Makes Flying-type Pok\u00e9mon vulnerable to Ground moves.",
+    "isHighCrit": false
+}

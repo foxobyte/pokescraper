@@ -1,0 +1,12 @@
+{
+    "name": "False Surrender",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Ignores Accuracy and Evasiveness.",
+    "isHighCrit": false
+}

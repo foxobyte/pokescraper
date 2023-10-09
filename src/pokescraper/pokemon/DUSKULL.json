@@ -1,0 +1,93 @@
+{
+    "generation": 3,
+    "name": "Duskull",
+    "species": "Requiem Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 20,
+    "attack": 40,
+    "defense": 90,
+    "speed": 25,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ghost"
+    ],
+    "nationalNumber": 355,
+    "specialName": null,
+    "specialAbilities": [
+        "Levitate"
+    ],
+    "hiddenAbility": "Frisk",
+    "specialAttack": 30,
+    "specialDefense": 90,
+    "catchRate": 190,
+    "evYield": {
+        "Sp. Def": 1
+    },
+    "baseFriendship": 35,
+    "baseExp": 59,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Amorphous"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Leer": 1,
+        "Disable": 4,
+        "Shadow Sneak": 8,
+        "Confuse Ray": 12,
+        "Night Shade": 16,
+        "Payback": 20,
+        "Will-O-Wisp": 24,
+        "Mean Look": 28,
+        "Hex": 32,
+        "Curse": 36,
+        "Shadow Ball": 40,
+        "Future Sight": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Protect": 7,
+        "Confuse Ray": 17,
+        "Thief": 18,
+        "Charge Beam": 23,
+        "Facade": 25,
+        "Hex": 29,
+        "Icy Wind": 34,
+        "Night Shade": 42,
+        "Fling": 43,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Taunt": 87,
+        "Imprison": 92,
+        "Dark Pulse": 94,
+        "Leech Life": 95,
+        "Skill Swap": 98,
+        "Substitute": 103,
+        "Will-O-Wisp": 107,
+        "Trick": 109,
+        "Shadow Ball": 114,
+        "Psychic": 120,
+        "Calm Mind": 129,
+        "Helping Hand": 130,
+        "Ice Beam": 135,
+        "Blizzard": 143,
+        "Phantom Force": 151,
+        "Trick Room": 161,
+        "Tera Blast": 171,
+        "Haze": 174,
+        "Spite": 177,
+        "Gravity": 178,
+        "Poltergeist": 198
+    }
+}

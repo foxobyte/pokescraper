@@ -1,0 +1,12 @@
+{
+    "name": "Helping Hand",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "In Double Battles, boosts the power of the partner's move.",
+    "isHighCrit": false
+}

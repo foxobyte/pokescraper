@@ -1,0 +1,12 @@
+{
+    "name": "Fillet Away",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Lowers HP but sharply boosts Attack, Special Attack, and Speed.",
+    "isHighCrit": false
+}

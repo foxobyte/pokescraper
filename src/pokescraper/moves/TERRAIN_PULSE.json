@@ -1,0 +1,12 @@
+{
+    "name": "Terrain Pulse",
+    "category": "Special",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Type and power change depending on the Terrain in effect.",
+    "isHighCrit": false
+}

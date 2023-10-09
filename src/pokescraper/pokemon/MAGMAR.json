@@ -1,0 +1,87 @@
+{
+    "generation": 1,
+    "name": "Magmar",
+    "species": "Spitfire Pok\u00e9mon",
+    "height": "1.3\u00a0m (4\u203203\u2033)",
+    "weight": "1.3\u00a0m (4\u203203\u2033)",
+    "hp": 65,
+    "attack": 95,
+    "defense": 57,
+    "speed": 93,
+    "gender": {
+        "male": "75%",
+        "female": "25%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire"
+    ],
+    "nationalNumber": 126,
+    "specialName": null,
+    "specialAbilities": [
+        "Flame Body"
+    ],
+    "hiddenAbility": "Vital Spirit",
+    "specialAttack": 100,
+    "specialDefense": 85,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 173,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Human-Like"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Ember": 1,
+        "Leer": 1,
+        "Smog": 1,
+        "Smokescreen": 1,
+        "Clear Smog": 12,
+        "Flame Wheel": 16,
+        "Confuse Ray": 20,
+        "Scary Face": 24,
+        "Fire Punch": 28,
+        "Lava Plume": 34,
+        "Low Kick": 40,
+        "Flamethrower": 46,
+        "Sunny Day": 52,
+        "Fire Blast": 58,
+        "Hyper Beam": 64
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Focus Punch": 1,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Iron Tail": 23,
+        "Low Sweep": 27,
+        "Psychic": 29,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Flamethrower": 35,
+        "Fire Blast": 38,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Overheat": 50,
+        "Focus Blast": 52,
+        "Fling": 56,
+        "Endure": 58,
+        "Will-O-Wisp": 61,
+        "Giga Impact": 68,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Strength": 96,
+        "Rock Smash": 98,
+        "Rock Climb": 100
+    }
+}

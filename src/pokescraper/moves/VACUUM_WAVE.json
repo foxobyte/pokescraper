@@ -1,0 +1,12 @@
+{
+    "name": "Vacuum Wave",
+    "category": "Special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "User attacks first.",
+    "isHighCrit": false
+}

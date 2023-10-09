@@ -1,0 +1,12 @@
+{
+    "name": "Grav Apple",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 100,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Lowers the opponent's Defense stat.",
+    "isHighCrit": false
+}

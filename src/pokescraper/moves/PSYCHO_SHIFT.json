@@ -1,0 +1,12 @@
+{
+    "name": "Psycho Shift",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Transfers user's status condition to the opponent.",
+    "isHighCrit": false
+}

@@ -1,0 +1,69 @@
+{
+    "generation": 8,
+    "name": "Milcery",
+    "species": "Cream Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.2\u00a0m (0\u203208\u2033)",
+    "hp": 45,
+    "attack": 40,
+    "defense": 40,
+    "speed": 34,
+    "gender": {
+        "male": "0%",
+        "female": "100%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fairy"
+    ],
+    "nationalNumber": 868,
+    "specialName": null,
+    "specialAbilities": [
+        "Sweet Veil"
+    ],
+    "hiddenAbility": "Aroma Veil",
+    "specialAttack": 50,
+    "specialDefense": 61,
+    "catchRate": 200,
+    "evYield": {
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 54,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous",
+        "Fairy"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Aromatic Mist": 1,
+        "Tackle": 1,
+        "Sweet Kiss": 5,
+        "Sweet Scent": 10,
+        "Draining Kiss": 15,
+        "Aromatherapy": 20,
+        "Attract": 25,
+        "Acid Armor": 30,
+        "Dazzling Gleam": 35,
+        "Recover": 40,
+        "Misty Terrain": 45,
+        "Entrainment": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Charm": 29,
+        "Attract": 31,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Fling": 59,
+        "Round": 76,
+        "Draining Kiss": 87,
+        "Misty Terrain": 89
+    }
+}

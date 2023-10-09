@@ -1,0 +1,103 @@
+{
+    "generation": 8,
+    "name": "Drakloak",
+    "species": "Caretaker Pok\u00e9mon",
+    "height": "1.4\u00a0m (4\u203207\u2033)",
+    "weight": "1.4\u00a0m (4\u203207\u2033)",
+    "hp": 68,
+    "attack": 80,
+    "defense": 50,
+    "speed": 102,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dragon",
+        "Ghost"
+    ],
+    "nationalNumber": 886,
+    "specialName": null,
+    "specialAbilities": [
+        "Clear Body",
+        "Infiltrator"
+    ],
+    "hiddenAbility": "Cursed Body",
+    "specialAttack": 60,
+    "specialDefense": 50,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 144,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Amorphous",
+        "Dragon"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Bite": 1,
+        "Infestation": 1,
+        "Quick Attack": 1,
+        "Lock-On": 6,
+        "Assurance": 12,
+        "Hex": 18,
+        "Agility": 24,
+        "Double Hit": 30,
+        "U-turn": 36,
+        "Dragon Dance": 42,
+        "Phantom Force": 48,
+        "Take Down": 54,
+        "Dragon Rush": 61,
+        "Double-Edge": 66,
+        "Last Resort": 72
+    },
+    "movesLearnedOnEvolution": [
+        "Dragon Pulse"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Protect": 7,
+        "Acrobatics": 14,
+        "Thief": 18,
+        "Pounce": 21,
+        "Facade": 25,
+        "Hex": 29,
+        "Swift": 32,
+        "Night Shade": 42,
+        "Dragon Tail": 44,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "U-turn": 60,
+        "Psychic Fangs": 63,
+        "Sleep Talk": 70,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Thunder Wave": 82,
+        "Rest": 85,
+        "Dragon Dance": 100,
+        "Substitute": 103,
+        "Will-O-Wisp": 107,
+        "Shadow Ball": 114,
+        "Dragon Pulse": 115,
+        "Surf": 123,
+        "Flamethrower": 125,
+        "Thunderbolt": 126,
+        "Helping Hand": 130,
+        "Baton Pass": 132,
+        "Fire Blast": 141,
+        "Hydro Pump": 142,
+        "Phantom Force": 151,
+        "Outrage": 156,
+        "Thunder": 166,
+        "Draco Meteor": 169,
+        "Tera Blast": 171
+    }
+}

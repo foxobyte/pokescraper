@@ -1,0 +1,12 @@
+{
+    "name": "Hail",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "Non-Ice types are damaged for 5 turns.",
+    "isHighCrit": false
+}

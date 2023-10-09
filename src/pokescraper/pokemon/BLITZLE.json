@@ -1,0 +1,90 @@
+{
+    "generation": 5,
+    "name": "Blitzle",
+    "species": "Electrified Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 45,
+    "attack": 60,
+    "defense": 32,
+    "speed": 76,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric"
+    ],
+    "nationalNumber": 522,
+    "specialName": null,
+    "specialAbilities": [
+        "Lightning Rod",
+        "Motor Drive"
+    ],
+    "hiddenAbility": "Sap Sipper",
+    "specialAttack": 50,
+    "specialDefense": 32,
+    "catchRate": 190,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 59,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Quick Attack": 1,
+        "Tail Whip": 4,
+        "Charge": 8,
+        "Shock Wave": 11,
+        "Thunder Wave": 15,
+        "Flame Charge": 18,
+        "Pursuit": 22,
+        "Spark": 25,
+        "Stomp": 29,
+        "Discharge": 32,
+        "Agility": 36,
+        "Wild Charge": 39,
+        "Thrash": 43
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Bounce",
+        "Low Kick",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snatch",
+        "Snore"
+    ],
+    "movesLearnedByTm": {
+        "Toxic": 6,
+        "Hidden Power": 10,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Frustration": 21,
+        "Thunderbolt": 24,
+        "Thunder": 25,
+        "Return": 27,
+        "Double Team": 32,
+        "Facade": 42,
+        "Flame Charge": 43,
+        "Rest": 44,
+        "Attract": 45,
+        "Round": 48,
+        "Charge Beam": 57,
+        "Volt Switch": 72,
+        "Thunder Wave": 73,
+        "Swagger": 87,
+        "Sleep Talk": 88,
+        "Substitute": 90,
+        "Wild Charge": 93,
+        "Confide": 100
+    }
+}

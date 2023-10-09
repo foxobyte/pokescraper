@@ -1,0 +1,12 @@
+{
+    "name": "Aqua Step",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 100,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Raises user's Speed.",
+    "isHighCrit": false
+}

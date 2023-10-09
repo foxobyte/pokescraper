@@ -1,0 +1,81 @@
+{
+    "generation": 6,
+    "name": "Slurpuff",
+    "species": "Meringue Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 82,
+    "attack": 80,
+    "defense": 86,
+    "speed": 72,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fairy"
+    ],
+    "nationalNumber": 685,
+    "specialName": null,
+    "specialAbilities": [
+        "Sweet Veil"
+    ],
+    "hiddenAbility": "Unburden",
+    "specialAttack": 85,
+    "specialDefense": 75,
+    "catchRate": 140,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 168,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Fairy"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Fairy Wind": 1,
+        "Play Nice": 1,
+        "Sweet Scent": 1,
+        "Tackle": 1,
+        "Aromatherapy": 9,
+        "Draining Kiss": 12,
+        "Fake Tears": 15,
+        "Round": 18,
+        "String Shot": 21,
+        "Cotton Spore": 24,
+        "Energy Ball": 27,
+        "Wish": 30,
+        "Play Rough": 33,
+        "Cotton Guard": 36,
+        "Endeavor": 39,
+        "Sticky Web": 42
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Misty Explosion"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Light Screen": 17,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Charm": 29,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Fake Tears": 47,
+        "Drain Punch": 63,
+        "Round": 76,
+        "Draining Kiss": 87
+    }
+}

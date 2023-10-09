@@ -1,0 +1,88 @@
+{
+    "generation": 5,
+    "name": "Amoonguss",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 114,
+    "attack": 85,
+    "defense": 70,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Poison"
+    ],
+    "nationalNumber": 591,
+    "specialName": null,
+    "specialAbilities": [
+        "Effect Spore"
+    ],
+    "hiddenAbility": "Regenerator",
+    "specialAttack": 85,
+    "specialDefense": 80,
+    "catchRate": 75,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 162,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Astonish": 1,
+        "Growth": 1,
+        "Stun Spore": 1,
+        "Mega Drain": 12,
+        "Synthesis": 16,
+        "Clear Smog": 20,
+        "Sweet Scent": 24,
+        "Giga Drain": 28,
+        "Ingrain": 32,
+        "Toxic": 36,
+        "Rage Powder": 42,
+        "Solar Beam": 48,
+        "Spore": 54
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Scary Face": 6,
+        "Protect": 7,
+        "Facade": 25,
+        "Hex": 29,
+        "Magical Leaf": 33,
+        "Venoshock": 45,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Bullet Seed": 56,
+        "Foul Play": 62,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Grass Knot": 81,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Substitute": 103,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Pollen Puff": 131,
+        "Grassy Terrain": 137,
+        "Sludge Bomb": 148,
+        "Giga Impact": 152,
+        "Leaf Storm": 159,
+        "Hyper Beam": 163,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

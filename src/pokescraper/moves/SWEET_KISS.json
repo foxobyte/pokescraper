@@ -1,0 +1,12 @@
+{
+    "name": "Sweet Kiss",
+    "category": "Status",
+    "power": null,
+    "accuracy": 75,
+    "pp": 10,
+    "probability": null,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "Confuses opponent.",
+    "isHighCrit": false
+}

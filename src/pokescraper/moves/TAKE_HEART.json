@@ -1,0 +1,12 @@
+{
+    "name": "Take Heart",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Heals user's status conditions and raises its stats.",
+    "isHighCrit": false
+}

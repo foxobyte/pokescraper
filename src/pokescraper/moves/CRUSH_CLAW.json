@@ -1,0 +1,12 @@
+{
+    "name": "Crush Claw",
+    "category": "Physical",
+    "power": 75,
+    "accuracy": 95,
+    "pp": 10,
+    "probability": 50,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "May lower opponent's Defense.",
+    "isHighCrit": false
+}

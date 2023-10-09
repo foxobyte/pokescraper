@@ -1,0 +1,85 @@
+{
+    "generation": 7,
+    "name": "Guzzlord",
+    "species": "Junkivore Pok\u00e9mon",
+    "height": "5.5\u00a0m (18\u203201\u2033)",
+    "weight": "5.5\u00a0m (18\u203201\u2033)",
+    "hp": 223,
+    "attack": 101,
+    "defense": 53,
+    "speed": 43,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Dark",
+        "Dragon"
+    ],
+    "nationalNumber": 799,
+    "specialName": null,
+    "specialAbilities": [
+        "Beast Boost"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 97,
+    "specialDefense": 53,
+    "catchRate": 45,
+    "evYield": {
+        "HP": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 257,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Bite": 1,
+        "Dragon Tail": 1,
+        "Stockpile": 5,
+        "Swallow": 5,
+        "Knock Off": 10,
+        "Stomp": 15,
+        "Stomping Tantrum": 20,
+        "Wide Guard": 25,
+        "Crunch": 30,
+        "Body Slam": 35,
+        "Gastro Acid": 40,
+        "Hammer Arm": 45,
+        "Heavy Slam": 50,
+        "Dragon Rush": 55,
+        "Belch": 60,
+        "Thrash": 65,
+        "Giga Impact": 70
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Corrosive Gas",
+        "Lash Out",
+        "Steel Roller"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Facade": 39,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Payback": 57,
+        "Fling": 59,
+        "Drain Punch": 63,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Snarl": 85,
+        "Brutal Swing": 97,
+        "Stomping Tantrum": 98
+    }
+}

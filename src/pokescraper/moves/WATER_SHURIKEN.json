@@ -1,0 +1,12 @@
+{
+    "name": "Water Shuriken",
+    "category": "Special",
+    "power": 15,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Hits 2-5 times in one turn.",
+    "isHighCrit": false
+}

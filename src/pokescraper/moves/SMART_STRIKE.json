@@ -1,0 +1,12 @@
+{
+    "name": "Smart Strike",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "The user stabs the target with a sharp horn. This attack never misses.",
+    "isHighCrit": false
+}

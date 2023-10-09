@@ -1,0 +1,12 @@
+{
+    "name": "Drill Run",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 95,
+    "pp": 10,
+    "probability": null,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "High critical hit ratio.",
+    "isHighCrit": true
+}

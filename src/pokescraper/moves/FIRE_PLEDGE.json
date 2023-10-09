@@ -1,0 +1,12 @@
+{
+    "name": "Fire Pledge",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "Added effects appear if combined with Grass Pledge or Water Pledge.",
+    "isHighCrit": false
+}

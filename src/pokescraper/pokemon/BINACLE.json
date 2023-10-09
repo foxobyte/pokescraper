@@ -1,0 +1,87 @@
+{
+    "generation": 6,
+    "name": "Binacle",
+    "species": "Two-Handed Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 42,
+    "attack": 52,
+    "defense": 67,
+    "speed": 50,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Water"
+    ],
+    "nationalNumber": 688,
+    "specialName": null,
+    "specialAbilities": [
+        "Sniper",
+        "Tough Claws"
+    ],
+    "hiddenAbility": "Pickpocket",
+    "specialAttack": 39,
+    "specialDefense": 56,
+    "catchRate": 120,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 61,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 3"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Mud-Slap": 1,
+        "Scratch": 1,
+        "Withdraw": 4,
+        "Water Gun": 8,
+        "Fury Cutter": 12,
+        "Fury Swipes": 16,
+        "Ancient Power": 20,
+        "Rock Polish": 24,
+        "Slash": 28,
+        "Hone Claws": 32,
+        "Razor Shell": 36,
+        "Shell Smash": 40,
+        "Cross Chop": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Dig": 15,
+        "Screech": 16,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Rain Dance": 33,
+        "Beat Up": 37,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Mud Shot": 53,
+        "Rock Blast": 54,
+        "Payback": 57,
+        "Assurance": 58,
+        "Fling": 59,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Razor Shell": 83,
+        "False Swipe": 94
+    }
+}

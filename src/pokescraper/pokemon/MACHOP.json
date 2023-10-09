@@ -1,0 +1,93 @@
+{
+    "generation": 1,
+    "name": "Machop",
+    "species": "Superpower Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 70,
+    "attack": 80,
+    "defense": 50,
+    "speed": 35,
+    "gender": {
+        "male": "75%",
+        "female": "25%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting"
+    ],
+    "nationalNumber": 66,
+    "specialName": null,
+    "specialAbilities": [
+        "Guts",
+        "No Guard"
+    ],
+    "hiddenAbility": "Steadfast",
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "catchRate": 180,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 61,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Human-Like"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Low Kick": 1,
+        "Focus Energy": 4,
+        "Revenge": 8,
+        "Low Sweep": 12,
+        "Knock Off": 16,
+        "Scary Face": 20,
+        "Vital Throw": 24,
+        "Strength": 29,
+        "Dual Chop": 32,
+        "Bulk Up": 36,
+        "Seismic Toss": 40,
+        "Dynamic Punch": 44,
+        "Cross Chop": 48,
+        "Double-Edge": 52
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Focus Punch": 1,
+        "Bulk Up": 8,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Earthquake": 26,
+        "Low Sweep": 27,
+        "Dig": 28,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Flamethrower": 35,
+        "Fire Blast": 38,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Focus Blast": 52,
+        "Fling": 56,
+        "Endure": 58,
+        "Payback": 66,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Poison Jab": 84,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Strength": 96,
+        "Rock Smash": 98,
+        "Rock Climb": 100
+    }
+}

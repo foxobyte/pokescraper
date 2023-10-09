@@ -1,0 +1,12 @@
+{
+    "name": "Metal Sound",
+    "category": "Status",
+    "power": null,
+    "accuracy": 85,
+    "pp": 40,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Sharply lowers opponent's Special Defense.",
+    "isHighCrit": false
+}

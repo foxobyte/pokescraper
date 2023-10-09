@@ -1,0 +1,12 @@
+{
+    "name": "Hammer Arm",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": 100,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Lowers user's Speed.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Searing Shot",
+    "category": "Special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": 30,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "May burn opponent.",
+    "isHighCrit": false
+}

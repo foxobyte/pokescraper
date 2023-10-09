@@ -1,0 +1,12 @@
+{
+    "name": "Fire Fang",
+    "category": "Physical",
+    "power": 65,
+    "accuracy": 95,
+    "pp": 15,
+    "probability": 10,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "May cause flinching and/or burn opponent.",
+    "isHighCrit": false
+}

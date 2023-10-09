@@ -1,0 +1,12 @@
+{
+    "name": "High Horsepower",
+    "category": "Physical",
+    "power": 95,
+    "accuracy": 95,
+    "pp": 10,
+    "probability": null,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "The user fiercely attacks the target using its entire body.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Glaive Rush",
+    "category": "Physical",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "Attacks from opposing Pok\u00e9mon during the next turn cannot miss and will inflict double damage.",
+    "isHighCrit": false
+}

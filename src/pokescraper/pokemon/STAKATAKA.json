@@ -1,0 +1,82 @@
+{
+    "generation": 7,
+    "name": "Stakataka",
+    "species": "Rampart Pok\u00e9mon",
+    "height": "5.5\u00a0m (18\u203201\u2033)",
+    "weight": "5.5\u00a0m (18\u203201\u2033)",
+    "hp": 61,
+    "attack": 131,
+    "defense": 211,
+    "speed": 13,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Steel"
+    ],
+    "nationalNumber": 805,
+    "specialName": null,
+    "specialAbilities": [
+        "Beast Boost"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 53,
+    "specialDefense": 101,
+    "catchRate": 30,
+    "evYield": {
+        "Defense": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 257,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Harden": 1,
+        "Tackle": 1,
+        "Rock Throw": 5,
+        "Protect": 10,
+        "Stomp": 15,
+        "Block": 20,
+        "Rock Slide": 25,
+        "Wide Guard": 30,
+        "Autotomize": 35,
+        "Rock Blast": 40,
+        "Magnet Rise": 45,
+        "Iron Defense": 50,
+        "Iron Head": 55,
+        "Take Down": 60,
+        "Stealth Rock": 65,
+        "Double-Edge": 70
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Meteor Beam",
+        "Steel Roller"
+    ],
+    "movesLearnedByTm": {
+        "Mega Kick": 1,
+        "Giga Impact": 9,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Sandstorm": 32,
+        "Facade": 39,
+        "Rock Tomb": 48,
+        "Rock Blast": 54,
+        "Trick Room": 70,
+        "Wonder Room": 71,
+        "Magic Room": 72,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Brutal Swing": 97,
+        "Stomping Tantrum": 98
+    }
+}

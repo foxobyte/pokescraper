@@ -1,0 +1,61 @@
+{
+    "generation": 5,
+    "name": "Yamask",
+    "species": "Spirit Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 38,
+    "attack": 30,
+    "defense": 85,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ghost"
+    ],
+    "nationalNumber": 562,
+    "specialName": null,
+    "specialAbilities": [
+        "Mummy"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 55,
+    "specialDefense": 65,
+    "catchRate": 190,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 61,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous",
+        "Mineral"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Protect": 1,
+        "Haze": 4,
+        "Night Shade": 8,
+        "Disable": 12,
+        "Brutal Swing": 16,
+        "Crafty Shield": 20,
+        "Hex": 24,
+        "Mean Look": 28,
+        "Slam": 32,
+        "Curse": 36,
+        "Shadow Ball": 40,
+        "Earthquake": 44,
+        "Guard Split": 48,
+        "Power Split": 48,
+        "Destiny Bond": 52
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

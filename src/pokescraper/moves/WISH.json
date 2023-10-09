@@ -1,0 +1,12 @@
+{
+    "name": "Wish",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "The user recovers HP in the following turn.",
+    "isHighCrit": false
+}

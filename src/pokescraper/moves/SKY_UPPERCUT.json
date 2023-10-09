@@ -1,0 +1,12 @@
+{
+    "name": "Sky Uppercut",
+    "category": "Physical",
+    "power": 85,
+    "accuracy": 90,
+    "pp": 15,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Hits the opponent, even during Fly.",
+    "isHighCrit": false
+}

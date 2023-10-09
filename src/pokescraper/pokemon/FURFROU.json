@@ -1,0 +1,96 @@
+{
+    "generation": 6,
+    "name": "Furfrou",
+    "species": "Poodle Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 75,
+    "attack": 80,
+    "defense": 60,
+    "speed": 102,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 676,
+    "specialName": null,
+    "specialAbilities": [
+        "Fur Coat"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 65,
+    "specialDefense": 90,
+    "catchRate": 160,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 165,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Tackle": 1,
+        "Sand Attack": 5,
+        "Baby-Doll Eyes": 9,
+        "Headbutt": 12,
+        "Tail Whip": 15,
+        "Bite": 22,
+        "Odor Sleuth": 27,
+        "Retaliate": 33,
+        "Take Down": 35,
+        "Charm": 38,
+        "Sucker Punch": 42,
+        "Cotton Guard": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Endeavor",
+        "Helping Hand",
+        "Hyper Voice",
+        "Iron Tail",
+        "Last Resort",
+        "Role Play",
+        "Snore",
+        "Uproar",
+        "Zen Headbutt"
+    ],
+    "movesLearnedByTm": {
+        "Work Up": 1,
+        "Roar": 5,
+        "Toxic": 6,
+        "Hidden Power": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Frustration": 21,
+        "Return": 27,
+        "Double Team": 32,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Round": 48,
+        "Echoed Voice": 49,
+        "Charge Beam": 57,
+        "Giga Impact": 68,
+        "Thunder Wave": 73,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Sleep Talk": 88,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Wild Charge": 93,
+        "Surf": 94,
+        "Snarl": 95,
+        "Dark Pulse": 97,
+        "Confide": 100
+    }
+}

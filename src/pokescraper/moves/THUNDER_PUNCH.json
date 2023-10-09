@@ -1,0 +1,12 @@
+{
+    "name": "Thunder Punch",
+    "category": "Physical",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 10,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "May paralyze opponent.",
+    "isHighCrit": false
+}

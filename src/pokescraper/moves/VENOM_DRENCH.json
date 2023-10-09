@@ -1,0 +1,12 @@
+{
+    "name": "Venom Drench",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 100,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "Lowers poisoned opponent's Special Attack and Speed.",
+    "isHighCrit": false
+}

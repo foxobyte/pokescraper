@@ -1,0 +1,81 @@
+{
+    "generation": 5,
+    "name": "Vanilluxe",
+    "species": "Snowstorm Pok\u00e9mon",
+    "height": "1.3\u00a0m (4\u203203\u2033)",
+    "weight": "1.3\u00a0m (4\u203203\u2033)",
+    "hp": 71,
+    "attack": 95,
+    "defense": 85,
+    "speed": 79,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice"
+    ],
+    "nationalNumber": 584,
+    "specialName": null,
+    "specialAbilities": [
+        "Ice Body",
+        "Snow Warning"
+    ],
+    "hiddenAbility": "Weak Armor",
+    "specialAttack": 110,
+    "specialDefense": 95,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 241,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Freeze-Dry": 1,
+        "Harden": 1,
+        "Icicle Crash": 1,
+        "Mist": 1,
+        "Taunt": 1,
+        "Weather Ball": 1,
+        "Icy Wind": 12,
+        "Avalanche": 16,
+        "Hail": 20,
+        "Icicle Spear": 24,
+        "Uproar": 28,
+        "Acid Armor": 32,
+        "Mirror Coat": 38,
+        "Ice Beam": 44,
+        "Blizzard": 52,
+        "Sheer Cold": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Light Screen": 17,
+        "Self-Destruct": 20,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Beat Up": 37,
+        "Facade": 39,
+        "Imprison": 44,
+        "Weather Ball": 46,
+        "Icicle Spear": 51,
+        "Avalanche": 64,
+        "Round": 76
+    }
+}

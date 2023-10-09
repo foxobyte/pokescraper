@@ -1,0 +1,12 @@
+{
+    "name": "Extreme Evoboost",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "probability": 100,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Eevee-exclusive Z-Move. Sharply raises all stats.",
+    "isHighCrit": false
+}

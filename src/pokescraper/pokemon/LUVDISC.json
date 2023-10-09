@@ -1,0 +1,82 @@
+{
+    "generation": 3,
+    "name": "Luvdisc",
+    "species": "Rendezvous Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 43,
+    "attack": 30,
+    "defense": 55,
+    "speed": 97,
+    "gender": {
+        "male": "25%",
+        "female": "75%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 370,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim"
+    ],
+    "hiddenAbility": "Hydration",
+    "specialAttack": 40,
+    "specialDefense": 65,
+    "catchRate": 225,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 116,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Water 2"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Charm": 1,
+        "Tackle": 1,
+        "Water Gun": 4,
+        "Agility": 7,
+        "Wish": 13,
+        "Water Pulse": 17,
+        "Attract": 20,
+        "Draining Kiss": 22,
+        "Flail": 26,
+        "Sweet Kiss": 31,
+        "Take Down": 34,
+        "Baby-Doll Eyes": 37,
+        "Aqua Ring": 40,
+        "Soak": 42,
+        "Hydro Pump": 46,
+        "Safeguard": 49
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Agility": 4,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Facade": 25,
+        "Icy Wind": 34,
+        "Draining Kiss": 37,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Snowscape": 52,
+        "Sleep Talk": 70,
+        "Waterfall": 77,
+        "Rest": 85,
+        "Substitute": 103,
+        "Liquidation": 110,
+        "Surf": 123,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Tera Blast": 171
+    }
+}

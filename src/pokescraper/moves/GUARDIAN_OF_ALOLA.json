@@ -1,0 +1,12 @@
+{
+    "name": "Guardian of Alola",
+    "category": "Special",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "probability": null,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "Tapu-exclusive Z-move. Cuts opponent's HP by 75%.",
+    "isHighCrit": false
+}

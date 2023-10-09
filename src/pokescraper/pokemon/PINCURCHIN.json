@@ -1,0 +1,90 @@
+{
+    "generation": 8,
+    "name": "Pincurchin",
+    "species": "Sea Urchin Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 48,
+    "attack": 101,
+    "defense": 95,
+    "speed": 15,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric"
+    ],
+    "nationalNumber": 871,
+    "specialName": null,
+    "specialAbilities": [
+        "Lightning Rod"
+    ],
+    "hiddenAbility": "Electric Surge",
+    "specialAttack": 91,
+    "specialDefense": 85,
+    "catchRate": 75,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 152,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Peck": 1,
+        "Thunder Shock": 1,
+        "Water Gun": 5,
+        "Charge": 10,
+        "Fury Attack": 15,
+        "Spark": 20,
+        "Bubble Beam": 25,
+        "Recover": 30,
+        "Curse": 35,
+        "Electric Terrain": 40,
+        "Poison Jab": 45,
+        "Zing Zap": 50,
+        "Acupressure": 55,
+        "Discharge": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Chilling Water": 22,
+        "Charge Beam": 23,
+        "Facade": 25,
+        "Hex": 29,
+        "Swift": 32,
+        "Venoshock": 45,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Electro Ball": 72,
+        "Thunder Wave": 82,
+        "Poison Jab": 83,
+        "Rest": 85,
+        "Spikes": 90,
+        "Toxic Spikes": 91,
+        "Substitute": 103,
+        "Liquidation": 110,
+        "Surf": 123,
+        "Thunderbolt": 126,
+        "Reversal": 134,
+        "Electric Terrain": 136,
+        "Hydro Pump": 142,
+        "Wild Charge": 147,
+        "Giga Impact": 152,
+        "Hyper Beam": 163,
+        "Thunder": 166,
+        "Tera Blast": 171
+    }
+}

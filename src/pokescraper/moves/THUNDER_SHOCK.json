@@ -1,0 +1,12 @@
+{
+    "name": "Thunder Shock",
+    "category": "Special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "probability": 10,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "May paralyze opponent.",
+    "isHighCrit": false
+}

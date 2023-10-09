@@ -1,0 +1,85 @@
+{
+    "generation": 9,
+    "name": "Tarountula",
+    "species": "String Ball Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 35,
+    "attack": 41,
+    "defense": 45,
+    "speed": 20,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 917,
+    "specialName": null,
+    "specialAbilities": [
+        "Insomnia"
+    ],
+    "hiddenAbility": "Stakeout",
+    "specialAttack": 29,
+    "specialDefense": 40,
+    "catchRate": 255,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 42,
+    "growthRate": "Erratic",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "String Shot": 1,
+        "Tackle": 1,
+        "Struggle Bug": 5,
+        "Assurance": 8,
+        "Feint": 11,
+        "Bug Bite": 14,
+        "Block": 18,
+        "Counter": 22,
+        "Headbutt": 25,
+        "Sticky Web": 29,
+        "Gastro Acid": 33,
+        "Circle Throw": 36,
+        "Throat Chop": 40,
+        "Skitter Smack": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Struggle Bug": 15,
+        "Thief": 18,
+        "Trailblaze": 20,
+        "Pounce": 21,
+        "Facade": 25,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Bullet Seed": 56,
+        "False Swipe": 57,
+        "Shadow Claw": 61,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Grass Knot": 81,
+        "Poison Jab": 83,
+        "Rest": 85,
+        "Spikes": 90,
+        "Toxic Spikes": 91,
+        "Leech Life": 95,
+        "Substitute": 103,
+        "X-Scissor": 105,
+        "Giga Drain": 111,
+        "Bug Buzz": 162,
+        "Tera Blast": 171
+    }
+}

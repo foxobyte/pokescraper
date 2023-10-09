@@ -1,0 +1,12 @@
+{
+    "name": "Ice Shard",
+    "category": "Physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "probability": null,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "User attacks first.",
+    "isHighCrit": false
+}

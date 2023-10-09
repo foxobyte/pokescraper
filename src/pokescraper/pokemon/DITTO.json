@@ -1,0 +1,42 @@
+{
+    "generation": 1,
+    "name": "Ditto",
+    "species": "Transform Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 48,
+    "attack": 48,
+    "defense": 48,
+    "speed": 48,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 132,
+    "specialName": null,
+    "specialAbilities": [
+        "Limber"
+    ],
+    "hiddenAbility": "Imposter",
+    "specialAttack": 48,
+    "specialDefense": 48,
+    "catchRate": 35,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 101,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Ditto"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Transform": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

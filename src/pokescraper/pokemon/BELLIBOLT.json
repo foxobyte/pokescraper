@@ -1,0 +1,88 @@
+{
+    "generation": 9,
+    "name": "Bellibolt",
+    "species": "EleFrog Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 109,
+    "attack": 64,
+    "defense": 91,
+    "speed": 45,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric"
+    ],
+    "nationalNumber": 939,
+    "specialName": null,
+    "specialAbilities": [
+        "Electromorphosis",
+        "Static"
+    ],
+    "hiddenAbility": "Damp",
+    "specialAttack": 103,
+    "specialDefense": 83,
+    "catchRate": 50,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 173,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Mud-Slap": 1,
+        "Slack Off": 1,
+        "Tackle": 1,
+        "Thunder Shock": 7,
+        "Water Gun": 11,
+        "Charge": 17,
+        "Spark": 21,
+        "Mud Shot": 24,
+        "Flail": 25,
+        "Discharge": 32,
+        "Weather Ball": 36,
+        "Electric Terrain": 40,
+        "Sucker Punch": 45,
+        "Zap Cannon": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Acid Spray": 13,
+        "Confuse Ray": 17,
+        "Chilling Water": 22,
+        "Charge Beam": 23,
+        "Swift": 32,
+        "Mud Shot": 35,
+        "Endure": 47,
+        "Volt Switch": 48,
+        "Rain Dance": 50,
+        "Sleep Talk": 70,
+        "Electro Ball": 72,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Thunder Wave": 82,
+        "Rest": 85,
+        "Eerie Impulse": 96,
+        "Substitute": 103,
+        "Hyper Voice": 117,
+        "Thunderbolt": 126,
+        "Electric Terrain": 136,
+        "Wild Charge": 147,
+        "Giga Impact": 152,
+        "Hyper Beam": 163,
+        "Thunder": 166,
+        "Tera Blast": 171
+    }
+}

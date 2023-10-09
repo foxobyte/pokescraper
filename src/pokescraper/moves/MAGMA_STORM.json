@@ -1,0 +1,12 @@
+{
+    "name": "Magma Storm",
+    "category": "Special",
+    "power": 100,
+    "accuracy": 75,
+    "pp": 5,
+    "probability": 100,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "Traps opponent, damaging them for 4-5 turns.",
+    "isHighCrit": false
+}

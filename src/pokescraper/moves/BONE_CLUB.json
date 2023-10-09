@@ -1,0 +1,12 @@
+{
+    "name": "Bone Club",
+    "category": "Physical",
+    "power": 65,
+    "accuracy": 85,
+    "pp": 20,
+    "probability": 10,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

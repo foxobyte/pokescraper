@@ -1,0 +1,12 @@
+{
+    "name": "Muddy Water",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 85,
+    "pp": 10,
+    "probability": 30,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "May lower opponent's Accuracy.",
+    "isHighCrit": false
+}

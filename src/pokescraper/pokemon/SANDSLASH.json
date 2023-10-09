@@ -1,0 +1,48 @@
+{
+    "generation": 1,
+    "name": "Sandslash",
+    "species": "Mouse Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 75,
+    "attack": 100,
+    "defense": 110,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ground"
+    ],
+    "nationalNumber": 28,
+    "specialName": null,
+    "specialAbilities": [
+        "Sand Veil"
+    ],
+    "hiddenAbility": "Sand Rush",
+    "specialAttack": 45,
+    "specialDefense": 55,
+    "catchRate": 90,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 158,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Icicle Crash": 1,
+        "Metal Claw": 1,
+        "Slash": 1,
+        "Swords Dance": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

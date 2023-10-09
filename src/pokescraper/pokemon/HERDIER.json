@@ -1,0 +1,80 @@
+{
+    "generation": 5,
+    "name": "Herdier",
+    "species": "Loyal Dog Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "0.9\u00a0m (2\u203211\u2033)",
+    "hp": 65,
+    "attack": 80,
+    "defense": 65,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 507,
+    "specialName": null,
+    "specialAbilities": [
+        "Intimidate",
+        "Sand Rush"
+    ],
+    "hiddenAbility": "Scrappy",
+    "specialAttack": 35,
+    "specialDefense": 65,
+    "catchRate": 120,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 130,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Bite": 1,
+        "Leer": 1,
+        "Tackle": 1,
+        "Work Up": 1,
+        "Retaliate": 12,
+        "Baby-Doll Eyes": 19,
+        "Play Rough": 24,
+        "Crunch": 30,
+        "Take Down": 36,
+        "Helping Hand": 42,
+        "Reversal": 48,
+        "Roar": 54,
+        "Last Resort": 60,
+        "Giga Impact": 66
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Dig": 15,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Charm": 29,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Rock Tomb": 48,
+        "Payback": 57,
+        "Thunder Fang": 66,
+        "Ice Fang": 67,
+        "Fire Fang": 68,
+        "Round": 76,
+        "Retaliate": 79,
+        "Snarl": 85
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Snore",
+    "category": "Special",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 30,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Can only be used if asleep. May cause flinching.",
+    "isHighCrit": false
+}

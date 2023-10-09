@@ -1,0 +1,12 @@
+{
+    "name": "Electric Terrain",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "Prevents all Pok\u00e9mon from falling asleep for 5 turns.",
+    "isHighCrit": false
+}

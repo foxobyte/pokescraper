@@ -1,0 +1,84 @@
+{
+    "generation": 3,
+    "name": "Torchic",
+    "species": "Chick Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 45,
+    "attack": 60,
+    "defense": 40,
+    "speed": 45,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire"
+    ],
+    "nationalNumber": 255,
+    "specialName": null,
+    "specialAbilities": [
+        "Blaze"
+    ],
+    "hiddenAbility": "Speed Boost",
+    "specialAttack": 70,
+    "specialDefense": 50,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 62,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Scratch": 1,
+        "Ember": 3,
+        "Quick Attack": 6,
+        "Flame Charge": 9,
+        "Detect": 12,
+        "Sand Attack": 15,
+        "Aerial Ace": 18,
+        "Slash": 21,
+        "Bounce": 24,
+        "Focus Energy": 27,
+        "Flamethrower": 30,
+        "Feather Dance": 33,
+        "Reversal": 36,
+        "Flare Blitz": 39
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Dig": 28,
+        "Double Team": 32,
+        "Flamethrower": 35,
+        "Fire Blast": 38,
+        "Rock Tomb": 39,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Overheat": 50,
+        "Endure": 58,
+        "Will-O-Wisp": 61,
+        "Shadow Claw": 65,
+        "Swords Dance": 75,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

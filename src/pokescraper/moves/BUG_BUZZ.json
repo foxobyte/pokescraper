@@ -1,0 +1,12 @@
+{
+    "name": "Bug Buzz",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 10,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "May lower opponent's Special Defense.",
+    "isHighCrit": false
+}

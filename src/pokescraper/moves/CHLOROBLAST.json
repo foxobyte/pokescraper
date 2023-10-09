@@ -1,0 +1,12 @@
+{
+    "name": "Chloroblast",
+    "category": "Special",
+    "power": 150,
+    "accuracy": 95,
+    "pp": 5,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "User receives recoil damage.",
+    "isHighCrit": false
+}

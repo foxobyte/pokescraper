@@ -1,0 +1,88 @@
+{
+    "generation": 7,
+    "name": "Togedemaru",
+    "species": "Roly-Poly Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 65,
+    "attack": 98,
+    "defense": 63,
+    "speed": 96,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric",
+        "Steel"
+    ],
+    "nationalNumber": 777,
+    "specialName": null,
+    "specialAbilities": [
+        "Iron Barbs",
+        "Lightning Rod"
+    ],
+    "hiddenAbility": "Sturdy",
+    "specialAttack": 40,
+    "specialDefense": 73,
+    "catchRate": 180,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 152,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Fairy",
+        "Field"
+    ],
+    "eggCycles": 10,
+    "movesLearnedAtLevel": {
+        "Nuzzle": 1,
+        "Tackle": 1,
+        "Defense Curl": 5,
+        "Charge": 10,
+        "Thunder Shock": 15,
+        "Fell Stinger": 20,
+        "Spark": 25,
+        "Pin Missile": 30,
+        "Magnet Rise": 35,
+        "Zing Zap": 40,
+        "Discharge": 45,
+        "Electric Terrain": 50,
+        "Wild Charge": 55,
+        "Spiky Shield": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Rising Voltage",
+        "Steel Roller"
+    ],
+    "movesLearnedByTm": {
+        "Pin Missile": 7,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Reflect": 18,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Bounce": 52,
+        "U-turn": 56,
+        "Payback": 57,
+        "Assurance": 58,
+        "Fling": 59,
+        "Round": 76,
+        "Volt Switch": 80,
+        "Electroweb": 82,
+        "Electric Terrain": 90,
+        "Eerie Impulse": 93
+    }
+}

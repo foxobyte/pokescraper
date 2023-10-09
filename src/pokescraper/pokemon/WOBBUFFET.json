@@ -1,0 +1,59 @@
+{
+    "generation": 2,
+    "name": "Wobbuffet",
+    "species": "Patient Pok\u00e9mon",
+    "height": "1.3\u00a0m (4\u203203\u2033)",
+    "weight": "1.3\u00a0m (4\u203203\u2033)",
+    "hp": 190,
+    "attack": 33,
+    "defense": 58,
+    "speed": 33,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic"
+    ],
+    "nationalNumber": 202,
+    "specialName": null,
+    "specialAbilities": [
+        "Shadow Tag"
+    ],
+    "hiddenAbility": "Telepathy",
+    "specialAttack": 33,
+    "specialDefense": 58,
+    "catchRate": 45,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 142,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Amnesia": 1,
+        "Charm": 1,
+        "Counter": 1,
+        "Destiny Bond": 1,
+        "Encore": 1,
+        "Mirror Coat": 1,
+        "Safeguard": 1,
+        "Splash": 1
+    },
+    "movesLearnedOnEvolution": [
+        "Counter",
+        "Destiny Bond",
+        "Mirror Coat",
+        "Safeguard"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Safeguard": 20
+    }
+}

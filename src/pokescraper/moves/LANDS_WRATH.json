@@ -1,0 +1,12 @@
+{
+    "name": "Land's Wrath",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "",
+    "isHighCrit": false
+}

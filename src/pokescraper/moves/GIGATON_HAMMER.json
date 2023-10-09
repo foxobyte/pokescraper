@@ -1,0 +1,12 @@
+{
+    "name": "Gigaton Hammer",
+    "category": "Physical",
+    "power": 160,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Cannot be used twice in a row.",
+    "isHighCrit": false
+}

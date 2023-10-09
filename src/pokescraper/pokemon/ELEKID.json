@@ -1,0 +1,83 @@
+{
+    "generation": 2,
+    "name": "Elekid",
+    "species": "Electric Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 45,
+    "attack": 63,
+    "defense": 37,
+    "speed": 95,
+    "gender": {
+        "male": "75%",
+        "female": "25%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric"
+    ],
+    "nationalNumber": 239,
+    "specialName": null,
+    "specialAbilities": [
+        "Static"
+    ],
+    "hiddenAbility": "Vital Spirit",
+    "specialAttack": 65,
+    "specialDefense": 55,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 72,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Quick Attack": 1,
+        "Thunder Shock": 4,
+        "Charge": 8,
+        "Swift": 12,
+        "Shock Wave": 16,
+        "Thunder Wave": 20,
+        "Screech": 24,
+        "Thunder Punch": 28,
+        "Discharge": 32,
+        "Low Kick": 36,
+        "Thunderbolt": 40,
+        "Light Screen": 44,
+        "Thunder": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Focus Punch": 1,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Thunderbolt": 24,
+        "Thunder": 25,
+        "Psychic": 29,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Facade": 42,
+        "Volt Switch": 43,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Fling": 56,
+        "Charge Beam": 57,
+        "Endure": 58,
+        "Flash": 70,
+        "Thunder Wave": 73,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Rock Smash": 98
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "generation": 7,
+    "name": "Silvally",
+    "species": "Synthetic Pok\u00e9mon",
+    "height": "2.3\u00a0m (7\u203207\u2033)",
+    "weight": "2.3\u00a0m (7\u203207\u2033)",
+    "hp": 95,
+    "attack": 95,
+    "defense": 95,
+    "speed": 95,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 773,
+    "specialName": null,
+    "specialAbilities": [
+        "RKS System"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 95,
+    "specialDefense": 95,
+    "catchRate": 3,
+    "evYield": {
+        "HP": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 257,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Aerial Ace": 1,
+        "Bite": 1,
+        "Explosion": 1,
+        "Fire Fang": 1,
+        "Ice Fang": 1,
+        "Imprison": 1,
+        "Iron Head": 1,
+        "Multi-Attack": 1,
+        "Poison Fang": 1,
+        "Scary Face": 1,
+        "Tackle": 1,
+        "Thunder Fang": 1,
+        "Double Hit": 15,
+        "Metal Sound": 20,
+        "Crush Claw": 25,
+        "Air Slash": 30,
+        "Tri Attack": 35,
+        "X-Scissor": 40,
+        "Crunch": 45,
+        "Take Down": 50,
+        "Double-Edge": 55,
+        "Parting Shot": 60
+    },
+    "movesLearnedOnEvolution": [
+        "Multi-Attack"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Terrain Pulse"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Self-Destruct": 20,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Icy Wind": 27,
+        "Steel Wing": 30,
+        "Sandstorm": 32,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Hail": 35,
+        "Facade": 39,
+        "Swift": 40,
+        "Imprison": 44,
+        "U-turn": 56,
+        "Payback": 57,
+        "Shadow Claw": 65,
+        "Thunder Fang": 66,
+        "Ice Fang": 67,
+        "Fire Fang": 68,
+        "Round": 76,
+        "Snarl": 85,
+        "Air Slash": 95
+    }
+}

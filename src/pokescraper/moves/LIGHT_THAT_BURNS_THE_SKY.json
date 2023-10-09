@@ -1,0 +1,12 @@
+{
+    "name": "Light That Burns the Sky",
+    "category": "Special",
+    "power": 200,
+    "accuracy": null,
+    "pp": 1,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Ultra Necrozma-exclusive Z-Move. Ignores target's ability; uses highest Attack stat.",
+    "isHighCrit": false
+}

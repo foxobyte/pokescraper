@@ -1,0 +1,89 @@
+{
+    "generation": 8,
+    "name": "Orbeetle",
+    "species": "Seven Spot Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 60,
+    "attack": 45,
+    "defense": 110,
+    "speed": 90,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Psychic"
+    ],
+    "nationalNumber": 826,
+    "specialName": null,
+    "specialAbilities": [
+        "Swarm",
+        "Frisk"
+    ],
+    "hiddenAbility": "Telepathy",
+    "specialAttack": 80,
+    "specialDefense": 120,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Def": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 253,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Confusion": 1,
+        "Light Screen": 1,
+        "Reflect": 1,
+        "Struggle Bug": 1,
+        "Confuse Ray": 4,
+        "Magic Coat": 8,
+        "Agility": 12,
+        "Psybeam": 16,
+        "Hypnosis": 20,
+        "Ally Switch": 24,
+        "Bug Buzz": 28,
+        "Mirror Coat": 32,
+        "Psychic": 36,
+        "After You": 40,
+        "Calm Mind": 44,
+        "Psychic Terrain": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Expanding Force"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Imprison": 44,
+        "U-turn": 56,
+        "Payback": 57,
+        "Power Swap": 60,
+        "Guard Swap": 61,
+        "Psycho Cut": 69,
+        "Trick Room": 70,
+        "Wonder Room": 71,
+        "Magic Room": 72,
+        "Round": 76,
+        "Psychic Terrain": 91
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "name": "Karrablast",
+    "species": "Clamping Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 50,
+    "attack": 75,
+    "defense": 45,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 588,
+    "specialName": null,
+    "specialAbilities": [
+        "Swarm",
+        "Shed Skin"
+    ],
+    "hiddenAbility": "No Guard",
+    "specialAttack": 40,
+    "specialDefense": 45,
+    "catchRate": 200,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 63,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Peck": 1,
+        "Fury Cutter": 4,
+        "Endure": 8,
+        "False Swipe": 12,
+        "Acid Spray": 16,
+        "Headbutt": 20,
+        "Flail": 24,
+        "Scary Face": 28,
+        "X-Scissor": 32,
+        "Swords Dance": 36,
+        "Take Down": 40,
+        "Bug Buzz": 44,
+        "Double-Edge": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Screech": 16,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Round": 76,
+        "False Swipe": 94
+    }
+}

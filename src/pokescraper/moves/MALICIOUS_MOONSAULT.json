@@ -1,0 +1,12 @@
+{
+    "name": "Malicious Moonsault",
+    "category": "Physical",
+    "power": 180,
+    "accuracy": null,
+    "pp": 1,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Incineroar-exclusive Z-Move.",
+    "isHighCrit": false
+}

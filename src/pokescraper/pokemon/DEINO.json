@@ -1,0 +1,92 @@
+{
+    "generation": 5,
+    "name": "Deino",
+    "species": "Irate Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 52,
+    "attack": 65,
+    "defense": 50,
+    "speed": 38,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dark",
+        "Dragon"
+    ],
+    "nationalNumber": 633,
+    "specialName": null,
+    "specialAbilities": [
+        "Hustle"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 45,
+    "specialDefense": 50,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 35,
+    "baseExp": 60,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Dragon"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Focus Energy": 1,
+        "Tackle": 1,
+        "Dragon Breath": 4,
+        "Bite": 8,
+        "Roar": 12,
+        "Assurance": 16,
+        "Headbutt": 20,
+        "Work Up": 24,
+        "Slam": 28,
+        "Crunch": 32,
+        "Scary Face": 36,
+        "Dragon Pulse": 40,
+        "Body Slam": 44,
+        "Hyper Voice": 48,
+        "Dragon Rush": 52,
+        "Nasty Plot": 56,
+        "Outrage": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Thunder Fang": 9,
+        "Ice Fang": 10,
+        "Thief": 18,
+        "Facade": 25,
+        "Snarl": 30,
+        "Dragon Tail": 44,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Zen Headbutt": 59,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Thunder Wave": 82,
+        "Rest": 85,
+        "Taunt": 87,
+        "Dark Pulse": 94,
+        "Substitute": 103,
+        "Crunch": 108,
+        "Dragon Pulse": 115,
+        "Hyper Voice": 117,
+        "Earth Power": 133,
+        "Nasty Plot": 140,
+        "Outrage": 156,
+        "Draco Meteor": 169,
+        "Tera Blast": 171
+    }
+}

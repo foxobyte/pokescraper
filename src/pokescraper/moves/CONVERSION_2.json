@@ -1,0 +1,12 @@
+{
+    "name": "Conversion 2",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User changes type to become resistant to opponent's last move.",
+    "isHighCrit": false
+}

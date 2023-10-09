@@ -1,0 +1,12 @@
+{
+    "name": "Submission",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 80,
+    "pp": 20,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "User receives recoil damage.",
+    "isHighCrit": false
+}

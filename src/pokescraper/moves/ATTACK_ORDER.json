@@ -1,0 +1,12 @@
+{
+    "name": "Attack Order",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "High critical hit ratio.",
+    "isHighCrit": true
+}

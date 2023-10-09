@@ -1,0 +1,92 @@
+{
+    "generation": 3,
+    "name": "Wailord",
+    "species": "Float Whale Pok\u00e9mon",
+    "height": "14.5\u00a0m (47\u203207\u2033)",
+    "weight": "14.5\u00a0m (47\u203207\u2033)",
+    "hp": 170,
+    "attack": 90,
+    "defense": 45,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 321,
+    "specialName": null,
+    "specialAbilities": [
+        "Water Veil",
+        "Oblivious"
+    ],
+    "hiddenAbility": "Pressure",
+    "specialAttack": 90,
+    "specialDefense": 45,
+    "catchRate": 60,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 175,
+    "growthRate": "Fluctuating",
+    "eggGroups": [
+        "Field",
+        "Water 2"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Growl": 1,
+        "Noble Roar": 1,
+        "Soak": 1,
+        "Splash": 1,
+        "Water Gun": 1,
+        "Mist": 15,
+        "Water Pulse": 18,
+        "Heavy Slam": 21,
+        "Brine": 24,
+        "Whirlpool": 27,
+        "Dive": 30,
+        "Bounce": 33,
+        "Body Slam": 36,
+        "Rest": 39,
+        "Amnesia": 44,
+        "Hydro Pump": 49,
+        "Water Spout": 54
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Roar": 5,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Earthquake": 26,
+        "Double Team": 32,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Scald": 49,
+        "Brine": 55,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Avalanche": 72,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Surf": 95,
+        "Strength": 96,
+        "Rock Smash": 98,
+        "Waterfall": 99
+    }
+}

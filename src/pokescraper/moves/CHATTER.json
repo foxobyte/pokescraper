@@ -1,0 +1,12 @@
+{
+    "name": "Chatter",
+    "category": "Special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 100,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "Confuses opponent.",
+    "isHighCrit": false
+}

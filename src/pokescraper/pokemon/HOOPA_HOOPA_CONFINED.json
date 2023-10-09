@@ -1,0 +1,58 @@
+{
+    "generation": 6,
+    "name": "Hoopa",
+    "species": "Mischief Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 80,
+    "attack": 110,
+    "defense": 60,
+    "speed": 70,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Psychic",
+        "Ghost"
+    ],
+    "nationalNumber": 720,
+    "specialName": "Hoopa Confined",
+    "specialAbilities": [
+        "Magician"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 150,
+    "specialDefense": 130,
+    "catchRate": 3,
+    "evYield": {
+        "Sp. Atk": 3
+    },
+    "baseFriendship": 100,
+    "baseExp": 300,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Ally Switch": 1,
+        "Confusion": 1,
+        "Destiny Bond": 1,
+        "Astonish": 6,
+        "Trick": 10,
+        "Light Screen": 15,
+        "Psybeam": 19,
+        "Skill Swap": 25,
+        "Guard Split": 29,
+        "Power Split": 29,
+        "Knock Off": 46,
+        "Trick Room": 50,
+        "Wonder Room": 50,
+        "Dark Pulse": 55,
+        "Psychic": 75,
+        "Hyperspace Fury": 85
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

@@ -1,0 +1,12 @@
+{
+    "name": "King's Shield",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Protects the user and lowers opponent's Attack on contact.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Skull Bash",
+    "category": "Physical",
+    "power": 130,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 100,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Raises Defense on first turn, attacks on second.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Fleur Cannon",
+    "category": "Special",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 5,
+    "probability": 100,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "Sharply lowers user's Special Attack.",
+    "isHighCrit": false
+}

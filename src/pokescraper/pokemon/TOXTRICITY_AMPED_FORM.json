@@ -1,0 +1,68 @@
+{
+    "generation": 8,
+    "name": "Toxtricity",
+    "species": "Punk Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 75,
+    "attack": 98,
+    "defense": 70,
+    "speed": 75,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric",
+        "Poison"
+    ],
+    "nationalNumber": 849,
+    "specialName": "Amped Form",
+    "specialAbilities": [
+        "Punk Rock",
+        "Plus"
+    ],
+    "hiddenAbility": "Technician",
+    "specialAttack": 114,
+    "specialDefense": 70,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 176,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Human-Like"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Acid": 1,
+        "Acid Spray": 1,
+        "Belch": 1,
+        "Flail": 1,
+        "Growl": 1,
+        "Leer": 1,
+        "Noble Roar": 1,
+        "Nuzzle": 1,
+        "Tearful Look": 1,
+        "Thunder Shock": 1,
+        "Charge": 4,
+        "Shock Wave": 8,
+        "Scary Face": 12,
+        "Taunt": 16,
+        "Screech": 24,
+        "Swagger": 28,
+        "Toxic": 32,
+        "Discharge": 36,
+        "Poison Jab": 40,
+        "Overdrive": 44,
+        "Boomburst": 48,
+        "Magnetic Flux": 52
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

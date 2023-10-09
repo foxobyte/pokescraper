@@ -1,0 +1,12 @@
+{
+    "name": "Make It Rain",
+    "category": "Special",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Lowers user's Special Attack. Money is earned after the battle.",
+    "isHighCrit": false
+}

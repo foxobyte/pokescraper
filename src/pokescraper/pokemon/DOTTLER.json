@@ -1,0 +1,76 @@
+{
+    "generation": 8,
+    "name": "Dottler",
+    "species": "Radome Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 50,
+    "attack": 35,
+    "defense": 80,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Psychic"
+    ],
+    "nationalNumber": 825,
+    "specialName": null,
+    "specialAbilities": [
+        "Swarm",
+        "Compound Eyes"
+    ],
+    "hiddenAbility": "Telepathy",
+    "specialAttack": 50,
+    "specialDefense": 90,
+    "catchRate": 120,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 117,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Confusion": 1,
+        "Light Screen": 1,
+        "Reflect": 1,
+        "Struggle Bug": 1
+    },
+    "movesLearnedOnEvolution": [
+        "Confusion",
+        "Light Screen",
+        "Reflect"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Expanding Force"
+    ],
+    "movesLearnedByTm": {
+        "Solar Beam": 11,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Imprison": 44,
+        "Payback": 57,
+        "Power Swap": 60,
+        "Guard Swap": 61,
+        "Trick Room": 70,
+        "Wonder Room": 71,
+        "Magic Room": 72,
+        "Round": 76,
+        "Psychic Terrain": 91
+    }
+}

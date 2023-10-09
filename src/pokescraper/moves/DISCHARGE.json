@@ -1,0 +1,12 @@
+{
+    "name": "Discharge",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 30,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "May paralyze opponent.",
+    "isHighCrit": false
+}

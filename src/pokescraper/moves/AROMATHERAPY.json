@@ -1,0 +1,12 @@
+{
+    "name": "Aromatherapy",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Cures all status problems in your party.",
+    "isHighCrit": false
+}

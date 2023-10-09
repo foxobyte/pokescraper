@@ -1,0 +1,12 @@
+{
+    "name": "Taunt",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Opponent can only use moves that attack.",
+    "isHighCrit": false
+}

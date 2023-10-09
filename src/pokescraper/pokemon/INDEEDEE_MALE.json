@@ -1,0 +1,58 @@
+{
+    "generation": 8,
+    "name": "Indeedee",
+    "species": "Emotion Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "0.9\u00a0m (2\u203211\u2033)",
+    "hp": 60,
+    "attack": 65,
+    "defense": 55,
+    "speed": 95,
+    "gender": {
+        "male": "100%",
+        "female": "0%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic",
+        "Normal"
+    ],
+    "nationalNumber": 876,
+    "specialName": "Male",
+    "specialAbilities": [
+        "Inner Focus",
+        "Synchronize"
+    ],
+    "hiddenAbility": "Psychic Surge",
+    "specialAttack": 105,
+    "specialDefense": 95,
+    "catchRate": 30,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 140,
+    "baseExp": 166,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Fairy"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Play Nice": 1,
+        "Stored Power": 1,
+        "Baton Pass": 5,
+        "Disarming Voice": 10,
+        "Psybeam": 15,
+        "Helping Hand": 20,
+        "Follow Me": 25,
+        "Healing Wish": 30,
+        "Psychic": 35,
+        "Calm Mind": 40,
+        "Guard Split": 45,
+        "Psychic Terrain": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

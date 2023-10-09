@@ -1,0 +1,89 @@
+{
+    "generation": 2,
+    "name": "Cyndaquil",
+    "species": "Fire Mouse Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "speed": 65,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire"
+    ],
+    "nationalNumber": 155,
+    "specialName": null,
+    "specialAbilities": [
+        "Blaze"
+    ],
+    "hiddenAbility": "Flash Fire",
+    "specialAttack": 60,
+    "specialDefense": 50,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 62,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Tackle": 1,
+        "Smokescreen": 6,
+        "Ember": 10,
+        "Quick Attack": 13,
+        "Flame Wheel": 19,
+        "Defense Curl": 22,
+        "Flame Charge": 28,
+        "Swift": 31,
+        "Lava Plume": 37,
+        "Flamethrower": 40,
+        "Inferno": 46,
+        "Rollout": 49,
+        "Double-Edge": 55,
+        "Overheat": 58,
+        "Eruption": 64
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Fire Spin": 24,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Swift": 32,
+        "Flame Charge": 38,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Dig": 55,
+        "Zen Headbutt": 59,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Iron Head": 99,
+        "Substitute": 103,
+        "Will-O-Wisp": 107,
+        "Heat Wave": 118,
+        "Flamethrower": 125,
+        "Play Rough": 127,
+        "Reversal": 134,
+        "Fire Blast": 141,
+        "Fire Pledge": 144,
+        "Wild Charge": 147,
+        "Overheat": 157,
+        "Flare Blitz": 165,
+        "Tera Blast": 171
+    }
+}

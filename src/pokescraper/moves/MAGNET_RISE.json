@@ -1,0 +1,12 @@
+{
+    "name": "Magnet Rise",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "User becomes immune to Ground-type moves for 5 turns.",
+    "isHighCrit": false
+}

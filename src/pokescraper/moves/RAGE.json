@@ -1,0 +1,12 @@
+{
+    "name": "Rage",
+    "category": "Physical",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Raises user's Attack when hit.",
+    "isHighCrit": false
+}

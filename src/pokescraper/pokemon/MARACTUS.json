@@ -1,0 +1,88 @@
+{
+    "generation": 5,
+    "name": "Maractus",
+    "species": "Cactus Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 75,
+    "attack": 86,
+    "defense": 67,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 556,
+    "specialName": null,
+    "specialAbilities": [
+        "Water Absorb",
+        "Chlorophyll"
+    ],
+    "hiddenAbility": "Storm Drain",
+    "specialAttack": 106,
+    "specialDefense": 67,
+    "catchRate": 255,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 161,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "After You": 1,
+        "Ingrain": 1,
+        "Peck": 1,
+        "Spiky Shield": 1,
+        "Growth": 4,
+        "Mega Drain": 8,
+        "Leech Seed": 12,
+        "Sucker Punch": 16,
+        "Pin Missile": 20,
+        "Giga Drain": 24,
+        "Sweet Scent": 28,
+        "Synthesis": 32,
+        "Petal Blizzard": 36,
+        "Cotton Spore": 40,
+        "Sunny Day": 44,
+        "Solar Beam": 48,
+        "Acupressure": 52,
+        "Petal Dance": 56,
+        "Cotton Guard": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Grassy Glide"
+    ],
+    "movesLearnedByTm": {
+        "Pin Missile": 7,
+        "Solar Beam": 11,
+        "Screech": 16,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Weather Ball": 46,
+        "Bullet Seed": 50,
+        "Bounce": 52,
+        "Assurance": 58,
+        "Drain Punch": 63,
+        "Round": 76,
+        "Grassy Terrain": 88
+    }
+}

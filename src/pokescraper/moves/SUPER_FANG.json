@@ -1,0 +1,12 @@
+{
+    "name": "Super Fang",
+    "category": "Physical",
+    "power": null,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Always takes off half of the opponent's HP.",
+    "isHighCrit": false
+}

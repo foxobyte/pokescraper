@@ -1,0 +1,93 @@
+{
+    "generation": 3,
+    "name": "Bagon",
+    "species": "Rock Head Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 45,
+    "attack": 75,
+    "defense": 60,
+    "speed": 50,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dragon"
+    ],
+    "nationalNumber": 371,
+    "specialName": null,
+    "specialAbilities": [
+        "Rock Head"
+    ],
+    "hiddenAbility": "Sheer Force",
+    "specialAttack": 40,
+    "specialDefense": 30,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 35,
+    "baseExp": 60,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Dragon"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Ember": 1,
+        "Leer": 1,
+        "Bite": 5,
+        "Dragon Breath": 10,
+        "Headbutt": 15,
+        "Scary Face": 20,
+        "Crunch": 25,
+        "Dragon Claw": 31,
+        "Zen Headbutt": 35,
+        "Focus Energy": 40,
+        "Flamethrower": 45,
+        "Outrage": 50,
+        "Double-Edge": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Thunder Fang": 9,
+        "Fire Spin": 24,
+        "Facade": 25,
+        "Rock Tomb": 36,
+        "Dragon Tail": 44,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Brick Break": 58,
+        "Zen Headbutt": 59,
+        "Shadow Claw": 61,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Dragon Claw": 78,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Iron Head": 99,
+        "Dragon Dance": 100,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Crunch": 108,
+        "Dragon Pulse": 115,
+        "Hyper Voice": 117,
+        "Flamethrower": 125,
+        "Helping Hand": 130,
+        "Fire Blast": 141,
+        "Hydro Pump": 142,
+        "Outrage": 156,
+        "Draco Meteor": 169,
+        "Tera Blast": 171
+    }
+}

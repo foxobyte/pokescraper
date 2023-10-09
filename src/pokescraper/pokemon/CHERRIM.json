@@ -1,0 +1,83 @@
+{
+    "generation": 4,
+    "name": "Cherrim",
+    "species": "Blossom Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 70,
+    "attack": 60,
+    "defense": 70,
+    "speed": 85,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 421,
+    "specialName": null,
+    "specialAbilities": [
+        "Flower Gift"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 87,
+    "specialDefense": 78,
+    "catchRate": 75,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 158,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Fairy",
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Flower Shield": 1,
+        "Growth": 1,
+        "Leafage": 1,
+        "Morning Sun": 1,
+        "Sunny Day": 1,
+        "Tackle": 1,
+        "Helping Hand": 15,
+        "Magical Leaf": 20,
+        "Leech Seed": 28,
+        "Take Down": 34,
+        "Petal Blizzard": 41,
+        "Worry Seed": 48,
+        "Solar Beam": 55,
+        "Petal Dance": 62
+    },
+    "movesLearnedOnEvolution": [
+        "Sunny Day"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Bullet Seed": 9,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Safeguard": 20,
+        "Dazzling Gleam": 21,
+        "Solar Beam": 22,
+        "Double Team": 32,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Energy Ball": 53,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90
+    }
+}

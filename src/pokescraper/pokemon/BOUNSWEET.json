@@ -1,0 +1,83 @@
+{
+    "generation": 7,
+    "name": "Bounsweet",
+    "species": "Fruit Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 42,
+    "attack": 30,
+    "defense": 38,
+    "speed": 32,
+    "gender": {
+        "male": "0%",
+        "female": "100%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 761,
+    "specialName": null,
+    "specialAbilities": [
+        "Leaf Guard",
+        "Oblivious"
+    ],
+    "hiddenAbility": "Sweet Veil",
+    "specialAttack": 30,
+    "specialDefense": 38,
+    "catchRate": 235,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 42,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Splash": 1,
+        "Play Nice": 4,
+        "Rapid Spin": 8,
+        "Razor Leaf": 12,
+        "Sweet Scent": 16,
+        "Magical Leaf": 20,
+        "Flail": 24,
+        "Teeter Dance": 28,
+        "Aromatic Mist": 32
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Protect": 7,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Swift": 32,
+        "Magical Leaf": 33,
+        "Draining Kiss": 37,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Bullet Seed": 56,
+        "Zen Headbutt": 59,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Dazzling Gleam": 79,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Substitute": 103,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Play Rough": 127,
+        "Helping Hand": 130,
+        "Grassy Terrain": 137,
+        "Leaf Storm": 159,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

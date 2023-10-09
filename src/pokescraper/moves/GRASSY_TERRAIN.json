@@ -1,0 +1,12 @@
+{
+    "name": "Grassy Terrain",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Restores a little HP of all Pok\u00e9mon for 5 turns. ",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Magnetic Flux",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "Raises Defense and Sp. Defense of Plus/Minus Pok\u00e9mon.",
+    "isHighCrit": false
+}

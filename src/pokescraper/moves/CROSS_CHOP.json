@@ -1,0 +1,12 @@
+{
+    "name": "Cross Chop",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 80,
+    "pp": 5,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "High critical hit ratio.",
+    "isHighCrit": true
+}

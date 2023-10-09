@@ -1,0 +1,89 @@
+{
+    "generation": 9,
+    "name": "Maschiff",
+    "species": "Rascal Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 60,
+    "attack": 78,
+    "defense": 60,
+    "speed": 51,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dark"
+    ],
+    "nationalNumber": 942,
+    "specialName": null,
+    "specialAbilities": [
+        "Intimidate",
+        "Run Away"
+    ],
+    "hiddenAbility": "Stakeout",
+    "specialAttack": 40,
+    "specialDefense": 51,
+    "catchRate": 150,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 68,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Scary Face": 1,
+        "Tackle": 1,
+        "Lick": 4,
+        "Snarl": 7,
+        "Hone Claws": 10,
+        "Bite": 14,
+        "Roar": 18,
+        "Headbutt": 22,
+        "Payback": 26,
+        "Crunch": 31,
+        "Swagger": 35,
+        "Reversal": 39,
+        "Jaw Lock": 43,
+        "Double-Edge": 49
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Fake Tears": 3,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Thunder Fang": 9,
+        "Ice Fang": 10,
+        "Thief": 18,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Snarl": 30,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Dig": 55,
+        "Psychic Fangs": 63,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Taunt": 87,
+        "Dark Pulse": 94,
+        "Substitute": 103,
+        "Crunch": 108,
+        "Play Rough": 127,
+        "Helping Hand": 130,
+        "Reversal": 134,
+        "Tera Blast": 171
+    }
+}

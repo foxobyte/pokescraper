@@ -1,0 +1,12 @@
+{
+    "name": "Shift Gear",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Raises user's Attack and sharply raises Speed.",
+    "isHighCrit": false
+}

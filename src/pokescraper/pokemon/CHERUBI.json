@@ -1,0 +1,76 @@
+{
+    "generation": 4,
+    "name": "Cherubi",
+    "species": "Cherry Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 45,
+    "attack": 35,
+    "defense": 45,
+    "speed": 35,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 420,
+    "specialName": null,
+    "specialAbilities": [
+        "Chlorophyll"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 62,
+    "specialDefense": 53,
+    "catchRate": 190,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 55,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Fairy",
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Morning Sun": 1,
+        "Tackle": 1,
+        "Leafage": 5,
+        "Growth": 10,
+        "Helping Hand": 15,
+        "Magical Leaf": 20,
+        "Leech Seed": 26,
+        "Take Down": 30,
+        "Petal Blizzard": 35,
+        "Worry Seed": 40,
+        "Solar Beam": 45
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Bullet Seed": 9,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Safeguard": 20,
+        "Dazzling Gleam": 21,
+        "Solar Beam": 22,
+        "Double Team": 32,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Energy Ball": 53,
+        "Endure": 58,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "generation": 9,
+    "name": "Varoom",
+    "species": "Single-Cyl Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 45,
+    "attack": 70,
+    "defense": 63,
+    "speed": 47,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Steel",
+        "Poison"
+    ],
+    "nationalNumber": 965,
+    "specialName": null,
+    "specialAbilities": [
+        "Overcoat"
+    ],
+    "hiddenAbility": "Slow Start",
+    "specialAttack": 30,
+    "specialDefense": 45,
+    "catchRate": 190,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 60,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Lick": 1,
+        "Poison Gas": 1,
+        "Smog": 4,
+        "Taunt": 7,
+        "Assurance": 10,
+        "Sludge": 13,
+        "Gyro Ball": 17,
+        "Headbutt": 21,
+        "Screech": 25,
+        "Iron Head": 28,
+        "Swagger": 32,
+        "Poison Jab": 36,
+        "Uproar": 41,
+        "Spin Out": 46,
+        "Gunk Shot": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Acid Spray": 13,
+        "Thief": 18,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Venoshock": 45,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Sandstorm": 51,
+        "Zen Headbutt": 59,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Poison Jab": 83,
+        "Taunt": 87,
+        "Toxic Spikes": 91,
+        "Flash Cannon": 93,
+        "Iron Head": 99,
+        "Gunk Shot": 102,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Sludge Bomb": 148,
+        "Steel Beam": 170,
+        "Tera Blast": 171
+    }
+}

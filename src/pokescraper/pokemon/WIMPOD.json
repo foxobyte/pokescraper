@@ -1,0 +1,64 @@
+{
+    "generation": 7,
+    "name": "Wimpod",
+    "species": "Turn Tail Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 25,
+    "attack": 35,
+    "defense": 40,
+    "speed": 80,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Water"
+    ],
+    "nationalNumber": 767,
+    "specialName": null,
+    "specialAbilities": [
+        "Wimp Out"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 20,
+    "specialDefense": 30,
+    "catchRate": 90,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 46,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug",
+        "Water 3"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Defense Curl": 1,
+        "Sand Attack": 1,
+        "Struggle Bug": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Screech": 16,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Facade": 39,
+        "Swift": 40,
+        "Mud Shot": 53,
+        "Assurance": 58,
+        "Round": 76
+    }
+}

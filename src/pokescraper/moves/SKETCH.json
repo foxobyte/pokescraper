@@ -1,0 +1,12 @@
+{
+    "name": "Sketch",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Permanently copies the opponent's last move.",
+    "isHighCrit": false
+}

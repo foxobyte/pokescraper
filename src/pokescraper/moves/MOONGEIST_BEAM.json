@@ -1,0 +1,12 @@
+{
+    "name": "Moongeist Beam",
+    "category": "Special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "Ignores the target's ability.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Celebrate",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "The Pok\u00e9mon congratulates you on your special day. No battle effect.",
+    "isHighCrit": false
+}

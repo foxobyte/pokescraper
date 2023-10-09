@@ -1,0 +1,93 @@
+{
+    "generation": 1,
+    "name": "Pidgeotto",
+    "species": "Bird Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 63,
+    "attack": 60,
+    "defense": 55,
+    "speed": 71,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {
+        "PIDGEOT": {
+            "level": 36,
+            "time": null,
+            "heldItem": null,
+            "usedItem": null,
+            "hasPokemon": null,
+            "highFriendship": null,
+            "needsTrade": null,
+            "usedMove": null,
+            "learnedMove": null
+        }
+    },
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 17,
+    "specialName": null,
+    "specialAbilities": [
+        "Keen Eye",
+        "Tangled Feet"
+    ],
+    "hiddenAbility": "Big Pecks",
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "catchRate": 120,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 122,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Gust": 9,
+        "Sand Attack": 5,
+        "Tackle": 1,
+        "Quick Attack": 13,
+        "Whirlwind": 17,
+        "Twister": 22,
+        "Feather Dance": 27,
+        "Agility": 32,
+        "Wing Attack": 37,
+        "Roost": 42,
+        "Tailwind": 47,
+        "Aerial Ace": 52,
+        "Air Slash": 57,
+        "Hurricane": 62
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Double Team": 32,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Steel Wing": 47,
+        "Roost": 51,
+        "Endure": 58,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Pluck": 88,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Fly": 94,
+        "Defog": 97
+    }
+}

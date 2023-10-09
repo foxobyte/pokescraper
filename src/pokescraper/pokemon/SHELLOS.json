@@ -1,0 +1,89 @@
+{
+    "generation": 4,
+    "name": "Shellos",
+    "species": "Sea Slug Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 76,
+    "attack": 48,
+    "defense": 48,
+    "speed": 34,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 422,
+    "specialName": null,
+    "specialAbilities": [
+        "Sticky Hold",
+        "Storm Drain"
+    ],
+    "hiddenAbility": "Sand Force",
+    "specialAttack": 57,
+    "specialDefense": 62,
+    "catchRate": 190,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 65,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Mud-Slap": 1,
+        "Water Gun": 1,
+        "Harden": 5,
+        "Recover": 10,
+        "Water Pulse": 15,
+        "Ancient Power": 20,
+        "Body Slam": 25,
+        "Muddy Water": 31,
+        "Earth Power": 35,
+        "Rain Dance": 40,
+        "Memento": 45
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Icy Wind": 34,
+        "Mud Shot": 35,
+        "Rock Tomb": 36,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Sandstorm": 51,
+        "Snowscape": 52,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Waterfall": 77,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Substitute": 103,
+        "Liquidation": 110,
+        "Stealth Rock": 116,
+        "Surf": 123,
+        "Amnesia": 128,
+        "Helping Hand": 130,
+        "Earth Power": 133,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Stone Edge": 150,
+        "Tera Blast": 171
+    }
+}

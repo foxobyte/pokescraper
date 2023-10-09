@@ -1,0 +1,81 @@
+{
+    "generation": 5,
+    "name": "Bouffalant",
+    "species": "Bash Buffalo Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 95,
+    "attack": 110,
+    "defense": 95,
+    "speed": 55,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 626,
+    "specialName": null,
+    "specialAbilities": [
+        "Reckless",
+        "Sap Sipper"
+    ],
+    "hiddenAbility": "Soundproof",
+    "specialAttack": 40,
+    "specialDefense": 95,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 172,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Tackle": 1,
+        "Focus Energy": 5,
+        "Fury Attack": 10,
+        "Revenge": 15,
+        "Scary Face": 20,
+        "Horn Attack": 25,
+        "Reversal": 30,
+        "Throat Chop": 35,
+        "Head Charge": 40,
+        "Swords Dance": 45,
+        "Megahorn": 50,
+        "Giga Impact": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Lash Out"
+    ],
+    "movesLearnedByTm": {
+        "Giga Impact": 9,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Revenge": 42,
+        "Rock Tomb": 48,
+        "Mud Shot": 53,
+        "Payback": 57,
+        "Assurance": 58,
+        "Round": 76,
+        "Retaliate": 79,
+        "Bulldoze": 81,
+        "Smart Strike": 96,
+        "Stomping Tantrum": 98
+    }
+}

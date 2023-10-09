@@ -1,0 +1,12 @@
+{
+    "name": "Body Slam",
+    "category": "Physical",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 30,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "May paralyze opponent.",
+    "isHighCrit": false
+}

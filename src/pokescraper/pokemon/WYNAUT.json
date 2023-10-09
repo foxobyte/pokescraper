@@ -1,0 +1,54 @@
+{
+    "generation": 3,
+    "name": "Wynaut",
+    "species": "Bright Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 95,
+    "attack": 23,
+    "defense": 48,
+    "speed": 23,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic"
+    ],
+    "nationalNumber": 360,
+    "specialName": null,
+    "specialAbilities": [
+        "Shadow Tag"
+    ],
+    "hiddenAbility": "Telepathy",
+    "specialAttack": 23,
+    "specialDefense": 48,
+    "catchRate": 125,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 52,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Amnesia": 1,
+        "Charm": 1,
+        "Counter": 1,
+        "Destiny Bond": 1,
+        "Encore": 1,
+        "Mirror Coat": 1,
+        "Safeguard": 1,
+        "Splash": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Safeguard": 20
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Powder Snow",
+    "category": "Special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 25,
+    "probability": 10,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "May freeze opponent.",
+    "isHighCrit": false
+}

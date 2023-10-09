@@ -1,0 +1,87 @@
+{
+    "generation": 5,
+    "name": "Beheeyem",
+    "species": "Cerebral Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 75,
+    "attack": 75,
+    "defense": 75,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic"
+    ],
+    "nationalNumber": 606,
+    "specialName": null,
+    "specialAbilities": [
+        "Telepathy",
+        "Synchronize"
+    ],
+    "hiddenAbility": "Analytic",
+    "specialAttack": 125,
+    "specialDefense": 95,
+    "catchRate": 90,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 170,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Human-Like"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Confusion": 1,
+        "Growl": 1,
+        "Imprison": 1,
+        "Psychic Terrain": 1,
+        "Teleport": 1,
+        "Psybeam": 18,
+        "Guard Split": 24,
+        "Power Split": 24,
+        "Headbutt": 30,
+        "Zen Headbutt": 36,
+        "Recover": 45,
+        "Calm Mind": 52,
+        "Wonder Room": 60,
+        "Psychic": 68
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Expanding Force",
+        "Meteor Beam"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Screech": 16,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Steel Wing": 30,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Imprison": 44,
+        "Rock Tomb": 48,
+        "Power Swap": 60,
+        "Guard Swap": 61,
+        "Trick Room": 70,
+        "Wonder Room": 71,
+        "Round": 76,
+        "Psychic Terrain": 91
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "generation": 5,
+    "name": "Druddigon",
+    "species": "Cave Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 77,
+    "attack": 120,
+    "defense": 90,
+    "speed": 48,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dragon"
+    ],
+    "nationalNumber": 621,
+    "specialName": null,
+    "specialAbilities": [
+        "Rough Skin",
+        "Sheer Force"
+    ],
+    "hiddenAbility": "Mold Breaker",
+    "specialAttack": 60,
+    "specialDefense": 90,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 170,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Dragon",
+        "Monster"
+    ],
+    "eggCycles": 30,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Scratch": 1,
+        "Bite": 5,
+        "Dragon Tail": 10,
+        "Metal Claw": 15,
+        "Scary Face": 20,
+        "Slash": 25,
+        "Dragon Claw": 30,
+        "Hone Claws": 35,
+        "Crunch": 40,
+        "Iron Head": 45,
+        "Outrage": 50,
+        "Superpower": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Dual Wingbeat",
+        "Lash Out",
+        "Scale Shot"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Fire Punch": 3,
+        "Thunder Punch": 5,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Revenge": 42,
+        "Rock Tomb": 48,
+        "Payback": 57,
+        "Fling": 59,
+        "Shadow Claw": 65,
+        "Thunder Fang": 66,
+        "Fire Fang": 68,
+        "Round": 76,
+        "Retaliate": 79,
+        "Bulldoze": 81,
+        "Snarl": 85,
+        "Stomping Tantrum": 98
+    }
+}

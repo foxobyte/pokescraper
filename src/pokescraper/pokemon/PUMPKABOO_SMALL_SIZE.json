@@ -1,0 +1,84 @@
+{
+    "generation": 6,
+    "name": "Pumpkaboo",
+    "species": "Pumpkin Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 44,
+    "attack": 66,
+    "defense": 70,
+    "speed": 56,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ghost",
+        "Grass"
+    ],
+    "nationalNumber": 710,
+    "specialName": "Small Size",
+    "specialAbilities": [
+        "Pickup",
+        "Frisk"
+    ],
+    "hiddenAbility": "Insomnia",
+    "specialAttack": 44,
+    "specialDefense": 55,
+    "catchRate": 120,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 67,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Trick-or-Treat": 36,
+        "Shadow Sneak": 4,
+        "Confuse Ray": 8,
+        "Razor Leaf": 12,
+        "Leech Seed": 16,
+        "Bullet Seed": 20,
+        "Scary Face": 24,
+        "Worry Seed": 28,
+        "Seed Bomb": 32,
+        "Shadow Ball": 36,
+        "Trick": 40,
+        "Pain Split": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Grassy Glide",
+        "Poltergeist",
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Solar Beam": 11,
+        "Light Screen": 17,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Sunny Day": 34,
+        "Will-O-Wisp": 38,
+        "Facade": 39,
+        "Imprison": 44,
+        "Bullet Seed": 50,
+        "Trick Room": 70,
+        "Round": 76,
+        "Hex": 77,
+        "Mystical Fire": 92
+    }
+}

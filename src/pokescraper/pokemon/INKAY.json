@@ -1,0 +1,85 @@
+{
+    "generation": 6,
+    "name": "Inkay",
+    "species": "Revolving Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 53,
+    "attack": 54,
+    "defense": 53,
+    "speed": 45,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dark",
+        "Psychic"
+    ],
+    "nationalNumber": 686,
+    "specialName": null,
+    "specialAbilities": [
+        "Contrary",
+        "Suction Cups"
+    ],
+    "hiddenAbility": "Infiltrator",
+    "specialAttack": 37,
+    "specialDefense": 46,
+    "catchRate": 190,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 58,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 1",
+        "Water 2"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Peck": 1,
+        "Tackle": 1,
+        "Hypnosis": 3,
+        "Wrap": 6,
+        "Payback": 9,
+        "Pluck": 12,
+        "Psybeam": 15,
+        "Swagger": 18,
+        "Slash": 21,
+        "Night Slash": 24,
+        "Psycho Cut": 27,
+        "Switcheroo": 31,
+        "Foul Play": 33,
+        "Topsy-Turvy": 36,
+        "Superpower": 39
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Expanding Force",
+        "Lash Out"
+    ],
+    "movesLearnedByTm": {
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Fake Tears": 47,
+        "Payback": 57,
+        "Fling": 59,
+        "Guard Swap": 61,
+        "Psycho Cut": 69,
+        "Trick Room": 70,
+        "Round": 76,
+        "Retaliate": 79
+    }
+}

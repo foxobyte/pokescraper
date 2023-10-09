@@ -1,0 +1,65 @@
+{
+    "generation": 1,
+    "name": "Slowbro",
+    "species": "Hermit Crab Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 95,
+    "attack": 100,
+    "defense": 95,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Poison",
+        "Psychic"
+    ],
+    "nationalNumber": 80,
+    "specialName": "Galarian Slowbro",
+    "specialAbilities": [
+        "Quick Draw",
+        "Own Tempo"
+    ],
+    "hiddenAbility": "Regenerator",
+    "specialAttack": 100,
+    "specialDefense": 70,
+    "catchRate": 75,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 172,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Monster",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Acid": 1,
+        "Curse": 1,
+        "Growl": 1,
+        "Tackle": 1,
+        "Withdraw": 1,
+        "Yawn": 9,
+        "Confusion": 12,
+        "Disable": 15,
+        "Water Pulse": 18,
+        "Headbutt": 21,
+        "Zen Headbutt": 24,
+        "Amnesia": 27,
+        "Surf": 30,
+        "Slack Off": 33,
+        "Psychic": 36,
+        "Psych Up": 39,
+        "Rain Dance": 42,
+        "Heal Pulse": 45
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

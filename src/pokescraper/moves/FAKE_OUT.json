@@ -1,0 +1,12 @@
+{
+    "name": "Fake Out",
+    "category": "Physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 100,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User attacks first, foe flinches. Only usable on first turn.",
+    "isHighCrit": false
+}

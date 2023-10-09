@@ -1,0 +1,12 @@
+{
+    "name": "Refresh",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Cures paralysis, poison, and burns.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Luster Purge",
+    "category": "Special",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": 50,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "May lower opponent's Special Defense.",
+    "isHighCrit": false
+}

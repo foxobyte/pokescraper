@@ -1,0 +1,12 @@
+{
+    "name": "Rock Wrecker",
+    "category": "Physical",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "probability": null,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "User must recharge next turn.",
+    "isHighCrit": false
+}

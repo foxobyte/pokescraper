@@ -1,0 +1,58 @@
+{
+    "generation": 1,
+    "name": "Moltres",
+    "species": "Malevolent Pok\u00e9mon",
+    "height": "2.0\u00a0m (6\u203207\u2033)",
+    "weight": "2.0\u00a0m (6\u203207\u2033)",
+    "hp": 90,
+    "attack": 85,
+    "defense": 90,
+    "speed": 90,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Dark",
+        "Flying"
+    ],
+    "nationalNumber": 146,
+    "specialName": "Galarian Moltres",
+    "specialAbilities": [
+        "Berserk"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 100,
+    "specialDefense": 125,
+    "catchRate": 3,
+    "evYield": {
+        "Sp. Def": 3
+    },
+    "baseFriendship": 35,
+    "baseExp": 290,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Gust": 1,
+        "Leer": 1,
+        "Payback": 5,
+        "Safeguard": 10,
+        "Wing Attack": 15,
+        "Agility": 20,
+        "Ancient Power": 25,
+        "Sucker Punch": 30,
+        "Air Slash": 35,
+        "After You": 40,
+        "Fiery Wrath": 45,
+        "Nasty Plot": 50,
+        "Hurricane": 55,
+        "Endure": 60,
+        "Memento": 65,
+        "Sky Attack": 70
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

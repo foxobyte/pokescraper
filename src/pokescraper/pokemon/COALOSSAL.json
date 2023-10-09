@@ -1,0 +1,100 @@
+{
+    "generation": 8,
+    "name": "Coalossal",
+    "species": "Coal Pok\u00e9mon",
+    "height": "2.8\u00a0m (9\u203202\u2033)",
+    "weight": "2.8\u00a0m (9\u203202\u2033)",
+    "hp": 110,
+    "attack": 80,
+    "defense": 120,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Fire"
+    ],
+    "nationalNumber": 839,
+    "specialName": null,
+    "specialAbilities": [
+        "Steam Engine",
+        "Flame Body"
+    ],
+    "hiddenAbility": "Flash Fire",
+    "specialAttack": 80,
+    "specialDefense": 90,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 255,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Flame Charge": 1,
+        "Rapid Spin": 1,
+        "Smack Down": 1,
+        "Smokescreen": 1,
+        "Tackle": 1,
+        "Rock Polish": 15,
+        "Ancient Power": 20,
+        "Incinerate": 27,
+        "Stealth Rock": 37,
+        "Heat Crash": 45,
+        "Rock Blast": 54,
+        "Stone Edge": 63
+    },
+    "movesLearnedOnEvolution": [
+        "Tar Shot"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Fire Spin": 24,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Rock Tomb": 36,
+        "Flame Charge": 38,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Sandstorm": 51,
+        "Dig": 55,
+        "Body Slam": 66,
+        "Fire Punch": 67,
+        "Sleep Talk": 70,
+        "Reflect": 74,
+        "Rock Blast": 76,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Body Press": 89,
+        "Spikes": 90,
+        "Iron Head": 99,
+        "Power Gem": 101,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Will-O-Wisp": 107,
+        "Stealth Rock": 116,
+        "Heat Wave": 118,
+        "Heavy Slam": 121,
+        "Flamethrower": 125,
+        "Earth Power": 133,
+        "Fire Blast": 141,
+        "Earthquake": 149,
+        "Stone Edge": 150,
+        "Giga Impact": 152,
+        "Overheat": 157,
+        "Hyper Beam": 163,
+        "Flare Blitz": 165,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

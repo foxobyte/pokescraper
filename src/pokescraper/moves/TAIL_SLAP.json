@@ -1,0 +1,12 @@
+{
+    "name": "Tail Slap",
+    "category": "Physical",
+    "power": 25,
+    "accuracy": 85,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Hits 2-5 times in one turn.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Fusion Bolt",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "Power increases if Fusion Flare is used in the same turn.",
+    "isHighCrit": false
+}

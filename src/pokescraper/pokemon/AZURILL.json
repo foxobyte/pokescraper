@@ -1,0 +1,79 @@
+{
+    "generation": 3,
+    "name": "Azurill",
+    "species": "Polka Dot Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.2\u00a0m (0\u203208\u2033)",
+    "hp": 50,
+    "attack": 20,
+    "defense": 40,
+    "speed": 20,
+    "gender": {
+        "male": "25%",
+        "female": "75%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Fairy"
+    ],
+    "nationalNumber": 298,
+    "specialName": null,
+    "specialAbilities": [
+        "Thick Fat",
+        "Huge Power"
+    ],
+    "hiddenAbility": "Sap Sipper",
+    "specialAttack": 20,
+    "specialDefense": 40,
+    "catchRate": 150,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 38,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 10,
+    "movesLearnedAtLevel": {
+        "Splash": 1,
+        "Tail Whip": 1,
+        "Water Gun": 1,
+        "Helping Hand": 3,
+        "Bubble Beam": 6,
+        "Charm": 9,
+        "Slam": 12,
+        "Bounce": 15
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Fake Tears": 3,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Facade": 25,
+        "Icy Wind": 34,
+        "Mud Shot": 35,
+        "Draining Kiss": 37,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Light Screen": 75,
+        "Waterfall": 77,
+        "Rest": 85,
+        "Substitute": 103,
+        "Hyper Voice": 117,
+        "Encore": 122,
+        "Surf": 123,
+        "Helping Hand": 130,
+        "Ice Beam": 135,
+        "Blizzard": 143,
+        "Tera Blast": 171
+    }
+}

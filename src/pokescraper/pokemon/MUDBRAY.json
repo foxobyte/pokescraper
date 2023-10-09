@@ -1,0 +1,85 @@
+{
+    "generation": 7,
+    "name": "Mudbray",
+    "species": "Donkey Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 70,
+    "attack": 100,
+    "defense": 70,
+    "speed": 45,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ground"
+    ],
+    "nationalNumber": 749,
+    "specialName": null,
+    "specialAbilities": [
+        "Own Tempo",
+        "Stamina"
+    ],
+    "hiddenAbility": "Inner Focus",
+    "specialAttack": 45,
+    "specialDefense": 55,
+    "catchRate": 190,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 77,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Mud-Slap": 1,
+        "Rock Smash": 1,
+        "Iron Defense": 4,
+        "Double Kick": 8,
+        "Bulldoze": 12,
+        "Stomp": 16,
+        "Strength": 20,
+        "Counter": 24,
+        "High Horsepower": 28,
+        "Heavy Slam": 32,
+        "Earthquake": 36,
+        "Mega Kick": 40,
+        "Superpower": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Low Kick": 12,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Rock Tomb": 36,
+        "Low Sweep": 39,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Sandstorm": 51,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Iron Head": 99,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Stealth Rock": 116,
+        "Heavy Slam": 121,
+        "Earth Power": 133,
+        "Earthquake": 149,
+        "Stone Edge": 150,
+        "Close Combat": 167,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "generation": 2,
+    "name": "Chikorita",
+    "species": "Leaf Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "0.9\u00a0m (2\u203211\u2033)",
+    "hp": 45,
+    "attack": 49,
+    "defense": 65,
+    "speed": 45,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 152,
+    "specialName": null,
+    "specialAbilities": [
+        "Overgrow"
+    ],
+    "hiddenAbility": "Leaf Guard",
+    "specialAttack": 49,
+    "specialDefense": 65,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 64,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Grass",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Tackle": 1,
+        "Razor Leaf": 6,
+        "Poison Powder": 9,
+        "Synthesis": 12,
+        "Reflect": 17,
+        "Magical Leaf": 20,
+        "Nature Power": 23,
+        "Sweet Scent": 28,
+        "Light Screen": 31,
+        "Body Slam": 34,
+        "Safeguard": 39,
+        "Aromatherapy": 42,
+        "Solar Beam": 45
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Bullet Seed": 9,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Safeguard": 20,
+        "Solar Beam": 22,
+        "Iron Tail": 23,
+        "Double Team": 32,
+        "Reflect": 33,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Energy Ball": 53,
+        "Endure": 58,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93
+    }
+}

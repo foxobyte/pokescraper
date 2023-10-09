@@ -1,0 +1,90 @@
+{
+    "generation": 2,
+    "name": "Shuckle",
+    "species": "Mold Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 20,
+    "attack": 10,
+    "defense": 230,
+    "speed": 5,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Rock"
+    ],
+    "nationalNumber": 213,
+    "specialName": null,
+    "specialAbilities": [
+        "Sturdy",
+        "Gluttony"
+    ],
+    "hiddenAbility": "Contrary",
+    "specialAttack": 10,
+    "specialDefense": 230,
+    "catchRate": 190,
+    "evYield": {
+        "Defense": 1,
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 177,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Withdraw": 1,
+        "Wrap": 1,
+        "Rollout": 5,
+        "Struggle Bug": 10,
+        "Rock Throw": 15,
+        "Safeguard": 20,
+        "Rest": 25,
+        "Bug Bite": 30,
+        "Guard Split": 35,
+        "Power Split": 35,
+        "Rock Slide": 40,
+        "Gastro Acid": 45,
+        "Sticky Web": 50,
+        "Power Trick": 55,
+        "Stone Edge": 60,
+        "Shell Smash": 65
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Toxic": 6,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Safeguard": 20,
+        "Earthquake": 26,
+        "Dig": 28,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Sandstorm": 37,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Endure": 58,
+        "Rock Polish": 69,
+        "Flash": 70,
+        "Stone Edge": 71,
+        "Gyro Ball": 74,
+        "Stealth Rock": 76,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

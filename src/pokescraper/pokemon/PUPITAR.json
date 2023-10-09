@@ -1,0 +1,102 @@
+{
+    "generation": 2,
+    "name": "Pupitar",
+    "species": "Hard Shell Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 70,
+    "attack": 84,
+    "defense": 70,
+    "speed": 51,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Ground"
+    ],
+    "nationalNumber": 247,
+    "specialName": null,
+    "specialAbilities": [
+        "Shed Skin"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 65,
+    "specialDefense": 70,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 35,
+    "baseExp": 144,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Monster"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Payback": 1,
+        "Rock Throw": 1,
+        "Tackle": 1,
+        "Bite": 9,
+        "Scary Face": 12,
+        "Rock Slide": 15,
+        "Stomping Tantrum": 18,
+        "Screech": 21,
+        "Smack Down": 24,
+        "Crunch": 27,
+        "Earthquake": 33,
+        "Stone Edge": 37,
+        "Thrash": 42,
+        "Sandstorm": 47,
+        "Hyper Beam": 52
+    },
+    "movesLearnedOnEvolution": [
+        "Iron Defense"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Bulldoze": 28,
+        "Snarl": 30,
+        "Mud Shot": 35,
+        "Rock Tomb": 36,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Sandstorm": 51,
+        "Dig": 55,
+        "Brick Break": 58,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Rock Blast": 76,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Taunt": 87,
+        "Dark Pulse": 94,
+        "Iron Head": 99,
+        "Dragon Dance": 100,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Crunch": 108,
+        "Stealth Rock": 116,
+        "Helping Hand": 130,
+        "Earth Power": 133,
+        "Earthquake": 149,
+        "Stone Edge": 150,
+        "Giga Impact": 152,
+        "Outrage": 156,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

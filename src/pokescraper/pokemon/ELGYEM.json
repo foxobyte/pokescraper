@@ -1,0 +1,83 @@
+{
+    "generation": 5,
+    "name": "Elgyem",
+    "species": "Cerebral Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 55,
+    "attack": 55,
+    "defense": 55,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic"
+    ],
+    "nationalNumber": 605,
+    "specialName": null,
+    "specialAbilities": [
+        "Telepathy",
+        "Synchronize"
+    ],
+    "hiddenAbility": "Analytic",
+    "specialAttack": 85,
+    "specialDefense": 55,
+    "catchRate": 255,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 67,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Human-Like"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Confusion": 1,
+        "Growl": 1,
+        "Imprison": 6,
+        "Teleport": 12,
+        "Psybeam": 18,
+        "Guard Split": 24,
+        "Power Split": 24,
+        "Headbutt": 30,
+        "Zen Headbutt": 36,
+        "Recover": 43,
+        "Calm Mind": 48,
+        "Wonder Room": 54,
+        "Psychic": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Expanding Force",
+        "Meteor Beam"
+    ],
+    "movesLearnedByTm": {
+        "Thunder Wave": 14,
+        "Screech": 16,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Steel Wing": 30,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Imprison": 44,
+        "Rock Tomb": 48,
+        "Power Swap": 60,
+        "Guard Swap": 61,
+        "Trick Room": 70,
+        "Wonder Room": 71,
+        "Round": 76
+    }
+}

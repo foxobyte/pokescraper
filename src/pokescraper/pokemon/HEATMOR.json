@@ -1,0 +1,88 @@
+{
+    "generation": 5,
+    "name": "Heatmor",
+    "species": "Anteater Pok\u00e9mon",
+    "height": "1.4\u00a0m (4\u203207\u2033)",
+    "weight": "1.4\u00a0m (4\u203207\u2033)",
+    "hp": 85,
+    "attack": 97,
+    "defense": 66,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire"
+    ],
+    "nationalNumber": 631,
+    "specialName": null,
+    "specialAbilities": [
+        "Gluttony",
+        "Flash Fire"
+    ],
+    "hiddenAbility": "White Smoke",
+    "specialAttack": 105,
+    "specialDefense": 66,
+    "catchRate": 90,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 169,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Lick": 1,
+        "Tackle": 1,
+        "Fury Swipes": 5,
+        "Incinerate": 10,
+        "Bug Bite": 15,
+        "Spit Up": 20,
+        "Stockpile": 20,
+        "Swallow": 20,
+        "Slash": 25,
+        "Bind": 30,
+        "Fire Lash": 35,
+        "Hone Claws": 40,
+        "Amnesia": 45,
+        "Fire Spin": 50,
+        "Inferno": 55,
+        "Flare Blitz": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Burning Jealousy",
+        "Scorching Sands"
+    ],
+    "movesLearnedByTm": {
+        "Fire Punch": 3,
+        "Thunder Punch": 5,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Fire Spin": 13,
+        "Dig": 15,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Will-O-Wisp": 38,
+        "Facade": 39,
+        "Rock Tomb": 48,
+        "Fling": 59,
+        "Drain Punch": 63,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Brutal Swing": 97,
+        "Stomping Tantrum": 98
+    }
+}

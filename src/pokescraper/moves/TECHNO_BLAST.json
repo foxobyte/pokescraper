@@ -1,0 +1,12 @@
+{
+    "name": "Techno Blast",
+    "category": "Special",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Type depends on the Drive being held.",
+    "isHighCrit": false
+}

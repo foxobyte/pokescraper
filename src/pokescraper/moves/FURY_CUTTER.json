@@ -1,0 +1,12 @@
+{
+    "name": "Fury Cutter",
+    "category": "Physical",
+    "power": 40,
+    "accuracy": 95,
+    "pp": 20,
+    "probability": null,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "Power increases each turn.",
+    "isHighCrit": false
+}

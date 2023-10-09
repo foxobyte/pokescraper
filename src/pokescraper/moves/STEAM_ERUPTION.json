@@ -1,0 +1,12 @@
+{
+    "name": "Steam Eruption",
+    "category": "Special",
+    "power": 110,
+    "accuracy": 95,
+    "pp": 5,
+    "probability": 30,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "May burn opponent.",
+    "isHighCrit": false
+}

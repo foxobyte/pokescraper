@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "name": "Roggenrola",
+    "species": "Mantle Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 55,
+    "attack": 75,
+    "defense": 85,
+    "speed": 15,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock"
+    ],
+    "nationalNumber": 524,
+    "specialName": null,
+    "specialAbilities": [
+        "Sturdy",
+        "Weak Armor"
+    ],
+    "hiddenAbility": "Sand Force",
+    "specialAttack": 25,
+    "specialDefense": 25,
+    "catchRate": 255,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 56,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Sand Attack": 1,
+        "Tackle": 1,
+        "Harden": 4,
+        "Stealth Rock": 8,
+        "Mud-Slap": 12,
+        "Smack Down": 16,
+        "Iron Defense": 20,
+        "Headbutt": 24,
+        "Rock Slide": 28,
+        "Rock Blast": 32,
+        "Sandstorm": 36,
+        "Stone Edge": 40,
+        "Explosion": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Meteor Beam"
+    ],
+    "movesLearnedByTm": {
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Facade": 39,
+        "Rock Tomb": 48,
+        "Sand Tomb": 49,
+        "Rock Blast": 54,
+        "Round": 76,
+        "Bulldoze": 81
+    }
+}

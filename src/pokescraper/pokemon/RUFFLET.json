@@ -1,0 +1,92 @@
+{
+    "generation": 5,
+    "name": "Rufflet",
+    "species": "Eaglet Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 70,
+    "attack": 83,
+    "defense": 50,
+    "speed": 60,
+    "gender": {
+        "male": "100%",
+        "female": "0%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 627,
+    "specialName": null,
+    "specialAbilities": [
+        "Keen Eye",
+        "Sheer Force"
+    ],
+    "hiddenAbility": "Hustle",
+    "specialAttack": 37,
+    "specialDefense": 50,
+    "catchRate": 190,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 70,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Peck": 1,
+        "Hone Claws": 6,
+        "Wing Attack": 12,
+        "Tailwind": 18,
+        "Scary Face": 24,
+        "Aerial Ace": 30,
+        "Slash": 36,
+        "Whirlwind": 42,
+        "Crush Claw": 48,
+        "Air Slash": 55,
+        "Defog": 60,
+        "Thrash": 66,
+        "Brave Bird": 72
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Acrobatics": 14,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Swift": 32,
+        "Rock Tomb": 36,
+        "Air Cutter": 40,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Zen Headbutt": 59,
+        "U-turn": 60,
+        "Shadow Claw": 61,
+        "Bulk Up": 64,
+        "Air Slash": 65,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Fly": 97,
+        "Substitute": 103,
+        "Tailwind": 113,
+        "Heat Wave": 118,
+        "Helping Hand": 130,
+        "Hurricane": 160,
+        "Brave Bird": 164,
+        "Close Combat": 167,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Bubble Beam",
+    "category": "Special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 10,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "May lower opponent's Speed.",
+    "isHighCrit": false
+}

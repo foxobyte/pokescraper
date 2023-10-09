@@ -1,0 +1,12 @@
+{
+    "name": "Jet Punch",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Always goes first.",
+    "isHighCrit": false
+}

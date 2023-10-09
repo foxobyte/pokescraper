@@ -1,0 +1,83 @@
+{
+    "generation": 8,
+    "name": "Dracozolt",
+    "species": "Fossil Pok\u00e9mon",
+    "height": "1.8\u00a0m (5\u203211\u2033)",
+    "weight": "1.8\u00a0m (5\u203211\u2033)",
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "speed": 75,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Electric",
+        "Dragon"
+    ],
+    "nationalNumber": 880,
+    "specialName": null,
+    "specialAbilities": [
+        "Volt Absorb",
+        "Hustle"
+    ],
+    "hiddenAbility": "Sand Rush",
+    "specialAttack": 80,
+    "specialDefense": 70,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 177,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 35,
+    "movesLearnedAtLevel": {
+        "Tackle": 1,
+        "Thunder Shock": 1,
+        "Charge": 7,
+        "Aerial Ace": 14,
+        "Ancient Power": 21,
+        "Pluck": 28,
+        "Dragon Tail": 35,
+        "Stomp": 42,
+        "Slam": 49,
+        "Discharge": 56,
+        "Bolt Beak": 63,
+        "Dragon Pulse": 70,
+        "Dragon Rush": 77
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Meteor Beam",
+        "Rising Voltage"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Thunder Punch": 5,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Fire Spin": 13,
+        "Thunder Wave": 14,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Rock Tomb": 48,
+        "Rock Blast": 54,
+        "Thunder Fang": 66,
+        "Fire Fang": 68,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Brutal Swing": 97,
+        "Stomping Tantrum": 98,
+        "Breaking Swipe": 99
+    }
+}

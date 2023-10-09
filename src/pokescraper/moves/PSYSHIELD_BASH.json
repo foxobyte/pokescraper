@@ -1,0 +1,12 @@
+{
+    "name": "Psyshield Bash",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Raises user's Defense and Special Defense.",
+    "isHighCrit": false
+}

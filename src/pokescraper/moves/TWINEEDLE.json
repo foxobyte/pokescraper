@@ -1,0 +1,12 @@
+{
+    "name": "Twineedle",
+    "category": "Physical",
+    "power": 25,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 20,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "Hits twice in one turn. May poison opponent.",
+    "isHighCrit": false
+}

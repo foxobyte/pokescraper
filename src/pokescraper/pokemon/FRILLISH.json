@@ -1,0 +1,81 @@
+{
+    "generation": 5,
+    "name": "Frillish",
+    "species": "Floating Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 55,
+    "attack": 40,
+    "defense": 50,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Ghost"
+    ],
+    "nationalNumber": 592,
+    "specialName": null,
+    "specialAbilities": [
+        "Water Absorb",
+        "Cursed Body"
+    ],
+    "hiddenAbility": "Damp",
+    "specialAttack": 65,
+    "specialDefense": 85,
+    "catchRate": 190,
+    "evYield": {
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 67,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Water Gun": 1,
+        "Poison Sting": 4,
+        "Night Shade": 8,
+        "Water Pulse": 12,
+        "Rain Dance": 16,
+        "Hex": 20,
+        "Brine": 24,
+        "Recover": 28,
+        "Shadow Ball": 32,
+        "Whirlpool": 36,
+        "Hydro Pump": 41,
+        "Destiny Bond": 44,
+        "Water Spout": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Poltergeist"
+    ],
+    "movesLearnedByTm": {
+        "Safeguard": 19,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Whirlpool": 36,
+        "Will-O-Wisp": 38,
+        "Facade": 39,
+        "Imprison": 44,
+        "Dive": 45,
+        "Brine": 55,
+        "Trick Room": 70,
+        "Round": 76,
+        "Hex": 77
+    }
+}

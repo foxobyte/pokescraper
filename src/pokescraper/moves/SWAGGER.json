@@ -1,0 +1,12 @@
+{
+    "name": "Swagger",
+    "category": "Status",
+    "power": null,
+    "accuracy": 85,
+    "pp": 15,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Confuses opponent, but sharply raises its Attack.",
+    "isHighCrit": false
+}

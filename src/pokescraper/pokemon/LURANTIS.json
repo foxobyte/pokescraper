@@ -1,0 +1,93 @@
+{
+    "generation": 7,
+    "name": "Lurantis",
+    "species": "Bloom Sickle Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "0.9\u00a0m (2\u203211\u2033)",
+    "hp": 70,
+    "attack": 105,
+    "defense": 90,
+    "speed": 45,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 754,
+    "specialName": null,
+    "specialAbilities": [
+        "Leaf Guard"
+    ],
+    "hiddenAbility": "Contrary",
+    "specialAttack": 80,
+    "specialDefense": 90,
+    "catchRate": 75,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 168,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Fury Cutter": 1,
+        "Growth": 1,
+        "Ingrain": 1,
+        "Leafage": 1,
+        "Night Slash": 1,
+        "Solar Beam": 1,
+        "Razor Leaf": 15,
+        "Sweet Scent": 20,
+        "Slash": 25,
+        "X-Scissor": 30,
+        "Synthesis": 37,
+        "Leaf Blade": 44,
+        "Sunny Day": 51,
+        "Solar Blade": 63
+    },
+    "movesLearnedOnEvolution": [
+        "Petal Blizzard"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Magical Leaf": 33,
+        "Low Sweep": 39,
+        "Fling": 43,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Bullet Seed": 56,
+        "False Swipe": 57,
+        "Brick Break": 58,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Grass Knot": 81,
+        "Poison Jab": 83,
+        "Rest": 85,
+        "Swords Dance": 88,
+        "Leech Life": 95,
+        "Substitute": 103,
+        "X-Scissor": 105,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Pollen Puff": 131,
+        "Grassy Terrain": 137,
+        "Giga Impact": 152,
+        "Leaf Storm": 159,
+        "Hyper Beam": 163,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "generation": 7,
+    "name": "Solgaleo",
+    "species": "Sunne Pok\u00e9mon",
+    "height": "3.4\u00a0m (11\u203202\u2033)",
+    "weight": "3.4\u00a0m (11\u203202\u2033)",
+    "hp": 137,
+    "attack": 137,
+    "defense": 107,
+    "speed": 97,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Psychic",
+        "Steel"
+    ],
+    "nationalNumber": 791,
+    "specialName": null,
+    "specialAbilities": [
+        "Full Metal Body"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 113,
+    "specialDefense": 89,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 306,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Cosmic Power": 1,
+        "Metal Claw": 1,
+        "Noble Roar": 1,
+        "Sunsteel Strike": 1,
+        "Teleport": 1,
+        "Iron Head": 7,
+        "Metal Sound": 14,
+        "Zen Headbutt": 21,
+        "Flash Cannon": 28,
+        "Morning Sun": 35,
+        "Crunch": 42,
+        "Metal Burst": 49,
+        "Wild Charge": 56,
+        "Solar Beam": 63,
+        "Flare Blitz": 70,
+        "Wide Guard": 77,
+        "Giga Impact": 84
+    },
+    "movesLearnedOnEvolution": [
+        "Sunsteel Strike"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Expanding Force",
+        "Meteor Beam",
+        "Steel Roller"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Fire Spin": 13,
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Rock Tomb": 48,
+        "Trick Room": 70,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Snarl": 85,
+        "Mystical Fire": 92
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "generation": 1,
+    "name": "Rattata",
+    "species": "Mouse Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 30,
+    "attack": 56,
+    "defense": 35,
+    "speed": 72,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {
+        "RATICATE": {
+            "level": 20,
+            "time": null,
+            "heldItem": null,
+            "usedItem": null,
+            "hasPokemon": null,
+            "highFriendship": null,
+            "needsTrade": null,
+            "usedMove": null,
+            "learnedMove": null
+        }
+    },
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 19,
+    "specialName": null,
+    "specialAbilities": [
+        "Run Away",
+        "Guts"
+    ],
+    "hiddenAbility": "Hustle",
+    "specialAttack": 25,
+    "specialDefense": 35,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 51,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Tackle": 1,
+        "Tail Whip": 1,
+        "Quick Attack": 4,
+        "Focus Energy": 7,
+        "Bite": 10,
+        "Laser Focus": 13,
+        "Take Down": 16,
+        "Assurance": 19,
+        "Crunch": 22,
+        "Sucker Punch": 25,
+        "Super Fang": 28,
+        "Double-Edge": 31,
+        "Endeavor": 34
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Taunt": 12,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Iron Tail": 23,
+        "Thunderbolt": 24,
+        "Thunder": 25,
+        "Dig": 28,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Sludge Bomb": 36,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Charge Beam": 57,
+        "Endure": 58,
+        "Thunder Wave": 73,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Pluck": 88,
+        "Substitute": 90,
+        "Cut": 93,
+        "Rock Smash": 98
+    }
+}

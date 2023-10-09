@@ -1,0 +1,82 @@
+{
+    "generation": 3,
+    "name": "Trapinch",
+    "species": "Ant Pit Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 45,
+    "attack": 100,
+    "defense": 45,
+    "speed": 10,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ground"
+    ],
+    "nationalNumber": 328,
+    "specialName": null,
+    "specialAbilities": [
+        "Hyper Cutter",
+        "Arena Trap"
+    ],
+    "hiddenAbility": "Sheer Force",
+    "specialAttack": 45,
+    "specialDefense": 45,
+    "catchRate": 255,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 58,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Bug",
+        "Dragon"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Sand Attack": 1,
+        "Laser Focus": 4,
+        "Bite": 8,
+        "Mud-Slap": 12,
+        "Sand Tomb": 16,
+        "Bulldoze": 20,
+        "Dig": 24,
+        "Crunch": 28,
+        "Sandstorm": 32,
+        "Earth Power": 36,
+        "Earthquake": 40,
+        "Superpower": 44,
+        "Fissure": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Solar Beam": 22,
+        "Earthquake": 26,
+        "Dig": 28,
+        "Double Team": 32,
+        "Sandstorm": 37,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Endure": 58,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

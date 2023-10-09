@@ -1,0 +1,12 @@
+{
+    "name": "Dire Claw",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "High critical hit ratio. May poison, paralyze or make the opponent drowsy.",
+    "isHighCrit": true
+}

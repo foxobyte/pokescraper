@@ -1,0 +1,12 @@
+{
+    "name": "Comeuppance",
+    "category": "Physical",
+    "power": 1,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Deals more damage to the opponent that last inflicted damage on it.",
+    "isHighCrit": false
+}

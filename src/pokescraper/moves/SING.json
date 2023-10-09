@@ -1,0 +1,12 @@
+{
+    "name": "Sing",
+    "category": "Status",
+    "power": null,
+    "accuracy": 55,
+    "pp": 15,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Puts opponent to sleep.",
+    "isHighCrit": false
+}

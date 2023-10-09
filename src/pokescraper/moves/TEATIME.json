@@ -1,0 +1,12 @@
+{
+    "name": "Teatime",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Forces all Pok\u00e9mon on the field to eat their berries.",
+    "isHighCrit": false
+}

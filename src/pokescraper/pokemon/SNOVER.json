@@ -1,0 +1,90 @@
+{
+    "generation": 4,
+    "name": "Snover",
+    "species": "Frost Tree Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 60,
+    "attack": 62,
+    "defense": 50,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Ice"
+    ],
+    "nationalNumber": 459,
+    "specialName": null,
+    "specialAbilities": [
+        "Snow Warning"
+    ],
+    "hiddenAbility": "Soundproof",
+    "specialAttack": 62,
+    "specialDefense": 60,
+    "catchRate": 120,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 67,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Grass",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Powder Snow": 1,
+        "Leafage": 5,
+        "Mist": 10,
+        "Ice Shard": 15,
+        "Razor Leaf": 20,
+        "Icy Wind": 25,
+        "Swagger": 30,
+        "Ingrain": 35,
+        "Wood Hammer": 41,
+        "Blizzard": 45,
+        "Sheer Cold": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Trailblaze": 20,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Magical Leaf": 33,
+        "Icy Wind": 34,
+        "Avalanche": 46,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Snowscape": 52,
+        "Bullet Seed": 56,
+        "Body Slam": 66,
+        "Ice Punch": 69,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Swords Dance": 88,
+        "Substitute": 103,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Ice Spinner": 124,
+        "Helping Hand": 130,
+        "Ice Beam": 135,
+        "Blizzard": 143,
+        "Leaf Storm": 159,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

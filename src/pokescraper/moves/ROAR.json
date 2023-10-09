@@ -1,0 +1,12 @@
+{
+    "name": "Roar",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "In battles, the opponent switches. In the wild, the Pok\u00e9mon runs.",
+    "isHighCrit": false
+}

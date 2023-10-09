@@ -1,0 +1,12 @@
+{
+    "name": "Autotomize",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Reduces weight and sharply raises Speed.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Hyper Drill",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Can strike through Protect/Detect.",
+    "isHighCrit": false
+}

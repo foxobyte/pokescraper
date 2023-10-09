@@ -1,0 +1,12 @@
+{
+    "name": "Lunge",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 100,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "The user makes a lunge at the target, attacking with full force. This also lowers the target's Attack stat.",
+    "isHighCrit": false
+}

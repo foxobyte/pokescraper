@@ -1,0 +1,102 @@
+{
+    "generation": 4,
+    "name": "Glaceon",
+    "species": "Fresh Snow Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 65,
+    "attack": 60,
+    "defense": 110,
+    "speed": 65,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice"
+    ],
+    "nationalNumber": 471,
+    "specialName": null,
+    "specialAbilities": [
+        "Snow Cloak"
+    ],
+    "hiddenAbility": "Ice Body",
+    "specialAttack": 130,
+    "specialDefense": 95,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 35,
+    "baseExp": 184,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 35,
+    "movesLearnedAtLevel": {
+        "Baton Pass": 1,
+        "Charm": 1,
+        "Copycat": 1,
+        "Covet": 1,
+        "Double-Edge": 1,
+        "Growl": 1,
+        "Helping Hand": 1,
+        "Swift": 1,
+        "Tackle": 1,
+        "Tail Whip": 1,
+        "Take Down": 1,
+        "Sand Attack": 5,
+        "Quick Attack": 10,
+        "Baby-Doll Eyes": 15,
+        "Ice Shard": 20,
+        "Bite": 25,
+        "Ice Fang": 30,
+        "Snowscape": 35,
+        "Freeze-Dry": 40,
+        "Mirror Coat": 45,
+        "Blizzard": 50,
+        "Last Resort": 55
+    },
+    "movesLearnedOnEvolution": [
+        "Icy Wind"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Fake Tears": 3,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Ice Fang": 10,
+        "Water Pulse": 11,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Swift": 32,
+        "Icy Wind": 34,
+        "Mud Shot": 35,
+        "Stored Power": 41,
+        "Avalanche": 46,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Snowscape": 52,
+        "Dig": 55,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Substitute": 103,
+        "Shadow Ball": 114,
+        "Hyper Voice": 117,
+        "Calm Mind": 129,
+        "Helping Hand": 130,
+        "Baton Pass": 132,
+        "Ice Beam": 135,
+        "Blizzard": 143,
+        "Giga Impact": 152,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

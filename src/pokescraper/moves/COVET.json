@@ -1,0 +1,12 @@
+{
+    "name": "Covet",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Opponent's item is stolen by the user.",
+    "isHighCrit": false
+}

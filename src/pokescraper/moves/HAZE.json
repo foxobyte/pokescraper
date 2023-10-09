@@ -1,0 +1,12 @@
+{
+    "name": "Haze",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "probability": null,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "Resets all stat changes.",
+    "isHighCrit": false
+}

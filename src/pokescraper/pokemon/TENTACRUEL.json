@@ -1,0 +1,91 @@
+{
+    "generation": 1,
+    "name": "Tentacruel",
+    "species": "Jellyfish Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 80,
+    "attack": 70,
+    "defense": 65,
+    "speed": 100,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Poison"
+    ],
+    "nationalNumber": 73,
+    "specialName": null,
+    "specialAbilities": [
+        "Clear Body",
+        "Liquid Ooze"
+    ],
+    "hiddenAbility": "Rain Dish",
+    "specialAttack": 80,
+    "specialDefense": 120,
+    "catchRate": 60,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 180,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Water 3"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Acid": 1,
+        "Poison Sting": 1,
+        "Reflect Type": 1,
+        "Water Gun": 1,
+        "Wrap": 1,
+        "Supersonic": 12,
+        "Water Pulse": 16,
+        "Screech": 20,
+        "Bubble Beam": 24,
+        "Hex": 28,
+        "Acid Armor": 34,
+        "Poison Jab": 40,
+        "Surf": 46,
+        "Sludge Wave": 52,
+        "Hydro Pump": 58
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Giga Drain": 19,
+        "Safeguard": 20,
+        "Dazzling Gleam": 21,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Scald": 49,
+        "Brine": 55,
+        "Endure": 58,
+        "Payback": 66,
+        "Giga Impact": 68,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Poison Jab": 84,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Surf": 95,
+        "Waterfall": 99
+    }
+}

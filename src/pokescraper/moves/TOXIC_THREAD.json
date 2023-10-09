@@ -1,0 +1,12 @@
+{
+    "name": "Toxic Thread",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 100,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "Poisons opponent and lowers its Speed.",
+    "isHighCrit": false
+}

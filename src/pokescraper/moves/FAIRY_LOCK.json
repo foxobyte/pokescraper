@@ -1,0 +1,12 @@
+{
+    "name": "Fairy Lock",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "Prevents fleeing in the next turn.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Ice Ball",
+    "category": "Physical",
+    "power": 30,
+    "accuracy": 90,
+    "pp": 20,
+    "probability": null,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "Doubles in power each turn for 5 turns.",
+    "isHighCrit": false
+}

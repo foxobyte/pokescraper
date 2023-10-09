@@ -1,0 +1,93 @@
+{
+    "generation": 3,
+    "name": "Dustox",
+    "species": "Poison Moth Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Poison"
+    ],
+    "nationalNumber": 269,
+    "specialName": null,
+    "specialAbilities": [
+        "Shield Dust"
+    ],
+    "hiddenAbility": "Compound Eyes",
+    "specialAttack": 50,
+    "specialDefense": 90,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Def": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 173,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Bug Bite": 1,
+        "Gust": 1,
+        "Harden": 1,
+        "Poison Sting": 1,
+        "String Shot": 1,
+        "Tackle": 1,
+        "Confusion": 12,
+        "Poison Powder": 15,
+        "Moonlight": 17,
+        "Venoshock": 20,
+        "Psybeam": 22,
+        "Leech Life": 25,
+        "Light Screen": 27,
+        "Whirlwind": 30,
+        "Toxic": 32,
+        "Bug Buzz": 35,
+        "Protect": 37,
+        "Quiver Dance": 40
+    },
+    "movesLearnedOnEvolution": [
+        "Gust"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Toxic": 6,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Solar Beam": 22,
+        "Psychic": 29,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Roost": 51,
+        "Energy Ball": 53,
+        "Endure": 58,
+        "Bug Buzz": 62,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Defog": 97
+    }
+}

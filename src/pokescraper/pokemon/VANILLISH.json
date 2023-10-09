@@ -1,0 +1,74 @@
+{
+    "generation": 5,
+    "name": "Vanillish",
+    "species": "Icy Snow Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 51,
+    "attack": 65,
+    "defense": 65,
+    "speed": 59,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice"
+    ],
+    "nationalNumber": 583,
+    "specialName": null,
+    "specialAbilities": [
+        "Ice Body",
+        "Snow Cloak"
+    ],
+    "hiddenAbility": "Weak Armor",
+    "specialAttack": 80,
+    "specialDefense": 75,
+    "catchRate": 120,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 138,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Harden": 1,
+        "Mist": 1,
+        "Taunt": 1,
+        "Icy Wind": 12,
+        "Avalanche": 16,
+        "Hail": 20,
+        "Icicle Spear": 24,
+        "Uproar": 28,
+        "Acid Armor": 32,
+        "Mirror Coat": 38,
+        "Ice Beam": 44,
+        "Blizzard": 50,
+        "Sheer Cold": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Light Screen": 17,
+        "Self-Destruct": 20,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Facade": 39,
+        "Imprison": 44,
+        "Icicle Spear": 51,
+        "Avalanche": 64,
+        "Round": 76
+    }
+}

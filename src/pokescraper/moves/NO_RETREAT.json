@@ -1,0 +1,12 @@
+{
+    "name": "No Retreat",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": 100,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Raises all stats but user cannot switch out.",
+    "isHighCrit": false
+}

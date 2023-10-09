@@ -1,0 +1,83 @@
+{
+    "generation": 6,
+    "name": "Xerneas",
+    "species": "Life Pok\u00e9mon",
+    "height": "3.0\u00a0m (9\u203210\u2033)",
+    "weight": "3.0\u00a0m (9\u203210\u2033)",
+    "hp": 126,
+    "attack": 131,
+    "defense": 95,
+    "speed": 99,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Fairy"
+    ],
+    "nationalNumber": 716,
+    "specialName": null,
+    "specialAbilities": [
+        "Fairy Aura"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 131,
+    "specialDefense": 98,
+    "catchRate": 45,
+    "evYield": {
+        "HP": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 306,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Gravity": 1,
+        "Tackle": 1,
+        "Light Screen": 5,
+        "Aurora Beam": 10,
+        "Nature Power": 15,
+        "Night Slash": 20,
+        "Aromatherapy": 25,
+        "Psych Up": 30,
+        "Horn Leech": 35,
+        "Misty Terrain": 40,
+        "Ingrain": 45,
+        "Take Down": 50,
+        "Geomancy": 55,
+        "Moonblast": 60,
+        "Heal Pulse": 65,
+        "Megahorn": 70,
+        "Close Combat": 75,
+        "Outrage": 80,
+        "Giga Impact": 85
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Misty Explosion",
+        "Terrain Pulse"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Hail": 35,
+        "Facade": 39,
+        "Swift": 40,
+        "Wonder Room": 71,
+        "Round": 76,
+        "Draining Kiss": 87,
+        "Misty Terrain": 89,
+        "Smart Strike": 96
+    }
+}

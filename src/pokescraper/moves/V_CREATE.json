@@ -1,0 +1,12 @@
+{
+    "name": "V-create",
+    "category": "Physical",
+    "power": 180,
+    "accuracy": 95,
+    "pp": 5,
+    "probability": 100,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "Lowers user's Defense, Special Defense and Speed.",
+    "isHighCrit": false
+}

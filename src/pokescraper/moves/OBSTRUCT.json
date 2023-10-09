@@ -1,0 +1,12 @@
+{
+    "name": "Obstruct",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Protects the user and sharply lowers Defence on contact.",
+    "isHighCrit": false
+}

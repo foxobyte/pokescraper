@@ -1,0 +1,75 @@
+{
+    "generation": 5,
+    "name": "Tranquill",
+    "species": "Wild Pigeon Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 62,
+    "attack": 77,
+    "defense": 62,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 520,
+    "specialName": null,
+    "specialAbilities": [
+        "Big Pecks",
+        "Super Luck"
+    ],
+    "hiddenAbility": "Rivalry",
+    "specialAttack": 50,
+    "specialDefense": 42,
+    "catchRate": 120,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 125,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Gust": 1,
+        "Leer": 1,
+        "Quick Attack": 1,
+        "Taunt": 12,
+        "Air Cutter": 16,
+        "Swagger": 20,
+        "Feather Dance": 26,
+        "Detect": 34,
+        "Air Slash": 38,
+        "Roost": 44,
+        "Tailwind": 50,
+        "Sky Attack": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Dual Wingbeat"
+    ],
+    "movesLearnedByTm": {
+        "Fly": 6,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Steel Wing": 30,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Swift": 40,
+        "U-turn": 56,
+        "Round": 76,
+        "Air Slash": 95
+    }
+}

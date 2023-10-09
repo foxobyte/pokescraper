@@ -1,0 +1,12 @@
+{
+    "name": "Happy Hour",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Doubles prize money from trainer battles.",
+    "isHighCrit": false
+}

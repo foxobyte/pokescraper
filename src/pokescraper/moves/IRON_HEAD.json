@@ -1,0 +1,12 @@
+{
+    "name": "Iron Head",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 30,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

@@ -1,0 +1,46 @@
+{
+    "generation": 7,
+    "name": "Cosmoem",
+    "species": "Protostar Pok\u00e9mon",
+    "height": "0.1\u00a0m (0\u203204\u2033)",
+    "weight": "0.1\u00a0m (0\u203204\u2033)",
+    "hp": 43,
+    "attack": 29,
+    "defense": 131,
+    "speed": 37,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Psychic"
+    ],
+    "nationalNumber": 790,
+    "specialName": null,
+    "specialAbilities": [
+        "Sturdy"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 29,
+    "specialDefense": 131,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 1,
+        "Sp. Def": 1
+    },
+    "baseFriendship": 0,
+    "baseExp": 140,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Cosmic Power": 1,
+        "Teleport": 1
+    },
+    "movesLearnedOnEvolution": [
+        "Cosmic Power"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

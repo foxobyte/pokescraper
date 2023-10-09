@@ -1,0 +1,90 @@
+{
+    "generation": 8,
+    "name": "Eiscue",
+    "species": "Penguin Pok\u00e9mon",
+    "height": "1.4\u00a0m (4\u203207\u2033)",
+    "weight": "1.4\u00a0m (4\u203207\u2033)",
+    "hp": 75,
+    "attack": 80,
+    "defense": 110,
+    "speed": 50,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice"
+    ],
+    "nationalNumber": 875,
+    "specialName": "Ice Face",
+    "specialAbilities": [
+        "Ice Face"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 65,
+    "specialDefense": 90,
+    "catchRate": 60,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 165,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Field",
+        "Water 1"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Powder Snow": 1,
+        "Tackle": 1,
+        "Mist": 6,
+        "Weather Ball": 12,
+        "Icy Wind": 18,
+        "Headbutt": 24,
+        "Amnesia": 30,
+        "Freeze-Dry": 36,
+        "Snowscape": 42,
+        "Aurora Veil": 48,
+        "Surf": 54,
+        "Blizzard": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Icy Wind": 34,
+        "Avalanche": 46,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Snowscape": 52,
+        "Zen Headbutt": 59,
+        "Body Slam": 66,
+        "Ice Punch": 69,
+        "Sleep Talk": 70,
+        "Reflect": 74,
+        "Waterfall": 77,
+        "Rest": 85,
+        "Iron Head": 99,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Liquidation": 110,
+        "Surf": 123,
+        "Ice Spinner": 124,
+        "Amnesia": 128,
+        "Reversal": 134,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Giga Impact": 152,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

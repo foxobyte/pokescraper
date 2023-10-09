@@ -1,0 +1,12 @@
+{
+    "name": "Shadow Bone",
+    "category": "Physical",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 20,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "May lower opponent's Defense.",
+    "isHighCrit": false
+}

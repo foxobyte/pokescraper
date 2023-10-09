@@ -1,0 +1,93 @@
+{
+    "generation": 3,
+    "name": "Spinda",
+    "species": "Spot Panda Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 327,
+    "specialName": null,
+    "specialAbilities": [
+        "Own Tempo",
+        "Tangled Feet"
+    ],
+    "hiddenAbility": "Contrary",
+    "specialAttack": 60,
+    "specialDefense": 60,
+    "catchRate": 255,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 126,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Field",
+        "Human-Like"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Tackle": 1,
+        "Copycat": 5,
+        "Teeter Dance": 32,
+        "Psybeam": 14,
+        "Hypnosis": 19,
+        "Body Slam": 23,
+        "Sucker Punch": 28,
+        "Uproar": 37,
+        "Psych Up": 41,
+        "Double-Edge": 46,
+        "Flail": 50,
+        "Thrash": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Focus Punch": 1,
+        "Water Pulse": 3,
+        "Calm Mind": 4,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Safeguard": 20,
+        "Dig": 28,
+        "Psychic": 29,
+        "Shadow Ball": 30,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Skill Swap": 48,
+        "Fling": 56,
+        "Endure": 58,
+        "Drain Punch": 60,
+        "Recycle": 67,
+        "Flash": 70,
+        "Psych Up": 77,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Dream Eater": 85,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Trick Room": 92,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

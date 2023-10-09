@@ -1,0 +1,77 @@
+{
+    "generation": 9,
+    "name": "Nymble",
+    "species": "Grasshopper Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.2\u00a0m (0\u203208\u2033)",
+    "hp": 33,
+    "attack": 46,
+    "defense": 40,
+    "speed": 45,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 919,
+    "specialName": null,
+    "specialAbilities": [
+        "Swarm"
+    ],
+    "hiddenAbility": "Tinted Lens",
+    "specialAttack": 21,
+    "specialDefense": 25,
+    "catchRate": 190,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 20,
+    "baseExp": 42,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Tackle": 1,
+        "Struggle Bug": 4,
+        "Astonish": 6,
+        "Assurance": 9,
+        "Double Kick": 11,
+        "Screech": 14,
+        "Endure": 18,
+        "Bug Bite": 22,
+        "Feint": 26,
+        "Agility": 30,
+        "Sucker Punch": 38,
+        "First Impression": 41
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Protect": 7,
+        "Struggle Bug": 15,
+        "Thief": 18,
+        "Trailblaze": 20,
+        "Pounce": 21,
+        "Facade": 25,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "U-turn": 60,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Leech Life": 95,
+        "Substitute": 103,
+        "X-Scissor": 105,
+        "Bug Buzz": 162,
+        "Tera Blast": 171
+    }
+}

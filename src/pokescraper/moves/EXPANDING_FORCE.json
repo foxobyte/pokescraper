@@ -1,0 +1,12 @@
+{
+    "name": "Expanding Force",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Increases power and hits all opponents on Psychic Terrain.",
+    "isHighCrit": false
+}

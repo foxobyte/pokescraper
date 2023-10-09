@@ -1,0 +1,86 @@
+{
+    "generation": 5,
+    "name": "Tirtouga",
+    "species": "Prototurtle Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 54,
+    "attack": 78,
+    "defense": 103,
+    "speed": 22,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Rock"
+    ],
+    "nationalNumber": 564,
+    "specialName": null,
+    "specialAbilities": [
+        "Solid Rock",
+        "Sturdy"
+    ],
+    "hiddenAbility": "Swift Swim",
+    "specialAttack": 53,
+    "specialDefense": 45,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 71,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 1",
+        "Water 3"
+    ],
+    "eggCycles": 30,
+    "movesLearnedAtLevel": {
+        "Water Gun": 1,
+        "Withdraw": 1,
+        "Protect": 3,
+        "Aqua Jet": 6,
+        "Smack Down": 9,
+        "Ancient Power": 12,
+        "Bite": 15,
+        "Wide Guard": 18,
+        "Brine": 21,
+        "Rock Slide": 24,
+        "Crunch": 27,
+        "Curse": 30,
+        "Iron Defense": 33,
+        "Aqua Tail": 36,
+        "Rain Dance": 39,
+        "Hydro Pump": 42,
+        "Shell Smash": 45
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Meteor Beam"
+    ],
+    "movesLearnedByTm": {
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Rain Dance": 33,
+        "Whirlpool": 36,
+        "Facade": 39,
+        "Dive": 45,
+        "Rock Tomb": 48,
+        "Mud Shot": 53,
+        "Rock Blast": 54,
+        "Brine": 55,
+        "Guard Swap": 61,
+        "Round": 76,
+        "Bulldoze": 81
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "generation": 1,
+    "name": "Ninetales",
+    "species": "Fox Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 73,
+    "attack": 76,
+    "defense": 75,
+    "speed": 100,
+    "gender": {
+        "male": "25%",
+        "female": "75%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire"
+    ],
+    "nationalNumber": 38,
+    "specialName": null,
+    "specialAbilities": [
+        "Flash Fire"
+    ],
+    "hiddenAbility": "Drought",
+    "specialAttack": 81,
+    "specialDefense": 100,
+    "catchRate": 75,
+    "evYield": {
+        "Sp. Def": 1,
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 177,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Blizzard": 1,
+        "Icy Wind": 1,
+        "Imprison": 1,
+        "Tail Whip": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Disarming Voice",
+    "category": "Special",
+    "power": 40,
+    "accuracy": null,
+    "pp": 15,
+    "probability": null,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "Ignores Accuracy and Evasiveness.",
+    "isHighCrit": false
+}

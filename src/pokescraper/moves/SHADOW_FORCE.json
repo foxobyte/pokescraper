@@ -1,0 +1,12 @@
+{
+    "name": "Shadow Force",
+    "category": "Physical",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "Disappears on first turn, attacks on second. Can strike through Protect/Detect.",
+    "isHighCrit": false
+}

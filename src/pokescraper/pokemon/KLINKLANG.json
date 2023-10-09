@@ -1,0 +1,77 @@
+{
+    "generation": 5,
+    "name": "Klinklang",
+    "species": "Gear Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 60,
+    "attack": 100,
+    "defense": 115,
+    "speed": 90,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Steel"
+    ],
+    "nationalNumber": 601,
+    "specialName": null,
+    "specialAbilities": [
+        "Plus",
+        "Minus"
+    ],
+    "hiddenAbility": "Clear Body",
+    "specialAttack": 70,
+    "specialDefense": 85,
+    "catchRate": 30,
+    "evYield": {
+        "Defense": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 234,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Bind": 1,
+        "Charge": 1,
+        "Gear Up": 1,
+        "Magnetic Flux": 1,
+        "Thunder Shock": 1,
+        "Vise Grip": 1,
+        "Charge Beam": 12,
+        "Metal Sound": 16,
+        "Autotomize": 20,
+        "Discharge": 24,
+        "Screech": 28,
+        "Gear Grind": 32,
+        "Lock-On": 36,
+        "Shift Gear": 42,
+        "Zap Cannon": 48,
+        "Hyper Beam": 56,
+        "Electric Terrain": 64
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Rising Voltage",
+        "Steel Roller"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Screech": 16,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Sandstorm": 32,
+        "Facade": 39,
+        "Assurance": 58,
+        "Trick Room": 70,
+        "Round": 76,
+        "Volt Switch": 80,
+        "Electric Terrain": 90
+    }
+}

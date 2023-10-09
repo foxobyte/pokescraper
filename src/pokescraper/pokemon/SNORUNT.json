@@ -1,0 +1,89 @@
+{
+    "generation": 3,
+    "name": "Snorunt",
+    "species": "Snow Hat Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 50,
+    "attack": 50,
+    "defense": 50,
+    "speed": 50,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice"
+    ],
+    "nationalNumber": 361,
+    "specialName": null,
+    "specialAbilities": [
+        "Inner Focus",
+        "Ice Body"
+    ],
+    "hiddenAbility": "Moody",
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "catchRate": 190,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 60,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Fairy",
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Headbutt": 1,
+        "Powder Snow": 1,
+        "Leer": 5,
+        "Double Team": 10,
+        "Ice Shard": 15,
+        "Protect": 20,
+        "Icy Wind": 25,
+        "Frost Breath": 30,
+        "Bite": 35,
+        "Ice Fang": 40,
+        "Snowscape": 45,
+        "Weather Ball": 50,
+        "Crunch": 55,
+        "Blizzard": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Fake Tears": 3,
+        "Protect": 7,
+        "Ice Fang": 10,
+        "Water Pulse": 11,
+        "Trailblaze": 20,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Hex": 29,
+        "Icy Wind": 34,
+        "Avalanche": 46,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Snowscape": 52,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Light Screen": 75,
+        "Rest": 85,
+        "Spikes": 90,
+        "Substitute": 103,
+        "Crunch": 108,
+        "Shadow Ball": 114,
+        "Ice Spinner": 124,
+        "Helping Hand": 130,
+        "Ice Beam": 135,
+        "Blizzard": 143,
+        "Tera Blast": 171
+    }
+}

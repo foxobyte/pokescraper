@@ -1,0 +1,12 @@
+{
+    "name": "Silver Wind",
+    "category": "Special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": 10,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "May raise all stats of user at once.",
+    "isHighCrit": false
+}

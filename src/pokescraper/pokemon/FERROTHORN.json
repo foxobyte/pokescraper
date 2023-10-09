@@ -1,0 +1,86 @@
+{
+    "generation": 5,
+    "name": "Ferrothorn",
+    "species": "Thorn Pod Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 74,
+    "attack": 94,
+    "defense": 131,
+    "speed": 20,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Steel"
+    ],
+    "nationalNumber": 598,
+    "specialName": null,
+    "specialAbilities": [
+        "Iron Barbs"
+    ],
+    "hiddenAbility": "Anticipation",
+    "specialAttack": 54,
+    "specialDefense": 116,
+    "catchRate": 90,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 171,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Grass",
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Harden": 1,
+        "Metal Claw": 1,
+        "Pin Missile": 1,
+        "Power Whip": 1,
+        "Tackle": 1,
+        "Ingrain": 15,
+        "Flash Cannon": 20,
+        "Iron Head": 25,
+        "Self-Destruct": 30,
+        "Iron Defense": 35,
+        "Curse": 43,
+        "Gyro Ball": 49,
+        "Explosion": 56
+    },
+    "movesLearnedOnEvolution": [
+        "Power Whip"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Steel Roller"
+    ],
+    "movesLearnedByTm": {
+        "Pin Missile": 7,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Thunder Wave": 14,
+        "Self-Destruct": 20,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Revenge": 42,
+        "Bullet Seed": 50,
+        "Payback": 57,
+        "Assurance": 58,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Brutal Swing": 97
+    }
+}

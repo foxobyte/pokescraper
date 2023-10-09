@@ -1,0 +1,12 @@
+{
+    "name": "Sparkling Aria",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Heals the burns of its target.",
+    "isHighCrit": false
+}

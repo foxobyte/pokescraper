@@ -1,0 +1,78 @@
+{
+    "generation": 8,
+    "name": "Arctovish",
+    "species": "Fossil Pok\u00e9mon",
+    "height": "2.0\u00a0m (6\u203207\u2033)",
+    "weight": "2.0\u00a0m (6\u203207\u2033)",
+    "hp": 90,
+    "attack": 90,
+    "defense": 100,
+    "speed": 55,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Ice"
+    ],
+    "nationalNumber": 883,
+    "specialName": null,
+    "specialAbilities": [
+        "Water Absorb",
+        "Ice Body"
+    ],
+    "hiddenAbility": "Slush Rush",
+    "specialAttack": 80,
+    "specialDefense": 90,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 177,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 35,
+    "movesLearnedAtLevel": {
+        "Powder Snow": 1,
+        "Water Gun": 1,
+        "Protect": 7,
+        "Icy Wind": 14,
+        "Ancient Power": 21,
+        "Bite": 28,
+        "Aurora Veil": 35,
+        "Freeze-Dry": 42,
+        "Super Fang": 49,
+        "Crunch": 56,
+        "Fishious Rend": 63,
+        "Icicle Crash": 70,
+        "Blizzard": 77
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Meteor Beam"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Whirlpool": 36,
+        "Facade": 39,
+        "Dive": 45,
+        "Rock Tomb": 48,
+        "Icicle Spear": 51,
+        "Rock Blast": 54,
+        "Brine": 55,
+        "Avalanche": 64,
+        "Ice Fang": 67,
+        "Round": 76
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "generation": 5,
+    "name": "Escavalier",
+    "species": "Cavalry Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 70,
+    "attack": 135,
+    "defense": 105,
+    "speed": 20,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Steel"
+    ],
+    "nationalNumber": 589,
+    "specialName": null,
+    "specialAbilities": [
+        "Swarm",
+        "Shell Armor"
+    ],
+    "hiddenAbility": "Overcoat",
+    "specialAttack": 60,
+    "specialDefense": 105,
+    "catchRate": 75,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 173,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Double-Edge": 1,
+        "Endure": 1,
+        "Fell Stinger": 1,
+        "Flail": 1,
+        "Fury Cutter": 1,
+        "Leer": 1,
+        "Peck": 1,
+        "Quick Guard": 1,
+        "Scary Face": 1,
+        "Take Down": 1,
+        "False Swipe": 12,
+        "Acid Spray": 16,
+        "Headbutt": 20,
+        "Reversal": 24,
+        "Iron Defense": 28,
+        "X-Scissor": 32,
+        "Swords Dance": 36,
+        "Iron Head": 40,
+        "Bug Buzz": 44,
+        "Giga Impact": 48,
+        "Metal Burst": 52
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Screech": 16,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Revenge": 42,
+        "Round": 76,
+        "Razor Shell": 83,
+        "False Swipe": 94,
+        "Smart Strike": 96,
+        "Brutal Swing": 97
+    }
+}

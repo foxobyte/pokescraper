@@ -1,0 +1,91 @@
+{
+    "generation": 8,
+    "name": "Thwackey",
+    "species": "Beat Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 70,
+    "attack": 85,
+    "defense": 70,
+    "speed": 80,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 811,
+    "specialName": null,
+    "specialAbilities": [
+        "Overgrow"
+    ],
+    "hiddenAbility": "Grassy Surge",
+    "specialAttack": 55,
+    "specialDefense": 60,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 147,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Branch Poke": 1,
+        "Growl": 1,
+        "Scratch": 1,
+        "Taunt": 1,
+        "Razor Leaf": 12,
+        "Screech": 19,
+        "Knock Off": 24,
+        "Slam": 30,
+        "Uproar": 36,
+        "Wood Hammer": 42,
+        "Endeavor": 48
+    },
+    "movesLearnedOnEvolution": [
+        "Double Hit"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Low Kick": 12,
+        "Acrobatics": 14,
+        "Thief": 18,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Swift": 32,
+        "Magical Leaf": 33,
+        "Fling": 43,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Bullet Seed": 56,
+        "False Swipe": 57,
+        "U-turn": 60,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Drain Punch": 73,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Taunt": 87,
+        "Swords Dance": 88,
+        "Substitute": 103,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Grassy Terrain": 137,
+        "Grass Pledge": 146,
+        "Leaf Storm": 159,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

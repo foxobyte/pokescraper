@@ -1,0 +1,12 @@
+{
+    "name": "Chilly Reception",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "Switches out and summons a snowstorm lasting 5 turns.",
+    "isHighCrit": false
+}

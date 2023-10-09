@@ -1,0 +1,62 @@
+{
+    "generation": 1,
+    "name": "Golem",
+    "species": "Megaton Pok\u00e9mon",
+    "height": "1.7\u00a0m (5\u203207\u2033)",
+    "weight": "1.7\u00a0m (5\u203207\u2033)",
+    "hp": 80,
+    "attack": 120,
+    "defense": 130,
+    "speed": 45,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Electric"
+    ],
+    "nationalNumber": 76,
+    "specialName": "Alolan Golem",
+    "specialAbilities": [
+        "Magnet Pull",
+        "Sturdy"
+    ],
+    "hiddenAbility": "Galvanize",
+    "specialAttack": 55,
+    "specialDefense": 65,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 223,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Charge": 1,
+        "Defense Curl": 1,
+        "Heavy Slam": 1,
+        "Rock Polish": 1,
+        "Tackle": 1,
+        "Spark": 12,
+        "Rock Throw": 16,
+        "Smack Down": 18,
+        "Thunder Punch": 22,
+        "Self-Destruct": 24,
+        "Stealth Rock": 30,
+        "Rock Blast": 34,
+        "Discharge": 40,
+        "Explosion": 44,
+        "Double-Edge": 50,
+        "Stone Edge": 54
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

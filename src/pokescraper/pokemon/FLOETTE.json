@@ -1,0 +1,93 @@
+{
+    "generation": 6,
+    "name": "Floette",
+    "species": "Single Bloom Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.2\u00a0m (0\u203208\u2033)",
+    "hp": 54,
+    "attack": 45,
+    "defense": 47,
+    "speed": 52,
+    "gender": {
+        "male": "0%",
+        "female": "100%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fairy"
+    ],
+    "nationalNumber": 670,
+    "specialName": null,
+    "specialAbilities": [
+        "Flower Veil"
+    ],
+    "hiddenAbility": "Symbiosis",
+    "specialAttack": 75,
+    "specialDefense": 98,
+    "catchRate": 120,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 130,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Fairy"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Fairy Wind": 1,
+        "Tackle": 1,
+        "Vine Whip": 1,
+        "Safeguard": 10,
+        "Razor Leaf": 15,
+        "Wish": 20,
+        "Magical Leaf": 25,
+        "Grassy Terrain": 27,
+        "Petal Blizzard": 33,
+        "Synthesis": 38,
+        "Misty Terrain": 43,
+        "Moonblast": 46,
+        "Petal Dance": 51,
+        "Solar Beam": 58
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Charm": 2,
+        "Protect": 7,
+        "Disarming Voice": 19,
+        "Trailblaze": 20,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Swift": 32,
+        "Magical Leaf": 33,
+        "Draining Kiss": 37,
+        "Stored Power": 41,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Light Screen": 75,
+        "Dazzling Gleam": 79,
+        "Metronome": 80,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Skill Swap": 98,
+        "Substitute": 103,
+        "Trick": 109,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Psychic": 120,
+        "Calm Mind": 129,
+        "Helping Hand": 130,
+        "Pollen Puff": 131,
+        "Baton Pass": 132,
+        "Grassy Terrain": 137,
+        "Misty Terrain": 139,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

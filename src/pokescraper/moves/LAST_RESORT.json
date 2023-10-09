@@ -1,0 +1,12 @@
+{
+    "name": "Last Resort",
+    "category": "Physical",
+    "power": 140,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Can only be used after all other moves are used.",
+    "isHighCrit": false
+}

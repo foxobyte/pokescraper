@@ -1,0 +1,93 @@
+{
+    "generation": 9,
+    "name": "Dondozo",
+    "species": "Big Catfish Pok\u00e9mon",
+    "height": "12.0\u00a0m (39\u203204\u2033)",
+    "weight": "12.0\u00a0m (39\u203204\u2033)",
+    "hp": 150,
+    "attack": 100,
+    "defense": 115,
+    "speed": 35,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 977,
+    "specialName": null,
+    "specialAbilities": [
+        "Unaware",
+        "Oblivious"
+    ],
+    "hiddenAbility": "Water Veil",
+    "specialAttack": 65,
+    "specialDefense": 65,
+    "catchRate": 25,
+    "evYield": {
+        "HP": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 265,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Water 2"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Supersonic": 1,
+        "Tackle": 1,
+        "Water Gun": 1,
+        "Tickle": 5,
+        "Flail": 10,
+        "Rest": 15,
+        "Sleep Talk": 15,
+        "Dive": 20,
+        "Noble Roar": 25,
+        "Soak": 30,
+        "Body Slam": 35,
+        "Aqua Tail": 40,
+        "Rain Dance": 45,
+        "Order Up": 50,
+        "Heavy Slam": 55,
+        "Double-Edge": 60,
+        "Wave Crash": 65
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Ice Fang": 10,
+        "Water Pulse": 11,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Avalanche": 46,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Zen Headbutt": 59,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Waterfall": 77,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Body Press": 89,
+        "Substitute": 103,
+        "Crunch": 108,
+        "Liquidation": 110,
+        "Heavy Slam": 121,
+        "Surf": 123,
+        "Hydro Pump": 142,
+        "Earthquake": 149,
+        "Giga Impact": 152,
+        "Outrage": 156,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

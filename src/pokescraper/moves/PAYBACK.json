@@ -1,0 +1,12 @@
+{
+    "name": "Payback",
+    "category": "Physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Power doubles if the user was attacked first.",
+    "isHighCrit": false
+}

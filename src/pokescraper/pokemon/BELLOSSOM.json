@@ -1,0 +1,89 @@
+{
+    "generation": 2,
+    "name": "Bellossom",
+    "species": "Flower Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 75,
+    "attack": 80,
+    "defense": 95,
+    "speed": 50,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 182,
+    "specialName": null,
+    "specialAbilities": [
+        "Chlorophyll"
+    ],
+    "hiddenAbility": "Healer",
+    "specialAttack": 90,
+    "specialDefense": 100,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Def": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 221,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Acid": 1,
+        "Giga Drain": 1,
+        "Grassy Terrain": 1,
+        "Growth": 1,
+        "Mega Drain": 1,
+        "Moonblast": 1,
+        "Moonlight": 1,
+        "Petal Blizzard": 1,
+        "Petal Dance": 1,
+        "Poison Powder": 1,
+        "Quiver Dance": 1,
+        "Sleep Powder": 1,
+        "Stun Spore": 1,
+        "Sweet Scent": 1,
+        "Toxic": 1
+    },
+    "movesLearnedOnEvolution": [
+        "Petal Blizzard"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Toxic": 6,
+        "Bullet Seed": 9,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Safeguard": 20,
+        "Dazzling Gleam": 21,
+        "Solar Beam": 22,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Energy Ball": 53,
+        "Fling": 56,
+        "Endure": 58,
+        "Drain Punch": 60,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93
+    }
+}

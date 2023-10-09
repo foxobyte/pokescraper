@@ -1,0 +1,83 @@
+{
+    "generation": 5,
+    "name": "Keldeo",
+    "species": "Colt Pok\u00e9mon",
+    "height": "1.4\u00a0m (4\u203207\u2033)",
+    "weight": "1.4\u00a0m (4\u203207\u2033)",
+    "hp": 91,
+    "attack": 72,
+    "defense": 90,
+    "speed": 108,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Fighting"
+    ],
+    "nationalNumber": 647,
+    "specialName": "Resolute Form",
+    "specialAbilities": [
+        "Justified"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 129,
+    "specialDefense": 90,
+    "catchRate": 3,
+    "evYield": {
+        "Sp. Atk": 3
+    },
+    "baseFriendship": 35,
+    "baseExp": 261,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 80,
+    "movesLearnedAtLevel": {
+        "Aqua Jet": 1,
+        "Helping Hand": 1,
+        "Leer": 1,
+        "Secret Sword": 1,
+        "Work Up": 1,
+        "Bubble Beam": 7,
+        "Quick Guard": 14,
+        "Double Kick": 21,
+        "Retaliate": 28,
+        "Aqua Tail": 35,
+        "Take Down": 42,
+        "Sacred Sword": 49,
+        "Swords Dance": 56,
+        "Hydro Pump": 63,
+        "Close Combat": 70
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Coaching",
+        "Flip Turn"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Hail": 35,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Revenge": 42,
+        "Brick Break": 43,
+        "Bounce": 52,
+        "Round": 76,
+        "Retaliate": 79,
+        "False Swipe": 94,
+        "Air Slash": 95,
+        "Smart Strike": 96
+    }
+}

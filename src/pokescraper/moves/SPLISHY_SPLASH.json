@@ -1,0 +1,12 @@
+{
+    "name": "Splishy Splash",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 30,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "May paralyze opponent.",
+    "isHighCrit": false
+}

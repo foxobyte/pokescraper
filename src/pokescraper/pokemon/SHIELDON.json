@@ -1,0 +1,92 @@
+{
+    "generation": 4,
+    "name": "Shieldon",
+    "species": "Shield Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 30,
+    "attack": 42,
+    "defense": 118,
+    "speed": 30,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Steel"
+    ],
+    "nationalNumber": 410,
+    "specialName": null,
+    "specialAbilities": [
+        "Sturdy"
+    ],
+    "hiddenAbility": "Soundproof",
+    "specialAttack": 42,
+    "specialDefense": 88,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 70,
+    "growthRate": "Erratic",
+    "eggGroups": [
+        "Monster"
+    ],
+    "eggCycles": 30,
+    "movesLearnedAtLevel": {
+        "Protect": 1,
+        "Tackle": 1,
+        "Taunt": 6,
+        "Metal Sound": 10,
+        "Take Down": 15,
+        "Iron Defense": 19,
+        "Swagger": 24,
+        "Ancient Power": 28,
+        "Endure": 33,
+        "Metal Burst": 37,
+        "Iron Head": 42,
+        "Heavy Slam": 46
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Roar": 5,
+        "Sunny Day": 11,
+        "Taunt": 12,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Iron Tail": 23,
+        "Thunderbolt": 24,
+        "Thunder": 25,
+        "Earthquake": 26,
+        "Dig": 28,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Flamethrower": 35,
+        "Sandstorm": 37,
+        "Fire Blast": 38,
+        "Rock Tomb": 39,
+        "Torment": 41,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Endure": 58,
+        "Rock Polish": 69,
+        "Stone Edge": 71,
+        "Stealth Rock": 76,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Flash Cannon": 91,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

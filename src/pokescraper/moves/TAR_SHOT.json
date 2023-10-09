@@ -1,0 +1,12 @@
+{
+    "name": "Tar Shot",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 100,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "Lowers the opponent's Speed and makes them weaker to Fire-type moves.",
+    "isHighCrit": false
+}

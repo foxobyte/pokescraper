@@ -1,0 +1,12 @@
+{
+    "name": "Court Change",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Swaps the effects on either side of the field.",
+    "isHighCrit": false
+}

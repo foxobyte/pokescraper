@@ -1,0 +1,12 @@
+{
+    "name": "Sludge",
+    "category": "Special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 30,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "May poison opponent.",
+    "isHighCrit": false
+}

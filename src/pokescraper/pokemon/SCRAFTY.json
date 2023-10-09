@@ -1,0 +1,98 @@
+{
+    "generation": 5,
+    "name": "Scrafty",
+    "species": "Hoodlum Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 65,
+    "attack": 90,
+    "defense": 115,
+    "speed": 58,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dark",
+        "Fighting"
+    ],
+    "nationalNumber": 560,
+    "specialName": null,
+    "specialAbilities": [
+        "Shed Skin",
+        "Moxie"
+    ],
+    "hiddenAbility": "Intimidate",
+    "specialAttack": 45,
+    "specialDefense": 115,
+    "catchRate": 90,
+    "evYield": {
+        "Defense": 1,
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 171,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Dragon",
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Headbutt": 1,
+        "Leer": 1,
+        "Low Kick": 1,
+        "Payback": 1,
+        "Sand Attack": 12,
+        "Facade": 16,
+        "Protect": 20,
+        "Beat Up": 24,
+        "Scary Face": 28,
+        "Brick Break": 32,
+        "Swagger": 36,
+        "Crunch": 42,
+        "High Jump Kick": 48,
+        "Focus Punch": 54,
+        "Head Smash": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Coaching",
+        "Lash Out"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Fire Punch": 3,
+        "Ice Punch": 4,
+        "Thunder Punch": 5,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Beat Up": 37,
+        "Facade": 39,
+        "Revenge": 42,
+        "Brick Break": 43,
+        "Fake Tears": 47,
+        "Rock Tomb": 48,
+        "Payback": 57,
+        "Assurance": 58,
+        "Fling": 59,
+        "Drain Punch": 63,
+        "Low Sweep": 75,
+        "Round": 76,
+        "Retaliate": 79,
+        "Snarl": 85
+    }
+}

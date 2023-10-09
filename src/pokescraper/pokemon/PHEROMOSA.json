@@ -1,0 +1,81 @@
+{
+    "generation": 7,
+    "name": "Pheromosa",
+    "species": "Lissome Pok\u00e9mon",
+    "height": "1.8\u00a0m (5\u203211\u2033)",
+    "weight": "1.8\u00a0m (5\u203211\u2033)",
+    "hp": 71,
+    "attack": 137,
+    "defense": 37,
+    "speed": 151,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Fighting"
+    ],
+    "nationalNumber": 795,
+    "specialName": null,
+    "specialAbilities": [
+        "Beast Boost"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 137,
+    "specialDefense": 37,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 257,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Feint": 1,
+        "Rapid Spin": 1,
+        "Leer": 5,
+        "Quick Guard": 10,
+        "Bug Bite": 15,
+        "Low Kick": 20,
+        "Double Kick": 25,
+        "Triple Kick": 30,
+        "Stomp": 35,
+        "Agility": 40,
+        "Lunge": 45,
+        "Bounce": 50,
+        "Speed Swap": 55,
+        "Bug Buzz": 60,
+        "Quiver Dance": 65,
+        "High Jump Kick": 70
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Coaching",
+        "Skitter Smack",
+        "Triple Axel"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Facade": 39,
+        "Swift": 40,
+        "Brick Break": 43,
+        "Bounce": 52,
+        "U-turn": 56,
+        "Assurance": 58,
+        "Fling": 59,
+        "Speed Swap": 62,
+        "Low Sweep": 75,
+        "Round": 76,
+        "Electroweb": 82,
+        "False Swipe": 94
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Toxic",
+    "category": "Status",
+    "power": null,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "Badly poisons opponent.",
+    "isHighCrit": false
+}

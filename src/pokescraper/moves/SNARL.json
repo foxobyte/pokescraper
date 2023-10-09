@@ -1,0 +1,12 @@
+{
+    "name": "Snarl",
+    "category": "Special",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 15,
+    "probability": 100,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Lowers opponent's Special Attack.",
+    "isHighCrit": false
+}

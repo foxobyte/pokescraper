@@ -1,0 +1,83 @@
+{
+    "generation": 8,
+    "name": "Silicobra",
+    "species": "Sand Snake Pok\u00e9mon",
+    "height": "2.2\u00a0m (7\u203203\u2033)",
+    "weight": "2.2\u00a0m (7\u203203\u2033)",
+    "hp": 52,
+    "attack": 57,
+    "defense": 75,
+    "speed": 46,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ground"
+    ],
+    "nationalNumber": 843,
+    "specialName": null,
+    "specialAbilities": [
+        "Sand Spit",
+        "Shed Skin"
+    ],
+    "hiddenAbility": "Sand Veil",
+    "specialAttack": 35,
+    "specialDefense": 50,
+    "catchRate": 255,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 63,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Dragon",
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Sand Attack": 1,
+        "Wrap": 1,
+        "Minimize": 5,
+        "Brutal Swing": 10,
+        "Bulldoze": 15,
+        "Headbutt": 20,
+        "Glare": 25,
+        "Dig": 30,
+        "Sandstorm": 35,
+        "Slam": 40,
+        "Coil": 45,
+        "Sand Tomb": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Facade": 25,
+        "Poison Tail": 26,
+        "Bulldoze": 28,
+        "Mud Shot": 35,
+        "Rock Tomb": 36,
+        "Endure": 47,
+        "Sandstorm": 51,
+        "Dig": 55,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Rock Blast": 76,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Substitute": 103,
+        "Drill Run": 106,
+        "Stealth Rock": 116,
+        "Earth Power": 133,
+        "Earthquake": 149,
+        "Stone Edge": 150,
+        "Tera Blast": 171
+    }
+}

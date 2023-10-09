@@ -1,0 +1,95 @@
+{
+    "generation": 7,
+    "name": "Lunala",
+    "species": "Moone Pok\u00e9mon",
+    "height": "4.0\u00a0m (13\u203201\u2033)",
+    "weight": "4.0\u00a0m (13\u203201\u2033)",
+    "hp": 137,
+    "attack": 113,
+    "defense": 89,
+    "speed": 97,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Psychic",
+        "Ghost"
+    ],
+    "nationalNumber": 792,
+    "specialName": null,
+    "specialAbilities": [
+        "Shadow Shield"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 137,
+    "specialDefense": 107,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 306,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Confusion": 1,
+        "Cosmic Power": 1,
+        "Hypnosis": 1,
+        "Moongeist Beam": 1,
+        "Teleport": 1,
+        "Night Shade": 7,
+        "Confuse Ray": 14,
+        "Air Slash": 21,
+        "Shadow Ball": 28,
+        "Moonlight": 35,
+        "Night Daze": 42,
+        "Magic Coat": 49,
+        "Moonblast": 56,
+        "Phantom Force": 63,
+        "Dream Eater": 70,
+        "Wide Guard": 77,
+        "Hyper Beam": 84
+    },
+    "movesLearnedOnEvolution": [
+        "Moongeist Beam"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Dual Wingbeat",
+        "Expanding Force",
+        "Meteor Beam",
+        "Poltergeist"
+    ],
+    "movesLearnedByTm": {
+        "Fly": 6,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Icy Wind": 27,
+        "Sunny Day": 34,
+        "Will-O-Wisp": 38,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Shadow Claw": 65,
+        "Psycho Cut": 69,
+        "Trick Room": 70,
+        "Wonder Room": 71,
+        "Magic Room": 72,
+        "Round": 76,
+        "Hex": 77,
+        "Acrobatics": 78,
+        "Phantom Force": 86,
+        "Air Slash": 95
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "generation": 3,
+    "name": "Zigzagoon",
+    "species": "TinyRaccoon Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 38,
+    "attack": 30,
+    "defense": 41,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 263,
+    "specialName": null,
+    "specialAbilities": [
+        "Pickup",
+        "Gluttony"
+    ],
+    "hiddenAbility": "Quick Feet",
+    "specialAttack": 30,
+    "specialDefense": 41,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 56,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Tackle": 1,
+        "Sand Attack": 3,
+        "Tail Whip": 6,
+        "Covet": 9,
+        "Headbutt": 12,
+        "Baby-Doll Eyes": 15,
+        "Pin Missile": 18,
+        "Rest": 21,
+        "Take Down": 24,
+        "Fling": 27,
+        "Flail": 30,
+        "Belly Drum": 33,
+        "Double-Edge": 36
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Iron Tail": 23,
+        "Thunderbolt": 24,
+        "Thunder": 25,
+        "Dig": 28,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Fling": 56,
+        "Charge Beam": 57,
+        "Endure": 58,
+        "Thunder Wave": 73,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Surf": 95,
+        "Rock Smash": 98
+    }
+}

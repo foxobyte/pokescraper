@@ -1,0 +1,80 @@
+{
+    "generation": 7,
+    "name": "Xurkitree",
+    "species": "Glowing Pok\u00e9mon",
+    "height": "3.8\u00a0m (12\u203206\u2033)",
+    "weight": "3.8\u00a0m (12\u203206\u2033)",
+    "hp": 83,
+    "attack": 89,
+    "defense": 71,
+    "speed": 83,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Electric"
+    ],
+    "nationalNumber": 796,
+    "specialName": null,
+    "specialAbilities": [
+        "Beast Boost"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 173,
+    "specialDefense": 71,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 257,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Thunder Shock": 1,
+        "Wrap": 1,
+        "Charge": 5,
+        "Thunder Wave": 10,
+        "Ingrain": 15,
+        "Spark": 20,
+        "Shock Wave": 25,
+        "Hypnosis": 30,
+        "Eerie Impulse": 35,
+        "Thunder Punch": 40,
+        "Discharge": 45,
+        "Magnet Rise": 50,
+        "Thunderbolt": 55,
+        "Electric Terrain": 60,
+        "Power Whip": 65,
+        "Zap Cannon": 70
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Rising Voltage"
+    ],
+    "movesLearnedByTm": {
+        "Thunder Punch": 5,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Fling": 59,
+        "Round": 76,
+        "Volt Switch": 80,
+        "Electroweb": 82,
+        "Electric Terrain": 90,
+        "Eerie Impulse": 93,
+        "Brutal Swing": 97
+    }
+}

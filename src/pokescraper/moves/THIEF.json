@@ -1,0 +1,12 @@
+{
+    "name": "Thief",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Also steals opponent's held item.",
+    "isHighCrit": false
+}

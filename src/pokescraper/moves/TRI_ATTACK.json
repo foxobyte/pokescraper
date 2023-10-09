@@ -1,0 +1,12 @@
+{
+    "name": "Tri Attack",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 20,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "May paralyze, burn or freeze opponent.",
+    "isHighCrit": false
+}

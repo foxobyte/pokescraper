@@ -1,0 +1,12 @@
+{
+    "name": "Judgment",
+    "category": "Special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Type depends on the Arceus Plate being held.",
+    "isHighCrit": false
+}

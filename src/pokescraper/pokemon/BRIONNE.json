@@ -1,0 +1,81 @@
+{
+    "generation": 7,
+    "name": "Brionne",
+    "species": "Pop Star Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 60,
+    "attack": 69,
+    "defense": 69,
+    "speed": 50,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 729,
+    "specialName": null,
+    "specialAbilities": [
+        "Torrent"
+    ],
+    "hiddenAbility": "Liquid Voice",
+    "specialAttack": 91,
+    "specialDefense": 81,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 147,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Water 1"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Disarming Voice": 1,
+        "Growl": 1,
+        "Pound": 1,
+        "Water Gun": 1,
+        "Aqua Jet": 9,
+        "Baby-Doll Eyes": 12,
+        "Icy Wind": 15,
+        "Sing": 20,
+        "Bubble Beam": 25,
+        "Encore": 30,
+        "Misty Terrain": 35,
+        "Hyper Voice": 40,
+        "Moonblast": 45,
+        "Hydro Pump": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Flip Turn",
+        "Triple Axel"
+    ],
+    "movesLearnedByTm": {
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Charm": 29,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Whirlpool": 36,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Dive": 45,
+        "Brine": 55,
+        "Wonder Room": 71,
+        "Round": 76,
+        "Acrobatics": 78,
+        "Draining Kiss": 87,
+        "Misty Terrain": 89
+    }
+}

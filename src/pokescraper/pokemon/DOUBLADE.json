@@ -1,0 +1,77 @@
+{
+    "generation": 6,
+    "name": "Doublade",
+    "species": "Sword Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 59,
+    "attack": 110,
+    "defense": 150,
+    "speed": 35,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Steel",
+        "Ghost"
+    ],
+    "nationalNumber": 680,
+    "specialName": null,
+    "specialAbilities": [
+        "No Guard"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 45,
+    "specialDefense": 49,
+    "catchRate": 90,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 157,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Autotomize": 1,
+        "Fury Cutter": 1,
+        "Shadow Sneak": 1,
+        "Tackle": 1,
+        "Aerial Ace": 12,
+        "Metal Sound": 16,
+        "Slash": 20,
+        "Night Slash": 24,
+        "Retaliate": 28,
+        "Iron Defense": 32,
+        "Iron Head": 38,
+        "Power Trick": 44,
+        "Swords Dance": 50,
+        "Sacred Sword": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Solar Blade": 12,
+        "Screech": 16,
+        "Reflect": 18,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Brick Break": 43,
+        "Shadow Claw": 65,
+        "Psycho Cut": 69,
+        "Round": 76,
+        "Retaliate": 79,
+        "False Swipe": 94,
+        "Brutal Swing": 97
+    }
+}

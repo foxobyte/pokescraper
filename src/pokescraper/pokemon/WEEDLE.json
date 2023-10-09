@@ -1,0 +1,60 @@
+{
+    "generation": 1,
+    "name": "Weedle",
+    "species": "Hairy Bug Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "speed": 50,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {
+        "KAKUNA": {
+            "level": 7,
+            "time": null,
+            "heldItem": null,
+            "usedItem": null,
+            "hasPokemon": null,
+            "highFriendship": null,
+            "needsTrade": null,
+            "usedMove": null,
+            "learnedMove": null
+        }
+    },
+    "type": [
+        "Bug",
+        "Poison"
+    ],
+    "nationalNumber": 13,
+    "specialName": null,
+    "specialAbilities": [
+        "Shield Dust"
+    ],
+    "hiddenAbility": "Run Away",
+    "specialAttack": 20,
+    "specialDefense": 20,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 39,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Poison Sting": 1,
+        "String Shot": 1,
+        "Bug Bite": 9
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

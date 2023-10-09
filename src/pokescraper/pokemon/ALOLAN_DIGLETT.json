@@ -1,0 +1,59 @@
+{
+    "generation": 1,
+    "name": "Diglett",
+    "species": "Mole Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.2\u00a0m (0\u203208\u2033)",
+    "hp": 10,
+    "attack": 55,
+    "defense": 30,
+    "speed": 90,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ground",
+        "Steel"
+    ],
+    "nationalNumber": 50,
+    "specialName": "Alolan Diglett",
+    "specialAbilities": [
+        "Sand Veil",
+        "Tangling Hair"
+    ],
+    "hiddenAbility": "Sand Force",
+    "specialAttack": 35,
+    "specialDefense": 45,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 53,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Metal Claw": 1,
+        "Sand Attack": 1,
+        "Growl": 4,
+        "Astonish": 8,
+        "Mud-Slap": 12,
+        "Bulldoze": 16,
+        "Sucker Punch": 20,
+        "Iron Head": 24,
+        "Sandstorm": 28,
+        "Dig": 32,
+        "Earth Power": 36,
+        "Earthquake": 40,
+        "Fissure": 44
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Grassy Glide",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "High priority during Grassy Terrain.",
+    "isHighCrit": false
+}

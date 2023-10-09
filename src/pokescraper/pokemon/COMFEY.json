@@ -1,0 +1,89 @@
+{
+    "generation": 7,
+    "name": "Comfey",
+    "species": "Posy Picker Pok\u00e9mon",
+    "height": "0.1\u00a0m (0\u203204\u2033)",
+    "weight": "0.1\u00a0m (0\u203204\u2033)",
+    "hp": 51,
+    "attack": 52,
+    "defense": 90,
+    "speed": 100,
+    "gender": {
+        "male": "25%",
+        "female": "75%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fairy"
+    ],
+    "nationalNumber": 764,
+    "specialName": null,
+    "specialAbilities": [
+        "Flower Veil",
+        "Triage"
+    ],
+    "hiddenAbility": "Natural Cure",
+    "specialAttack": 82,
+    "specialDefense": 110,
+    "catchRate": 60,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 170,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growth": 1,
+        "Wrap": 1,
+        "Vine Whip": 3,
+        "Helping Hand": 6,
+        "Draining Kiss": 9,
+        "Flower Shield": 12,
+        "Magical Leaf": 15,
+        "Synthesis": 18,
+        "Leech Seed": 21,
+        "Grass Knot": 24,
+        "Sweet Kiss": 27,
+        "Floral Healing": 30,
+        "Petal Blizzard": 33,
+        "Aromatherapy": 36,
+        "Play Rough": 39,
+        "Sweet Scent": 42,
+        "Petal Dance": 45,
+        "Grassy Terrain": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Grassy Glide"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Magical Leaf": 10,
+        "Solar Beam": 11,
+        "Light Screen": 17,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Charm": 29,
+        "Attract": 31,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Bullet Seed": 50,
+        "U-turn": 56,
+        "Fling": 59,
+        "Trick Room": 70,
+        "Round": 76,
+        "Acrobatics": 78,
+        "Draining Kiss": 87,
+        "Grassy Terrain": 88
+    }
+}

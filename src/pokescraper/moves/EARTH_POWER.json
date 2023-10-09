@@ -1,0 +1,12 @@
+{
+    "name": "Earth Power",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 10,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "May lower opponent's Special Defense.",
+    "isHighCrit": false
+}

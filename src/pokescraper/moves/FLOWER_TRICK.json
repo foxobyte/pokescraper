@@ -1,0 +1,12 @@
+{
+    "name": "Flower Trick",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Never misses; always results in a critical hit.",
+    "isHighCrit": false
+}

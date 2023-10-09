@@ -1,0 +1,12 @@
+{
+    "name": "Bulk Up",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Raises user's Attack and Defense.",
+    "isHighCrit": false
+}

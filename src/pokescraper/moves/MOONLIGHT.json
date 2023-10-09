@@ -1,0 +1,12 @@
+{
+    "name": "Moonlight",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "User recovers HP. Amount varies with the weather.",
+    "isHighCrit": false
+}

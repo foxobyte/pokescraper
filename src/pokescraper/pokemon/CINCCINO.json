@@ -1,0 +1,89 @@
+{
+    "generation": 5,
+    "name": "Cinccino",
+    "species": "Scarf Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 75,
+    "attack": 95,
+    "defense": 60,
+    "speed": 115,
+    "gender": {
+        "male": "25%",
+        "female": "75%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 573,
+    "specialName": null,
+    "specialAbilities": [
+        "Cute Charm",
+        "Technician"
+    ],
+    "hiddenAbility": "Skill Link",
+    "specialAttack": 65,
+    "specialDefense": 60,
+    "catchRate": 60,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 165,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "After You": 1,
+        "Baby-Doll Eyes": 1,
+        "Bullet Seed": 1,
+        "Charm": 1,
+        "Echoed Voice": 1,
+        "Encore": 1,
+        "Helping Hand": 1,
+        "Hyper Voice": 1,
+        "Last Resort": 1,
+        "Pound": 1,
+        "Rock Blast": 1,
+        "Sing": 1,
+        "Slam": 1,
+        "Swift": 1,
+        "Tail Slap": 1,
+        "Tickle": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Triple Axel"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Dig": 15,
+        "Light Screen": 17,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Charm": 29,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Fake Tears": 47,
+        "Bullet Seed": 50,
+        "Rock Blast": 54,
+        "U-turn": 56,
+        "Fling": 59,
+        "Round": 76,
+        "Retaliate": 79,
+        "Tail Slap": 84
+    }
+}

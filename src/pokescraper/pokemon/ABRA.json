@@ -1,0 +1,83 @@
+{
+    "generation": 1,
+    "name": "Abra",
+    "species": "Psi Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "0.9\u00a0m (2\u203211\u2033)",
+    "hp": 25,
+    "attack": 20,
+    "defense": 15,
+    "speed": 90,
+    "gender": {
+        "male": "75%",
+        "female": "25%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic"
+    ],
+    "nationalNumber": 63,
+    "specialName": null,
+    "specialAbilities": [
+        "Synchronize",
+        "Inner Focus"
+    ],
+    "hiddenAbility": "Magic Guard",
+    "specialAttack": 105,
+    "specialDefense": 55,
+    "catchRate": 200,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 62,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Human-Like"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Teleport": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Focus Punch": 1,
+        "Calm Mind": 4,
+        "Sunny Day": 11,
+        "Taunt": 12,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Safeguard": 20,
+        "Dazzling Gleam": 21,
+        "Iron Tail": 23,
+        "Psychic": 29,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Reflect": 33,
+        "Shock Wave": 34,
+        "Torment": 41,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Skill Swap": 48,
+        "Energy Ball": 53,
+        "Fling": 56,
+        "Charge Beam": 57,
+        "Endure": 58,
+        "Drain Punch": 60,
+        "Recycle": 67,
+        "Flash": 70,
+        "Thunder Wave": 73,
+        "Psych Up": 77,
+        "Sleep Talk": 82,
+        "Dream Eater": 85,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Trick Room": 92
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Night Daze",
+    "category": "Special",
+    "power": 85,
+    "accuracy": 95,
+    "pp": 10,
+    "probability": 40,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "May lower opponent's Accuracy.",
+    "isHighCrit": false
+}

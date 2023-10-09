@@ -1,0 +1,12 @@
+{
+    "name": "Thunder Fang",
+    "category": "Physical",
+    "power": 65,
+    "accuracy": 95,
+    "pp": 15,
+    "probability": 10,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "May cause flinching and/or paralyze opponent.",
+    "isHighCrit": false
+}

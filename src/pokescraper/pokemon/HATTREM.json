@@ -1,0 +1,92 @@
+{
+    "generation": 8,
+    "name": "Hattrem",
+    "species": "Serene Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 57,
+    "attack": 40,
+    "defense": 65,
+    "speed": 49,
+    "gender": {
+        "male": "0%",
+        "female": "100%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic"
+    ],
+    "nationalNumber": 857,
+    "specialName": null,
+    "specialAbilities": [
+        "Healer",
+        "Anticipation"
+    ],
+    "hiddenAbility": "Magic Bounce",
+    "specialAttack": 86,
+    "specialDefense": 73,
+    "catchRate": 120,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 130,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Fairy"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Confusion": 1,
+        "Disarming Voice": 1,
+        "Life Dew": 1,
+        "Play Nice": 1,
+        "Aromatic Mist": 15,
+        "Psybeam": 20,
+        "Heal Pulse": 25,
+        "Dazzling Gleam": 30,
+        "Calm Mind": 37,
+        "Psychic": 44,
+        "Healing Wish": 51
+    },
+    "movesLearnedOnEvolution": [
+        "Brutal Swing"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Charm": 2,
+        "Protect": 7,
+        "Psybeam": 16,
+        "Disarming Voice": 19,
+        "Facade": 25,
+        "Swift": 32,
+        "Magical Leaf": 33,
+        "Draining Kiss": 37,
+        "Stored Power": 41,
+        "Endure": 47,
+        "Psyshock": 54,
+        "Sleep Talk": 70,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Dazzling Gleam": 79,
+        "Metronome": 80,
+        "Thunder Wave": 82,
+        "Rest": 85,
+        "Imprison": 92,
+        "Dark Pulse": 94,
+        "Skill Swap": 98,
+        "Substitute": 103,
+        "Trick": 109,
+        "Giga Drain": 111,
+        "Psychic": 120,
+        "Play Rough": 127,
+        "Calm Mind": 129,
+        "Helping Hand": 130,
+        "Baton Pass": 132,
+        "Psychic Terrain": 138,
+        "Misty Terrain": 139,
+        "Trick Room": 161,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Ominous Wind",
+    "category": "Special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": 10,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "May raise all user's stats at once.",
+    "isHighCrit": false
+}

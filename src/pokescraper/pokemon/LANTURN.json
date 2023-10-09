@@ -1,0 +1,96 @@
+{
+    "generation": 2,
+    "name": "Lanturn",
+    "species": "Light Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 125,
+    "attack": 58,
+    "defense": 58,
+    "speed": 67,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Electric"
+    ],
+    "nationalNumber": 171,
+    "specialName": null,
+    "specialAbilities": [
+        "Volt Absorb",
+        "Illuminate"
+    ],
+    "hiddenAbility": "Water Absorb",
+    "specialAttack": 76,
+    "specialDefense": 76,
+    "catchRate": 75,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 161,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Water 2"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Eerie Impulse": 1,
+        "Electro Ball": 1,
+        "Spit Up": 1,
+        "Stockpile": 1,
+        "Supersonic": 1,
+        "Swallow": 1,
+        "Thunder Wave": 1,
+        "Water Gun": 1,
+        "Bubble Beam": 12,
+        "Confuse Ray": 16,
+        "Spark": 20,
+        "Charge": 24,
+        "Discharge": 30,
+        "Aqua Ring": 36,
+        "Flail": 42,
+        "Take Down": 48,
+        "Hydro Pump": 54
+    },
+    "movesLearnedOnEvolution": [
+        "Spit Up",
+        "Stockpile",
+        "Swallow"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Dazzling Gleam": 21,
+        "Thunderbolt": 24,
+        "Thunder": 25,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Facade": 42,
+        "Volt Switch": 43,
+        "Rest": 44,
+        "Attract": 45,
+        "Scald": 49,
+        "Brine": 55,
+        "Charge Beam": 57,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Thunder Wave": 73,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Surf": 95,
+        "Waterfall": 99
+    }
+}

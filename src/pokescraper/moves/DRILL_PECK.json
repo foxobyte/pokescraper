@@ -1,0 +1,12 @@
+{
+    "name": "Drill Peck",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "",
+    "isHighCrit": false
+}

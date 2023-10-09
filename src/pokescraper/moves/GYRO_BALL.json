@@ -1,0 +1,12 @@
+{
+    "name": "Gyro Ball",
+    "category": "Physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "The slower the user, the stronger the attack.",
+    "isHighCrit": false
+}

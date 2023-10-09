@@ -1,0 +1,55 @@
+{
+    "generation": 7,
+    "name": "Meltan",
+    "species": "Hex Nut Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.2\u00a0m (0\u203208\u2033)",
+    "hp": 46,
+    "attack": 65,
+    "defense": 65,
+    "speed": 34,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Steel"
+    ],
+    "nationalNumber": 808,
+    "specialName": null,
+    "specialAbilities": [
+        "Magnet Pull"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 55,
+    "specialDefense": 35,
+    "catchRate": 3,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 0,
+    "baseExp": 150,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Harden": 1,
+        "Thunder Shock": 1,
+        "Tail Whip": 8,
+        "Headbutt": 16,
+        "Thunder Wave": 24,
+        "Acid Armor": 32,
+        "Flash Cannon": 40
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Thunder Wave": 14,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Facade": 39,
+        "Round": 76
+    }
+}

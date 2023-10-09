@@ -1,0 +1,59 @@
+{
+    "generation": 5,
+    "name": "Kyurem",
+    "species": "Boundary Pok\u00e9mon",
+    "height": "3.0\u00a0m (9\u203210\u2033)",
+    "weight": "3.0\u00a0m (9\u203210\u2033)",
+    "hp": 125,
+    "attack": 130,
+    "defense": 90,
+    "speed": 95,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Dragon",
+        "Ice"
+    ],
+    "nationalNumber": 646,
+    "specialName": null,
+    "specialAbilities": [
+        "Pressure"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 130,
+    "specialDefense": 90,
+    "catchRate": 3,
+    "evYield": {
+        "HP": 1,
+        "Attack": 1,
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 0,
+    "baseExp": 297,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Ancient Power": 1,
+        "Dragon Breath": 1,
+        "Freeze-Dry": 1,
+        "Noble Roar": 1,
+        "Slash": 8,
+        "Endeavor": 16,
+        "Dragon Pulse": 24,
+        "Ice Beam": 32,
+        "Hyper Voice": 40,
+        "Fusion Bolt": 48,
+        "Blizzard": 56,
+        "Imprison": 64,
+        "Outrage": 72,
+        "Freeze Shock": 80,
+        "Sheer Cold": 88
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

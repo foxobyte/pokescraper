@@ -1,0 +1,92 @@
+{
+    "generation": 5,
+    "name": "Larvesta",
+    "species": "Torch Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 55,
+    "attack": 85,
+    "defense": 55,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Fire"
+    ],
+    "nationalNumber": 636,
+    "specialName": null,
+    "specialAbilities": [
+        "Flame Body"
+    ],
+    "hiddenAbility": "Swarm",
+    "specialAttack": 50,
+    "specialDefense": 55,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 72,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Ember": 1,
+        "String Shot": 1,
+        "Flame Charge": 6,
+        "Struggle Bug": 12,
+        "Flame Wheel": 18,
+        "Bug Bite": 24,
+        "Screech": 30,
+        "Leech Life": 36,
+        "Bug Buzz": 42,
+        "Take Down": 48,
+        "Amnesia": 54,
+        "Double-Edge": 60,
+        "Flare Blitz": 66
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Acrobatics": 14,
+        "Struggle Bug": 15,
+        "Trailblaze": 20,
+        "Pounce": 21,
+        "Fire Spin": 24,
+        "Facade": 25,
+        "Flame Charge": 38,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Zen Headbutt": 59,
+        "U-turn": 60,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Light Screen": 75,
+        "Rest": 85,
+        "Leech Life": 95,
+        "Substitute": 103,
+        "Will-O-Wisp": 107,
+        "Giga Drain": 111,
+        "Heat Wave": 118,
+        "Psychic": 120,
+        "Flamethrower": 125,
+        "Amnesia": 128,
+        "Calm Mind": 129,
+        "Fire Blast": 141,
+        "Wild Charge": 147,
+        "Overheat": 157,
+        "Bug Buzz": 162,
+        "Flare Blitz": 165,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

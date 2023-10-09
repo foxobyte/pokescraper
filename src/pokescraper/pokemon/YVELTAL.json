@@ -1,0 +1,86 @@
+{
+    "generation": 6,
+    "name": "Yveltal",
+    "species": "Destruction Pok\u00e9mon",
+    "height": "5.8\u00a0m (19\u203200\u2033)",
+    "weight": "5.8\u00a0m (19\u203200\u2033)",
+    "hp": 126,
+    "attack": 131,
+    "defense": 95,
+    "speed": 99,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Dark",
+        "Flying"
+    ],
+    "nationalNumber": 717,
+    "specialName": null,
+    "specialAbilities": [
+        "Dark Aura"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 131,
+    "specialDefense": 98,
+    "catchRate": 45,
+    "evYield": {
+        "HP": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 306,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Double Team": 1,
+        "Gust": 1,
+        "Taunt": 5,
+        "Snarl": 10,
+        "Disable": 15,
+        "Sucker Punch": 20,
+        "Tailwind": 25,
+        "Roost": 30,
+        "Air Slash": 35,
+        "Dark Pulse": 40,
+        "Psychic": 45,
+        "Oblivion Wing": 50,
+        "Phantom Force": 55,
+        "Foul Play": 60,
+        "Dragon Rush": 65,
+        "Hurricane": 70,
+        "Focus Blast": 75,
+        "Sky Attack": 80,
+        "Hyper Beam": 85
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Dual Wingbeat",
+        "Lash Out"
+    ],
+    "movesLearnedByTm": {
+        "Fly": 6,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Steel Wing": 30,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Swift": 40,
+        "U-turn": 56,
+        "Payback": 57,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Acrobatics": 78,
+        "Snarl": 85,
+        "Phantom Force": 86,
+        "Air Slash": 95
+    }
+}

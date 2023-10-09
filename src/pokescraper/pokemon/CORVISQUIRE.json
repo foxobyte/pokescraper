@@ -1,0 +1,82 @@
+{
+    "generation": 8,
+    "name": "Corvisquire",
+    "species": "Raven Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 68,
+    "attack": 67,
+    "defense": 55,
+    "speed": 77,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Flying"
+    ],
+    "nationalNumber": 822,
+    "specialName": null,
+    "specialAbilities": [
+        "Keen Eye",
+        "Unnerve"
+    ],
+    "hiddenAbility": "Big Pecks",
+    "specialAttack": 43,
+    "specialDefense": 55,
+    "catchRate": 120,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 128,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Hone Claws": 1,
+        "Leer": 1,
+        "Peck": 1,
+        "Power Trip": 1,
+        "Fury Attack": 12,
+        "Pluck": 16,
+        "Taunt": 22,
+        "Scary Face": 28,
+        "Drill Peck": 34,
+        "Swagger": 40,
+        "Brave Bird": 46
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Fake Tears": 3,
+        "Agility": 4,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Thief": 18,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Swift": 32,
+        "Air Cutter": 40,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "U-turn": 60,
+        "Air Slash": 65,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Taunt": 87,
+        "Fly": 97,
+        "Substitute": 103,
+        "Tailwind": 113,
+        "Reversal": 134,
+        "Nasty Plot": 140,
+        "Hurricane": 160,
+        "Brave Bird": 164,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Life Dew",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "User and teammates recover HP.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Focus Punch",
+    "category": "Physical",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "If the user is hit before attacking, it flinches instead.",
+    "isHighCrit": false
+}

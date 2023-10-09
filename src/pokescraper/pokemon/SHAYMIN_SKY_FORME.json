@@ -1,0 +1,54 @@
+{
+    "generation": 4,
+    "name": "Shaymin",
+    "species": "Gratitude Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 100,
+    "attack": 103,
+    "defense": 75,
+    "speed": 127,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Flying"
+    ],
+    "nationalNumber": 492,
+    "specialName": "Sky Forme",
+    "specialAbilities": [
+        "Serene Grace"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 120,
+    "specialDefense": 75,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 3
+    },
+    "baseFriendship": 100,
+    "baseExp": 270,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Growth": 1,
+        "Magical Leaf": 10,
+        "Leech Seed": 19,
+        "Quick Attack": 28,
+        "Sweet Scent": 37,
+        "Play Rough": 46,
+        "Worry Seed": 55,
+        "Air Slash": 64,
+        "Energy Ball": 73,
+        "Sweet Kiss": 82,
+        "Leaf Storm": 91,
+        "Seed Flare": 100
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

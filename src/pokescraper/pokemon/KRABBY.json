@@ -1,0 +1,89 @@
+{
+    "generation": 1,
+    "name": "Krabby",
+    "species": "River Crab Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 30,
+    "attack": 105,
+    "defense": 90,
+    "speed": 50,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 98,
+    "specialName": null,
+    "specialAbilities": [
+        "Hyper Cutter",
+        "Shell Armor"
+    ],
+    "hiddenAbility": "Sheer Force",
+    "specialAttack": 25,
+    "specialDefense": 25,
+    "catchRate": 225,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 65,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 3"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Water Gun": 1,
+        "Harden": 4,
+        "Metal Claw": 8,
+        "Mud Shot": 12,
+        "Protect": 16,
+        "Bubble Beam": 20,
+        "Stomp": 24,
+        "Flail": 29,
+        "Razor Shell": 32,
+        "Slam": 36,
+        "Swords Dance": 40,
+        "Crabhammer": 44,
+        "Guillotine": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Dig": 28,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Scald": 49,
+        "False Swipe": 54,
+        "Brine": 55,
+        "Fling": 56,
+        "Endure": 58,
+        "Swords Dance": 75,
+        "Rock Slide": 80,
+        "X-Scissor": 81,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Surf": 95,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

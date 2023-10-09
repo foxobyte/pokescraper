@@ -1,0 +1,12 @@
+{
+    "name": "Chilling Water",
+    "category": "Special",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Lowers opponent's Attack.",
+    "isHighCrit": false
+}

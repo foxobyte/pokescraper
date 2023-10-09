@@ -1,0 +1,12 @@
+{
+    "name": "Double Shock",
+    "category": "Physical",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "After using this move, the user will no longer be Electric type.",
+    "isHighCrit": false
+}

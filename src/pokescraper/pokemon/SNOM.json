@@ -1,0 +1,58 @@
+{
+    "generation": 8,
+    "name": "Snom",
+    "species": "Worm Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 30,
+    "attack": 25,
+    "defense": 35,
+    "speed": 20,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice",
+        "Bug"
+    ],
+    "nationalNumber": 872,
+    "specialName": null,
+    "specialAbilities": [
+        "Shield Dust"
+    ],
+    "hiddenAbility": "Ice Scales",
+    "specialAttack": 45,
+    "specialDefense": 30,
+    "catchRate": 190,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 37,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Powder Snow": 1,
+        "Struggle Bug": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Protect": 7,
+        "Struggle Bug": 15,
+        "Pounce": 21,
+        "Facade": 25,
+        "Icy Wind": 34,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Substitute": 103,
+        "Bug Buzz": 162,
+        "Tera Blast": 171
+    }
+}

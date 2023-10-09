@@ -1,0 +1,75 @@
+{
+    "generation": 5,
+    "name": "Palpitoad",
+    "species": "Vibration Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 75,
+    "attack": 65,
+    "defense": 55,
+    "speed": 69,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Ground"
+    ],
+    "nationalNumber": 536,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim",
+        "Hydration"
+    ],
+    "hiddenAbility": "Water Absorb",
+    "specialAttack": 65,
+    "specialDefense": 55,
+    "catchRate": 120,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 134,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Acid": 1,
+        "Echoed Voice": 1,
+        "Growl": 1,
+        "Supersonic": 1,
+        "Mud Shot": 12,
+        "Round": 16,
+        "Bubble Beam": 20,
+        "Flail": 24,
+        "Uproar": 30,
+        "Aqua Ring": 37,
+        "Hyper Voice": 42,
+        "Muddy Water": 48,
+        "Rain Dance": 54,
+        "Hydro Pump": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Screech": 16,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Facade": 39,
+        "Weather Ball": 46,
+        "Bounce": 52,
+        "Mud Shot": 53,
+        "Round": 76,
+        "Bulldoze": 81
+    }
+}

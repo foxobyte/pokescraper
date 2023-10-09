@@ -1,0 +1,12 @@
+{
+    "name": "Steel Roller",
+    "category": "Physical",
+    "power": 130,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Fails if no Terrain in effect.",
+    "isHighCrit": false
+}

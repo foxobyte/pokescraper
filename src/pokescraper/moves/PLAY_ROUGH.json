@@ -1,0 +1,12 @@
+{
+    "name": "Play Rough",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": 10,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "May lower opponent's Attack.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Shell Smash",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Sharply raises user's Attack, Special Attack and Speed but lowers Defense and Special Defense.",
+    "isHighCrit": false
+}

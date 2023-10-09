@@ -1,0 +1,91 @@
+{
+    "generation": 9,
+    "name": "Crocalor",
+    "species": "Fire Croc Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 81,
+    "attack": 55,
+    "defense": 78,
+    "speed": 49,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire"
+    ],
+    "nationalNumber": 910,
+    "specialName": null,
+    "specialAbilities": [
+        "Blaze"
+    ],
+    "hiddenAbility": "Unaware",
+    "specialAttack": 90,
+    "specialDefense": 58,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 144,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Ember": 1,
+        "Leer": 1,
+        "Tackle": 1,
+        "Lick": 7,
+        "Round": 10,
+        "Bite": 12,
+        "Yawn": 15,
+        "Incinerate": 17,
+        "Snarl": 24,
+        "Roar": 28,
+        "Flamethrower": 32,
+        "Hyper Voice": 38,
+        "Will-O-Wisp": 42,
+        "Fire Blast": 47
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Thunder Fang": 9,
+        "Disarming Voice": 19,
+        "Fire Spin": 24,
+        "Facade": 25,
+        "Snarl": 30,
+        "Flame Charge": 38,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Dig": 55,
+        "Zen Headbutt": 59,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Substitute": 103,
+        "Will-O-Wisp": 107,
+        "Crunch": 108,
+        "Hyper Voice": 117,
+        "Heat Wave": 118,
+        "Flamethrower": 125,
+        "Helping Hand": 130,
+        "Fire Blast": 141,
+        "Fire Pledge": 144,
+        "Outrage": 156,
+        "Overheat": 157,
+        "Flare Blitz": 165,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "generation": 3,
+    "name": "Combusken",
+    "species": "Young Fowl Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "0.9\u00a0m (2\u203211\u2033)",
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "speed": 55,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire",
+        "Fighting"
+    ],
+    "nationalNumber": 256,
+    "specialName": null,
+    "specialAbilities": [
+        "Blaze"
+    ],
+    "hiddenAbility": "Speed Boost",
+    "specialAttack": 85,
+    "specialDefense": 60,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 1,
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 142,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Double Kick": 1,
+        "Ember": 1,
+        "Feather Dance": 1,
+        "Flamethrower": 1,
+        "Growl": 1,
+        "Quick Attack": 1,
+        "Scratch": 1,
+        "Flame Charge": 9,
+        "Detect": 12,
+        "Sand Attack": 15,
+        "Aerial Ace": 20,
+        "Slash": 25,
+        "Bounce": 30,
+        "Focus Energy": 35,
+        "Blaze Kick": 40,
+        "Bulk Up": 45,
+        "Reversal": 50,
+        "Flare Blitz": 55
+    },
+    "movesLearnedOnEvolution": [
+        "Double Kick"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Focus Punch": 1,
+        "Bulk Up": 8,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Low Sweep": 27,
+        "Dig": 28,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Flamethrower": 35,
+        "Fire Blast": 38,
+        "Rock Tomb": 39,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Overheat": 50,
+        "Focus Blast": 52,
+        "Fling": 56,
+        "Endure": 58,
+        "Will-O-Wisp": 61,
+        "Shadow Claw": 65,
+        "Swords Dance": 75,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Poison Jab": 84,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

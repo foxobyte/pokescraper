@@ -1,0 +1,92 @@
+{
+    "generation": 3,
+    "name": "Aron",
+    "species": "Iron Armor Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 50,
+    "attack": 70,
+    "defense": 100,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Steel",
+        "Rock"
+    ],
+    "nationalNumber": 304,
+    "specialName": null,
+    "specialAbilities": [
+        "Sturdy",
+        "Rock Head"
+    ],
+    "hiddenAbility": "Heavy Metal",
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "catchRate": 180,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 35,
+    "baseExp": 66,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Monster"
+    ],
+    "eggCycles": 35,
+    "movesLearnedAtLevel": {
+        "Harden": 1,
+        "Tackle": 1,
+        "Metal Claw": 4,
+        "Rock Tomb": 8,
+        "Roar": 12,
+        "Headbutt": 16,
+        "Protect": 20,
+        "Rock Slide": 24,
+        "Iron Head": 28,
+        "Metal Sound": 33,
+        "Take Down": 36,
+        "Autotomize": 40,
+        "Iron Tail": 44,
+        "Iron Defense": 48,
+        "Heavy Slam": 52,
+        "Double-Edge": 56,
+        "Metal Burst": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Roar": 5,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Iron Tail": 23,
+        "Earthquake": 26,
+        "Dig": 28,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Sandstorm": 37,
+        "Rock Tomb": 39,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Endure": 58,
+        "Shadow Claw": 65,
+        "Rock Polish": 69,
+        "Stealth Rock": 76,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

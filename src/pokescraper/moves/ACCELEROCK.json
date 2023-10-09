@@ -1,0 +1,12 @@
+{
+    "name": "Accelerock",
+    "category": "Physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "User attacks first.",
+    "isHighCrit": false
+}

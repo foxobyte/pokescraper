@@ -1,0 +1,83 @@
+{
+    "generation": 5,
+    "name": "Emolga",
+    "species": "Sky Squirrel Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 55,
+    "attack": 75,
+    "defense": 60,
+    "speed": 103,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric",
+        "Flying"
+    ],
+    "nationalNumber": 587,
+    "specialName": null,
+    "specialAbilities": [
+        "Static"
+    ],
+    "hiddenAbility": "Motor Drive",
+    "specialAttack": 75,
+    "specialDefense": 60,
+    "catchRate": 200,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 150,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Nuzzle": 1,
+        "Tail Whip": 1,
+        "Double Team": 5,
+        "Quick Attack": 10,
+        "Thunder Shock": 15,
+        "Charge": 20,
+        "Acrobatics": 25,
+        "Spark": 30,
+        "Encore": 35,
+        "Volt Switch": 40,
+        "Light Screen": 45,
+        "Discharge": 50,
+        "Agility": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Dual Wingbeat",
+        "Rising Voltage"
+    ],
+    "movesLearnedByTm": {
+        "Solar Beam": 11,
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Charm": 29,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "U-turn": 56,
+        "Fling": 59,
+        "Speed Swap": 62,
+        "Round": 76,
+        "Acrobatics": 78,
+        "Volt Switch": 80,
+        "Electroweb": 82,
+        "Eerie Impulse": 93,
+        "Air Slash": 95
+    }
+}

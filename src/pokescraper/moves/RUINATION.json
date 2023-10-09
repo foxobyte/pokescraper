@@ -1,0 +1,12 @@
+{
+    "name": "Ruination",
+    "category": "Special",
+    "power": 1,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Halves the opponent's HP.",
+    "isHighCrit": false
+}

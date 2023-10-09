@@ -1,0 +1,51 @@
+{
+    "generation": 4,
+    "name": "Kricketot",
+    "species": "Cricket Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 37,
+    "attack": 25,
+    "defense": 41,
+    "speed": 25,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 401,
+    "specialName": null,
+    "specialAbilities": [
+        "Shed Skin"
+    ],
+    "hiddenAbility": "Run Away",
+    "specialAttack": 25,
+    "specialDefense": 41,
+    "catchRate": 255,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 39,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Tackle": 1,
+        "Struggle Bug": 6,
+        "Bug Bite": 16
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Struggle Bug": 15,
+        "Tera Blast": 171
+    }
+}

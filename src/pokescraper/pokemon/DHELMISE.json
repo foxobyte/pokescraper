@@ -1,0 +1,90 @@
+{
+    "generation": 7,
+    "name": "Dhelmise",
+    "species": "Sea Creeper Pok\u00e9mon",
+    "height": "3.9\u00a0m (12\u203210\u2033)",
+    "weight": "3.9\u00a0m (12\u203210\u2033)",
+    "hp": 70,
+    "attack": 131,
+    "defense": 100,
+    "speed": 40,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Ghost",
+        "Grass"
+    ],
+    "nationalNumber": 781,
+    "specialName": null,
+    "specialAbilities": [
+        "Steelworker"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 86,
+    "specialDefense": 90,
+    "catchRate": 25,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 181,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Rapid Spin": 1,
+        "Astonish": 4,
+        "Wrap": 8,
+        "Mega Drain": 12,
+        "Growth": 16,
+        "Gyro Ball": 20,
+        "Switcheroo": 24,
+        "Giga Drain": 28,
+        "Whirlpool": 32,
+        "Heavy Slam": 36,
+        "Slam": 40,
+        "Shadow Ball": 44,
+        "Metal Sound": 48,
+        "Anchor Shot": 52,
+        "Energy Ball": 56,
+        "Phantom Force": 60,
+        "Power Whip": 64
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Grassy Glide",
+        "Poltergeist",
+        "Steel Roller"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Solar Blade": 12,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Whirlpool": 36,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Brick Break": 43,
+        "Brine": 55,
+        "Payback": 57,
+        "Assurance": 58,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Hex": 77,
+        "Bulldoze": 81,
+        "Phantom Force": 86,
+        "Brutal Swing": 97
+    }
+}

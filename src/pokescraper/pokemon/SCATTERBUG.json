@@ -1,0 +1,53 @@
+{
+    "generation": 6,
+    "name": "Scatterbug",
+    "species": "Scatterdust Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 38,
+    "attack": 35,
+    "defense": 40,
+    "speed": 35,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 664,
+    "specialName": null,
+    "specialAbilities": [
+        "Shield Dust",
+        "Compound Eyes"
+    ],
+    "hiddenAbility": "Friend Guard",
+    "specialAttack": 27,
+    "specialDefense": 25,
+    "catchRate": 255,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 40,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "String Shot": 1,
+        "Tackle": 1,
+        "Stun Spore": 6,
+        "Bug Bite": 15
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Struggle Bug": 15,
+        "Pounce": 21,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "generation": 4,
+    "name": "Prinplup",
+    "species": "Penguin Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 64,
+    "attack": 66,
+    "defense": 68,
+    "speed": 50,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 394,
+    "specialName": null,
+    "specialAbilities": [
+        "Torrent"
+    ],
+    "hiddenAbility": "Defiant",
+    "specialAttack": 81,
+    "specialDefense": 76,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 142,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Tackle": 1,
+        "Water Gun": 1,
+        "Peck": 15,
+        "Bubble Beam": 19,
+        "Swagger": 24,
+        "Fury Attack": 28,
+        "Brine": 33,
+        "Whirlpool": 37,
+        "Mist": 42,
+        "Drill Peck": 46,
+        "Hydro Pump": 50
+    },
+    "movesLearnedOnEvolution": [
+        "Metal Claw"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Agility": 4,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Disarming Voice": 19,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Metal Claw": 31,
+        "Swift": 32,
+        "Icy Wind": 34,
+        "Rock Tomb": 36,
+        "Fling": 43,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Snowscape": 52,
+        "Brick Break": 58,
+        "Shadow Claw": 61,
+        "Sleep Talk": 70,
+        "Waterfall": 77,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Substitute": 103,
+        "Liquidation": 110,
+        "Surf": 123,
+        "Ice Spinner": 124,
+        "Helping Hand": 130,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Water Pledge": 145,
+        "Tera Blast": 171,
+        "Haze": 174,
+        "Weather Ball": 193,
+        "Flip Turn": 196
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "generation": 9,
+    "name": "Lechonk",
+    "species": "Hog Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 54,
+    "attack": 45,
+    "defense": 40,
+    "speed": 35,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 915,
+    "specialName": null,
+    "specialAbilities": [
+        "Aroma Veil",
+        "Gluttony"
+    ],
+    "hiddenAbility": "Thick Fat",
+    "specialAttack": 35,
+    "specialDefense": 45,
+    "catchRate": 255,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 51,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Tackle": 1,
+        "Tail Whip": 1,
+        "Disarming Voice": 5,
+        "Echoed Voice": 8,
+        "Mud Shot": 12,
+        "Covet": 15,
+        "Dig": 17,
+        "Headbutt": 21,
+        "Yawn": 24,
+        "Take Down": 27,
+        "Work Up": 30,
+        "Uproar": 32,
+        "Double-Edge": 35
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Thief": 18,
+        "Disarming Voice": 19,
+        "Trailblaze": 20,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Mud Shot": 35,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Dig": 55,
+        "Bullet Seed": 56,
+        "Zen Headbutt": 59,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Rest": 85,
+        "Iron Head": 99,
+        "Substitute": 103,
+        "Hyper Voice": 117,
+        "Play Rough": 127,
+        "Helping Hand": 130,
+        "Tera Blast": 171
+    }
+}

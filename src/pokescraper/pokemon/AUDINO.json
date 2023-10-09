@@ -1,0 +1,93 @@
+{
+    "generation": 5,
+    "name": "Audino",
+    "species": "Hearing Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 103,
+    "attack": 60,
+    "defense": 86,
+    "speed": 50,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 531,
+    "specialName": null,
+    "specialAbilities": [
+        "Healer",
+        "Regenerator"
+    ],
+    "hiddenAbility": "Klutz",
+    "specialAttack": 60,
+    "specialDefense": 86,
+    "catchRate": 255,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 390,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Fairy"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Play Nice": 1,
+        "Pound": 1,
+        "Disarming Voice": 4,
+        "Baby-Doll Eyes": 9,
+        "Helping Hand": 12,
+        "Growl": 16,
+        "Zen Headbutt": 20,
+        "Life Dew": 24,
+        "After You": 28,
+        "Take Down": 32,
+        "Simple Beam": 36,
+        "Hyper Voice": 40,
+        "Heal Pulse": 44,
+        "Double-Edge": 48,
+        "Entrainment": 52,
+        "Misty Terrain": 56,
+        "Last Resort": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Fire Punch": 3,
+        "Ice Punch": 4,
+        "Thunder Punch": 5,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Thunder Wave": 14,
+        "Dig": 15,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Fling": 59,
+        "Drain Punch": 63,
+        "Trick Room": 70,
+        "Round": 76,
+        "Retaliate": 79,
+        "Draining Kiss": 87,
+        "Misty Terrain": 89,
+        "Stomping Tantrum": 98
+    }
+}

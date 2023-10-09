@@ -1,0 +1,12 @@
+{
+    "name": "Spike Cannon",
+    "category": "Physical",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Hits 2-5 times in one turn.",
+    "isHighCrit": false
+}

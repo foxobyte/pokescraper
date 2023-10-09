@@ -1,0 +1,83 @@
+{
+    "generation": 2,
+    "name": "Sunkern",
+    "species": "Seed Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 191,
+    "specialName": null,
+    "specialAbilities": [
+        "Chlorophyll",
+        "Solar Power"
+    ],
+    "hiddenAbility": "Early Bird",
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "catchRate": 235,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 36,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growth": 1,
+        "Tackle": 1,
+        "Absorb": 7,
+        "Mega Drain": 10,
+        "Razor Leaf": 16,
+        "Worry Seed": 19,
+        "Giga Drain": 22,
+        "Endeavor": 25,
+        "Synthesis": 28,
+        "Solar Beam": 31,
+        "Double-Edge": 34,
+        "Sunny Day": 36,
+        "Seed Bomb": 39
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Magical Leaf": 33,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Bullet Seed": 56,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Light Screen": 75,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Substitute": 103,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Encore": 122,
+        "Helping Hand": 130,
+        "Earth Power": 133,
+        "Grassy Terrain": 137,
+        "Leaf Storm": 159,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

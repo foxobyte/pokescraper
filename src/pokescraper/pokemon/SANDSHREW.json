@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "name": "Sandshrew",
+    "species": "Mouse Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 50,
+    "attack": 75,
+    "defense": 85,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {
+        "SANDSLASH": {
+            "level": 22,
+            "time": null,
+            "heldItem": null,
+            "usedItem": null,
+            "hasPokemon": null,
+            "highFriendship": null,
+            "needsTrade": null,
+            "usedMove": null,
+            "learnedMove": null
+        }
+    },
+    "type": [
+        "Ground"
+    ],
+    "nationalNumber": 27,
+    "specialName": null,
+    "specialAbilities": [
+        "Sand Veil"
+    ],
+    "hiddenAbility": "Sand Rush",
+    "specialAttack": 20,
+    "specialDefense": 30,
+    "catchRate": 255,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 60,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Defense Curl": 1,
+        "Scratch": 1,
+        "Mist": 3,
+        "Powder Snow": 6,
+        "Rollout": 9,
+        "Fury Cutter": 12,
+        "Rapid Spin": 15,
+        "Metal Claw": 18,
+        "Swift": 21,
+        "Fury Swipes": 24,
+        "Iron Defense": 27,
+        "Slash": 30,
+        "Iron Head": 33,
+        "Gyro Ball": 36,
+        "Swords Dance": 39,
+        "Snowscape": 42,
+        "Blizzard": 45
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

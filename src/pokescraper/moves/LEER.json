@@ -1,0 +1,12 @@
+{
+    "name": "Leer",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 30,
+    "probability": 100,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Lowers opponent's Defense.",
+    "isHighCrit": false
+}

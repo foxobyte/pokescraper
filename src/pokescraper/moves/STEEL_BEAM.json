@@ -1,0 +1,12 @@
+{
+    "name": "Steel Beam",
+    "category": "Special",
+    "power": 140,
+    "accuracy": 95,
+    "pp": 5,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "User loses 50% of its HP.",
+    "isHighCrit": false
+}

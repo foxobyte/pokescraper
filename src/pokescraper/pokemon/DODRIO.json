@@ -1,0 +1,89 @@
+{
+    "generation": 1,
+    "name": "Dodrio",
+    "species": "Triple Bird Pok\u00e9mon",
+    "height": "1.8\u00a0m (5\u203211\u2033)",
+    "weight": "1.8\u00a0m (5\u203211\u2033)",
+    "hp": 60,
+    "attack": 110,
+    "defense": 70,
+    "speed": 110,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 85,
+    "specialName": null,
+    "specialAbilities": [
+        "Run Away",
+        "Early Bird"
+    ],
+    "hiddenAbility": "Tangled Feet",
+    "specialAttack": 60,
+    "specialDefense": 60,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 165,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Peck": 1,
+        "Quick Attack": 5,
+        "Tri Attack": 1,
+        "Leer": 8,
+        "Fury Attack": 12,
+        "Wing Attack": 15,
+        "Pluck": 19,
+        "Double Hit": 22,
+        "Agility": 26,
+        "Uproar": 29,
+        "Acupressure": 34,
+        "Swords Dance": 38,
+        "Lunge": 43,
+        "Drill Peck": 47,
+        "Endeavor": 52,
+        "Thrash": 56
+    },
+    "movesLearnedOnEvolution": [
+        "Tri Attack"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Taunt": 12,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Double Team": 32,
+        "Aerial Ace": 40,
+        "Torment": 41,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Steel Wing": 47,
+        "Roost": 51,
+        "Endure": 58,
+        "Payback": 66,
+        "Giga Impact": 68,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Pluck": 88,
+        "Substitute": 90,
+        "Fly": 94
+    }
+}

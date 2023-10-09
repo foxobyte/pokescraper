@@ -1,0 +1,12 @@
+{
+    "name": "Bolt Strike",
+    "category": "Physical",
+    "power": 130,
+    "accuracy": 85,
+    "pp": 5,
+    "probability": 20,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "May paralyze opponent.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Misty Explosion",
+    "category": "Special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "Power increases on Misty Terrain.",
+    "isHighCrit": false
+}

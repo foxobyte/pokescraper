@@ -1,0 +1,12 @@
+{
+    "name": "Work Up",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Raises user's Attack and Special Attack.",
+    "isHighCrit": false
+}

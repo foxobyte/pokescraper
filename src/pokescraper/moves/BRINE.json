@@ -1,0 +1,12 @@
+{
+    "name": "Brine",
+    "category": "Special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Power doubles if opponent's HP is less than 50%.",
+    "isHighCrit": false
+}

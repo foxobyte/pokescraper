@@ -1,0 +1,12 @@
+{
+    "name": "Spite",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "The opponent's last move loses 2-5 PP.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Night Shade",
+    "category": "Special",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "Inflicts damage equal to user's level.",
+    "isHighCrit": false
+}

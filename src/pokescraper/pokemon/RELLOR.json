@@ -1,0 +1,77 @@
+{
+    "generation": 9,
+    "name": "Rellor",
+    "species": "Rolling Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.2\u00a0m (0\u203208\u2033)",
+    "hp": 41,
+    "attack": 50,
+    "defense": 60,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 953,
+    "specialName": null,
+    "specialAbilities": [
+        "Compound Eyes"
+    ],
+    "hiddenAbility": "Shed Skin",
+    "specialAttack": 31,
+    "specialDefense": 58,
+    "catchRate": 190,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 54,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Defense Curl": 1,
+        "Tackle": 1,
+        "Sand Attack": 4,
+        "Struggle Bug": 7,
+        "Rollout": 11,
+        "Mud Shot": 15,
+        "Bug Bite": 20,
+        "Take Down": 24,
+        "Dig": 29,
+        "Lunge": 35
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Struggle Bug": 15,
+        "Thief": 18,
+        "Pounce": 21,
+        "Facade": 25,
+        "Mud Shot": 35,
+        "Rock Tomb": 36,
+        "Fling": 43,
+        "Endure": 47,
+        "Dig": 55,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Leech Life": 95,
+        "Gunk Shot": 102,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "X-Scissor": 105,
+        "Sludge Bomb": 148,
+        "Bug Buzz": 162,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Dive",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Dives underwater on first turn, attacks on second turn.",
+    "isHighCrit": false
+}

@@ -1,0 +1,79 @@
+{
+    "generation": 5,
+    "name": "Dwebble",
+    "species": "Rock Inn Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 50,
+    "attack": 65,
+    "defense": 85,
+    "speed": 55,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Rock"
+    ],
+    "nationalNumber": 557,
+    "specialName": null,
+    "specialAbilities": [
+        "Sturdy",
+        "Shell Armor"
+    ],
+    "hiddenAbility": "Weak Armor",
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "catchRate": 190,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 65,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug",
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Fury Cutter": 1,
+        "Sand Attack": 1,
+        "Withdraw": 4,
+        "Smack Down": 8,
+        "Bug Bite": 12,
+        "Flail": 16,
+        "Slash": 20,
+        "Rock Slide": 24,
+        "Stealth Rock": 28,
+        "Rock Blast": 32,
+        "X-Scissor": 36,
+        "Rock Polish": 40,
+        "Shell Smash": 44,
+        "Rock Wrecker": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Solar Beam": 11,
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Facade": 39,
+        "Rock Tomb": 48,
+        "Sand Tomb": 49,
+        "Rock Blast": 54,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Bulldoze": 81
+    }
+}

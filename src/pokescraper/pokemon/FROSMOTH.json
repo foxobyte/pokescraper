@@ -1,0 +1,99 @@
+{
+    "generation": 8,
+    "name": "Frosmoth",
+    "species": "Frost Moth Pok\u00e9mon",
+    "height": "1.3\u00a0m (4\u203203\u2033)",
+    "weight": "1.3\u00a0m (4\u203203\u2033)",
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice",
+        "Bug"
+    ],
+    "nationalNumber": 873,
+    "specialName": null,
+    "specialAbilities": [
+        "Shield Dust"
+    ],
+    "hiddenAbility": "Ice Scales",
+    "specialAttack": 125,
+    "specialDefense": 90,
+    "catchRate": 75,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 166,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Attract": 1,
+        "Helping Hand": 1,
+        "Powder Snow": 1,
+        "Struggle Bug": 1,
+        "Stun Spore": 4,
+        "Infestation": 8,
+        "Mist": 12,
+        "Defog": 16,
+        "Feather Dance": 21,
+        "Aurora Beam": 24,
+        "Snowscape": 28,
+        "Bug Buzz": 32,
+        "Aurora Veil": 36,
+        "Blizzard": 40,
+        "Tailwind": 44,
+        "Wide Guard": 48,
+        "Quiver Dance": 52
+    },
+    "movesLearnedOnEvolution": [
+        "Icy Wind"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Acrobatics": 14,
+        "Struggle Bug": 15,
+        "Pounce": 21,
+        "Facade": 25,
+        "Swift": 32,
+        "Icy Wind": 34,
+        "Avalanche": 46,
+        "Endure": 47,
+        "Snowscape": 52,
+        "U-turn": 60,
+        "Air Slash": 65,
+        "Sleep Talk": 70,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Dazzling Gleam": 79,
+        "Rest": 85,
+        "Imprison": 92,
+        "Leech Life": 95,
+        "Substitute": 103,
+        "Giga Drain": 111,
+        "Tailwind": 113,
+        "Ice Spinner": 124,
+        "Play Rough": 127,
+        "Calm Mind": 129,
+        "Helping Hand": 130,
+        "Ice Beam": 135,
+        "Blizzard": 143,
+        "Giga Impact": 152,
+        "Hurricane": 160,
+        "Bug Buzz": 162,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

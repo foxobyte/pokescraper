@@ -1,0 +1,91 @@
+{
+    "generation": 2,
+    "name": "Igglybuff",
+    "species": "Balloon Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 90,
+    "attack": 30,
+    "defense": 15,
+    "speed": 15,
+    "gender": {
+        "male": "25%",
+        "female": "75%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Fairy"
+    ],
+    "nationalNumber": 174,
+    "specialName": null,
+    "specialAbilities": [
+        "Cute Charm",
+        "Competitive"
+    ],
+    "hiddenAbility": "Friend Guard",
+    "specialAttack": 40,
+    "specialDefense": 20,
+    "catchRate": 170,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 42,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 10,
+    "movesLearnedAtLevel": {
+        "Copycat": 1,
+        "Pound": 1,
+        "Sing": 1,
+        "Defense Curl": 4,
+        "Sweet Kiss": 8,
+        "Disarming Voice": 12,
+        "Disable": 16,
+        "Charm": 20
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Fake Tears": 3,
+        "Protect": 7,
+        "Disarming Voice": 19,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Swift": 32,
+        "Icy Wind": 34,
+        "Draining Kiss": 37,
+        "Fling": 43,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Dig": 55,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Dazzling Gleam": 79,
+        "Grass Knot": 81,
+        "Thunder Wave": 82,
+        "Rest": 85,
+        "Substitute": 103,
+        "Shadow Ball": 114,
+        "Hyper Voice": 117,
+        "Psychic": 120,
+        "Encore": 122,
+        "Flamethrower": 125,
+        "Play Rough": 127,
+        "Helping Hand": 130,
+        "Misty Terrain": 139,
+        "Fire Blast": 141,
+        "Wild Charge": 147,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

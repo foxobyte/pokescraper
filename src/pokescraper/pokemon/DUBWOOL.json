@@ -1,0 +1,75 @@
+{
+    "generation": 8,
+    "name": "Dubwool",
+    "species": "Sheep Pok\u00e9mon",
+    "height": "1.3\u00a0m (4\u203203\u2033)",
+    "weight": "1.3\u00a0m (4\u203203\u2033)",
+    "hp": 72,
+    "attack": 80,
+    "defense": 100,
+    "speed": 88,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 832,
+    "specialName": null,
+    "specialAbilities": [
+        "Fluffy",
+        "Steadfast"
+    ],
+    "hiddenAbility": "Bulletproof",
+    "specialAttack": 60,
+    "specialDefense": 90,
+    "catchRate": 127,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 172,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Copycat": 1,
+        "Defense Curl": 1,
+        "Growl": 1,
+        "Tackle": 1,
+        "Guard Split": 12,
+        "Double Kick": 16,
+        "Headbutt": 21,
+        "Take Down": 27,
+        "Guard Swap": 32,
+        "Reversal": 38,
+        "Cotton Guard": 44,
+        "Double-Edge": 50,
+        "Last Resort": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Grassy Glide"
+    ],
+    "movesLearnedByTm": {
+        "Mega Kick": 1,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Facade": 39,
+        "Bounce": 52,
+        "Payback": 57,
+        "Guard Swap": 61,
+        "Round": 76,
+        "Retaliate": 79
+    }
+}

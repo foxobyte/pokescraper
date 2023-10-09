@@ -1,0 +1,12 @@
+{
+    "name": "Low Sweep",
+    "category": "Physical",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 100,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Lowers opponent's Speed.",
+    "isHighCrit": false
+}

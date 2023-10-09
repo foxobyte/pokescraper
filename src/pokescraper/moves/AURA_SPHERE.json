@@ -1,0 +1,12 @@
+{
+    "name": "Aura Sphere",
+    "category": "Special",
+    "power": 80,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Ignores Accuracy and Evasiveness.",
+    "isHighCrit": false
+}

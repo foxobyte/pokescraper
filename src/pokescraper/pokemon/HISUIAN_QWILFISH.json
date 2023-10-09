@@ -1,0 +1,63 @@
+{
+    "generation": 2,
+    "name": "Qwilfish",
+    "species": "Balloon Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 65,
+    "attack": 95,
+    "defense": 85,
+    "speed": 85,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Dark",
+        "Poison"
+    ],
+    "nationalNumber": 211,
+    "specialName": "Hisuian Qwilfish",
+    "specialAbilities": [
+        "Poison Point",
+        "Swift Swim"
+    ],
+    "hiddenAbility": "Intimidate",
+    "specialAttack": 55,
+    "specialDefense": 55,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 88,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 2"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Poison Sting": 1,
+        "Tackle": 1,
+        "Harden": 4,
+        "Bite": 8,
+        "Fell Stinger": 12,
+        "Minimize": 16,
+        "Spikes": 20,
+        "Brine": 24,
+        "Barb Barrage": 28,
+        "Pin Missile": 32,
+        "Toxic Spikes": 36,
+        "Spit Up": 40,
+        "Stockpile": 40,
+        "Toxic": 44,
+        "Crunch": 48,
+        "Acupressure": 52,
+        "Destiny Bond": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

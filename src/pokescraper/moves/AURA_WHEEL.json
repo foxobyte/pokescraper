@@ -1,0 +1,12 @@
+{
+    "name": "Aura Wheel",
+    "category": "Physical",
+    "power": 110,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 100,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "Changes type based on Morpeko's Mode.",
+    "isHighCrit": false
+}

@@ -1,0 +1,63 @@
+{
+    "generation": 1,
+    "name": "Muk",
+    "species": "Sludge Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 105,
+    "attack": 105,
+    "defense": 75,
+    "speed": 50,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Poison",
+        "Dark"
+    ],
+    "nationalNumber": 89,
+    "specialName": "Alolan Muk",
+    "specialAbilities": [
+        "Poison Touch",
+        "Gluttony"
+    ],
+    "hiddenAbility": "Power of Alchemy",
+    "specialAttack": 65,
+    "specialDefense": 100,
+    "catchRate": 75,
+    "evYield": {
+        "HP": 1,
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 175,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Bite": 1,
+        "Harden": 1,
+        "Poison Gas": 1,
+        "Pound": 1,
+        "Disable": 12,
+        "Acid Spray": 15,
+        "Poison Fang": 18,
+        "Minimize": 21,
+        "Toxic": 26,
+        "Knock Off": 29,
+        "Crunch": 32,
+        "Screech": 37,
+        "Gunk Shot": 40,
+        "Acid Armor": 46,
+        "Belch": 52,
+        "Memento": 57
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Play Nice",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": 100,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Lowers opponent's Attack. Always hits.",
+    "isHighCrit": false
+}

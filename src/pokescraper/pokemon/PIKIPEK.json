@@ -1,0 +1,96 @@
+{
+    "generation": 7,
+    "name": "Pikipek",
+    "species": "Woodpecker Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 35,
+    "attack": 75,
+    "defense": 30,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 731,
+    "specialName": null,
+    "specialAbilities": [
+        "Keen Eye",
+        "Skill Link"
+    ],
+    "hiddenAbility": "Pickup",
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "catchRate": 255,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 53,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Peck": 1,
+        "Growl": 3,
+        "Echoed Voice": 7,
+        "Rock Smash": 9,
+        "Supersonic": 13,
+        "Pluck": 15,
+        "Roost": 19,
+        "Fury Attack": 21,
+        "Screech": 25,
+        "Drill Peck": 27,
+        "Bullet Seed": 31,
+        "Feather Dance": 33,
+        "Hyper Voice": 37
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Defog",
+        "Gunk Shot",
+        "Heat Wave",
+        "Hyper Voice",
+        "Knock Off",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar"
+    ],
+    "movesLearnedByTm": {
+        "Work Up": 1,
+        "Toxic": 6,
+        "Hidden Power": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Roost": 19,
+        "Frustration": 21,
+        "Smack Down": 23,
+        "Return": 27,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Aerial Ace": 40,
+        "Flame Charge": 43,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Round": 48,
+        "Echoed Voice": 49,
+        "Steel Wing": 51,
+        "Swords Dance": 75,
+        "Fly": 76,
+        "Swagger": 87,
+        "Sleep Talk": 88,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Confide": 100
+    }
+}

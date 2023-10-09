@@ -1,0 +1,12 @@
+{
+    "name": "Plasma Fists",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "Changes Normal-type moves to Electric-type moves.",
+    "isHighCrit": false
+}

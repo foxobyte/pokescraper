@@ -1,0 +1,102 @@
+{
+    "generation": 1,
+    "name": "Cloyster",
+    "species": "Bivalve Pok\u00e9mon",
+    "height": "1.5\u00a0m (4\u203211\u2033)",
+    "weight": "1.5\u00a0m (4\u203211\u2033)",
+    "hp": 50,
+    "attack": 95,
+    "defense": 180,
+    "speed": 70,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Ice"
+    ],
+    "nationalNumber": 91,
+    "specialName": null,
+    "specialAbilities": [
+        "Shell Armor",
+        "Skill Link"
+    ],
+    "hiddenAbility": "Overcoat",
+    "specialAttack": 85,
+    "specialDefense": 45,
+    "catchRate": 60,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 184,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Water 3"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Aurora Beam": 1,
+        "Hydro Pump": 1,
+        "Ice Beam": 1,
+        "Ice Shard": 1,
+        "Icicle Crash": 1,
+        "Iron Defense": 1,
+        "Leer": 1,
+        "Protect": 1,
+        "Shell Smash": 1,
+        "Spikes": 1,
+        "Supersonic": 1,
+        "Tackle": 1,
+        "Toxic Spikes": 1,
+        "Water Gun": 1,
+        "Whirlpool": 1,
+        "Withdraw": 1,
+        "Razor Shell": 5
+    },
+    "movesLearnedOnEvolution": [
+        "Icicle Spear"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Swift": 32,
+        "Icy Wind": 34,
+        "Mud Shot": 35,
+        "Avalanche": 46,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Snowscape": 52,
+        "Smart Strike": 53,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Light Screen": 75,
+        "Rock Blast": 76,
+        "Waterfall": 77,
+        "Poison Jab": 83,
+        "Rest": 85,
+        "Spikes": 90,
+        "Toxic Spikes": 91,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Drill Run": 106,
+        "Liquidation": 110,
+        "Surf": 123,
+        "Ice Spinner": 124,
+        "Helping Hand": 130,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Giga Impact": 152,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

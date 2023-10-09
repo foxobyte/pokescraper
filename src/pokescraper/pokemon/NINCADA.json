@@ -1,0 +1,76 @@
+{
+    "generation": 3,
+    "name": "Nincada",
+    "species": "Trainee Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 31,
+    "attack": 45,
+    "defense": 90,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Ground"
+    ],
+    "nationalNumber": 290,
+    "specialName": null,
+    "specialAbilities": [
+        "Compound Eyes"
+    ],
+    "hiddenAbility": "Run Away",
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "catchRate": 255,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 53,
+    "growthRate": "Erratic",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Sand Attack": 1,
+        "Scratch": 1,
+        "Harden": 5,
+        "False Swipe": 10,
+        "Mud-Slap": 15,
+        "Absorb": 21,
+        "Metal Claw": 25,
+        "Fury Swipes": 30,
+        "Mind Reader": 35,
+        "Dig": 40
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Solar Beam": 22,
+        "Dig": 28,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Sandstorm": 37,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "False Swipe": 54,
+        "Endure": 58,
+        "Bug Buzz": 62,
+        "Flash": 70,
+        "X-Scissor": 81,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93
+    }
+}

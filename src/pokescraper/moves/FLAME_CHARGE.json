@@ -1,0 +1,12 @@
+{
+    "name": "Flame Charge",
+    "category": "Physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 100,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "Raises user's Speed.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Psycho Boost",
+    "category": "Special",
+    "power": 140,
+    "accuracy": 90,
+    "pp": 5,
+    "probability": 100,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Sharply lowers user's Special Attack.",
+    "isHighCrit": false
+}

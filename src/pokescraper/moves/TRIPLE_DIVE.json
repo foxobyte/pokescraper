@@ -1,0 +1,12 @@
+{
+    "name": "Triple Dive",
+    "category": "Physical",
+    "power": 30,
+    "accuracy": 95,
+    "pp": 10,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Hits 3 times in a row.",
+    "isHighCrit": false
+}

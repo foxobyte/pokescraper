@@ -1,0 +1,86 @@
+{
+    "generation": 6,
+    "name": "Fletchling",
+    "species": "Tiny Robin Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 45,
+    "attack": 50,
+    "defense": 43,
+    "speed": 62,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 661,
+    "specialName": null,
+    "specialAbilities": [
+        "Big Pecks"
+    ],
+    "hiddenAbility": "Gale Wings",
+    "specialAttack": 40,
+    "specialDefense": 38,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 56,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Peck": 1,
+        "Quick Attack": 5,
+        "Ember": 10,
+        "Flail": 15,
+        "Acrobatics": 20,
+        "Agility": 25,
+        "Aerial Ace": 30,
+        "Tailwind": 35,
+        "Steel Wing": 40,
+        "Roost": 45,
+        "Fly": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Protect": 7,
+        "Acrobatics": 14,
+        "Thief": 18,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Swift": 32,
+        "Flame Charge": 38,
+        "Air Cutter": 40,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "U-turn": 60,
+        "Air Slash": 65,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Taunt": 87,
+        "Swords Dance": 88,
+        "Fly": 97,
+        "Substitute": 103,
+        "Tailwind": 113,
+        "Heat Wave": 118,
+        "Overheat": 157,
+        "Hurricane": 160,
+        "Brave Bird": 164,
+        "Flare Blitz": 165,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Frost Breath",
+    "category": "Special",
+    "power": 60,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": 100,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "Always results in a critical hit.",
+    "isHighCrit": false
+}

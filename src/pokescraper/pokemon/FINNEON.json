@@ -1,0 +1,87 @@
+{
+    "generation": 4,
+    "name": "Finneon",
+    "species": "Wing Fish Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 49,
+    "attack": 49,
+    "defense": 56,
+    "speed": 66,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 456,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim",
+        "Storm Drain"
+    ],
+    "hiddenAbility": "Water Veil",
+    "specialAttack": 49,
+    "specialDefense": 61,
+    "catchRate": 190,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 66,
+    "growthRate": "Erratic",
+    "eggGroups": [
+        "Water 2"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Pound": 1,
+        "Water Gun": 6,
+        "Rain Dance": 13,
+        "Gust": 17,
+        "Water Pulse": 22,
+        "Attract": 26,
+        "Safeguard": 29,
+        "Aqua Ring": 33,
+        "Whirlpool": 38,
+        "U-turn": 42,
+        "Bounce": 45,
+        "Tailwind": 49,
+        "Soak": 54
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Agility": 4,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Acrobatics": 14,
+        "Psybeam": 16,
+        "Confuse Ray": 17,
+        "Thief": 18,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Swift": 32,
+        "Icy Wind": 34,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "U-turn": 60,
+        "Sleep Talk": 70,
+        "Waterfall": 77,
+        "Dazzling Gleam": 79,
+        "Rest": 85,
+        "Substitute": 103,
+        "Tailwind": 113,
+        "Surf": 123,
+        "Helping Hand": 130,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Tera Blast": 171
+    }
+}

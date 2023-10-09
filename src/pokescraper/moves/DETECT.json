@@ -1,0 +1,12 @@
+{
+    "name": "Detect",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Protects the user, but may fail if used consecutively.",
+    "isHighCrit": false
+}

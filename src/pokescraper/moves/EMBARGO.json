@@ -1,0 +1,12 @@
+{
+    "name": "Embargo",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Opponent cannot use items.",
+    "isHighCrit": false
+}

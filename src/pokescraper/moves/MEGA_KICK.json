@@ -1,0 +1,12 @@
+{
+    "name": "Mega Kick",
+    "category": "Physical",
+    "power": 120,
+    "accuracy": 75,
+    "pp": 5,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Rock Climb",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 85,
+    "pp": 20,
+    "probability": 20,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "May confuse opponent.",
+    "isHighCrit": false
+}

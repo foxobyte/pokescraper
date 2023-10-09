@@ -1,0 +1,96 @@
+{
+    "generation": 9,
+    "name": "Lokix",
+    "species": "Grasshopper Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 71,
+    "attack": 102,
+    "defense": 78,
+    "speed": 92,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Dark"
+    ],
+    "nationalNumber": 920,
+    "specialName": null,
+    "specialAbilities": [
+        "Swarm"
+    ],
+    "hiddenAbility": "Tinted Lens",
+    "specialAttack": 52,
+    "specialDefense": 55,
+    "catchRate": 30,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 0,
+    "baseExp": 158,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Detect": 1,
+        "Leer": 1,
+        "Low Kick": 1,
+        "Tackle": 1,
+        "Struggle Bug": 4,
+        "Astonish": 6,
+        "Assurance": 9,
+        "Double Kick": 11,
+        "Screech": 14,
+        "Endure": 18,
+        "Bug Bite": 22,
+        "Feint": 28,
+        "Agility": 32,
+        "Throat Chop": 36,
+        "Sucker Punch": 40,
+        "First Impression": 44,
+        "Bounce": 48,
+        "Axe Kick": 53
+    },
+    "movesLearnedOnEvolution": [
+        "Lunge"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Low Kick": 12,
+        "Struggle Bug": 15,
+        "Thief": 18,
+        "Trailblaze": 20,
+        "Pounce": 21,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Low Sweep": 39,
+        "Fling": 43,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Brick Break": 58,
+        "U-turn": 60,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Taunt": 87,
+        "Swords Dance": 88,
+        "Dark Pulse": 94,
+        "Leech Life": 95,
+        "Substitute": 103,
+        "X-Scissor": 105,
+        "Reversal": 134,
+        "Giga Impact": 152,
+        "Bug Buzz": 162,
+        "Tera Blast": 171
+    }
+}

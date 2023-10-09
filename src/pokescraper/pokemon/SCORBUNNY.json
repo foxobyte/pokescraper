@@ -1,0 +1,88 @@
+{
+    "generation": 8,
+    "name": "Scorbunny",
+    "species": "Rabbit Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 50,
+    "attack": 71,
+    "defense": 40,
+    "speed": 69,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire"
+    ],
+    "nationalNumber": 813,
+    "specialName": null,
+    "specialAbilities": [
+        "Blaze"
+    ],
+    "hiddenAbility": "Libero",
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 62,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Human-Like"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Tackle": 1,
+        "Ember": 6,
+        "Quick Attack": 8,
+        "Double Kick": 12,
+        "Flame Charge": 17,
+        "Agility": 20,
+        "Headbutt": 24,
+        "Counter": 28,
+        "Bounce": 32,
+        "Double-Edge": 36
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Low Kick": 12,
+        "Acrobatics": 14,
+        "Trailblaze": 20,
+        "Fire Spin": 24,
+        "Facade": 25,
+        "Swift": 32,
+        "Flame Charge": 38,
+        "Low Sweep": 39,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "U-turn": 60,
+        "Sleep Talk": 70,
+        "Electro Ball": 72,
+        "Rest": 85,
+        "Taunt": 87,
+        "Gunk Shot": 102,
+        "Substitute": 103,
+        "Heat Wave": 118,
+        "Flamethrower": 125,
+        "Helping Hand": 130,
+        "Baton Pass": 132,
+        "Reversal": 134,
+        "Fire Blast": 141,
+        "Fire Pledge": 144,
+        "Overheat": 157,
+        "Flare Blitz": 165,
+        "Tera Blast": 171
+    }
+}

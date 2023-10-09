@@ -1,0 +1,87 @@
+{
+    "generation": 5,
+    "name": "Ducklett",
+    "species": "Water Bird Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 62,
+    "attack": 44,
+    "defense": 50,
+    "speed": 55,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Flying"
+    ],
+    "nationalNumber": 580,
+    "specialName": null,
+    "specialAbilities": [
+        "Keen Eye",
+        "Big Pecks"
+    ],
+    "hiddenAbility": "Hydration",
+    "specialAttack": 44,
+    "specialDefense": 50,
+    "catchRate": 190,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 61,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Flying",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Water Gun": 1,
+        "Defog": 6,
+        "Wing Attack": 9,
+        "Water Pulse": 13,
+        "Aerial Ace": 15,
+        "Bubble Beam": 19,
+        "Feather Dance": 21,
+        "Aqua Ring": 24,
+        "Air Slash": 27,
+        "Roost": 30,
+        "Rain Dance": 34,
+        "Tailwind": 37,
+        "Brave Bird": 41,
+        "Hurricane": 46
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Disarming Voice": 19,
+        "Trailblaze": 20,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Swift": 32,
+        "Icy Wind": 34,
+        "Air Cutter": 40,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Air Slash": 65,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Fly": 97,
+        "Substitute": 103,
+        "Liquidation": 110,
+        "Tailwind": 113,
+        "Surf": 123,
+        "Helping Hand": 130,
+        "Ice Beam": 135,
+        "Hurricane": 160,
+        "Brave Bird": 164,
+        "Tera Blast": 171
+    }
+}

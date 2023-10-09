@@ -1,0 +1,12 @@
+{
+    "name": "Splash",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Doesn't do ANYTHING.",
+    "isHighCrit": false
+}

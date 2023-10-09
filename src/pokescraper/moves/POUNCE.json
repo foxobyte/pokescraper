@@ -1,0 +1,12 @@
+{
+    "name": "Pounce",
+    "category": "Physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 100,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "Lowers opponent's Speed.",
+    "isHighCrit": false
+}

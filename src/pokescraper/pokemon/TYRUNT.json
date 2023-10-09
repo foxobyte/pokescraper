@@ -1,0 +1,86 @@
+{
+    "generation": 6,
+    "name": "Tyrunt",
+    "species": "Royal Heir Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 58,
+    "attack": 89,
+    "defense": 77,
+    "speed": 48,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Rock",
+        "Dragon"
+    ],
+    "nationalNumber": 696,
+    "specialName": null,
+    "specialAbilities": [
+        "Strong Jaw"
+    ],
+    "hiddenAbility": "Sturdy",
+    "specialAttack": 45,
+    "specialDefense": 45,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 72,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Dragon",
+        "Monster"
+    ],
+    "eggCycles": 30,
+    "movesLearnedAtLevel": {
+        "Tackle": 1,
+        "Tail Whip": 1,
+        "Roar": 4,
+        "Ancient Power": 8,
+        "Charm": 12,
+        "Bite": 16,
+        "Dragon Tail": 20,
+        "Stomp": 24,
+        "Rock Slide": 28,
+        "Crunch": 32,
+        "Dragon Claw": 36,
+        "Thrash": 40,
+        "Earthquake": 44,
+        "Horn Drill": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Lash Out",
+        "Meteor Beam",
+        "Scale Shot"
+    ],
+    "movesLearnedByTm": {
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Charm": 29,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Rock Blast": 54,
+        "Assurance": 58,
+        "Thunder Fang": 66,
+        "Ice Fang": 67,
+        "Fire Fang": 68,
+        "Round": 76,
+        "Bulldoze": 81,
+        "Stomping Tantrum": 98
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "generation": 1,
+    "name": "Cubone",
+    "species": "Lonely Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 50,
+    "attack": 50,
+    "defense": 95,
+    "speed": 35,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ground"
+    ],
+    "nationalNumber": 104,
+    "specialName": null,
+    "specialAbilities": [
+        "Rock Head",
+        "Lightning Rod"
+    ],
+    "hiddenAbility": "Battle Armor",
+    "specialAttack": 40,
+    "specialDefense": 50,
+    "catchRate": 190,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 64,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Mud-Slap": 1,
+        "Tail Whip": 4,
+        "False Swipe": 8,
+        "Headbutt": 12,
+        "Retaliate": 16,
+        "Fling": 20,
+        "Stomping Tantrum": 24,
+        "Bone Rush": 29,
+        "Focus Energy": 32,
+        "Endeavor": 36,
+        "Bonemerang": 40,
+        "Thrash": 44,
+        "Double-Edge": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Focus Punch": 1,
+        "Sunny Day": 11,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Iron Tail": 23,
+        "Earthquake": 26,
+        "Dig": 28,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Flamethrower": 35,
+        "Sandstorm": 37,
+        "Fire Blast": 38,
+        "Rock Tomb": 39,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "False Swipe": 54,
+        "Fling": 56,
+        "Endure": 58,
+        "Swords Dance": 75,
+        "Stealth Rock": 76,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Strength": 96,
+        "Rock Smash": 98,
+        "Rock Climb": 100
+    }
+}

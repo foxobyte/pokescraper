@@ -1,0 +1,12 @@
+{
+    "name": "Hidden Power",
+    "category": "Special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Type and power depends on user's IVs.",
+    "isHighCrit": false
+}

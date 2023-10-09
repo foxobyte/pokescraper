@@ -1,0 +1,12 @@
+{
+    "name": "Spiky Shield",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Protects the user and inflicts damage on contact.",
+    "isHighCrit": false
+}

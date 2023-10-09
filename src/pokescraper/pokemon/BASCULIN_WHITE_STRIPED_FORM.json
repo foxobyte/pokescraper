@@ -1,0 +1,61 @@
+{
+    "generation": 5,
+    "name": "Basculin",
+    "species": "Mellow Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 70,
+    "attack": 92,
+    "defense": 65,
+    "speed": 98,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 550,
+    "specialName": "White-Striped Form",
+    "specialAbilities": [
+        "Rattled",
+        "Adaptability"
+    ],
+    "hiddenAbility": "Mold Breaker",
+    "specialAttack": 80,
+    "specialDefense": 55,
+    "catchRate": 25,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 161,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 2"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Tail Whip": 1,
+        "Water Gun": 1,
+        "Tackle": 4,
+        "Flail": 8,
+        "Aqua Jet": 12,
+        "Bite": 16,
+        "Scary Face": 20,
+        "Headbutt": 24,
+        "Soak": 28,
+        "Crunch": 32,
+        "Take Down": 36,
+        "Uproar": 40,
+        "Wave Crash": 44,
+        "Thrash": 48,
+        "Double-Edge": 52,
+        "Head Smash": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

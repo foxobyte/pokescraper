@@ -1,0 +1,12 @@
+{
+    "name": "Imprison",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Opponent is unable to use moves that the user also knows.",
+    "isHighCrit": false
+}

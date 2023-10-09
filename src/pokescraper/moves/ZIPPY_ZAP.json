@@ -1,0 +1,12 @@
+{
+    "name": "Zippy Zap",
+    "category": "Physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 100,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "Always results in a critical hit.",
+    "isHighCrit": false
+}

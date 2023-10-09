@@ -1,0 +1,12 @@
+{
+    "name": "Stoked Sparksurfer",
+    "category": "Special",
+    "power": 175,
+    "accuracy": null,
+    "pp": 1,
+    "probability": 100,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "Alolan Raichu-exclusive Electric type Z-Move.",
+    "isHighCrit": false
+}

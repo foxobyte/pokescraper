@@ -1,0 +1,12 @@
+{
+    "name": "Electroweb",
+    "category": "Special",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 15,
+    "probability": 100,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "Lowers opponent's Speed.",
+    "isHighCrit": false
+}

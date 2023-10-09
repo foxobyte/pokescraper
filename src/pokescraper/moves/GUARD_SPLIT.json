@@ -1,0 +1,12 @@
+{
+    "name": "Guard Split",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Averages Defense and Special Defense with the target.",
+    "isHighCrit": false
+}

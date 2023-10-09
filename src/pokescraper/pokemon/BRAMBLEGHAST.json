@@ -1,0 +1,88 @@
+{
+    "generation": 9,
+    "name": "Brambleghast",
+    "species": "Tumbleweed Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 55,
+    "attack": 115,
+    "defense": 70,
+    "speed": 90,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Ghost"
+    ],
+    "nationalNumber": 947,
+    "specialName": null,
+    "specialAbilities": [
+        "Wind Rider"
+    ],
+    "hiddenAbility": "Infiltrator",
+    "specialAttack": 80,
+    "specialDefense": 70,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 168,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Defense Curl": 1,
+        "Rollout": 1,
+        "Absorb": 5,
+        "Rapid Spin": 9,
+        "Bullet Seed": 13,
+        "Infestation": 17,
+        "Hex": 21,
+        "Mega Drain": 25,
+        "Disable": 29,
+        "Phantom Force": 35,
+        "Giga Drain": 40,
+        "Curse": 45,
+        "Pain Split": 50,
+        "Power Whip": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Scary Face": 6,
+        "Protect": 7,
+        "Confuse Ray": 17,
+        "Thief": 18,
+        "Trailblaze": 20,
+        "Pounce": 21,
+        "Facade": 25,
+        "Hex": 29,
+        "Night Shade": 42,
+        "Endure": 47,
+        "Bullet Seed": 56,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Spikes": 90,
+        "Substitute": 103,
+        "Giga Drain": 111,
+        "Shadow Ball": 114,
+        "Energy Ball": 119,
+        "Grassy Terrain": 137,
+        "Phantom Force": 151,
+        "Giga Impact": 152,
+        "Leaf Storm": 159,
+        "Hyper Beam": 163,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

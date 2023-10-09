@@ -1,0 +1,12 @@
+{
+    "name": "Clanging Scales",
+    "category": "Special",
+    "power": 110,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": 100,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "Lowers user's Defense.",
+    "isHighCrit": false
+}

@@ -1,0 +1,103 @@
+{
+    "generation": 5,
+    "name": "Snivy",
+    "species": "Grass Snake Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 45,
+    "attack": 45,
+    "defense": 55,
+    "speed": 63,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 495,
+    "specialName": null,
+    "specialAbilities": [
+        "Overgrow"
+    ],
+    "hiddenAbility": "Contrary",
+    "specialAttack": 45,
+    "specialDefense": 55,
+    "catchRate": 45,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 62,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Tackle": 1,
+        "Leer": 4,
+        "Vine Whip": 7,
+        "Wrap": 10,
+        "Growth": 13,
+        "Leaf Tornado": 16,
+        "Leech Seed": 19,
+        "Mega Drain": 22,
+        "Slam": 25,
+        "Leaf Blade": 28,
+        "Coil": 31,
+        "Giga Drain": 34,
+        "Wring Out": 37,
+        "Gastro Acid": 40,
+        "Leaf Storm": 43
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Aqua Tail",
+        "Bind",
+        "Defog",
+        "Gastro Acid",
+        "Giga Drain",
+        "Grass Pledge",
+        "Iron Tail",
+        "Knock Off",
+        "Seed Bomb",
+        "Snatch",
+        "Snore",
+        "Synthesis",
+        "Worry Seed"
+    ],
+    "movesLearnedByTm": {
+        "Work Up": 1,
+        "Calm Mind": 4,
+        "Toxic": 6,
+        "Hidden Power": 10,
+        "Sunny Day": 11,
+        "Taunt": 12,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Safeguard": 20,
+        "Frustration": 21,
+        "Solar Beam": 22,
+        "Return": 27,
+        "Double Team": 32,
+        "Reflect": 33,
+        "Aerial Ace": 40,
+        "Torment": 41,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Round": 48,
+        "Energy Ball": 53,
+        "Swords Dance": 75,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Sleep Talk": 88,
+        "Substitute": 90,
+        "Nature Power": 96,
+        "Confide": 100
+    }
+}

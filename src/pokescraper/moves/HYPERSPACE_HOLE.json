@@ -1,0 +1,12 @@
+{
+    "name": "Hyperspace Hole",
+    "category": "Special",
+    "power": 80,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Can strike through Protect/Detect.",
+    "isHighCrit": false
+}

@@ -1,0 +1,59 @@
+{
+    "generation": 6,
+    "name": "Sliggoo",
+    "species": "Snail Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 58,
+    "attack": 75,
+    "defense": 83,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Steel",
+        "Dragon"
+    ],
+    "nationalNumber": 705,
+    "specialName": "Hisuian Sliggoo",
+    "specialAbilities": [
+        "Sap Sipper",
+        "Shell Armor"
+    ],
+    "hiddenAbility": "Gooey",
+    "specialAttack": 83,
+    "specialDefense": 113,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 35,
+    "baseExp": 158,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Dragon"
+    ],
+    "eggCycles": 40,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Acid Armor": 1,
+        "Dragon Breath": 1,
+        "Tackle": 1,
+        "Water Gun": 1,
+        "Protect": 15,
+        "Flail": 20,
+        "Water Pulse": 25,
+        "Rain Dance": 30,
+        "Dragon Pulse": 35,
+        "Curse": 43,
+        "Iron Head": 49,
+        "Muddy Water": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

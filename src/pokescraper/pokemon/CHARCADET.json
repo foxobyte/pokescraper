@@ -1,0 +1,74 @@
+{
+    "generation": 9,
+    "name": "Charcadet",
+    "species": "Fire Child Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 40,
+    "attack": 50,
+    "defense": 40,
+    "speed": 35,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire"
+    ],
+    "nationalNumber": 935,
+    "specialName": null,
+    "specialAbilities": [
+        "Flash Fire"
+    ],
+    "hiddenAbility": "Flame Body",
+    "specialAttack": 50,
+    "specialDefense": 40,
+    "catchRate": 90,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 51,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Human-Like"
+    ],
+    "eggCycles": 35,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Ember": 1,
+        "Leer": 1,
+        "Clear Smog": 8,
+        "Fire Spin": 12,
+        "Will-O-Wisp": 16,
+        "Night Shade": 20,
+        "Flame Charge": 24,
+        "Incinerate": 28,
+        "Lava Plume": 32
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Confuse Ray": 17,
+        "Fire Spin": 24,
+        "Facade": 25,
+        "Flame Charge": 38,
+        "Night Shade": 42,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Sleep Talk": 70,
+        "Substitute": 103,
+        "Will-O-Wisp": 107,
+        "Heat Wave": 118,
+        "Flamethrower": 125,
+        "Helping Hand": 130,
+        "Fire Blast": 141,
+        "Overheat": 157,
+        "Flare Blitz": 165,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Baddy Bad",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Reduces damage from Physical attacks.",
+    "isHighCrit": false
+}

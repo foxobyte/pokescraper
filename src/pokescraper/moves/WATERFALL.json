@@ -1,0 +1,12 @@
+{
+    "name": "Waterfall",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 20,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

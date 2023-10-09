@@ -1,0 +1,12 @@
+{
+    "name": "Bubble",
+    "category": "Special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "probability": 10,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "May lower opponent's Speed.",
+    "isHighCrit": false
+}

@@ -1,0 +1,94 @@
+{
+    "generation": 1,
+    "name": "Beedrill",
+    "species": "Poison Bee Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 65,
+    "attack": 90,
+    "defense": 40,
+    "speed": 75,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Poison"
+    ],
+    "nationalNumber": 15,
+    "specialName": null,
+    "specialAbilities": [
+        "Swarm"
+    ],
+    "hiddenAbility": "Sniper",
+    "specialAttack": 45,
+    "specialDefense": 80,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2,
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 178,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Bug Bite": 1,
+        "Fury Attack": 1,
+        "Harden": 1,
+        "Poison Sting": 17,
+        "String Shot": 1,
+        "Fury Cutter": 11,
+        "Laser Focus": 14,
+        "Focus Energy": 20,
+        "Venoshock": 23,
+        "Assurance": 26,
+        "Toxic Spikes": 29,
+        "Pin Missile": 32,
+        "Poison Jab": 35,
+        "Agility": 38,
+        "Endeavor": 41,
+        "Fell Stinger": 44
+    },
+    "movesLearnedOnEvolution": [
+        "Fury Attack"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Solar Beam": 22,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Roost": 51,
+        "False Swipe": 54,
+        "Endure": 58,
+        "Payback": 66,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "X-Scissor": 81,
+        "Sleep Talk": 82,
+        "Poison Jab": 84,
+        "Swagger": 87,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Cut": 93,
+        "Defog": 97,
+        "Rock Smash": 98
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "generation": 6,
+    "name": "Zygarde",
+    "species": "Order Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 54,
+    "attack": 100,
+    "defense": 71,
+    "speed": 115,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Dragon",
+        "Ground"
+    ],
+    "nationalNumber": 718,
+    "specialName": "10% Forme",
+    "specialAbilities": [
+        "Aura Break",
+        "Power Construct"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 61,
+    "specialDefense": 85,
+    "catchRate": 3,
+    "evYield": {
+        "HP": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 219,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Bind": 1,
+        "Bite": 1,
+        "Bulldoze": 1,
+        "Core Enforcer": 1,
+        "Dragon Breath": 1,
+        "Thousand Arrows": 1,
+        "Thousand Waves": 1,
+        "Haze": 8,
+        "Dig": 16,
+        "Safeguard": 24,
+        "Crunch": 32,
+        "Dragon Pulse": 40,
+        "Land's Wrath": 48,
+        "Glare": 56,
+        "Sandstorm": 64,
+        "Coil": 72,
+        "Earthquake": 80,
+        "Outrage": 88
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Scale Shot",
+        "Scorching Sands",
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Sandstorm": 32,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Swift": 40,
+        "Brick Break": 43,
+        "Payback": 57,
+        "Round": 76,
+        "Retaliate": 79,
+        "Bulldoze": 81,
+        "Stomping Tantrum": 98,
+        "Breaking Swipe": 99
+    }
+}

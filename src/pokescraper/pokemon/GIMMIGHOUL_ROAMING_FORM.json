@@ -1,0 +1,60 @@
+{
+    "generation": 9,
+    "name": "Gimmighoul",
+    "species": "Coin Hunter Pok\u00e9mon",
+    "height": "0.1\u00a0m (0\u203204\u2033)",
+    "weight": "0.1\u00a0m (0\u203204\u2033)",
+    "hp": 45,
+    "attack": 30,
+    "defense": 25,
+    "speed": 80,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Ghost"
+    ],
+    "nationalNumber": 999,
+    "specialName": "Roaming Form",
+    "specialAbilities": [
+        "Run Away"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 75,
+    "specialDefense": 45,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 60,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 50,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Tackle": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Confuse Ray": 17,
+        "Thief": 18,
+        "Hex": 29,
+        "Night Shade": 42,
+        "Endure": 47,
+        "Sleep Talk": 70,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Rest": 85,
+        "Power Gem": 101,
+        "Substitute": 103,
+        "Shadow Ball": 114,
+        "Nasty Plot": 140,
+        "Tera Blast": 171
+    }
+}

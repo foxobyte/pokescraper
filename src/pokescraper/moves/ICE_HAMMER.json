@@ -1,0 +1,12 @@
+{
+    "name": "Ice Hammer",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": 100,
+    "type": "Ice",
+    "moveType": "Ice",
+    "effectDescription": "The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however.",
+    "isHighCrit": false
+}

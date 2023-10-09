@@ -1,0 +1,12 @@
+{
+    "name": "Dark Void",
+    "category": "Status",
+    "power": null,
+    "accuracy": 50,
+    "pp": 10,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Puts all adjacent opponents to sleep.",
+    "isHighCrit": false
+}

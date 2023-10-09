@@ -1,0 +1,12 @@
+{
+    "name": "Solar Blade",
+    "category": "Physical",
+    "power": 125,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Charges on first turn, attacks on second.",
+    "isHighCrit": false
+}

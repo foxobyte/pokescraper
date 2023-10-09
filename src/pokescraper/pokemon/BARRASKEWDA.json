@@ -1,0 +1,85 @@
+{
+    "generation": 8,
+    "name": "Barraskewda",
+    "species": "Skewer Pok\u00e9mon",
+    "height": "1.3\u00a0m (4\u203203\u2033)",
+    "weight": "1.3\u00a0m (4\u203203\u2033)",
+    "hp": 61,
+    "attack": 123,
+    "defense": 60,
+    "speed": 136,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 847,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim"
+    ],
+    "hiddenAbility": "Propeller Tail",
+    "specialAttack": 60,
+    "specialDefense": 50,
+    "catchRate": 60,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 172,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Water 2"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Aqua Jet": 1,
+        "Bite": 1,
+        "Fury Attack": 1,
+        "Peck": 1,
+        "Throat Chop": 1,
+        "Agility": 18,
+        "Dive": 24,
+        "Focus Energy": 32,
+        "Crunch": 40,
+        "Liquidation": 48,
+        "Double-Edge": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Ice Fang": 10,
+        "Water Pulse": 11,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Swift": 32,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Brick Break": 58,
+        "Psychic Fangs": 63,
+        "Sleep Talk": 70,
+        "Waterfall": 77,
+        "Poison Jab": 83,
+        "Rest": 85,
+        "Substitute": 103,
+        "Drill Run": 106,
+        "Crunch": 108,
+        "Liquidation": 110,
+        "Surf": 123,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Giga Impact": 152,
+        "Hyper Beam": 163,
+        "Close Combat": 167,
+        "Tera Blast": 171
+    }
+}

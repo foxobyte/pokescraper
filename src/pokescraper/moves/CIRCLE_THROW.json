@@ -1,0 +1,12 @@
+{
+    "name": "Circle Throw",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 90,
+    "pp": 10,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "In battles, the opponent switches. In the wild, the Pok\u00e9mon runs.",
+    "isHighCrit": false
+}

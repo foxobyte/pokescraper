@@ -1,0 +1,12 @@
+{
+    "name": "Double-Edge",
+    "category": "Physical",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User receives recoil damage.",
+    "isHighCrit": false
+}

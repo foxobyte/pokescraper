@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "name": "Klink",
+    "species": "Gear Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 40,
+    "attack": 55,
+    "defense": 70,
+    "speed": 30,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Steel"
+    ],
+    "nationalNumber": 599,
+    "specialName": null,
+    "specialAbilities": [
+        "Plus",
+        "Minus"
+    ],
+    "hiddenAbility": "Clear Body",
+    "specialAttack": 45,
+    "specialDefense": 60,
+    "catchRate": 130,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 60,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Thunder Shock": 1,
+        "Vise Grip": 1,
+        "Bind": 4,
+        "Charge": 8,
+        "Charge Beam": 12,
+        "Metal Sound": 16,
+        "Autotomize": 20,
+        "Discharge": 24,
+        "Screech": 28,
+        "Gear Grind": 32,
+        "Lock-On": 36,
+        "Shift Gear": 40,
+        "Zap Cannon": 44,
+        "Hyper Beam": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Rising Voltage",
+        "Steel Roller"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Thunder Wave": 14,
+        "Screech": 16,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Sandstorm": 32,
+        "Facade": 39,
+        "Assurance": 58,
+        "Round": 76,
+        "Volt Switch": 80
+    }
+}

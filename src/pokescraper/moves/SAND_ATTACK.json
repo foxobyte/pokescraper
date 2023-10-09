@@ -1,0 +1,12 @@
+{
+    "name": "Sand Attack",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "Lowers opponent's Accuracy.",
+    "isHighCrit": false
+}

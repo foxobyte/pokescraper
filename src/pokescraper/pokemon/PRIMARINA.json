@@ -1,0 +1,91 @@
+{
+    "generation": 7,
+    "name": "Primarina",
+    "species": "Soloist Pok\u00e9mon",
+    "height": "1.8\u00a0m (5\u203211\u2033)",
+    "weight": "1.8\u00a0m (5\u203211\u2033)",
+    "hp": 80,
+    "attack": 74,
+    "defense": 74,
+    "speed": 60,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Fairy"
+    ],
+    "nationalNumber": 730,
+    "specialName": null,
+    "specialAbilities": [
+        "Torrent"
+    ],
+    "hiddenAbility": "Liquid Voice",
+    "specialAttack": 126,
+    "specialDefense": 116,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 239,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Water 1"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Disarming Voice": 1,
+        "Growl": 1,
+        "Pound": 1,
+        "Sparkling Aria": 1,
+        "Water Gun": 1,
+        "Aqua Jet": 9,
+        "Baby-Doll Eyes": 12,
+        "Icy Wind": 15,
+        "Sing": 20,
+        "Bubble Beam": 25,
+        "Encore": 30,
+        "Misty Terrain": 37,
+        "Hyper Voice": 44,
+        "Moonblast": 51,
+        "Hydro Pump": 58
+    },
+    "movesLearnedOnEvolution": [
+        "Sparkling Aria"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Flip Turn",
+        "Misty Explosion",
+        "Triple Axel"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Charm": 29,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Whirlpool": 36,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Dive": 45,
+        "Weather Ball": 46,
+        "Brine": 55,
+        "Wonder Room": 71,
+        "Round": 76,
+        "Acrobatics": 78,
+        "Draining Kiss": 87,
+        "Misty Terrain": 89
+    }
+}

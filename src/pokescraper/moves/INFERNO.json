@@ -1,0 +1,12 @@
+{
+    "name": "Inferno",
+    "category": "Special",
+    "power": 100,
+    "accuracy": 50,
+    "pp": 5,
+    "probability": 100,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "Burns opponent.",
+    "isHighCrit": false
+}

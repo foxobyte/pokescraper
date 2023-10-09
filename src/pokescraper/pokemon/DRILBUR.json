@@ -1,0 +1,78 @@
+{
+    "generation": 5,
+    "name": "Drilbur",
+    "species": "Mole Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 60,
+    "attack": 85,
+    "defense": 40,
+    "speed": 68,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ground"
+    ],
+    "nationalNumber": 529,
+    "specialName": null,
+    "specialAbilities": [
+        "Sand Rush",
+        "Sand Force"
+    ],
+    "hiddenAbility": "Mold Breaker",
+    "specialAttack": 30,
+    "specialDefense": 45,
+    "catchRate": 120,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 66,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Mud-Slap": 1,
+        "Rapid Spin": 1,
+        "Scratch": 4,
+        "Hone Claws": 8,
+        "Fury Swipes": 12,
+        "Metal Claw": 16,
+        "Sandstorm": 20,
+        "Crush Claw": 24,
+        "Rock Slide": 28,
+        "Dig": 32,
+        "Swords Dance": 36,
+        "Drill Run": 40,
+        "Earthquake": 44,
+        "Fissure": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Scorching Sands"
+    ],
+    "movesLearnedByTm": {
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Facade": 39,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Sand Tomb": 49,
+        "Mud Shot": 53,
+        "Fling": 59,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Bulldoze": 81
+    }
+}

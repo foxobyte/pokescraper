@@ -1,0 +1,60 @@
+{
+    "generation": 1,
+    "name": "Persian",
+    "species": "Classy Cat Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 65,
+    "attack": 70,
+    "defense": 60,
+    "speed": 115,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 53,
+    "specialName": null,
+    "specialAbilities": [
+        "Limber",
+        "Technician"
+    ],
+    "hiddenAbility": "Unnerve",
+    "specialAttack": 65,
+    "specialDefense": 65,
+    "catchRate": 90,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 154,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Fake Out": 1,
+        "Feint": 1,
+        "Growl": 1,
+        "Quash": 1,
+        "Scratch": 1,
+        "Switcheroo": 1,
+        "Pay Day": 12,
+        "Bite": 16,
+        "Taunt": 20,
+        "Assurance": 24,
+        "Fury Swipes": 31,
+        "Screech": 36,
+        "Night Slash": 42,
+        "Nasty Plot": 48,
+        "Play Rough": 54
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

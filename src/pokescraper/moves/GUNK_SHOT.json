@@ -1,0 +1,12 @@
+{
+    "name": "Gunk Shot",
+    "category": "Physical",
+    "power": 120,
+    "accuracy": 80,
+    "pp": 5,
+    "probability": 30,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "May poison opponent.",
+    "isHighCrit": false
+}

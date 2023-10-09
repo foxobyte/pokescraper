@@ -1,0 +1,12 @@
+{
+    "name": "Bounce",
+    "category": "Physical",
+    "power": 85,
+    "accuracy": 85,
+    "pp": 5,
+    "probability": 30,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "Springs up on first turn, attacks on second. May paralyze opponent.",
+    "isHighCrit": false
+}

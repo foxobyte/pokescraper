@@ -1,0 +1,88 @@
+{
+    "generation": 1,
+    "name": "Golbat",
+    "species": "Bat Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 75,
+    "attack": 80,
+    "defense": 70,
+    "speed": 90,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Poison",
+        "Flying"
+    ],
+    "nationalNumber": 42,
+    "specialName": null,
+    "specialAbilities": [
+        "Inner Focus"
+    ],
+    "hiddenAbility": "Infiltrator",
+    "specialAttack": 65,
+    "specialDefense": 75,
+    "catchRate": 90,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 159,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Astonish": 1,
+        "Mean Look": 1,
+        "Screech": 1,
+        "Supersonic": 1,
+        "Poison Fang": 15,
+        "Quick Guard": 20,
+        "Air Cutter": 27,
+        "Bite": 34,
+        "Haze": 41,
+        "Venoshock": 48,
+        "Confuse Ray": 55,
+        "Air Slash": 62,
+        "Leech Life": 69
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Sunny Day": 11,
+        "Taunt": 12,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Giga Drain": 19,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Aerial Ace": 40,
+        "Torment": 41,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Steel Wing": 47,
+        "Roost": 51,
+        "Endure": 58,
+        "Nasty Plot": 63,
+        "Payback": 66,
+        "Giga Impact": 68,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Pluck": 88,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Fly": 94,
+        "Defog": 97
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Menacing Moonraze Maelstrom",
+    "category": "Special",
+    "power": 200,
+    "accuracy": null,
+    "pp": 1,
+    "probability": null,
+    "type": "Ghost",
+    "moveType": "Ghost",
+    "effectDescription": "Lunala-exclusive Z-Move.",
+    "isHighCrit": false
+}

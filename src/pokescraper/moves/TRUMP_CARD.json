@@ -1,0 +1,12 @@
+{
+    "name": "Trump Card",
+    "category": "Special",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "The lower the PP, the higher the power.",
+    "isHighCrit": false
+}

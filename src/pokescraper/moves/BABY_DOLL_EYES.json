@@ -1,0 +1,12 @@
+{
+    "name": "Baby-Doll Eyes",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 30,
+    "probability": null,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "Always goes first. Lowers the target's attack.",
+    "isHighCrit": false
+}

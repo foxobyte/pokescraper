@@ -1,0 +1,100 @@
+{
+    "generation": 2,
+    "name": "Xatu",
+    "species": "Mystic Pok\u00e9mon",
+    "height": "1.5\u00a0m (4\u203211\u2033)",
+    "weight": "1.5\u00a0m (4\u203211\u2033)",
+    "hp": 65,
+    "attack": 75,
+    "defense": 70,
+    "speed": 95,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic",
+        "Flying"
+    ],
+    "nationalNumber": 178,
+    "specialName": null,
+    "specialAbilities": [
+        "Synchronize",
+        "Early Bird"
+    ],
+    "hiddenAbility": "Magic Bounce",
+    "specialAttack": 95,
+    "specialDefense": 70,
+    "catchRate": 75,
+    "evYield": {
+        "Sp. Atk": 1,
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 165,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Air Slash": 1,
+        "Leer": 1,
+        "Peck": 1,
+        "Stored Power": 1,
+        "Tailwind": 1,
+        "Teleport": 1,
+        "Confuse Ray": 15,
+        "Night Shade": 20,
+        "Psycho Shift": 28,
+        "Guard Swap": 34,
+        "Power Swap": 34,
+        "Psychic": 41,
+        "Wish": 48,
+        "Future Sight": 55
+    },
+    "movesLearnedOnEvolution": [
+        "Air Slash"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Calm Mind": 4,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Giga Drain": 19,
+        "Dazzling Gleam": 21,
+        "Solar Beam": 22,
+        "Psychic": 29,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Reflect": 33,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Steel Wing": 47,
+        "Skill Swap": 48,
+        "Roost": 51,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Thunder Wave": 73,
+        "Psych Up": 77,
+        "Sleep Talk": 82,
+        "Dream Eater": 85,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Pluck": 88,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Trick Room": 92,
+        "Fly": 94,
+        "Defog": 97
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Wing Attack",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 35,
+    "probability": null,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "",
+    "isHighCrit": false
+}

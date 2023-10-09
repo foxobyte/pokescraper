@@ -1,0 +1,12 @@
+{
+    "name": "Mat Block",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Protects teammates from damaging moves.",
+    "isHighCrit": false
+}

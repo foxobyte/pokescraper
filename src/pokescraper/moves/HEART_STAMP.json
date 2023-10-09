@@ -1,0 +1,12 @@
+{
+    "name": "Heart Stamp",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "probability": 30,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

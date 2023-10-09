@@ -1,0 +1,87 @@
+{
+    "generation": 5,
+    "name": "Sawk",
+    "species": "Karate Pok\u00e9mon",
+    "height": "1.4\u00a0m (4\u203207\u2033)",
+    "weight": "1.4\u00a0m (4\u203207\u2033)",
+    "hp": 75,
+    "attack": 125,
+    "defense": 75,
+    "speed": 85,
+    "gender": {
+        "male": "100%",
+        "female": "0%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting"
+    ],
+    "nationalNumber": 539,
+    "specialName": null,
+    "specialAbilities": [
+        "Sturdy",
+        "Inner Focus"
+    ],
+    "hiddenAbility": "Mold Breaker",
+    "specialAttack": 30,
+    "specialDefense": 75,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 163,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Human-Like"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Rock Smash": 1,
+        "Focus Energy": 5,
+        "Double Kick": 10,
+        "Quick Guard": 15,
+        "Low Sweep": 20,
+        "Bulk Up": 25,
+        "Retaliate": 30,
+        "Brick Break": 35,
+        "Counter": 40,
+        "Endure": 45,
+        "Reversal": 50,
+        "Close Combat": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Coaching"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Fire Punch": 3,
+        "Ice Punch": 4,
+        "Thunder Punch": 5,
+        "Giga Impact": 9,
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Revenge": 42,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Payback": 57,
+        "Fling": 59,
+        "Low Sweep": 75,
+        "Round": 76,
+        "Retaliate": 79,
+        "Bulldoze": 81
+    }
+}

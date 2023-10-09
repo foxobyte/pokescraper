@@ -1,0 +1,12 @@
+{
+    "name": "Bestow",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Gives the user's held item to the target.",
+    "isHighCrit": false
+}

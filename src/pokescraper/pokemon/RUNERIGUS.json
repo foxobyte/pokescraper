@@ -1,0 +1,100 @@
+{
+    "generation": 8,
+    "name": "Runerigus",
+    "species": "Grudge Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 58,
+    "attack": 95,
+    "defense": 145,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ground",
+        "Ghost"
+    ],
+    "nationalNumber": 867,
+    "specialName": null,
+    "specialAbilities": [
+        "Wandering Spirit"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 50,
+    "specialDefense": 105,
+    "catchRate": 90,
+    "evYield": {
+        "Defense": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 169,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous",
+        "Mineral"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Haze": 1,
+        "Night Shade": 1,
+        "Protect": 1,
+        "Scary Face": 1,
+        "Shadow Claw": 1,
+        "Disable": 12,
+        "Brutal Swing": 16,
+        "Crafty Shield": 20,
+        "Hex": 24,
+        "Mean Look": 28,
+        "Slam": 32,
+        "Curse": 38,
+        "Shadow Ball": 44,
+        "Earthquake": 50,
+        "Guard Split": 56,
+        "Power Split": 56,
+        "Destiny Bond": 62
+    },
+    "movesLearnedOnEvolution": [
+        "Shadow Claw"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Poltergeist"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Rain Dance": 33,
+        "Will-O-Wisp": 38,
+        "Facade": 39,
+        "Revenge": 42,
+        "Imprison": 44,
+        "Fake Tears": 47,
+        "Rock Tomb": 48,
+        "Sand Tomb": 49,
+        "Rock Blast": 54,
+        "Payback": 57,
+        "Power Swap": 60,
+        "Guard Swap": 61,
+        "Shadow Claw": 65,
+        "Trick Room": 70,
+        "Wonder Room": 71,
+        "Round": 76,
+        "Hex": 77,
+        "Bulldoze": 81,
+        "Phantom Force": 86,
+        "Brutal Swing": 97
+    }
+}

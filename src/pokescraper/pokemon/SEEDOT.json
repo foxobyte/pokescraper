@@ -1,0 +1,89 @@
+{
+    "generation": 3,
+    "name": "Seedot",
+    "species": "Acorn Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 40,
+    "attack": 40,
+    "defense": 50,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 273,
+    "specialName": null,
+    "specialAbilities": [
+        "Chlorophyll",
+        "Early Bird"
+    ],
+    "hiddenAbility": "Pickpocket",
+    "specialAttack": 30,
+    "specialDefense": 30,
+    "catchRate": 255,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 44,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Grass"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Harden": 1,
+        "Tackle": 1,
+        "Absorb": 3,
+        "Astonish": 6,
+        "Growth": 9,
+        "Rollout": 12,
+        "Mega Drain": 15,
+        "Payback": 18,
+        "Headbutt": 21,
+        "Sunny Day": 24,
+        "Synthesis": 27,
+        "Sucker Punch": 30,
+        "Explosion": 33
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Magical Leaf": 33,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Dig": 55,
+        "Bullet Seed": 56,
+        "False Swipe": 57,
+        "Foul Play": 62,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Substitute": 103,
+        "Giga Drain": 111,
+        "Shadow Ball": 114,
+        "Energy Ball": 119,
+        "Amnesia": 128,
+        "Grassy Terrain": 137,
+        "Nasty Plot": 140,
+        "Leaf Storm": 159,
+        "Solar Beam": 168,
+        "Tera Blast": 171,
+        "Spite": 177,
+        "Grassy Glide": 194
+    }
+}

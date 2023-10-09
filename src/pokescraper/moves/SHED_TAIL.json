@@ -1,0 +1,12 @@
+{
+    "name": "Shed Tail",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Creates a substitute, then swaps places with a party Pok\u00e9mon in waiting.",
+    "isHighCrit": false
+}

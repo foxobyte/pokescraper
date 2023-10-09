@@ -1,0 +1,101 @@
+{
+    "generation": 5,
+    "name": "Patrat",
+    "species": "Scout Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 45,
+    "attack": 55,
+    "defense": 39,
+    "speed": 42,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 504,
+    "specialName": null,
+    "specialAbilities": [
+        "Run Away",
+        "Keen Eye"
+    ],
+    "hiddenAbility": "Analytic",
+    "specialAttack": 35,
+    "specialDefense": 39,
+    "catchRate": 255,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 51,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Tackle": 1,
+        "Leer": 3,
+        "Bite": 6,
+        "Bide": 8,
+        "Detect": 11,
+        "Sand Attack": 13,
+        "Crunch": 16,
+        "Hypnosis": 18,
+        "Super Fang": 21,
+        "After You": 23,
+        "Focus Energy": 26,
+        "Work Up": 28,
+        "Hyper Fang": 31,
+        "Nasty Plot": 33,
+        "Mean Look": 36,
+        "Baton Pass": 38,
+        "Slam": 41
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "After You",
+        "Aqua Tail",
+        "Covet",
+        "Endeavor",
+        "Gunk Shot",
+        "Helping Hand",
+        "Iron Tail",
+        "Laser Focus",
+        "Last Resort",
+        "Low Kick",
+        "Seed Bomb",
+        "Shock Wave",
+        "Snore",
+        "Super Fang",
+        "Zen Headbutt"
+    ],
+    "movesLearnedByTm": {
+        "Work Up": 1,
+        "Toxic": 6,
+        "Hidden Power": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Frustration": 21,
+        "Thunderbolt": 24,
+        "Return": 27,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Round": 48,
+        "Fling": 56,
+        "Swords Dance": 75,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Sleep Talk": 88,
+        "Substitute": 90,
+        "Confide": 100
+    }
+}

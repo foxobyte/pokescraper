@@ -1,0 +1,12 @@
+{
+    "name": "Fairy Wind",
+    "category": "Special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "probability": null,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "",
+    "isHighCrit": false
+}

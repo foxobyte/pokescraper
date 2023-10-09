@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "name": "Tyrogue",
+    "species": "Scuffle Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 35,
+    "attack": 35,
+    "defense": 35,
+    "speed": 35,
+    "gender": {
+        "male": "100%",
+        "female": "0%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting"
+    ],
+    "nationalNumber": 236,
+    "specialName": null,
+    "specialAbilities": [
+        "Guts",
+        "Steadfast"
+    ],
+    "hiddenAbility": "Vital Spirit",
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "catchRate": 75,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 42,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 25,
+    "movesLearnedAtLevel": {
+        "Fake Out": 1,
+        "Focus Energy": 1,
+        "Helping Hand": 1,
+        "Tackle": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Bulk Up": 8,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Earthquake": 26,
+        "Low Sweep": 27,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Endure": 58,
+        "Rock Slide": 80,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

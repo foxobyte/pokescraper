@@ -1,0 +1,98 @@
+{
+    "generation": 7,
+    "name": "Tsareena",
+    "species": "Fruit Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 72,
+    "attack": 120,
+    "defense": 98,
+    "speed": 72,
+    "gender": {
+        "male": "0%",
+        "female": "100%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 763,
+    "specialName": null,
+    "specialAbilities": [
+        "Leaf Guard",
+        "Queenly Majesty"
+    ],
+    "hiddenAbility": "Sweet Veil",
+    "specialAttack": 50,
+    "specialDefense": 98,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 255,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Flail": 1,
+        "Play Nice": 1,
+        "Power Whip": 1,
+        "Rapid Spin": 1,
+        "Razor Leaf": 1,
+        "Splash": 1,
+        "Swagger": 1,
+        "Sweet Scent": 16,
+        "Magical Leaf": 22,
+        "Stomp": 28,
+        "Teeter Dance": 34,
+        "Aromatic Mist": 40,
+        "Leaf Storm": 46,
+        "High Jump Kick": 58
+    },
+    "movesLearnedOnEvolution": [
+        "Trop Kick"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Protect": 7,
+        "Low Kick": 12,
+        "Acrobatics": 14,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Swift": 32,
+        "Magical Leaf": 33,
+        "Draining Kiss": 37,
+        "Low Sweep": 39,
+        "Fling": 43,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Bullet Seed": 56,
+        "Zen Headbutt": 59,
+        "U-turn": 60,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Dazzling Gleam": 79,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Taunt": 87,
+        "Substitute": 103,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Play Rough": 127,
+        "Helping Hand": 130,
+        "Grassy Terrain": 137,
+        "Giga Impact": 152,
+        "Leaf Storm": 159,
+        "Hyper Beam": 163,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

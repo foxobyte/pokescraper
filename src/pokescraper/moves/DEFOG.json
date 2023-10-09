@@ -1,0 +1,12 @@
+{
+    "name": "Defog",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "probability": null,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "Lowers opponent's Evasiveness and clears fog.",
+    "isHighCrit": false
+}

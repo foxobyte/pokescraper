@@ -1,0 +1,101 @@
+{
+    "generation": 7,
+    "name": "Incineroar",
+    "species": "Heel Pok\u00e9mon",
+    "height": "1.8\u00a0m (5\u203211\u2033)",
+    "weight": "1.8\u00a0m (5\u203211\u2033)",
+    "hp": 95,
+    "attack": 115,
+    "defense": 90,
+    "speed": 60,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire",
+        "Dark"
+    ],
+    "nationalNumber": 727,
+    "specialName": null,
+    "specialAbilities": [
+        "Blaze"
+    ],
+    "hiddenAbility": "Intimidate",
+    "specialAttack": 80,
+    "specialDefense": 90,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 239,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Bulk Up": 1,
+        "Cross Chop": 1,
+        "Darkest Lariat": 1,
+        "Ember": 1,
+        "Growl": 1,
+        "Lick": 1,
+        "Scratch": 1,
+        "Throat Chop": 1,
+        "Roar": 9,
+        "Fury Swipes": 12,
+        "Bite": 15,
+        "Double Kick": 20,
+        "Fire Fang": 25,
+        "Scary Face": 30,
+        "Swagger": 32,
+        "Flamethrower": 44,
+        "Thrash": 51,
+        "Flare Blitz": 58
+    },
+    "movesLearnedOnEvolution": [
+        "Darkest Lariat"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Burning Jealousy",
+        "Lash Out",
+        "Scorching Sands"
+    ],
+    "movesLearnedByTm": {
+        "Mega Punch": 0,
+        "Mega Kick": 1,
+        "Pay Day": 2,
+        "Fire Punch": 3,
+        "Thunder Punch": 5,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Fire Spin": 13,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Attract": 31,
+        "Sunny Day": 34,
+        "Will-O-Wisp": 38,
+        "Facade": 39,
+        "Revenge": 42,
+        "Brick Break": 43,
+        "U-turn": 56,
+        "Assurance": 58,
+        "Fling": 59,
+        "Drain Punch": 63,
+        "Shadow Claw": 65,
+        "Fire Fang": 68,
+        "Low Sweep": 75,
+        "Round": 76,
+        "Acrobatics": 78,
+        "Bulldoze": 81,
+        "Snarl": 85,
+        "Brutal Swing": 97,
+        "Stomping Tantrum": 98
+    }
+}

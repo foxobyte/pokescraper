@@ -1,0 +1,82 @@
+{
+    "generation": 7,
+    "name": "Tapu Lele",
+    "species": "Land Spirit Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 70,
+    "attack": 85,
+    "defense": 75,
+    "speed": 95,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Psychic",
+        "Fairy"
+    ],
+    "nationalNumber": 786,
+    "specialName": null,
+    "specialAbilities": [
+        "Psychic Surge"
+    ],
+    "hiddenAbility": "Telepathy",
+    "specialAttack": 130,
+    "specialDefense": 115,
+    "catchRate": 3,
+    "evYield": {
+        "Sp. Atk": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 257,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Confusion": 1,
+        "Withdraw": 5,
+        "Aromatherapy": 10,
+        "Draining Kiss": 15,
+        "Psybeam": 20,
+        "Flatter": 25,
+        "Aromatic Mist": 30,
+        "Sweet Scent": 35,
+        "Extrasensory": 40,
+        "Psyshock": 45,
+        "Mean Look": 50,
+        "Nature's Madness": 55,
+        "Moonblast": 60,
+        "Tickle": 65,
+        "Skill Swap": 70,
+        "Psychic Terrain": 75
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Charm": 29,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Fling": 59,
+        "Power Swap": 60,
+        "Guard Swap": 61,
+        "Speed Swap": 62,
+        "Psycho Cut": 69,
+        "Wonder Room": 71,
+        "Magic Room": 72,
+        "Round": 76,
+        "Draining Kiss": 87,
+        "Psychic Terrain": 91
+    }
+}

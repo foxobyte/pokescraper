@@ -1,0 +1,12 @@
+{
+    "name": "Baton Pass",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User switches out and gives stat changes to the incoming Pok\u00e9mon.",
+    "isHighCrit": false
+}

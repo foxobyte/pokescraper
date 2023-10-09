@@ -1,0 +1,59 @@
+{
+    "generation": 2,
+    "name": "Sneasel",
+    "species": "Sharp Claw Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "0.9\u00a0m (2\u203211\u2033)",
+    "hp": 55,
+    "attack": 95,
+    "defense": 55,
+    "speed": 115,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting",
+        "Poison"
+    ],
+    "nationalNumber": 215,
+    "specialName": "Hisuian Sneasel",
+    "specialAbilities": [
+        "Inner Focus",
+        "Keen Eye"
+    ],
+    "hiddenAbility": "Pickpocket",
+    "specialAttack": 35,
+    "specialDefense": 75,
+    "catchRate": 60,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 35,
+    "baseExp": 86,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Rock Smash": 1,
+        "Scratch": 1,
+        "Taunt": 6,
+        "Quick Attack": 12,
+        "Metal Claw": 18,
+        "Poison Jab": 24,
+        "Brick Break": 30,
+        "Hone Claws": 36,
+        "Slash": 42,
+        "Agility": 48,
+        "Screech": 54,
+        "Close Combat": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

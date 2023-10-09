@@ -1,0 +1,103 @@
+{
+    "generation": 1,
+    "name": "Flareon",
+    "species": "Flame Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "0.9\u00a0m (2\u203211\u2033)",
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "speed": 65,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire"
+    ],
+    "nationalNumber": 136,
+    "specialName": null,
+    "specialAbilities": [
+        "Flash Fire"
+    ],
+    "hiddenAbility": "Guts",
+    "specialAttack": 95,
+    "specialDefense": 110,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 184,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 35,
+    "movesLearnedAtLevel": {
+        "Baton Pass": 1,
+        "Charm": 1,
+        "Copycat": 1,
+        "Covet": 1,
+        "Double-Edge": 1,
+        "Growl": 1,
+        "Helping Hand": 1,
+        "Swift": 1,
+        "Tackle": 1,
+        "Tail Whip": 1,
+        "Take Down": 1,
+        "Sand Attack": 5,
+        "Quick Attack": 10,
+        "Baby-Doll Eyes": 15,
+        "Smog": 20,
+        "Bite": 25,
+        "Fire Fang": 30,
+        "Fire Spin": 35,
+        "Lava Plume": 40,
+        "Scary Face": 45,
+        "Flare Blitz": 50,
+        "Last Resort": 55
+    },
+    "movesLearnedOnEvolution": [
+        "Ember"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Fake Tears": 3,
+        "Mud-Slap": 5,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Trailblaze": 20,
+        "Fire Spin": 24,
+        "Facade": 25,
+        "Swift": 32,
+        "Stored Power": 41,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Dig": 55,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Substitute": 103,
+        "Will-O-Wisp": 107,
+        "Shadow Ball": 114,
+        "Hyper Voice": 117,
+        "Heat Wave": 118,
+        "Flamethrower": 125,
+        "Calm Mind": 129,
+        "Helping Hand": 130,
+        "Baton Pass": 132,
+        "Fire Blast": 141,
+        "Giga Impact": 152,
+        "Overheat": 157,
+        "Hyper Beam": 163,
+        "Flare Blitz": 165,
+        "Tera Blast": 171
+    }
+}

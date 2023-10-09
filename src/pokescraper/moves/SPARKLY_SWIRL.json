@@ -1,0 +1,12 @@
+{
+    "name": "Sparkly Swirl",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "Cures all status problems in the party Pok\u00e9mon.",
+    "isHighCrit": false
+}

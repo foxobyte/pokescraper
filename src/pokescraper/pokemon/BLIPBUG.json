@@ -1,0 +1,46 @@
+{
+    "generation": 8,
+    "name": "Blipbug",
+    "species": "Larva Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 25,
+    "attack": 20,
+    "defense": 20,
+    "speed": 45,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 824,
+    "specialName": null,
+    "specialAbilities": [
+        "Swarm",
+        "Compound Eyes"
+    ],
+    "hiddenAbility": "Telepathy",
+    "specialAttack": 25,
+    "specialDefense": 45,
+    "catchRate": 255,
+    "evYield": {
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 36,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Struggle Bug": 1
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Aerial Ace",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "Ignores Accuracy and Evasiveness.",
+    "isHighCrit": false
+}

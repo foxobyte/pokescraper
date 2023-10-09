@@ -1,0 +1,12 @@
+{
+    "name": "Hypnosis",
+    "category": "Status",
+    "power": null,
+    "accuracy": 60,
+    "pp": 20,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Puts opponent to sleep.",
+    "isHighCrit": false
+}

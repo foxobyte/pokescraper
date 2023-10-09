@@ -1,0 +1,97 @@
+{
+    "generation": 6,
+    "name": "Meganium",
+    "species": "Herb Pok\u00e9mon",
+    "height": "1.8\u00a0m (5\u203211\u2033)",
+    "weight": "1.8\u00a0m (5\u203211\u2033)",
+    "hp": 80,
+    "attack": 82,
+    "defense": 100,
+    "speed": 80,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 154,
+    "specialName": null,
+    "specialAbilities": [
+        "Overgrow"
+    ],
+    "hiddenAbility": "Leaf Guard",
+    "specialAttack": 83,
+    "specialDefense": 100,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 1,
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 236,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Grass",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Petal Blizzard": 70,
+        "Petal Dance": 1,
+        "Poison Powder": 9,
+        "Razor Leaf": 6,
+        "Tackle": 1,
+        "Synthesis": 12,
+        "Reflect": 18,
+        "Magical Leaf": 22,
+        "Nature Power": 26,
+        "Sweet Scent": 34,
+        "Light Screen": 40,
+        "Body Slam": 46,
+        "Safeguard": 54,
+        "Aromatherapy": 60,
+        "Solar Beam": 66
+    },
+    "movesLearnedOnEvolution": [
+        "Petal Dance"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Frenzy Plant"
+    ],
+    "movesLearnedByTm": {
+        "Bullet Seed": 9,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Safeguard": 20,
+        "Solar Beam": 22,
+        "Iron Tail": 23,
+        "Earthquake": 26,
+        "Double Team": 32,
+        "Reflect": 33,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Energy Ball": 53,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Bulldoze": 83,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Strength": 96,
+        "Rock Smash": 98,
+        "Rock Climb": 100
+    }
+}

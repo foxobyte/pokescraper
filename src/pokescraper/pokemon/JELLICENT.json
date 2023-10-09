@@ -1,0 +1,84 @@
+{
+    "generation": 5,
+    "name": "Jellicent",
+    "species": "Floating Pok\u00e9mon",
+    "height": "2.2\u00a0m (7\u203203\u2033)",
+    "weight": "2.2\u00a0m (7\u203203\u2033)",
+    "hp": 100,
+    "attack": 60,
+    "defense": 70,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water",
+        "Ghost"
+    ],
+    "nationalNumber": 593,
+    "specialName": null,
+    "specialAbilities": [
+        "Water Absorb",
+        "Cursed Body"
+    ],
+    "hiddenAbility": "Damp",
+    "specialAttack": 85,
+    "specialDefense": 105,
+    "catchRate": 60,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 168,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Amorphous"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Acid Armor": 1,
+        "Night Shade": 1,
+        "Poison Sting": 1,
+        "Water Gun": 1,
+        "Water Pulse": 12,
+        "Rain Dance": 16,
+        "Hex": 20,
+        "Brine": 24,
+        "Recover": 28,
+        "Shadow Ball": 32,
+        "Whirlpool": 36,
+        "Hydro Pump": 43,
+        "Destiny Bond": 48,
+        "Water Spout": 54
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Poltergeist"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Whirlpool": 36,
+        "Will-O-Wisp": 38,
+        "Facade": 39,
+        "Imprison": 44,
+        "Dive": 45,
+        "Brine": 55,
+        "Trick Room": 70,
+        "Round": 76,
+        "Hex": 77
+    }
+}

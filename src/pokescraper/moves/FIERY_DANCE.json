@@ -1,0 +1,12 @@
+{
+    "name": "Fiery Dance",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 50,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "May raise user's Special Attack.",
+    "isHighCrit": false
+}

@@ -1,0 +1,79 @@
+{
+    "generation": 6,
+    "name": "Bunnelby",
+    "species": "Digging Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 38,
+    "attack": 36,
+    "defense": 38,
+    "speed": 57,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 659,
+    "specialName": null,
+    "specialAbilities": [
+        "Pickup",
+        "Cheek Pouch"
+    ],
+    "hiddenAbility": "Huge Power",
+    "specialAttack": 32,
+    "specialDefense": 36,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 47,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Mud-Slap": 1,
+        "Tackle": 3,
+        "Laser Focus": 6,
+        "Quick Attack": 9,
+        "Mud Shot": 12,
+        "Flail": 15,
+        "Double Kick": 18,
+        "Bulldoze": 21,
+        "Dig": 24,
+        "Bounce": 27,
+        "Take Down": 30,
+        "Swords Dance": 33,
+        "Earthquake": 36,
+        "Super Fang": 39
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Dig": 15,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sandstorm": 32,
+        "Facade": 39,
+        "Brick Break": 43,
+        "Rock Tomb": 48,
+        "Bounce": 52,
+        "Mud Shot": 53,
+        "U-turn": 56,
+        "Payback": 57,
+        "Fling": 59,
+        "Round": 76,
+        "Bulldoze": 81
+    }
+}

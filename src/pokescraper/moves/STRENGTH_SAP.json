@@ -1,0 +1,12 @@
+{
+    "name": "Strength Sap",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 100,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "The user restores its HP by the same amount as the target's Attack stat. It also lowers the target's Attack stat.",
+    "isHighCrit": false
+}

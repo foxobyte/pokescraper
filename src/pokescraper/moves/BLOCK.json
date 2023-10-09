@@ -1,0 +1,12 @@
+{
+    "name": "Block",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Opponent cannot flee or switch.",
+    "isHighCrit": false
+}

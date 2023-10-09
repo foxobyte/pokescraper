@@ -1,0 +1,12 @@
+{
+    "name": "Tail Glow",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "Drastically raises user's Special Attack.",
+    "isHighCrit": false
+}

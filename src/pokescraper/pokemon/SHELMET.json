@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "name": "Shelmet",
+    "species": "Snail Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 50,
+    "attack": 40,
+    "defense": 85,
+    "speed": 25,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug"
+    ],
+    "nationalNumber": 616,
+    "specialName": null,
+    "specialAbilities": [
+        "Hydration",
+        "Shell Armor"
+    ],
+    "hiddenAbility": "Overcoat",
+    "specialAttack": 40,
+    "specialDefense": 65,
+    "catchRate": 200,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 61,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Protect": 1,
+        "Acid": 4,
+        "Curse": 8,
+        "Mega Drain": 12,
+        "Struggle Bug": 16,
+        "Yawn": 20,
+        "Acid Armor": 24,
+        "Giga Drain": 28,
+        "Guard Swap": 32,
+        "Body Slam": 36,
+        "Recover": 40,
+        "Bug Buzz": 44,
+        "Final Gambit": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Mud Shot": 53,
+        "Guard Swap": 61,
+        "Venoshock": 74,
+        "Round": 76
+    }
+}

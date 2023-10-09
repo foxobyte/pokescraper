@@ -1,0 +1,88 @@
+{
+    "generation": 4,
+    "name": "Staraptor",
+    "species": "Predator Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 85,
+    "attack": 120,
+    "defense": 70,
+    "speed": 100,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 398,
+    "specialName": null,
+    "specialAbilities": [
+        "Intimidate"
+    ],
+    "hiddenAbility": "Reckless",
+    "specialAttack": 50,
+    "specialDefense": 60,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 243,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Quick Attack": 1,
+        "Tackle": 1,
+        "Wing Attack": 1,
+        "Double Team": 13,
+        "Endeavor": 18,
+        "Whirlwind": 23,
+        "Aerial Ace": 28,
+        "Take Down": 33,
+        "Agility": 41,
+        "Brave Bird": 49,
+        "Final Gambit": 57
+    },
+    "movesLearnedOnEvolution": [
+        "Close Combat"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Protect": 7,
+        "Acrobatics": 14,
+        "Struggle Bug": 15,
+        "Thief": 18,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Swift": 32,
+        "Air Cutter": 40,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "U-turn": 60,
+        "Air Slash": 65,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Fly": 97,
+        "Substitute": 103,
+        "Tailwind": 113,
+        "Heat Wave": 118,
+        "Helping Hand": 130,
+        "Giga Impact": 152,
+        "Hurricane": 160,
+        "Hyper Beam": 163,
+        "Brave Bird": 164,
+        "Close Combat": 167,
+        "Tera Blast": 171
+    }
+}

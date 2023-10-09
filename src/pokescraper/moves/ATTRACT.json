@@ -1,0 +1,12 @@
+{
+    "name": "Attract",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "If opponent is the opposite gender, it's less likely to attack.",
+    "isHighCrit": false
+}

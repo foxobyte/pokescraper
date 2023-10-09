@@ -1,0 +1,88 @@
+{
+    "generation": 1,
+    "name": "Tangela",
+    "species": "Vine Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 65,
+    "attack": 55,
+    "defense": 115,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 114,
+    "specialName": null,
+    "specialAbilities": [
+        "Chlorophyll",
+        "Leaf Guard"
+    ],
+    "hiddenAbility": "Regenerator",
+    "specialAttack": 100,
+    "specialDefense": 40,
+    "catchRate": 45,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 87,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Bind": 1,
+        "Stun Spore": 4,
+        "Growth": 8,
+        "Mega Drain": 12,
+        "Vine Whip": 16,
+        "Poison Powder": 20,
+        "Ancient Power": 24,
+        "Knock Off": 28,
+        "Giga Drain": 32,
+        "Sleep Powder": 36,
+        "Slam": 40,
+        "Tickle": 44,
+        "Power Whip": 48,
+        "Ingrain": 52,
+        "Grassy Terrain": 56
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Bullet Seed": 9,
+        "Sunny Day": 11,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Solar Beam": 22,
+        "Double Team": 32,
+        "Reflect": 33,
+        "Shock Wave": 34,
+        "Sludge Bomb": 36,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Energy Ball": 53,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Psych Up": 77,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Rock Smash": 98
+    }
+}

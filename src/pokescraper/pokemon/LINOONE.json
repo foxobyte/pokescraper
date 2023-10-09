@@ -1,0 +1,100 @@
+{
+    "generation": 3,
+    "name": "Linoone",
+    "species": "Rushing Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 78,
+    "attack": 70,
+    "defense": 61,
+    "speed": 100,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 264,
+    "specialName": null,
+    "specialAbilities": [
+        "Pickup",
+        "Gluttony"
+    ],
+    "hiddenAbility": "Quick Feet",
+    "specialAttack": 50,
+    "specialDefense": 61,
+    "catchRate": 90,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 147,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Baby-Doll Eyes": 1,
+        "Growl": 1,
+        "Pin Missile": 1,
+        "Sand Attack": 1,
+        "Slash": 1,
+        "Switcheroo": 1,
+        "Tackle": 1,
+        "Tail Whip": 1,
+        "Covet": 9,
+        "Headbutt": 12,
+        "Hone Claws": 15,
+        "Fury Swipes": 18,
+        "Rest": 23,
+        "Take Down": 28,
+        "Fling": 33,
+        "Flail": 38,
+        "Belly Drum": 43,
+        "Double-Edge": 48
+    },
+    "movesLearnedOnEvolution": [
+        "Slash"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Roar": 5,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Iron Tail": 23,
+        "Thunderbolt": 24,
+        "Thunder": 25,
+        "Dig": 28,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Fling": 56,
+        "Charge Beam": 57,
+        "Endure": 58,
+        "Shadow Claw": 65,
+        "Giga Impact": 68,
+        "Thunder Wave": 73,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Surf": 95,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

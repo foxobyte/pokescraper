@@ -1,0 +1,85 @@
+{
+    "generation": 7,
+    "name": "Mareanie",
+    "species": "Brutal Star Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 50,
+    "attack": 53,
+    "defense": 62,
+    "speed": 45,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Poison",
+        "Water"
+    ],
+    "nationalNumber": 747,
+    "specialName": null,
+    "specialAbilities": [
+        "Merciless",
+        "Limber"
+    ],
+    "hiddenAbility": "Regenerator",
+    "specialAttack": 43,
+    "specialDefense": 52,
+    "catchRate": 190,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 61,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Peck": 1,
+        "Poison Sting": 1,
+        "Wide Guard": 5,
+        "Bite": 10,
+        "Venoshock": 15,
+        "Recover": 20,
+        "Pin Missile": 25,
+        "Toxic Spikes": 30,
+        "Liquidation": 35,
+        "Acid Spray": 40,
+        "Poison Jab": 45,
+        "Toxic": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Acid Spray": 13,
+        "Pounce": 21,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Icy Wind": 34,
+        "Mud Shot": 35,
+        "Venoshock": 45,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Sleep Talk": 70,
+        "Poison Jab": 83,
+        "Rest": 85,
+        "Toxic Spikes": 91,
+        "Gunk Shot": 102,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Liquidation": 110,
+        "Surf": 123,
+        "Ice Spinner": 124,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Sludge Bomb": 148,
+        "Tera Blast": 171
+    }
+}

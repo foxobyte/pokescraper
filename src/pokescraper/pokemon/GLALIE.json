@@ -1,0 +1,101 @@
+{
+    "generation": 3,
+    "name": "Glalie",
+    "species": "Face Pok\u00e9mon",
+    "height": "1.5\u00a0m (4\u203211\u2033)",
+    "weight": "1.5\u00a0m (4\u203211\u2033)",
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "speed": 80,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice"
+    ],
+    "nationalNumber": 362,
+    "specialName": null,
+    "specialAbilities": [
+        "Inner Focus",
+        "Ice Body"
+    ],
+    "hiddenAbility": "Moody",
+    "specialAttack": 80,
+    "specialDefense": 80,
+    "catchRate": 75,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 168,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Fairy",
+        "Mineral"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Double Team": 1,
+        "Headbutt": 1,
+        "Leer": 1,
+        "Powder Snow": 1,
+        "Sheer Cold": 1,
+        "Ice Shard": 15,
+        "Protect": 20,
+        "Icy Wind": 25,
+        "Frost Breath": 30,
+        "Bite": 35,
+        "Ice Fang": 40,
+        "Snowscape": 47,
+        "Weather Ball": 54,
+        "Crunch": 61,
+        "Blizzard": 68
+    },
+    "movesLearnedOnEvolution": [
+        "Freeze-Dry"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Fake Tears": 3,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Ice Fang": 10,
+        "Water Pulse": 11,
+        "Trailblaze": 20,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Hex": 29,
+        "Icy Wind": 34,
+        "Avalanche": 46,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Snowscape": 52,
+        "Foul Play": 62,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Light Screen": 75,
+        "Rest": 85,
+        "Taunt": 87,
+        "Spikes": 90,
+        "Dark Pulse": 94,
+        "Iron Head": 99,
+        "Substitute": 103,
+        "Crunch": 108,
+        "Shadow Ball": 114,
+        "Ice Spinner": 124,
+        "Helping Hand": 130,
+        "Ice Beam": 135,
+        "Blizzard": 143,
+        "Earthquake": 149,
+        "Giga Impact": 152,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

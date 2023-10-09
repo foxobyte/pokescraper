@@ -1,0 +1,12 @@
+{
+    "name": "Fiery Wrath",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 20,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

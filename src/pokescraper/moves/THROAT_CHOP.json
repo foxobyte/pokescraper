@@ -1,0 +1,12 @@
+{
+    "name": "Throat Chop",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 100,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Prevents use of sound moves for two turns.",
+    "isHighCrit": false
+}

@@ -1,0 +1,78 @@
+{
+    "generation": 7,
+    "name": "Type: Null",
+    "species": "Synthetic Pok\u00e9mon",
+    "height": "1.9\u00a0m (6\u203203\u2033)",
+    "weight": "1.9\u00a0m (6\u203203\u2033)",
+    "hp": 95,
+    "attack": 95,
+    "defense": 95,
+    "speed": 59,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 772,
+    "specialName": null,
+    "specialAbilities": [
+        "Battle Armor"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 95,
+    "specialDefense": 95,
+    "catchRate": 3,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 0,
+    "baseExp": 107,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Imprison": 1,
+        "Tackle": 1,
+        "Aerial Ace": 5,
+        "Scary Face": 10,
+        "Double Hit": 15,
+        "Metal Sound": 20,
+        "Crush Claw": 25,
+        "Air Slash": 30,
+        "Tri Attack": 35,
+        "X-Scissor": 40,
+        "Iron Head": 45,
+        "Take Down": 50,
+        "Double-Edge": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Terrain Pulse"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Scary Face": 26,
+        "Icy Wind": 27,
+        "Sandstorm": 32,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Hail": 35,
+        "Facade": 39,
+        "Swift": 40,
+        "Imprison": 44,
+        "U-turn": 56,
+        "Payback": 57,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Air Slash": 95
+    }
+}

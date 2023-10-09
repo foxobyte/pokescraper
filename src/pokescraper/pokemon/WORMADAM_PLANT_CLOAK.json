@@ -1,0 +1,61 @@
+{
+    "generation": 4,
+    "name": "Wormadam",
+    "species": "Bagworm Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 60,
+    "attack": 59,
+    "defense": 85,
+    "speed": 36,
+    "gender": {
+        "male": "0%",
+        "female": "100%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Grass"
+    ],
+    "nationalNumber": 413,
+    "specialName": "Plant Cloak",
+    "specialAbilities": [
+        "Anticipation"
+    ],
+    "hiddenAbility": "Overcoat",
+    "specialAttack": 79,
+    "specialDefense": 105,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Def": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 148,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Bug Bite": 15,
+        "Metal Burst": 26,
+        "Protect": 10,
+        "Quiver Dance": 1,
+        "Sucker Punch": 1,
+        "Tackle": 1,
+        "String Shot": 20,
+        "Confusion": 23,
+        "Metal Sound": 29,
+        "Psybeam": 32,
+        "Infestation": 35,
+        "Flail": 38,
+        "Attract": 41,
+        "Psychic": 44,
+        "Iron Head": 47,
+        "Bug Buzz": 50
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

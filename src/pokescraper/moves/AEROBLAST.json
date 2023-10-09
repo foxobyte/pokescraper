@@ -1,0 +1,12 @@
+{
+    "name": "Aeroblast",
+    "category": "Special",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 5,
+    "probability": null,
+    "type": "Flying",
+    "moveType": "Flying",
+    "effectDescription": "High critical hit ratio.",
+    "isHighCrit": true
+}

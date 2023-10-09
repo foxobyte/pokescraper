@@ -1,0 +1,12 @@
+{
+    "name": "Surging Strikes",
+    "category": "Physical",
+    "power": 25,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Always results in a critical hit and ignores stat changes.",
+    "isHighCrit": false
+}

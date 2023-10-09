@@ -1,0 +1,12 @@
+{
+    "name": "Ancient Power",
+    "category": "Special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": 10,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "May raise all user's stats at once.",
+    "isHighCrit": false
+}

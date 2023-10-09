@@ -1,0 +1,78 @@
+{
+    "generation": 7,
+    "name": "Wishiwashi",
+    "species": "Small Fry Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.2\u00a0m (0\u203208\u2033)",
+    "hp": 45,
+    "attack": 20,
+    "defense": 20,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 746,
+    "specialName": "Solo Form",
+    "specialAbilities": [
+        "Schooling"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 25,
+    "specialDefense": 25,
+    "catchRate": 60,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 61,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Water 2"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Water Gun": 1,
+        "Helping Hand": 4,
+        "Beat Up": 8,
+        "Brine": 12,
+        "Tearful Look": 16,
+        "Dive": 20,
+        "Soak": 24,
+        "Uproar": 28,
+        "Aqua Tail": 32,
+        "Aqua Ring": 36,
+        "Endeavor": 40,
+        "Hydro Pump": 44,
+        "Double-Edge": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Flip Turn",
+        "Scale Shot"
+    ],
+    "movesLearnedByTm": {
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Hail": 35,
+        "Whirlpool": 36,
+        "Beat Up": 37,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Dive": 45,
+        "Mud Shot": 53,
+        "Brine": 55,
+        "U-turn": 56,
+        "Round": 76,
+        "Bulldoze": 81
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Petal Blizzard",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Hits all adjacent Pok\u00e9mon.",
+    "isHighCrit": false
+}

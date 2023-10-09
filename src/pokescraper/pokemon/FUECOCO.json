@@ -1,0 +1,90 @@
+{
+    "generation": 9,
+    "name": "Fuecoco",
+    "species": "Fire Croc Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 67,
+    "attack": 45,
+    "defense": 59,
+    "speed": 36,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire"
+    ],
+    "nationalNumber": 909,
+    "specialName": null,
+    "specialAbilities": [
+        "Blaze"
+    ],
+    "hiddenAbility": "Unaware",
+    "specialAttack": 63,
+    "specialDefense": 40,
+    "catchRate": 45,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 62,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Ember": 1,
+        "Leer": 1,
+        "Tackle": 1,
+        "Round": 7,
+        "Bite": 12,
+        "Incinerate": 15,
+        "Yawn": 17,
+        "Snarl": 21,
+        "Roar": 25,
+        "Flamethrower": 28,
+        "Hyper Voice": 32,
+        "Fire Blast": 36
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Thunder Fang": 9,
+        "Disarming Voice": 19,
+        "Fire Spin": 24,
+        "Facade": 25,
+        "Snarl": 30,
+        "Flame Charge": 38,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Dig": 55,
+        "Zen Headbutt": 59,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Substitute": 103,
+        "Will-O-Wisp": 107,
+        "Crunch": 108,
+        "Hyper Voice": 117,
+        "Heat Wave": 118,
+        "Encore": 122,
+        "Flamethrower": 125,
+        "Helping Hand": 130,
+        "Fire Blast": 141,
+        "Fire Pledge": 144,
+        "Outrage": 156,
+        "Overheat": 157,
+        "Flare Blitz": 165,
+        "Tera Blast": 171
+    }
+}

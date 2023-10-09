@@ -1,0 +1,93 @@
+{
+    "generation": 1,
+    "name": "Oddish",
+    "species": "Weed Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 45,
+    "attack": 50,
+    "defense": 55,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {
+        "GLOOM": {
+            "level": 21,
+            "time": null,
+            "heldItem": null,
+            "usedItem": null,
+            "hasPokemon": null,
+            "highFriendship": null,
+            "needsTrade": null,
+            "usedMove": null,
+            "learnedMove": null
+        }
+    },
+    "type": [
+        "Grass",
+        "Poison"
+    ],
+    "nationalNumber": 43,
+    "specialName": null,
+    "specialAbilities": [
+        "Chlorophyll"
+    ],
+    "hiddenAbility": "Run Away",
+    "specialAttack": 75,
+    "specialDefense": 65,
+    "catchRate": 255,
+    "evYield": {
+        "Sp. Atk": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 64,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Growth": 1,
+        "Acid": 4,
+        "Sweet Scent": 8,
+        "Mega Drain": 12,
+        "Poison Powder": 14,
+        "Stun Spore": 16,
+        "Sleep Powder": 18,
+        "Giga Drain": 20,
+        "Toxic": 24,
+        "Moonblast": 28,
+        "Grassy Terrain": 32,
+        "Moonlight": 36,
+        "Petal Dance": 40
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Toxic": 6,
+        "Bullet Seed": 9,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Dazzling Gleam": 21,
+        "Solar Beam": 22,
+        "Double Team": 32,
+        "Sludge Bomb": 36,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Energy Ball": 53,
+        "Endure": 58,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93
+    }
+}

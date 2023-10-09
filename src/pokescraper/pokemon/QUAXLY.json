@@ -1,0 +1,82 @@
+{
+    "generation": 9,
+    "name": "Quaxly",
+    "species": "Duckling Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "0.5\u00a0m (1\u203208\u2033)",
+    "hp": 55,
+    "attack": 65,
+    "defense": 45,
+    "speed": 50,
+    "gender": {
+        "male": "87.5%",
+        "female": "12.5%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 912,
+    "specialName": null,
+    "specialAbilities": [
+        "Torrent"
+    ],
+    "hiddenAbility": "Moxie",
+    "specialAttack": 50,
+    "specialDefense": 45,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 62,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Flying",
+        "Water 1"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Pound": 1,
+        "Water Gun": 1,
+        "Work Up": 7,
+        "Wing Attack": 10,
+        "Aqua Jet": 13,
+        "Double Hit": 17,
+        "Aqua Cutter": 21,
+        "Air Slash": 24,
+        "Focus Energy": 28,
+        "Acrobatics": 31,
+        "Liquidation": 35
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Low Kick": 12,
+        "Acrobatics": 14,
+        "Disarming Voice": 19,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Aerial Ace": 27,
+        "Swift": 32,
+        "Air Cutter": 40,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Air Slash": 65,
+        "Rest": 85,
+        "Liquidation": 110,
+        "Encore": 122,
+        "Surf": 123,
+        "Helping Hand": 130,
+        "Baton Pass": 132,
+        "Misty Terrain": 139,
+        "Hydro Pump": 142,
+        "Water Pledge": 145,
+        "Brave Bird": 164,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "generation": 2,
+    "name": "Ledyba",
+    "species": "Five Star Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 40,
+    "attack": 20,
+    "defense": 30,
+    "speed": 55,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Flying"
+    ],
+    "nationalNumber": 165,
+    "specialName": null,
+    "specialAbilities": [
+        "Swarm",
+        "Early Bird"
+    ],
+    "hiddenAbility": "Rattled",
+    "specialAttack": 40,
+    "specialDefense": 80,
+    "catchRate": 255,
+    "evYield": {
+        "Sp. Def": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 53,
+    "growthRate": "Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Tackle": 1,
+        "Supersonic": 5,
+        "Swift": 8,
+        "Light Screen": 12,
+        "Reflect": 12,
+        "Safeguard": 12,
+        "Mach Punch": 15,
+        "Roost": 19,
+        "Struggle Bug": 22,
+        "Baton Pass": 26,
+        "Agility": 29,
+        "Bug Buzz": 33,
+        "Air Slash": 36,
+        "Double-Edge": 40
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Focus Punch": 1,
+        "Sunny Day": 11,
+        "Light Screen": 16,
+        "Protect": 17,
+        "Giga Drain": 19,
+        "Safeguard": 20,
+        "Solar Beam": 22,
+        "Dig": 28,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Reflect": 33,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Roost": 51,
+        "Fling": 56,
+        "Endure": 58,
+        "Drain Punch": 60,
+        "Bug Buzz": 62,
+        "Flash": 70,
+        "Swords Dance": 75,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "U-turn": 89,
+        "Substitute": 90
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "generation": 5,
+    "name": "Sigilyph",
+    "species": "Avianoid Pok\u00e9mon",
+    "height": "1.4\u00a0m (4\u203207\u2033)",
+    "weight": "1.4\u00a0m (4\u203207\u2033)",
+    "hp": 72,
+    "attack": 58,
+    "defense": 80,
+    "speed": 97,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic",
+        "Flying"
+    ],
+    "nationalNumber": 561,
+    "specialName": null,
+    "specialAbilities": [
+        "Wonder Skin",
+        "Magic Guard"
+    ],
+    "hiddenAbility": "Tinted Lens",
+    "specialAttack": 103,
+    "specialDefense": 80,
+    "catchRate": 45,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 172,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Confusion": 1,
+        "Gust": 1,
+        "Gravity": 5,
+        "Hypnosis": 10,
+        "Air Cutter": 15,
+        "Psybeam": 20,
+        "Whirlwind": 25,
+        "Cosmic Power": 30,
+        "Air Slash": 35,
+        "Psychic": 40,
+        "Tailwind": 45,
+        "Light Screen": 50,
+        "Reflect": 50,
+        "Sky Attack": 55,
+        "Skill Swap": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Dual Wingbeat",
+        "Expanding Force"
+    ],
+    "movesLearnedByTm": {
+        "Fly": 6,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Icy Wind": 27,
+        "Steel Wing": 30,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Swift": 40,
+        "Imprison": 44,
+        "Power Swap": 60,
+        "Speed Swap": 62,
+        "Psycho Cut": 69,
+        "Trick Room": 70,
+        "Magic Room": 72,
+        "Round": 76,
+        "Air Slash": 95
+    }
+}

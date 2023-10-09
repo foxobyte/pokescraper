@@ -1,0 +1,59 @@
+{
+    "generation": 1,
+    "name": "Vulpix",
+    "species": "Fox Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 38,
+    "attack": 41,
+    "defense": 40,
+    "speed": 65,
+    "gender": {
+        "male": "25%",
+        "female": "75%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice"
+    ],
+    "nationalNumber": 37,
+    "specialName": "Alolan Vulpix",
+    "specialAbilities": [
+        "Snow Cloak"
+    ],
+    "hiddenAbility": "Snow Warning",
+    "specialAttack": 50,
+    "specialDefense": 65,
+    "catchRate": 190,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 60,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Powder Snow": 1,
+        "Tail Whip": 1,
+        "Disable": 4,
+        "Ice Shard": 8,
+        "Spite": 12,
+        "Icy Wind": 16,
+        "Confuse Ray": 20,
+        "Aurora Beam": 24,
+        "Extrasensory": 28,
+        "Ice Beam": 32,
+        "Imprison": 36,
+        "Mist": 40,
+        "Aurora Veil": 44,
+        "Freeze-Dry": 48,
+        "Blizzard": 52
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

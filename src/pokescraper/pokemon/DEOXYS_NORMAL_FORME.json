@@ -1,0 +1,57 @@
+{
+    "generation": 3,
+    "name": "Deoxys",
+    "species": "DNA Pok\u00e9mon",
+    "height": "1.7\u00a0m (5\u203207\u2033)",
+    "weight": "1.7\u00a0m (5\u203207\u2033)",
+    "hp": 50,
+    "attack": 150,
+    "defense": 50,
+    "speed": 150,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Psychic"
+    ],
+    "nationalNumber": 386,
+    "specialName": "Normal Forme",
+    "specialAbilities": [
+        "Pressure"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 150,
+    "specialDefense": 50,
+    "catchRate": 3,
+    "evYield": {
+        "Attack": 1,
+        "Sp. Atk": 1,
+        "Speed": 1
+    },
+    "baseFriendship": 0,
+    "baseExp": 270,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Wrap": 1,
+        "Night Shade": 7,
+        "Double Team": 13,
+        "Knock Off": 19,
+        "Toxic Spikes": 25,
+        "Psychic": 31,
+        "Swift": 37,
+        "Psycho Shift": 43,
+        "Zen Headbutt": 49,
+        "Agility": 55,
+        "Recover": 61,
+        "Psycho Boost": 67,
+        "Extreme Speed": 73
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

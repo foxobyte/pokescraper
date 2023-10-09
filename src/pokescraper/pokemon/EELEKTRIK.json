@@ -1,0 +1,89 @@
+{
+    "generation": 5,
+    "name": "Eelektrik",
+    "species": "EleFish Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 65,
+    "attack": 85,
+    "defense": 70,
+    "speed": 40,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Electric"
+    ],
+    "nationalNumber": 603,
+    "specialName": null,
+    "specialAbilities": [
+        "Levitate"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 75,
+    "specialDefense": 70,
+    "catchRate": 60,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 142,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Amorphous"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Charge Beam": 1,
+        "Headbutt": 1,
+        "Spark": 1,
+        "Thunder Wave": 1,
+        "Bind": 9,
+        "Acid": 19,
+        "Discharge": 29,
+        "Thunderbolt": 44,
+        "Acid Spray": 49,
+        "Coil": 54,
+        "Wild Charge": 59,
+        "Gastro Acid": 64,
+        "Zap Cannon": 69,
+        "Thrash": 74
+    },
+    "movesLearnedOnEvolution": [
+        "Crunch"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Scary Face": 6,
+        "Protect": 7,
+        "Thunder Fang": 9,
+        "Acid Spray": 13,
+        "Acrobatics": 14,
+        "Charge Beam": 23,
+        "Facade": 25,
+        "Endure": 47,
+        "Volt Switch": 48,
+        "Rain Dance": 50,
+        "U-turn": 60,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Electro Ball": 72,
+        "Light Screen": 75,
+        "Thunder Wave": 82,
+        "Rest": 85,
+        "Flash Cannon": 93,
+        "Eerie Impulse": 96,
+        "Substitute": 103,
+        "Crunch": 108,
+        "Giga Drain": 111,
+        "Thunderbolt": 126,
+        "Electric Terrain": 136,
+        "Wild Charge": 147,
+        "Thunder": 166,
+        "Tera Blast": 171
+    }
+}

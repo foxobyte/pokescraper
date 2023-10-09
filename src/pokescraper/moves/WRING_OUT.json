@@ -1,0 +1,12 @@
+{
+    "name": "Wring Out",
+    "category": "Special",
+    "power": null,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "The higher the opponent's HP, the higher the damage.",
+    "isHighCrit": false
+}

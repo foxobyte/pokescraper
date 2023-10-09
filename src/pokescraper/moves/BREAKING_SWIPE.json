@@ -1,0 +1,12 @@
+{
+    "name": "Breaking Swipe",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 100,
+    "type": "Dragon",
+    "moveType": "Dragon",
+    "effectDescription": "Hits multiple opponents and lowers their attack.",
+    "isHighCrit": false
+}

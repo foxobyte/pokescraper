@@ -1,0 +1,12 @@
+{
+    "name": "Bite",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "probability": 30,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Defend Order",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "Raises user's Defense and Special Defense.",
+    "isHighCrit": false
+}

@@ -1,0 +1,81 @@
+{
+    "generation": 8,
+    "name": "Centiskorch",
+    "species": "Radiator Pok\u00e9mon",
+    "height": "3.0\u00a0m (9\u203210\u2033)",
+    "weight": "3.0\u00a0m (9\u203210\u2033)",
+    "hp": 100,
+    "attack": 115,
+    "defense": 65,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire",
+        "Bug"
+    ],
+    "nationalNumber": 851,
+    "specialName": null,
+    "specialAbilities": [
+        "Flash Fire",
+        "White Smoke"
+    ],
+    "hiddenAbility": "Flame Body",
+    "specialAttack": 90,
+    "specialDefense": 90,
+    "catchRate": 75,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 184,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Bite": 1,
+        "Ember": 1,
+        "Inferno": 1,
+        "Smokescreen": 1,
+        "Wrap": 1,
+        "Flame Wheel": 15,
+        "Bug Bite": 20,
+        "Coil": 25,
+        "Slam": 32,
+        "Fire Spin": 39,
+        "Crunch": 46,
+        "Fire Lash": 53,
+        "Lunge": 60,
+        "Burn Up": 67
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Scorching Sands",
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Solar Beam": 11,
+        "Fire Spin": 13,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sunny Day": 34,
+        "Will-O-Wisp": 38,
+        "Facade": 39,
+        "Thunder Fang": 66,
+        "Fire Fang": 68,
+        "Venoshock": 74,
+        "Round": 76,
+        "Mystical Fire": 92,
+        "Brutal Swing": 97
+    }
+}

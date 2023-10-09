@@ -1,0 +1,12 @@
+{
+    "name": "Splintered Stormshards",
+    "category": "Physical",
+    "power": 190,
+    "accuracy": null,
+    "pp": 1,
+    "probability": null,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "Lycanroc-exclusive Z-Move.",
+    "isHighCrit": false
+}

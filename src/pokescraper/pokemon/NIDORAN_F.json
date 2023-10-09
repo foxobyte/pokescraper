@@ -1,0 +1,100 @@
+{
+    "generation": 1,
+    "name": "Nidoran\u2640",
+    "species": "Poison Pin Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 55,
+    "attack": 47,
+    "defense": 52,
+    "speed": 41,
+    "gender": {
+        "male": "0%",
+        "female": "100%"
+    },
+    "evolutions": {
+        "NIDORINA": {
+            "level": 16,
+            "time": null,
+            "heldItem": null,
+            "usedItem": null,
+            "hasPokemon": null,
+            "highFriendship": null,
+            "needsTrade": null,
+            "usedMove": null,
+            "learnedMove": null
+        }
+    },
+    "type": [
+        "Poison"
+    ],
+    "nationalNumber": 29,
+    "specialName": null,
+    "specialAbilities": [
+        "Poison Point",
+        "Rivalry"
+    ],
+    "hiddenAbility": "Hustle",
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "catchRate": 235,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 55,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Poison Sting": 1,
+        "Scratch": 5,
+        "Tail Whip": 10,
+        "Fury Swipes": 15,
+        "Toxic Spikes": 20,
+        "Double Kick": 25,
+        "Bite": 30,
+        "Helping Hand": 35,
+        "Toxic": 40,
+        "Flatter": 45,
+        "Crunch": 50,
+        "Earth Power": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Toxic": 6,
+        "Sunny Day": 11,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Iron Tail": 23,
+        "Thunderbolt": 24,
+        "Thunder": 25,
+        "Dig": 28,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Sludge Bomb": 36,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Endure": 58,
+        "Shadow Claw": 65,
+        "Sleep Talk": 82,
+        "Poison Jab": 84,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

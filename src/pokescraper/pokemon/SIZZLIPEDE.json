@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "name": "Sizzlipede",
+    "species": "Radiator Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 50,
+    "attack": 65,
+    "defense": 45,
+    "speed": 45,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fire",
+        "Bug"
+    ],
+    "nationalNumber": 850,
+    "specialName": null,
+    "specialAbilities": [
+        "Flash Fire",
+        "White Smoke"
+    ],
+    "hiddenAbility": "Flame Body",
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "catchRate": 190,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 61,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Ember": 1,
+        "Smokescreen": 1,
+        "Wrap": 5,
+        "Bite": 10,
+        "Flame Wheel": 15,
+        "Bug Bite": 20,
+        "Coil": 25,
+        "Slam": 30,
+        "Fire Spin": 35,
+        "Crunch": 40,
+        "Fire Lash": 45,
+        "Lunge": 50,
+        "Burn Up": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Scorching Sands",
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Fire Spin": 13,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Venoshock": 74,
+        "Round": 76,
+        "Brutal Swing": 97
+    }
+}

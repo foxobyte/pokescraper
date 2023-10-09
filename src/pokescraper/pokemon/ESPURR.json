@@ -1,0 +1,78 @@
+{
+    "generation": 6,
+    "name": "Espurr",
+    "species": "Restraint Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.3\u00a0m (1\u203200\u2033)",
+    "hp": 62,
+    "attack": 48,
+    "defense": 54,
+    "speed": 68,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic"
+    ],
+    "nationalNumber": 677,
+    "specialName": null,
+    "specialAbilities": [
+        "Keen Eye",
+        "Infiltrator"
+    ],
+    "hiddenAbility": "Own Tempo",
+    "specialAttack": 63,
+    "specialDefense": 60,
+    "catchRate": 190,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 71,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Leer": 1,
+        "Scratch": 1,
+        "Fake Out": 3,
+        "Disarming Voice": 6,
+        "Confusion": 9,
+        "Covet": 18,
+        "Psybeam": 21,
+        "Light Screen": 30,
+        "Reflect": 30,
+        "Psyshock": 33
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Expanding Force"
+    ],
+    "movesLearnedByTm": {
+        "Pay Day": 2,
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Fake Tears": 47,
+        "Payback": 57,
+        "Trick Room": 70,
+        "Wonder Room": 71,
+        "Magic Room": 72,
+        "Round": 76
+    }
+}

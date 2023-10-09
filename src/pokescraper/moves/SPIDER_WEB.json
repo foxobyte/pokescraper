@@ -1,0 +1,12 @@
+{
+    "name": "Spider Web",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "Opponent cannot escape/switch.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Sweet Scent",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Lowers opponent's Evasiveness.",
+    "isHighCrit": false
+}

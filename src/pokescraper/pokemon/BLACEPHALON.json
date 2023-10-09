@@ -1,0 +1,80 @@
+{
+    "generation": 7,
+    "name": "Blacephalon",
+    "species": "Fireworks Pok\u00e9mon",
+    "height": "1.8\u00a0m (5\u203211\u2033)",
+    "weight": "1.8\u00a0m (5\u203211\u2033)",
+    "hp": 53,
+    "attack": 127,
+    "defense": 53,
+    "speed": 107,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Fire",
+        "Ghost"
+    ],
+    "nationalNumber": 806,
+    "specialName": null,
+    "specialAbilities": [
+        "Beast Boost"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 151,
+    "specialDefense": 79,
+    "catchRate": 30,
+    "evYield": {
+        "Sp. Atk": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 257,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Fire Spin": 1,
+        "Light Screen": 5,
+        "Ember": 10,
+        "Night Shade": 15,
+        "Confuse Ray": 20,
+        "Magic Coat": 25,
+        "Incinerate": 30,
+        "Hypnosis": 35,
+        "Mystical Fire": 40,
+        "Shadow Ball": 45,
+        "Calm Mind": 50,
+        "Will-O-Wisp": 55,
+        "Trick": 60,
+        "Fire Blast": 65,
+        "Mind Blown": 70
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Expanding Force"
+    ],
+    "movesLearnedByTm": {
+        "Fire Punch": 3,
+        "Hyper Beam": 8,
+        "Solar Beam": 11,
+        "Fire Spin": 13,
+        "Light Screen": 17,
+        "Self-Destruct": 20,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Sunny Day": 34,
+        "Will-O-Wisp": 38,
+        "Facade": 39,
+        "Rock Blast": 54,
+        "Payback": 57,
+        "Fling": 59,
+        "Shadow Claw": 65,
+        "Round": 76,
+        "Mystical Fire": 92
+    }
+}

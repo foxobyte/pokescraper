@@ -1,0 +1,12 @@
+{
+    "name": "Esper Wing",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "High critical hit ratio. Raises user's Speed.",
+    "isHighCrit": true
+}

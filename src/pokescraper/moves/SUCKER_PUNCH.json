@@ -1,0 +1,12 @@
+{
+    "name": "Sucker Punch",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "User attacks first, but only works if opponent is readying an attack.",
+    "isHighCrit": false
+}

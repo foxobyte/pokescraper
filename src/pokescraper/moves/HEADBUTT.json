@@ -1,0 +1,12 @@
+{
+    "name": "Headbutt",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 30,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

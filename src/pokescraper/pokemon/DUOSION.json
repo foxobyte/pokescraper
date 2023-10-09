@@ -1,0 +1,85 @@
+{
+    "generation": 5,
+    "name": "Duosion",
+    "species": "Mitosis Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 65,
+    "attack": 40,
+    "defense": 50,
+    "speed": 30,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Psychic"
+    ],
+    "nationalNumber": 578,
+    "specialName": null,
+    "specialAbilities": [
+        "Overcoat",
+        "Magic Guard"
+    ],
+    "hiddenAbility": "Regenerator",
+    "specialAttack": 125,
+    "specialDefense": 60,
+    "catchRate": 100,
+    "evYield": {
+        "Sp. Atk": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 130,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Amorphous"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Confusion": 1,
+        "Endeavor": 1,
+        "Protect": 1,
+        "Recover": 1,
+        "Psybeam": 12,
+        "Charm": 16,
+        "Psyshock": 20,
+        "Light Screen": 24,
+        "Reflect": 24,
+        "Ally Switch": 28,
+        "Pain Split": 35,
+        "Psychic": 40,
+        "Skill Swap": 46,
+        "Future Sight": 52,
+        "Wonder Room": 58
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Expanding Force",
+        "Steel Roller"
+    ],
+    "movesLearnedByTm": {
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Charm": 29,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Imprison": 44,
+        "Rock Tomb": 48,
+        "Power Swap": 60,
+        "Guard Swap": 61,
+        "Trick Room": 70,
+        "Wonder Room": 71,
+        "Round": 76,
+        "Psychic Terrain": 91
+    }
+}

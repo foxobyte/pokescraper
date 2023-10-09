@@ -1,0 +1,12 @@
+{
+    "name": "Sunsteel Strike",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Ignores the target's ability.",
+    "isHighCrit": false
+}

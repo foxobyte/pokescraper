@@ -1,0 +1,12 @@
+{
+    "name": "X-Scissor",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "",
+    "isHighCrit": false
+}

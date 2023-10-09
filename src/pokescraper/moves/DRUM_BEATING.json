@@ -1,0 +1,12 @@
+{
+    "name": "Drum Beating",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": 100,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Lowers opponent's Speed.",
+    "isHighCrit": false
+}

@@ -1,0 +1,77 @@
+{
+    "generation": 5,
+    "name": "Unfezant",
+    "species": "Proud Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 80,
+    "attack": 115,
+    "defense": 80,
+    "speed": 93,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 521,
+    "specialName": null,
+    "specialAbilities": [
+        "Big Pecks",
+        "Super Luck"
+    ],
+    "hiddenAbility": "Rivalry",
+    "specialAttack": 65,
+    "specialDefense": 55,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 220,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Growl": 1,
+        "Gust": 1,
+        "Leer": 1,
+        "Quick Attack": 1,
+        "Taunt": 12,
+        "Air Cutter": 16,
+        "Swagger": 20,
+        "Feather Dance": 26,
+        "Detect": 36,
+        "Air Slash": 42,
+        "Roost": 50,
+        "Tailwind": 58,
+        "Sky Attack": 66
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Dual Wingbeat"
+    ],
+    "movesLearnedByTm": {
+        "Fly": 6,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Steel Wing": 30,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Swift": 40,
+        "U-turn": 56,
+        "Round": 76,
+        "Air Slash": 95
+    }
+}

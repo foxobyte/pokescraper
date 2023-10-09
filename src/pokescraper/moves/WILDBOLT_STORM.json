@@ -1,0 +1,12 @@
+{
+    "name": "Wildbolt Storm",
+    "category": "Special",
+    "power": 100,
+    "accuracy": 80,
+    "pp": 10,
+    "probability": null,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "May paralyze target.",
+    "isHighCrit": false
+}

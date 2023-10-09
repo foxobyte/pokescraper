@@ -1,0 +1,12 @@
+{
+    "name": "Bide",
+    "category": "Physical",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "User takes damage for two turns then strikes back double.",
+    "isHighCrit": false
+}

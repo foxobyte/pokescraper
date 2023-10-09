@@ -1,0 +1,12 @@
+{
+    "name": "Sand Tomb",
+    "category": "Physical",
+    "power": 35,
+    "accuracy": 85,
+    "pp": 15,
+    "probability": 100,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "Traps opponent, damaging them for 4-5 turns.",
+    "isHighCrit": false
+}

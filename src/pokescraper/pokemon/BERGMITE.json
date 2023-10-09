@@ -1,0 +1,87 @@
+{
+    "generation": 6,
+    "name": "Bergmite",
+    "species": "Ice Chunk Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "1.0\u00a0m (3\u203203\u2033)",
+    "hp": 55,
+    "attack": 69,
+    "defense": 85,
+    "speed": 28,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Ice"
+    ],
+    "nationalNumber": 712,
+    "specialName": null,
+    "specialAbilities": [
+        "Own Tempo",
+        "Ice Body"
+    ],
+    "hiddenAbility": "Sturdy",
+    "specialAttack": 32,
+    "specialDefense": 35,
+    "catchRate": 190,
+    "evYield": {
+        "Defense": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 61,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Mineral",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Harden": 1,
+        "Rapid Spin": 1,
+        "Tackle": 3,
+        "Powder Snow": 6,
+        "Curse": 9,
+        "Icy Wind": 12,
+        "Protect": 15,
+        "Avalanche": 18,
+        "Bite": 21,
+        "Ice Fang": 24,
+        "Iron Defense": 27,
+        "Recover": 30,
+        "Crunch": 33,
+        "Take Down": 36,
+        "Blizzard": 39,
+        "Double-Edge": 42
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Protect": 7,
+        "Ice Fang": 10,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Icy Wind": 34,
+        "Rock Tomb": 36,
+        "Avalanche": 46,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Snowscape": 52,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Rest": 85,
+        "Rock Slide": 86,
+        "Substitute": 103,
+        "Iron Defense": 104,
+        "Crunch": 108,
+        "Ice Spinner": 124,
+        "Ice Beam": 135,
+        "Blizzard": 143,
+        "Stone Edge": 150,
+        "Tera Blast": 171
+    }
+}

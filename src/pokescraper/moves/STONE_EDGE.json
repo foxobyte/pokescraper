@@ -1,0 +1,12 @@
+{
+    "name": "Stone Edge",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 80,
+    "pp": 5,
+    "probability": null,
+    "type": "Rock",
+    "moveType": "Rock",
+    "effectDescription": "High critical hit ratio.",
+    "isHighCrit": true
+}

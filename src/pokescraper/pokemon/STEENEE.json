@@ -1,0 +1,87 @@
+{
+    "generation": 7,
+    "name": "Steenee",
+    "species": "Fruit Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "0.7\u00a0m (2\u203204\u2033)",
+    "hp": 52,
+    "attack": 40,
+    "defense": 48,
+    "speed": 62,
+    "gender": {
+        "male": "0%",
+        "female": "100%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass"
+    ],
+    "nationalNumber": 762,
+    "specialName": null,
+    "specialAbilities": [
+        "Leaf Guard",
+        "Oblivious"
+    ],
+    "hiddenAbility": "Sweet Veil",
+    "specialAttack": 40,
+    "specialDefense": 48,
+    "catchRate": 120,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 102,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Flail": 1,
+        "Play Nice": 1,
+        "Rapid Spin": 1,
+        "Razor Leaf": 1,
+        "Splash": 1,
+        "Sweet Scent": 16,
+        "Magical Leaf": 22,
+        "Stomp": 28,
+        "Teeter Dance": 34,
+        "Aromatic Mist": 40,
+        "Leaf Storm": 46
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Protect": 7,
+        "Trailblaze": 20,
+        "Facade": 25,
+        "Swift": 32,
+        "Magical Leaf": 33,
+        "Draining Kiss": 37,
+        "Low Sweep": 39,
+        "Fling": 43,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Bullet Seed": 56,
+        "Zen Headbutt": 59,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Reflect": 74,
+        "Light Screen": 75,
+        "Dazzling Gleam": 79,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Substitute": 103,
+        "Giga Drain": 111,
+        "Energy Ball": 119,
+        "Play Rough": 127,
+        "Helping Hand": 130,
+        "Grassy Terrain": 137,
+        "Leaf Storm": 159,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

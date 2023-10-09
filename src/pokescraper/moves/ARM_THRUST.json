@@ -1,0 +1,12 @@
+{
+    "name": "Arm Thrust",
+    "category": "Physical",
+    "power": 15,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Hits 2-5 times in one turn.",
+    "isHighCrit": false
+}

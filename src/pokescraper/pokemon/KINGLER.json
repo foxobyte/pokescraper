@@ -1,0 +1,93 @@
+{
+    "generation": 1,
+    "name": "Kingler",
+    "species": "Pincer Pok\u00e9mon",
+    "height": "1.3\u00a0m (4\u203203\u2033)",
+    "weight": "1.3\u00a0m (4\u203203\u2033)",
+    "hp": 55,
+    "attack": 130,
+    "defense": 115,
+    "speed": 75,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 99,
+    "specialName": null,
+    "specialAbilities": [
+        "Hyper Cutter",
+        "Shell Armor"
+    ],
+    "hiddenAbility": "Sheer Force",
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "catchRate": 60,
+    "evYield": {
+        "Attack": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 166,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 3"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Hammer Arm": 1,
+        "Harden": 1,
+        "Leer": 1,
+        "Metal Claw": 1,
+        "Water Gun": 1,
+        "Wide Guard": 1,
+        "Mud Shot": 12,
+        "Protect": 16,
+        "Bubble Beam": 20,
+        "Stomp": 24,
+        "Flail": 31,
+        "Razor Shell": 36,
+        "Slam": 42,
+        "Swords Dance": 48,
+        "Crabhammer": 54,
+        "Guillotine": 60
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Hail": 7,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Hyper Beam": 15,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Dig": 28,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Rock Tomb": 39,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Scald": 49,
+        "False Swipe": 54,
+        "Brine": 55,
+        "Fling": 56,
+        "Endure": 58,
+        "Giga Impact": 68,
+        "Swords Dance": 75,
+        "Rock Slide": 80,
+        "X-Scissor": 81,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Surf": 95,
+        "Strength": 96,
+        "Rock Smash": 98
+    }
+}

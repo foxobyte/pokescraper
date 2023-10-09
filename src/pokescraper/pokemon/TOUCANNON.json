@@ -1,0 +1,103 @@
+{
+    "generation": 7,
+    "name": "Toucannon",
+    "species": "Cannon Pok\u00e9mon",
+    "height": "1.1\u00a0m (3\u203207\u2033)",
+    "weight": "1.1\u00a0m (3\u203207\u2033)",
+    "hp": 80,
+    "attack": 120,
+    "defense": 75,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "nationalNumber": 733,
+    "specialName": null,
+    "specialAbilities": [
+        "Keen Eye",
+        "Skill Link"
+    ],
+    "hiddenAbility": "Sheer Force",
+    "specialAttack": 75,
+    "specialDefense": 75,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 50,
+    "baseExp": 218,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Flying"
+    ],
+    "eggCycles": 15,
+    "movesLearnedAtLevel": {
+        "Beak Blast": 1,
+        "Echoed Voice": 7,
+        "Growl": 3,
+        "Peck": 1,
+        "Rock Blast": 1,
+        "Rock Smash": 9,
+        "Supersonic": 13,
+        "Pluck": 16,
+        "Roost": 21,
+        "Fury Attack": 24,
+        "Screech": 30,
+        "Drill Peck": 34,
+        "Bullet Seed": 40,
+        "Feather Dance": 44,
+        "Hyper Voice": 50
+    },
+    "movesLearnedOnEvolution": [
+        "Beak Blast"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Defog",
+        "Gunk Shot",
+        "Heat Wave",
+        "Hyper Voice",
+        "Knock Off",
+        "Seed Bomb",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar"
+    ],
+    "movesLearnedByTm": {
+        "Work Up": 1,
+        "Toxic": 6,
+        "Hidden Power": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Roost": 19,
+        "Frustration": 21,
+        "Smack Down": 23,
+        "Return": 27,
+        "Brick Break": 31,
+        "Double Team": 32,
+        "Aerial Ace": 40,
+        "Flame Charge": 43,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Round": 48,
+        "Echoed Voice": 49,
+        "Overheat": 50,
+        "Steel Wing": 51,
+        "Swords Dance": 75,
+        "Fly": 76,
+        "Swagger": 87,
+        "Sleep Talk": 88,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Flash Cannon": 91,
+        "Confide": 100
+    }
+}

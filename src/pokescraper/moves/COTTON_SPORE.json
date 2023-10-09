@@ -1,0 +1,12 @@
+{
+    "name": "Cotton Spore",
+    "category": "Status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 40,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Sharply lowers opponent's Speed.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Clear Smog",
+    "category": "Special",
+    "power": 50,
+    "accuracy": null,
+    "pp": 15,
+    "probability": null,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "Removes all of the target's stat changes.",
+    "isHighCrit": false
+}

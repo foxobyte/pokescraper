@@ -1,0 +1,84 @@
+{
+    "generation": 6,
+    "name": "Aromatisse",
+    "species": "Fragrance Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 101,
+    "attack": 72,
+    "defense": 72,
+    "speed": 29,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fairy"
+    ],
+    "nationalNumber": 683,
+    "specialName": null,
+    "specialAbilities": [
+        "Healer"
+    ],
+    "hiddenAbility": "Aroma Veil",
+    "specialAttack": 99,
+    "specialDefense": 89,
+    "catchRate": 140,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 162,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Fairy"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Aromatic Mist": 1,
+        "Echoed Voice": 1,
+        "Fairy Wind": 1,
+        "Heal Pulse": 1,
+        "Sweet Kiss": 1,
+        "Sweet Scent": 1,
+        "Disarming Voice": 9,
+        "Aromatherapy": 12,
+        "Draining Kiss": 15,
+        "Attract": 18,
+        "Flail": 21,
+        "Misty Terrain": 24,
+        "Psychic": 27,
+        "Charm": 30,
+        "Calm Mind": 33,
+        "Moonblast": 36,
+        "Skill Swap": 39,
+        "Psych Up": 42
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Misty Explosion"
+    ],
+    "movesLearnedByTm": {
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Rest": 21,
+        "Snore": 24,
+        "Protect": 25,
+        "Charm": 29,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Sunny Day": 34,
+        "Facade": 39,
+        "Helping Hand": 41,
+        "Fake Tears": 47,
+        "Drain Punch": 63,
+        "Trick Room": 70,
+        "Round": 76,
+        "Draining Kiss": 87,
+        "Misty Terrain": 89
+    }
+}

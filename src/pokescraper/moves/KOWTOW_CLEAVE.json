@@ -1,0 +1,12 @@
+{
+    "name": "Kowtow Cleave",
+    "category": "Physical",
+    "power": 85,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Always hits.",
+    "isHighCrit": false
+}

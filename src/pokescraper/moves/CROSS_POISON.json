@@ -1,0 +1,12 @@
+{
+    "name": "Cross Poison",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": 10,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "High critical hit ratio. May poison opponent.",
+    "isHighCrit": true
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Origin Pulse",
+    "category": "Special",
+    "power": 110,
+    "accuracy": 85,
+    "pp": 10,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Hits all adjacent opponents.",
+    "isHighCrit": false
+}

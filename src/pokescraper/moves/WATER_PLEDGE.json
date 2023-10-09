@@ -1,0 +1,12 @@
+{
+    "name": "Water Pledge",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.",
+    "isHighCrit": false
+}

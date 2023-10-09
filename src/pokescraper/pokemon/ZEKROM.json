@@ -1,0 +1,90 @@
+{
+    "generation": 5,
+    "name": "Zekrom",
+    "species": "Deep Black Pok\u00e9mon",
+    "height": "2.9\u00a0m (9\u203206\u2033)",
+    "weight": "2.9\u00a0m (9\u203206\u2033)",
+    "hp": 100,
+    "attack": 150,
+    "defense": 120,
+    "speed": 90,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Dragon",
+        "Electric"
+    ],
+    "nationalNumber": 644,
+    "specialName": null,
+    "specialAbilities": [
+        "Teravolt"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 120,
+    "specialDefense": 100,
+    "catchRate": 3,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 0,
+    "baseExp": 306,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Ancient Power": 1,
+        "Dragon Breath": 1,
+        "Noble Roar": 1,
+        "Thunder Fang": 1,
+        "Slash": 8,
+        "Crunch": 16,
+        "Zen Headbutt": 24,
+        "Dragon Claw": 32,
+        "Thunderbolt": 40,
+        "Fusion Bolt": 48,
+        "Hyper Voice": 56,
+        "Thunder": 64,
+        "Imprison": 72,
+        "Outrage": 80,
+        "Bolt Strike": 88
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Dual Wingbeat",
+        "Rising Voltage",
+        "Scale Shot"
+    ],
+    "movesLearnedByTm": {
+        "Thunder Punch": 5,
+        "Fly": 6,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Light Screen": 17,
+        "Reflect": 18,
+        "Safeguard": 19,
+        "Rest": 21,
+        "Rock Slide": 22,
+        "Snore": 24,
+        "Protect": 25,
+        "Steel Wing": 30,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Swift": 40,
+        "Helping Hand": 41,
+        "Imprison": 44,
+        "Weather Ball": 46,
+        "Rock Tomb": 48,
+        "Payback": 57,
+        "Fling": 59,
+        "Shadow Claw": 65,
+        "Thunder Fang": 66,
+        "Round": 76,
+        "Volt Switch": 80,
+        "Brutal Swing": 97,
+        "Breaking Swipe": 99
+    }
+}

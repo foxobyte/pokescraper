@@ -1,0 +1,12 @@
+{
+    "name": "Role Play",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "User copies the opponent's Ability.",
+    "isHighCrit": false
+}

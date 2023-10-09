@@ -1,0 +1,12 @@
+{
+    "name": "Grass Pledge",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.",
+    "isHighCrit": false
+}

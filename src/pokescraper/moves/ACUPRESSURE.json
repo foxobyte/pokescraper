@@ -1,0 +1,12 @@
+{
+    "name": "Acupressure",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Sharply raises a random stat.",
+    "isHighCrit": false
+}

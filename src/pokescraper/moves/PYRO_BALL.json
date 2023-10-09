@@ -1,0 +1,12 @@
+{
+    "name": "Pyro Ball",
+    "category": "Physical",
+    "power": 120,
+    "accuracy": 90,
+    "pp": 5,
+    "probability": 10,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "May burn opponent.",
+    "isHighCrit": false
+}

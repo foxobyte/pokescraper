@@ -1,0 +1,12 @@
+{
+    "name": "Hone Claws",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "probability": null,
+    "type": "Dark",
+    "moveType": "Dark",
+    "effectDescription": "Raises user's Attack and Accuracy.",
+    "isHighCrit": false
+}

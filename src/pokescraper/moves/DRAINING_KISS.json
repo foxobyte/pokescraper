@@ -1,0 +1,12 @@
+{
+    "name": "Draining Kiss",
+    "category": "Special",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "User recovers most the HP inflicted on opponent.",
+    "isHighCrit": false
+}

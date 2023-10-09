@@ -1,0 +1,12 @@
+{
+    "name": "Hyper Voice",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Electro Ball",
+    "category": "Special",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Electric",
+    "moveType": "Electric",
+    "effectDescription": "The faster the user, the stronger the attack.",
+    "isHighCrit": false
+}

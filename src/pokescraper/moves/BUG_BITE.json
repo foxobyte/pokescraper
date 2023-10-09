@@ -1,0 +1,12 @@
+{
+    "name": "Bug Bite",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "Receives the effect from the opponent's held berry.",
+    "isHighCrit": false
+}

@@ -1,0 +1,92 @@
+{
+    "generation": 4,
+    "name": "Buneary",
+    "species": "Rabbit Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.4\u00a0m (1\u203204\u2033)",
+    "hp": 55,
+    "attack": 66,
+    "defense": 44,
+    "speed": 85,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 427,
+    "specialName": null,
+    "specialAbilities": [
+        "Run Away",
+        "Klutz"
+    ],
+    "hiddenAbility": "Limber",
+    "specialAttack": 44,
+    "specialDefense": 56,
+    "catchRate": 190,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 0,
+    "baseExp": 70,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field",
+        "Human-Like"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Pound": 1,
+        "Splash": 1,
+        "Defense Curl": 4,
+        "Baby-Doll Eyes": 8,
+        "After You": 12,
+        "Quick Attack": 16,
+        "Double Kick": 20,
+        "Charm": 24,
+        "Baton Pass": 28,
+        "Headbutt": 32,
+        "Agility": 36,
+        "Entrainment": 40,
+        "Flatter": 44,
+        "Bounce": 48,
+        "Healing Wish": 52
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Focus Punch": 1,
+        "Water Pulse": 3,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Ice Beam": 13,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Solar Beam": 22,
+        "Iron Tail": 23,
+        "Thunderbolt": 24,
+        "Low Sweep": 27,
+        "Dig": 28,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Fling": 56,
+        "Charge Beam": 57,
+        "Endure": 58,
+        "Drain Punch": 60,
+        "Payback": 66,
+        "Thunder Wave": 73,
+        "Sleep Talk": 82,
+        "Grass Knot": 86,
+        "Swagger": 87,
+        "Substitute": 90,
+        "Cut": 93,
+        "Rock Smash": 98
+    }
+}

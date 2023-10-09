@@ -1,0 +1,12 @@
+{
+    "name": "Needle Arm",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 30,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "May cause flinching.",
+    "isHighCrit": false
+}

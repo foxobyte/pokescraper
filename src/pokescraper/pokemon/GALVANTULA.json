@@ -1,0 +1,88 @@
+{
+    "generation": 5,
+    "name": "Galvantula",
+    "species": "EleSpider Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 70,
+    "attack": 77,
+    "defense": 60,
+    "speed": 108,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Electric"
+    ],
+    "nationalNumber": 596,
+    "specialName": null,
+    "specialAbilities": [
+        "Compound Eyes",
+        "Unnerve"
+    ],
+    "hiddenAbility": "Swarm",
+    "specialAttack": 97,
+    "specialDefense": 60,
+    "catchRate": 75,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 165,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Bug Bite": 1,
+        "Electroweb": 1,
+        "Fury Cutter": 1,
+        "Sticky Web": 1,
+        "String Shot": 12,
+        "Thunder Wave": 16,
+        "Electro Ball": 20,
+        "Agility": 24,
+        "Sucker Punch": 28,
+        "Slash": 32,
+        "Discharge": 39,
+        "Screech": 44,
+        "Gastro Acid": 50,
+        "Bug Buzz": 56
+    },
+    "movesLearnedOnEvolution": [
+        "Sticky Web"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Rising Voltage",
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Pin Missile": 7,
+        "Hyper Beam": 8,
+        "Giga Impact": 9,
+        "Thunder Wave": 14,
+        "Screech": 16,
+        "Light Screen": 17,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Swift": 40,
+        "Bounce": 52,
+        "Speed Swap": 62,
+        "Cross Poison": 73,
+        "Round": 76,
+        "Volt Switch": 80,
+        "Electroweb": 82
+    }
+}

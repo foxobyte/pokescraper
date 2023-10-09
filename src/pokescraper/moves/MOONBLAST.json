@@ -1,0 +1,12 @@
+{
+    "name": "Moonblast",
+    "category": "Special",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 30,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "May lower opponent's Special Attack.",
+    "isHighCrit": false
+}

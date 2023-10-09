@@ -1,0 +1,12 @@
+{
+    "name": "Flying Press",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 10,
+    "probability": null,
+    "type": "Fighting",
+    "moveType": "Fighting",
+    "effectDescription": "Deals Fighting and Flying type damage.",
+    "isHighCrit": false
+}

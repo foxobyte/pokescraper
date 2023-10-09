@@ -1,0 +1,12 @@
+{
+    "name": "Swallow",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "The more times the user has performed Stockpile, the more HP is recovered.",
+    "isHighCrit": false
+}

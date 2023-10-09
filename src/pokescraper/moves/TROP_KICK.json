@@ -1,0 +1,12 @@
+{
+    "name": "Trop Kick",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 100,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Lowers opponent's Attack.",
+    "isHighCrit": false
+}

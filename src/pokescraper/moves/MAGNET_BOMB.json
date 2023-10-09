@@ -1,0 +1,12 @@
+{
+    "name": "Magnet Bomb",
+    "category": "Physical",
+    "power": 60,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "Ignores Accuracy and Evasiveness.",
+    "isHighCrit": false
+}

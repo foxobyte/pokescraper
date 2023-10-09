@@ -1,0 +1,86 @@
+{
+    "generation": 9,
+    "name": "Bramblin",
+    "species": "Tumbleweed Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 40,
+    "attack": 65,
+    "defense": 30,
+    "speed": 60,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Grass",
+        "Ghost"
+    ],
+    "nationalNumber": 946,
+    "specialName": null,
+    "specialAbilities": [
+        "Wind Rider"
+    ],
+    "hiddenAbility": "Infiltrator",
+    "specialAttack": 45,
+    "specialDefense": 35,
+    "catchRate": 190,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 55,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Grass"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Defense Curl": 1,
+        "Rollout": 1,
+        "Absorb": 5,
+        "Rapid Spin": 9,
+        "Bullet Seed": 13,
+        "Infestation": 17,
+        "Hex": 21,
+        "Mega Drain": 25,
+        "Disable": 29,
+        "Phantom Force": 35,
+        "Giga Drain": 40,
+        "Curse": 45,
+        "Pain Split": 50,
+        "Power Whip": 55
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Scary Face": 6,
+        "Protect": 7,
+        "Confuse Ray": 17,
+        "Thief": 18,
+        "Trailblaze": 20,
+        "Pounce": 21,
+        "Facade": 25,
+        "Hex": 29,
+        "Night Shade": 42,
+        "Endure": 47,
+        "Bullet Seed": 56,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Grass Knot": 81,
+        "Rest": 85,
+        "Spikes": 90,
+        "Substitute": 103,
+        "Giga Drain": 111,
+        "Shadow Ball": 114,
+        "Energy Ball": 119,
+        "Grassy Terrain": 137,
+        "Phantom Force": 151,
+        "Leaf Storm": 159,
+        "Solar Beam": 168,
+        "Tera Blast": 171
+    }
+}

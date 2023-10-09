@@ -1,0 +1,12 @@
+{
+    "name": "Harden",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Raises user's Defense.",
+    "isHighCrit": false
+}

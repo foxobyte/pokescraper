@@ -1,0 +1,80 @@
+{
+    "generation": 3,
+    "name": "Whismur",
+    "species": "Whisper Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 64,
+    "attack": 51,
+    "defense": 23,
+    "speed": 28,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 293,
+    "specialName": null,
+    "specialAbilities": [
+        "Soundproof"
+    ],
+    "hiddenAbility": "Rattled",
+    "specialAttack": 51,
+    "specialDefense": 23,
+    "catchRate": 190,
+    "evYield": {
+        "HP": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 48,
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+        "Field",
+        "Monster"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Astonish": 1,
+        "Pound": 1,
+        "Echoed Voice": 5,
+        "Howl": 10,
+        "Rest": 15,
+        "Sleep Talk": 15,
+        "Stomp": 21,
+        "Roar": 25,
+        "Supersonic": 30,
+        "Uproar": 35,
+        "Screech": 40,
+        "Hyper Voice": 45
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Water Pulse": 3,
+        "Roar": 5,
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Ice Beam": 13,
+        "Blizzard": 14,
+        "Protect": 17,
+        "Rain Dance": 18,
+        "Solar Beam": 22,
+        "Shadow Ball": 30,
+        "Double Team": 32,
+        "Shock Wave": 34,
+        "Flamethrower": 35,
+        "Fire Blast": 38,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Fling": 56,
+        "Endure": 58,
+        "Sleep Talk": 82,
+        "Swagger": 87,
+        "Substitute": 90
+    }
+}

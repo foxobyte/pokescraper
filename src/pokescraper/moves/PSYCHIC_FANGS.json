@@ -1,0 +1,12 @@
+{
+    "name": "Psychic Fangs",
+    "category": "Physical",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.",
+    "isHighCrit": false
+}

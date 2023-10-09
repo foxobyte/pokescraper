@@ -1,0 +1,12 @@
+{
+    "name": "Spit Up",
+    "category": "Special",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Power depends on how many times the user performed Stockpile.",
+    "isHighCrit": false
+}

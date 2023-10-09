@@ -1,0 +1,12 @@
+{
+    "name": "Iron Tail",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 75,
+    "pp": 15,
+    "probability": 30,
+    "type": "Steel",
+    "moveType": "Steel",
+    "effectDescription": "May lower opponent's Defense.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Baneful Bunker",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Poison",
+    "moveType": "Poison",
+    "effectDescription": "Protects the user and poisons opponent on contact.",
+    "isHighCrit": false
+}

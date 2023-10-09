@@ -1,0 +1,58 @@
+{
+    "generation": 1,
+    "name": "Zapdos",
+    "species": "Strong Legs Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "1.6\u00a0m (5\u203203\u2033)",
+    "hp": 90,
+    "attack": 125,
+    "defense": 90,
+    "speed": 100,
+    "gender": null,
+    "evolutions": {},
+    "type": [
+        "Fighting",
+        "Flying"
+    ],
+    "nationalNumber": 145,
+    "specialName": "Galarian Zapdos",
+    "specialAbilities": [
+        "Defiant"
+    ],
+    "hiddenAbility": null,
+    "specialAttack": 85,
+    "specialDefense": 90,
+    "catchRate": 3,
+    "evYield": {
+        "Attack": 3
+    },
+    "baseFriendship": 35,
+    "baseExp": 290,
+    "growthRate": "Slow",
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "eggCycles": 120,
+    "movesLearnedAtLevel": {
+        "Focus Energy": 1,
+        "Peck": 1,
+        "Rock Smash": 5,
+        "Light Screen": 10,
+        "Pluck": 15,
+        "Agility": 20,
+        "Ancient Power": 25,
+        "Brick Break": 30,
+        "Drill Peck": 35,
+        "Quick Guard": 40,
+        "Thunderous Kick": 45,
+        "Bulk Up": 50,
+        "Counter": 55,
+        "Detect": 60,
+        "Close Combat": 65,
+        "Reversal": 70
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": null
+}

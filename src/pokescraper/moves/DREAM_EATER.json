@@ -1,0 +1,12 @@
+{
+    "name": "Dream Eater",
+    "category": "Special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "User recovers half the HP inflicted on a sleeping opponent.",
+    "isHighCrit": false
+}

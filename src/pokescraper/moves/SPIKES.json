@@ -1,0 +1,12 @@
+{
+    "name": "Spikes",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "Hurts opponents when they switch into battle.",
+    "isHighCrit": false
+}

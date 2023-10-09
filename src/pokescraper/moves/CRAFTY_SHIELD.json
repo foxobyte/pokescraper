@@ -1,0 +1,12 @@
+{
+    "name": "Crafty Shield",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Fairy",
+    "moveType": "Fairy",
+    "effectDescription": "Protects the Pok\u00e9mon from status moves.",
+    "isHighCrit": false
+}

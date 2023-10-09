@@ -1,0 +1,85 @@
+{
+    "generation": 9,
+    "name": "Wiglett",
+    "species": "Garden Eel Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 10,
+    "attack": 55,
+    "defense": 25,
+    "speed": 95,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 960,
+    "specialName": null,
+    "specialAbilities": [
+        "Gooey",
+        "Rattled"
+    ],
+    "hiddenAbility": "Sand Veil",
+    "specialAttack": 35,
+    "specialDefense": 25,
+    "catchRate": 255,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 49,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Water 3"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Sand Attack": 1,
+        "Water Gun": 1,
+        "Mud-Slap": 4,
+        "Wrap": 8,
+        "Aqua Jet": 12,
+        "Slam": 20,
+        "Water Pulse": 20,
+        "Headbutt": 24,
+        "Dig": 28,
+        "Sucker Punch": 32,
+        "Throat Chop": 36,
+        "Liquidation": 40
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Agility": 4,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Swift": 32,
+        "Mud Shot": 35,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "Sandstorm": 51,
+        "Dig": 55,
+        "Foul Play": 62,
+        "Sleep Talk": 70,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Substitute": 103,
+        "Liquidation": 110,
+        "Surf": 123,
+        "Helping Hand": 130,
+        "Earth Power": 133,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Tera Blast": 171
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Veevee Volley",
+    "category": "Physical",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "probability": null,
+    "type": "Normal",
+    "moveType": "Normal",
+    "effectDescription": "Power increases when player's bond is stronger.",
+    "isHighCrit": false
+}

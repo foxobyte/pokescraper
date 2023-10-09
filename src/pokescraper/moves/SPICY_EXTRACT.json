@@ -1,0 +1,12 @@
+{
+    "name": "Spicy Extract",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "probability": null,
+    "type": "Grass",
+    "moveType": "Grass",
+    "effectDescription": "Harshly lowers the opponent's Defense and sharply raises their Attack.",
+    "isHighCrit": false
+}

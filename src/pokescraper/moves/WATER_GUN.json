@@ -1,0 +1,12 @@
+{
+    "name": "Water Gun",
+    "category": "Special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 25,
+    "probability": null,
+    "type": "Water",
+    "moveType": "Water",
+    "effectDescription": "",
+    "isHighCrit": false
+}

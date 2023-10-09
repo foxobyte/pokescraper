@@ -1,0 +1,12 @@
+{
+    "name": "Heal Pulse",
+    "category": "Status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "probability": null,
+    "type": "Psychic",
+    "moveType": "Psychic",
+    "effectDescription": "Restores half the target's max HP.",
+    "isHighCrit": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Sizzly Slide",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "probability": 100,
+    "type": "Fire",
+    "moveType": "Fire",
+    "effectDescription": "Burns the opponent.",
+    "isHighCrit": false
+}

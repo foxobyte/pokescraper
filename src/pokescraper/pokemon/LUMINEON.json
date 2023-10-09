@@ -1,0 +1,92 @@
+{
+    "generation": 4,
+    "name": "Lumineon",
+    "species": "Neon Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "1.2\u00a0m (3\u203211\u2033)",
+    "hp": 69,
+    "attack": 69,
+    "defense": 76,
+    "speed": 91,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Water"
+    ],
+    "nationalNumber": 457,
+    "specialName": null,
+    "specialAbilities": [
+        "Swift Swim",
+        "Storm Drain"
+    ],
+    "hiddenAbility": "Water Veil",
+    "specialAttack": 69,
+    "specialDefense": 86,
+    "catchRate": 75,
+    "evYield": {
+        "Speed": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 161,
+    "growthRate": "Erratic",
+    "eggGroups": [
+        "Water 2"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Gust": 1,
+        "Pound": 1,
+        "Soak": 1,
+        "Water Gun": 1,
+        "Rain Dance": 13,
+        "Water Pulse": 22,
+        "Attract": 26,
+        "Safeguard": 29,
+        "Aqua Ring": 35,
+        "Whirlpool": 42,
+        "U-turn": 48,
+        "Bounce": 53,
+        "Tailwind": 59
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Charm": 2,
+        "Agility": 4,
+        "Protect": 7,
+        "Water Pulse": 11,
+        "Acrobatics": 14,
+        "Psybeam": 16,
+        "Confuse Ray": 17,
+        "Thief": 18,
+        "Chilling Water": 22,
+        "Facade": 25,
+        "Swift": 32,
+        "Icy Wind": 34,
+        "Air Cutter": 40,
+        "Endure": 47,
+        "Rain Dance": 50,
+        "U-turn": 60,
+        "Air Slash": 65,
+        "Sleep Talk": 70,
+        "Waterfall": 77,
+        "Dazzling Gleam": 79,
+        "Rest": 85,
+        "Substitute": 103,
+        "Tailwind": 113,
+        "Encore": 122,
+        "Surf": 123,
+        "Helping Hand": 130,
+        "Ice Beam": 135,
+        "Hydro Pump": 142,
+        "Blizzard": 143,
+        "Giga Impact": 152,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

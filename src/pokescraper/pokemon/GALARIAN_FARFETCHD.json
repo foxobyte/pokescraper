@@ -1,0 +1,86 @@
+{
+    "generation": 1,
+    "name": "Farfetch'd",
+    "species": "Wild Duck Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "0.8\u00a0m (2\u203207\u2033)",
+    "hp": 52,
+    "attack": 95,
+    "defense": 55,
+    "speed": 55,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Fighting"
+    ],
+    "nationalNumber": 83,
+    "specialName": "Galarian Farfetch'd",
+    "specialAbilities": [
+        "Steadfast"
+    ],
+    "hiddenAbility": "Scrappy",
+    "specialAttack": 58,
+    "specialDefense": 62,
+    "catchRate": 45,
+    "evYield": {
+        "Attack": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 132,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field",
+        "Flying"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Peck": 1,
+        "Sand Attack": 1,
+        "Leer": 5,
+        "Fury Cutter": 10,
+        "Cut": 15,
+        "Aerial Ace": 20,
+        "Air Cutter": 25,
+        "Knock Off": 30,
+        "False Swipe": 35,
+        "Slash": 40,
+        "Swords Dance": 45,
+        "Air Slash": 50,
+        "Leaf Blade": 55,
+        "Agility": 60,
+        "Brave Bird": 65
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Work Up": 10,
+        "Sunny Day": 11,
+        "Protect": 17,
+        "Iron Tail": 23,
+        "Double Team": 32,
+        "Aerial Ace": 40,
+        "Facade": 42,
+        "Rest": 44,
+        "Attract": 45,
+        "Thief": 46,
+        "Steel Wing": 47,
+        "Roost": 51,
+        "False Swipe": 54,
+        "Endure": 58,
+        "Swords Dance": 75,
+        "Psych Up": 77,
+        "Sleep Talk": 82,
+        "Poison Jab": 84,
+        "Swagger": 87,
+        "Pluck": 88,
+        "U-turn": 89,
+        "Substitute": 90,
+        "Cut": 93,
+        "Fly": 94,
+        "Defog": 97
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "generation": 5,
+    "name": "Joltik",
+    "species": "Attaching Pok\u00e9mon",
+    "height": "0.1\u00a0m (0\u203204\u2033)",
+    "weight": "0.1\u00a0m (0\u203204\u2033)",
+    "hp": 50,
+    "attack": 47,
+    "defense": 50,
+    "speed": 65,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Bug",
+        "Electric"
+    ],
+    "nationalNumber": 595,
+    "specialName": null,
+    "specialAbilities": [
+        "Compound Eyes",
+        "Unnerve"
+    ],
+    "hiddenAbility": "Swarm",
+    "specialAttack": 57,
+    "specialDefense": 50,
+    "catchRate": 190,
+    "evYield": {
+        "Speed": 1
+    },
+    "baseFriendship": 50,
+    "baseExp": 64,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Bug"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Absorb": 1,
+        "Fury Cutter": 1,
+        "Electroweb": 4,
+        "Bug Bite": 8,
+        "String Shot": 12,
+        "Thunder Wave": 16,
+        "Electro Ball": 20,
+        "Agility": 24,
+        "Sucker Punch": 28,
+        "Slash": 32,
+        "Discharge": 37,
+        "Screech": 40,
+        "Gastro Acid": 44,
+        "Bug Buzz": 48
+    },
+    "movesLearnedOnEvolution": null,
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": [
+        "Rising Voltage",
+        "Skitter Smack"
+    ],
+    "movesLearnedByTm": {
+        "Pin Missile": 7,
+        "Thunder Wave": 14,
+        "Screech": 16,
+        "Light Screen": 17,
+        "Rest": 21,
+        "Thief": 23,
+        "Snore": 24,
+        "Protect": 25,
+        "Giga Drain": 28,
+        "Attract": 31,
+        "Rain Dance": 33,
+        "Facade": 39,
+        "Swift": 40,
+        "Bounce": 52,
+        "Speed Swap": 62,
+        "Cross Poison": 73,
+        "Round": 76,
+        "Volt Switch": 80,
+        "Electroweb": 82
+    }
+}

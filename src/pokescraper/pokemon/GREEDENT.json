@@ -1,0 +1,93 @@
+{
+    "generation": 8,
+    "name": "Greedent",
+    "species": "Greedy Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "0.6\u00a0m (2\u203200\u2033)",
+    "hp": 120,
+    "attack": 95,
+    "defense": 95,
+    "speed": 20,
+    "gender": {
+        "male": "50%",
+        "female": "50%"
+    },
+    "evolutions": {},
+    "type": [
+        "Normal"
+    ],
+    "nationalNumber": 820,
+    "specialName": null,
+    "specialAbilities": [
+        "Cheek Pouch"
+    ],
+    "hiddenAbility": "Gluttony",
+    "specialAttack": 55,
+    "specialDefense": 75,
+    "catchRate": 90,
+    "evYield": {
+        "HP": 2
+    },
+    "baseFriendship": 50,
+    "baseExp": 161,
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+        "Field"
+    ],
+    "eggCycles": 20,
+    "movesLearnedAtLevel": {
+        "Bite": 1,
+        "Stuff Cheeks": 1,
+        "Tackle": 1,
+        "Tail Whip": 1,
+        "Spit Up": 15,
+        "Stockpile": 15,
+        "Swallow": 15,
+        "Body Slam": 20,
+        "Rest": 27,
+        "Counter": 34,
+        "Bullet Seed": 41,
+        "Super Fang": 48,
+        "Belch": 55
+    },
+    "movesLearnedOnEvolution": [
+        "Covet"
+    ],
+    "movesLearnedByEggs": null,
+    "movesLearnedByTutor": null,
+    "movesLearnedByTm": {
+        "Take Down": 1,
+        "Mud-Slap": 5,
+        "Protect": 7,
+        "Fire Fang": 8,
+        "Thunder Fang": 9,
+        "Ice Fang": 10,
+        "Thief": 18,
+        "Facade": 25,
+        "Bulldoze": 28,
+        "Mud Shot": 35,
+        "Fling": 43,
+        "Endure": 47,
+        "Sunny Day": 49,
+        "Rain Dance": 50,
+        "Dig": 55,
+        "Bullet Seed": 56,
+        "Psychic Fangs": 63,
+        "Body Slam": 66,
+        "Sleep Talk": 70,
+        "Seed Bomb": 71,
+        "Stomping Tantrum": 84,
+        "Rest": 85,
+        "Swords Dance": 88,
+        "Body Press": 89,
+        "Substitute": 103,
+        "Crunch": 108,
+        "Hyper Voice": 117,
+        "Amnesia": 128,
+        "Wild Charge": 147,
+        "Earthquake": 149,
+        "Giga Impact": 152,
+        "Hyper Beam": 163,
+        "Tera Blast": 171
+    }
+}

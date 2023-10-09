@@ -1,0 +1,12 @@
+{
+    "name": "Thousand Waves",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "probability": null,
+    "type": "Ground",
+    "moveType": "Ground",
+    "effectDescription": "Opponent cannot flee or switch.",
+    "isHighCrit": false
+}

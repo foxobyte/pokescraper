@@ -1,0 +1,12 @@
+{
+    "name": "U-turn",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "probability": null,
+    "type": "Bug",
+    "moveType": "Bug",
+    "effectDescription": "User switches out immediately after attacking.",
+    "isHighCrit": false
+}
