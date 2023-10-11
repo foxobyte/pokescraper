@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Lowers opponent's Accuracy.
+isHighCrit: false
+moveType: Ground
+name: Mud-Slap
+power: 20
+pp: 10
+probability: 100
+type: Ground

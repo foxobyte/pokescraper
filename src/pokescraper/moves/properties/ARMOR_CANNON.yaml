@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Lowers user's Defense and Special Defense.
+isHighCrit: false
+moveType: Fire
+name: Armor Cannon
+power: 120
+pp: 5
+probability: null
+type: Fire

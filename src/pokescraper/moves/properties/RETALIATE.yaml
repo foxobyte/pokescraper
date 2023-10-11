@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Inflicts double damage if a teammate fainted on the last turn.
+isHighCrit: false
+moveType: Normal
+name: Retaliate
+power: 70
+pp: 5
+probability: null
+type: Normal

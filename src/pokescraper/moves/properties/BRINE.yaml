@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Power doubles if opponent's HP is less than 50%.
+isHighCrit: false
+moveType: Water
+name: Brine
+power: 65
+pp: 10
+probability: null
+type: Water

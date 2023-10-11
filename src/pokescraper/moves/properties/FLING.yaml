@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power depends on held item.
+isHighCrit: false
+moveType: Dark
+name: Fling
+power: null
+pp: 10
+probability: null
+type: Dark

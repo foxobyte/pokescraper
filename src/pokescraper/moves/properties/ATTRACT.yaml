@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: If opponent is the opposite gender, it's less likely to attack.
+isHighCrit: false
+moveType: Normal
+name: Attract
+power: null
+pp: 15
+probability: null
+type: Normal

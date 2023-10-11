@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Lowers opponent's Attack.
+isHighCrit: false
+moveType: Normal
+name: Growl
+power: null
+pp: 40
+probability: null
+type: Normal

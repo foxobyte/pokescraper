@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May freeze opponent.
+isHighCrit: false
+moveType: Ice
+name: Ice Beam
+power: 90
+pp: 10
+probability: 10
+type: Ice

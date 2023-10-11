@@ -1,0 +1,10 @@
+accuracy: 95
+category: Physical
+effectDescription: May cause flinching and/or freeze opponent.
+isHighCrit: false
+moveType: Ice
+name: Ice Fang
+power: 65
+pp: 15
+probability: 10
+type: Ice

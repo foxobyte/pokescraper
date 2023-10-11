@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Poisons opponents when they switch into battle.
+isHighCrit: false
+moveType: Poison
+name: Toxic Spikes
+power: null
+pp: 20
+probability: null
+type: Poison

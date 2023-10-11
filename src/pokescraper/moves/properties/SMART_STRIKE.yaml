@@ -1,0 +1,11 @@
+accuracy: null
+category: Physical
+effectDescription: The user stabs the target with a sharp horn. This attack never
+  misses.
+isHighCrit: false
+moveType: Steel
+name: Smart Strike
+power: 70
+pp: 10
+probability: null
+type: Steel

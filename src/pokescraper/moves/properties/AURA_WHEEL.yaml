@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Changes type based on Morpeko's Mode.
+isHighCrit: false
+moveType: Electric
+name: Aura Wheel
+power: 110
+pp: 10
+probability: 100
+type: Electric

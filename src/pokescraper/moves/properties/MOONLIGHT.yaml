@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User recovers HP. Amount varies with the weather.
+isHighCrit: false
+moveType: Fairy
+name: Moonlight
+power: null
+pp: 5
+probability: null
+type: Fairy

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: When hit by a Physical Attack, user strikes back with 2x power.
+isHighCrit: false
+moveType: Fighting
+name: Counter
+power: null
+pp: 20
+probability: null
+type: Fighting

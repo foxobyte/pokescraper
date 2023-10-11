@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Flying
+name: Drill Peck
+power: 80
+pp: 20
+probability: null
+type: Flying

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Lowers user's Special Attack. Money is earned after the battle.
+isHighCrit: false
+moveType: Steel
+name: Make It Rain
+power: 120
+pp: 5
+probability: null
+type: Steel

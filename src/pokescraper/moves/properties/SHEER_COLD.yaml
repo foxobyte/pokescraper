@@ -1,0 +1,10 @@
+accuracy: 30
+category: Special
+effectDescription: One-Hit-KO, if it hits.
+isHighCrit: false
+moveType: Ice
+name: Sheer Cold
+power: null
+pp: 5
+probability: null
+type: Ice

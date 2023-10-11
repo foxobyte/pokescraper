@@ -1,0 +1,10 @@
+accuracy: 80
+category: Physical
+effectDescription: User receives recoil damage.
+isHighCrit: false
+moveType: Rock
+name: Head Smash
+power: 150
+pp: 5
+probability: null
+type: Rock

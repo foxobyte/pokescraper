@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: May raise user's Defense.
+isHighCrit: false
+moveType: Steel
+name: Steel Wing
+power: 70
+pp: 25
+probability: 10
+type: Steel

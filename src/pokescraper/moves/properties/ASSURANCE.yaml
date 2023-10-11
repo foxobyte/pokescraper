@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power doubles if opponent already took damage in the same turn.
+isHighCrit: false
+moveType: Dark
+name: Assurance
+power: 60
+pp: 10
+probability: null
+type: Dark

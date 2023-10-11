@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May put the target to sleep.
+isHighCrit: false
+moveType: Normal
+name: Relic Song
+power: 75
+pp: 10
+probability: 10
+type: Normal

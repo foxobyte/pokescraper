@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: "Swaps every Pok\xE9mon's Defense and Special Defense for 5 turns."
+isHighCrit: false
+moveType: Psychic
+name: Wonder Room
+power: null
+pp: 10
+probability: null
+type: Psychic

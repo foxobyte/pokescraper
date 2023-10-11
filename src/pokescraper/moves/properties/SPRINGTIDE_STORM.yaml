@@ -1,0 +1,11 @@
+accuracy: 80
+category: Special
+effectDescription: Boosts user's stats in Incarnate Forme, or lowers opponent's stats
+  in Therian Forme.
+isHighCrit: false
+moveType: Fairy
+name: Springtide Storm
+power: 100
+pp: 5
+probability: null
+type: Fairy

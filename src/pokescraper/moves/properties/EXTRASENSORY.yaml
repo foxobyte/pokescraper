@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Psychic
+name: Extrasensory
+power: 80
+pp: 20
+probability: 10
+type: Psychic

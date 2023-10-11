@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May poison opponent.
+isHighCrit: false
+moveType: Poison
+name: Sludge Wave
+power: 95
+pp: 10
+probability: 10
+type: Poison

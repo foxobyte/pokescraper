@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Raises user's Speed.
+isHighCrit: false
+moveType: Water
+name: Aqua Step
+power: 80
+pp: 10
+probability: 100
+type: Water

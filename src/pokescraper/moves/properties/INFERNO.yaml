@@ -1,0 +1,10 @@
+accuracy: 50
+category: Special
+effectDescription: Burns opponent.
+isHighCrit: false
+moveType: Fire
+name: Inferno
+power: 100
+pp: 5
+probability: 100
+type: Fire

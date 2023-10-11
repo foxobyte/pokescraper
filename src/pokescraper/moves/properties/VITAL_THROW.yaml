@@ -1,0 +1,10 @@
+accuracy: null
+category: Physical
+effectDescription: User attacks last, but ignores Accuracy and Evasiveness.
+isHighCrit: false
+moveType: Fighting
+name: Vital Throw
+power: 70
+pp: 10
+probability: null
+type: Fighting

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Water
+name: Waterfall
+power: 80
+pp: 15
+probability: 20
+type: Water

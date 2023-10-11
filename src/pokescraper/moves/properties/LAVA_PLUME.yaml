@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May burn opponent.
+isHighCrit: false
+moveType: Fire
+name: Lava Plume
+power: 80
+pp: 15
+probability: 30
+type: Fire

@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Rock
+name: Rock Slide
+power: 75
+pp: 10
+probability: 30
+type: Rock

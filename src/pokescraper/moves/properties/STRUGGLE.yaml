@@ -1,0 +1,10 @@
+accuracy: null
+category: Physical
+effectDescription: Only usable when all PP are gone. Hurts the user.
+isHighCrit: false
+moveType: Normal
+name: Struggle
+power: 50
+pp: null
+probability: null
+type: Normal

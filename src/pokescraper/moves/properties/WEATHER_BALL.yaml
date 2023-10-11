@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Move's power and type changes with the weather.
+isHighCrit: false
+moveType: Normal
+name: Weather Ball
+power: 50
+pp: 10
+probability: null
+type: Normal

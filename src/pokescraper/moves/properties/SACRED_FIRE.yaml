@@ -1,0 +1,10 @@
+accuracy: 95
+category: Physical
+effectDescription: May burn opponent.
+isHighCrit: false
+moveType: Fire
+name: Sacred Fire
+power: 100
+pp: 5
+probability: 50
+type: Fire

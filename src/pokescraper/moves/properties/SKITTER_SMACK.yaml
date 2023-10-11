@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: Lowers opponent's Sp. Attack.
+isHighCrit: false
+moveType: Bug
+name: Skitter Smack
+power: 70
+pp: 10
+probability: null
+type: Bug

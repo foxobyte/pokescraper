@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: The opponent's last move loses 2-5 PP.
+isHighCrit: false
+moveType: Ghost
+name: Spite
+power: null
+pp: 10
+probability: null
+type: Ghost

@@ -1,0 +1,10 @@
+accuracy: 85
+category: Physical
+effectDescription: May paralyze opponent.
+isHighCrit: false
+moveType: Electric
+name: Bolt Strike
+power: 130
+pp: 5
+probability: 20
+type: Electric

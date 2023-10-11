@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Damages opponent switching into battle.
+isHighCrit: false
+moveType: Rock
+name: Stealth Rock
+power: null
+pp: 20
+probability: null
+type: Rock

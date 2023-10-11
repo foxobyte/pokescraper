@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May lower opponent's Defense.
+isHighCrit: false
+moveType: Fighting
+name: Rock Smash
+power: 40
+pp: 15
+probability: 50
+type: Fighting

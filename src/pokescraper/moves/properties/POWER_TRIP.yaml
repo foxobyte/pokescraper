@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: The user boasts its strength and attacks the target. The more the
+  user's stats are raised, the greater the move's power.
+isHighCrit: false
+moveType: Dark
+name: Power Trip
+power: 20
+pp: 10
+probability: null
+type: Dark

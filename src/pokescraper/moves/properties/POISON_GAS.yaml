@@ -1,0 +1,10 @@
+accuracy: 90
+category: Status
+effectDescription: Poisons opponent.
+isHighCrit: false
+moveType: Poison
+name: Poison Gas
+power: null
+pp: 40
+probability: null
+type: Poison

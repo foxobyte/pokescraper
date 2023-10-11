@@ -1,0 +1,10 @@
+accuracy: 95
+category: Physical
+effectDescription: The user fiercely attacks the target using its entire body.
+isHighCrit: false
+moveType: Ground
+name: High Horsepower
+power: 95
+pp: 10
+probability: null
+type: Ground

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Lowers opponent's Special Attack.
+isHighCrit: false
+moveType: Fairy
+name: Spirit Break
+power: 75
+pp: 15
+probability: 100
+type: Fairy

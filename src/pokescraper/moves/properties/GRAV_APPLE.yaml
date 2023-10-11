@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Lowers the opponent's Defense stat.
+isHighCrit: false
+moveType: Grass
+name: Grav Apple
+power: 80
+pp: 10
+probability: 100
+type: Grass

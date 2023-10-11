@@ -1,0 +1,11 @@
+accuracy: null
+category: Status
+effectDescription: "The Pok\xE9mon congratulates you on your special day. No battle\
+  \ effect."
+isHighCrit: false
+moveType: Normal
+name: Celebrate
+power: null
+pp: 40
+probability: null
+type: Normal

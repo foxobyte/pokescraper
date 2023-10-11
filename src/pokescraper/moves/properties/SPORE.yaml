@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Puts opponent to sleep.
+isHighCrit: false
+moveType: Grass
+name: Spore
+power: null
+pp: 15
+probability: null
+type: Grass

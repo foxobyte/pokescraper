@@ -1,0 +1,10 @@
+accuracy: 75
+category: Status
+effectDescription: Paralyzes opponent.
+isHighCrit: false
+moveType: Grass
+name: Stun Spore
+power: null
+pp: 30
+probability: null
+type: Grass

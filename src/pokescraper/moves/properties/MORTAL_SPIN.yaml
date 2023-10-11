@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: "Removes entry hazards and trap move effects, and poisons opposing\
+  \ Pok\xE9mon."
+isHighCrit: false
+moveType: Poison
+name: Mortal Spin
+power: 30
+pp: 15
+probability: null
+type: Poison

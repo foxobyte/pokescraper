@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: Halves the foe's HP.
+isHighCrit: false
+moveType: Fairy
+name: Nature's Madness
+power: null
+pp: 10
+probability: null
+type: Fairy

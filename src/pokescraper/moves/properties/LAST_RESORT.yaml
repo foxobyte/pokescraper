@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Can only be used after all other moves are used.
+isHighCrit: false
+moveType: Normal
+name: Last Resort
+power: 140
+pp: 5
+probability: null
+type: Normal

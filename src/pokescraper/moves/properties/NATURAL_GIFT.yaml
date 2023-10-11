@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power and type depend on the user's held berry.
+isHighCrit: false
+moveType: Normal
+name: Natural Gift
+power: null
+pp: 15
+probability: null
+type: Normal

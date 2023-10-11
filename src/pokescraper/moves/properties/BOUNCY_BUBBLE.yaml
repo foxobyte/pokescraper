@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: User recovers half the HP inflicted on opponent.
+isHighCrit: false
+moveType: Water
+name: Bouncy Bubble
+power: 90
+pp: 15
+probability: null
+type: Water

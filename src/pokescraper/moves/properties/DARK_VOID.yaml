@@ -1,0 +1,10 @@
+accuracy: 50
+category: Status
+effectDescription: Puts all adjacent opponents to sleep.
+isHighCrit: false
+moveType: Dark
+name: Dark Void
+power: null
+pp: 10
+probability: null
+type: Dark

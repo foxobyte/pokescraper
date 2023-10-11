@@ -1,0 +1,80 @@
+attack: 62
+base_exp: 142
+base_friendship: 50
+catch_rate: 45
+defense: 63
+egg_cycles: 20
+egg_groups:
+- Grass
+- Monster
+ev_yield:
+  Sp. Atk: 1
+  Sp. Def: 1
+evolutions: {}
+gender:
+  female: 12.5%
+  male: 87.5%
+generation: 1
+growth_rate: Medium Slow
+height: "1.0\_m (3\u203203\u2033)"
+hidden_ability: Chlorophyll
+hp: 60
+moves_learned_at_level:
+  Double-Edge: 45
+  Growl: 1
+  Growth: 1
+  Leech Seed: 9
+  Poison Powder: 15
+  Razor Leaf: 12
+  Seed Bomb: 20
+  Sleep Powder: 15
+  Solar Beam: 50
+  Sweet Scent: 30
+  Synthesis: 35
+  Tackle: 1
+  Take Down: 25
+  Vine Whip: 1
+  Worry Seed: 40
+moves_learned_by_eggs: null
+moves_learned_by_tm:
+  Attract: 45
+  Bullet Seed: 9
+  Cut: 93
+  Double Team: 32
+  Endure: 58
+  Energy Ball: 53
+  Facade: 42
+  False Swipe: 54
+  Flash: 70
+  Giga Drain: 19
+  Grass Knot: 86
+  Light Screen: 16
+  Protect: 17
+  Rest: 44
+  Rock Smash: 98
+  Safeguard: 20
+  Sleep Talk: 82
+  Sludge Bomb: 36
+  Solar Beam: 22
+  Strength: 96
+  Substitute: 90
+  Sunny Day: 11
+  Swagger: 87
+  Swords Dance: 75
+  Toxic: 6
+  Work Up: 10
+moves_learned_by_tutor: null
+moves_learned_on_evolution: null
+name: Ivysaur
+national_number: 2
+pokemon_type:
+- Grass
+- Poison
+special_abilities:
+- Overgrow
+special_attack: 80
+special_defense: 80
+special_name: null
+species: "Seed Pok\xE9mon"
+speed: 60
+weight: "1.0\_m (3\u203203\u2033)"

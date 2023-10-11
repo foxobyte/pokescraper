@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: 'Lowers opponent''s Attack and Special Attack then switches out. '
+isHighCrit: false
+moveType: Dark
+name: Parting Shot
+power: null
+pp: 20
+probability: 100
+type: Dark

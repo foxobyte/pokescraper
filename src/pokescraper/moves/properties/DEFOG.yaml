@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Lowers opponent's Evasiveness and clears fog.
+isHighCrit: false
+moveType: Flying
+name: Defog
+power: null
+pp: 15
+probability: null
+type: Flying

@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: The user entangles the target with its anchor chain while attacking.
+  The target becomes unable to flee.
+isHighCrit: false
+moveType: Steel
+name: Anchor Shot
+power: 80
+pp: 20
+probability: null
+type: Steel

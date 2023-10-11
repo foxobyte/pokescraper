@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Raises user's Special Attack.
+isHighCrit: false
+moveType: Fire
+name: Torch Song
+power: 80
+pp: 10
+probability: null
+type: Fire

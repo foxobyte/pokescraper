@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Lowers opponent's Defense.
+isHighCrit: false
+moveType: Fighting
+name: Thunderous Kick
+power: 90
+pp: 10
+probability: 100
+type: Fighting

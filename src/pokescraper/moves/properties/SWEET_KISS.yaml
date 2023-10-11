@@ -1,0 +1,10 @@
+accuracy: 75
+category: Status
+effectDescription: Confuses opponent.
+isHighCrit: false
+moveType: Fairy
+name: Sweet Kiss
+power: null
+pp: 10
+probability: null
+type: Fairy

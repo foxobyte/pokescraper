@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May burn the target.
+isHighCrit: false
+moveType: Ground
+name: Scorching Sands
+power: 70
+pp: 10
+probability: null
+type: Ground

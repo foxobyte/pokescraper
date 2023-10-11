@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Dark
+name: Bite
+power: 60
+pp: 25
+probability: 30
+type: Dark

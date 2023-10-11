@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: High critical hit ratio. May poison opponent.
+isHighCrit: true
+moveType: Poison
+name: Cross Poison
+power: 70
+pp: 20
+probability: 10
+type: Poison

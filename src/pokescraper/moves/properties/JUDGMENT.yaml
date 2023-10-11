@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Type depends on the Arceus Plate being held.
+isHighCrit: false
+moveType: Normal
+name: Judgment
+power: 100
+pp: 10
+probability: null
+type: Normal

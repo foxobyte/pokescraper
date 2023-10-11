@@ -1,0 +1,11 @@
+accuracy: null
+category: Status
+effectDescription: "Removes the effects of entry hazards and Substitute, and boosts\
+  \ user\u2019s Attack and Speed."
+isHighCrit: false
+moveType: Normal
+name: Tidy Up
+power: null
+pp: 10
+probability: null
+type: Normal

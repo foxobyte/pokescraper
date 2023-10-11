@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: High critical hit ratio.
+isHighCrit: true
+moveType: Ghost
+name: Shadow Claw
+power: 70
+pp: 15
+probability: null
+type: Ghost

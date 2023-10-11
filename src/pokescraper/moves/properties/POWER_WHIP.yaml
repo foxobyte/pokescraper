@@ -1,0 +1,10 @@
+accuracy: 85
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Grass
+name: Power Whip
+power: 120
+pp: 10
+probability: null
+type: Grass

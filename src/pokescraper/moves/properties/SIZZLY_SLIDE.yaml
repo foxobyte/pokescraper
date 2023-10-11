@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Burns the opponent.
+isHighCrit: false
+moveType: Fire
+name: Sizzly Slide
+power: 90
+pp: 15
+probability: 100
+type: Fire

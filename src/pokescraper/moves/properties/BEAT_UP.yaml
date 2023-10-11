@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: "Each Pok\xE9mon in user's party attacks."
+isHighCrit: false
+moveType: Dark
+name: Beat Up
+power: null
+pp: 10
+probability: null
+type: Dark

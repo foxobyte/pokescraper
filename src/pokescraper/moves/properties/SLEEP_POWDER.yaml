@@ -1,0 +1,10 @@
+accuracy: 75
+category: Status
+effectDescription: Puts opponent to sleep.
+isHighCrit: false
+moveType: Grass
+name: Sleep Powder
+power: null
+pp: 15
+probability: null
+type: Grass

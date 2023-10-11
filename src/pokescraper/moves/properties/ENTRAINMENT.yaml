@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Makes target's ability same as user's.
+isHighCrit: false
+moveType: Normal
+name: Entrainment
+power: null
+pp: 15
+probability: null
+type: Normal

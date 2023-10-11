@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: Hits twice in one turn.
+isHighCrit: false
+moveType: Dragon
+name: Dual Chop
+power: 40
+pp: 15
+probability: null
+type: Dragon

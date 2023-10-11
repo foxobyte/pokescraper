@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Doesn't do ANYTHING.
+isHighCrit: false
+moveType: Normal
+name: Splash
+power: null
+pp: 40
+probability: null
+type: Normal

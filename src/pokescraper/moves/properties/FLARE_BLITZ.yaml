@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User receives recoil damage. May burn opponent.
+isHighCrit: false
+moveType: Fire
+name: Flare Blitz
+power: 120
+pp: 15
+probability: 10
+type: Fire

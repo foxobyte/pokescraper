@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May lower opponent's Speed.
+isHighCrit: false
+moveType: Water
+name: Bubble
+power: 40
+pp: 30
+probability: 10
+type: Water

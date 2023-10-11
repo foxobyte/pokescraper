@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: User must have consumed a Berry.
+isHighCrit: false
+moveType: Poison
+name: Belch
+power: 120
+pp: 10
+probability: null
+type: Poison

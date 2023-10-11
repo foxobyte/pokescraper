@@ -1,0 +1,10 @@
+accuracy: 95
+category: Physical
+effectDescription: Lowers user's Defense, Special Defense and Speed.
+isHighCrit: false
+moveType: Fire
+name: V-create
+power: 180
+pp: 5
+probability: 100
+type: Fire

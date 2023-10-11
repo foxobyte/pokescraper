@@ -1,0 +1,10 @@
+accuracy: 85
+category: Special
+effectDescription: May lower opponent's Accuracy.
+isHighCrit: false
+moveType: Water
+name: Octazooka
+power: 65
+pp: 10
+probability: 50
+type: Water

@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: The user uses its body like a hammer to attack the target and inflict
+  damage.
+isHighCrit: false
+moveType: Dragon
+name: Dragon Hammer
+power: 90
+pp: 15
+probability: null
+type: Dragon

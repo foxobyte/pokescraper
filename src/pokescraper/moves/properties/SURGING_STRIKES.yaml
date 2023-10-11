@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Always results in a critical hit and ignores stat changes.
+isHighCrit: false
+moveType: Water
+name: Surging Strikes
+power: 25
+pp: 5
+probability: null
+type: Water

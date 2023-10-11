@@ -1,0 +1,10 @@
+accuracy: 95
+category: Physical
+effectDescription: May raise user's Attack.
+isHighCrit: false
+moveType: Steel
+name: Metal Claw
+power: 50
+pp: 35
+probability: 10
+type: Steel

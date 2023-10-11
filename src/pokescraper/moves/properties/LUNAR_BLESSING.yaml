@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Heals user's status conditions and recovers HP.
+isHighCrit: false
+moveType: Psychic
+name: Lunar Blessing
+power: null
+pp: 5
+probability: null
+type: Psychic

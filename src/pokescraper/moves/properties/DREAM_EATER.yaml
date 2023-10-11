@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: User recovers half the HP inflicted on a sleeping opponent.
+isHighCrit: false
+moveType: Psychic
+name: Dream Eater
+power: 100
+pp: 15
+probability: null
+type: Psychic

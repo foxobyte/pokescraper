@@ -1,0 +1,10 @@
+accuracy: 95
+category: Physical
+effectDescription: Flies up on first turn, attacks on second turn.
+isHighCrit: false
+moveType: Flying
+name: Fly
+power: 90
+pp: 15
+probability: null
+type: Flying

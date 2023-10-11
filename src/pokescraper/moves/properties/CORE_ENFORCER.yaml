@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Suppresses the target's ability if the target has already moved.
+isHighCrit: false
+moveType: Dragon
+name: Core Enforcer
+power: 100
+pp: 10
+probability: null
+type: Dragon

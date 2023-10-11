@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Fire
+name: Blazing Torque
+power: 80
+pp: 10
+probability: null
+type: Fire

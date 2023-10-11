@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Opponent cannot land critical hits for 5 turns.
+isHighCrit: false
+moveType: Normal
+name: Lucky Chant
+power: null
+pp: 30
+probability: null
+type: Normal

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May lower opponent's Speed by one stage.
+isHighCrit: false
+moveType: Normal
+name: Constrict
+power: 10
+pp: 35
+probability: 10
+type: Normal

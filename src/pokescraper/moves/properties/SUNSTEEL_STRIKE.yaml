@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Ignores the target's ability.
+isHighCrit: false
+moveType: Steel
+name: Sunsteel Strike
+power: 100
+pp: 5
+probability: null
+type: Steel

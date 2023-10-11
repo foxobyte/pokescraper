@@ -1,0 +1,10 @@
+accuracy: 60
+category: Status
+effectDescription: Puts opponent to sleep.
+isHighCrit: false
+moveType: Psychic
+name: Hypnosis
+power: null
+pp: 20
+probability: null
+type: Psychic

@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Changes user's type according to the location.
+isHighCrit: false
+moveType: Normal
+name: Camouflage
+power: null
+pp: 20
+probability: null
+type: Normal

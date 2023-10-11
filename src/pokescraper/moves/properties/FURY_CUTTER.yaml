@@ -1,0 +1,10 @@
+accuracy: 95
+category: Physical
+effectDescription: Power increases each turn.
+isHighCrit: false
+moveType: Bug
+name: Fury Cutter
+power: 40
+pp: 20
+probability: null
+type: Bug

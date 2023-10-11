@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Ignores the target's ability.
+isHighCrit: false
+moveType: Ghost
+name: Moongeist Beam
+power: 100
+pp: 5
+probability: null
+type: Ghost

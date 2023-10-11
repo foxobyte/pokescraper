@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Changes the target's move to Electric type.
+isHighCrit: false
+moveType: Electric
+name: Electrify
+power: null
+pp: 20
+probability: null
+type: Electric

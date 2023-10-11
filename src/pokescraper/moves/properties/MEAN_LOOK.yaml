@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Opponent cannot flee or switch.
+isHighCrit: false
+moveType: Normal
+name: Mean Look
+power: null
+pp: 5
+probability: null
+type: Normal

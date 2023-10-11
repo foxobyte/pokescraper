@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May lower opponent's Defense.
+isHighCrit: false
+moveType: Dark
+name: Crunch
+power: 80
+pp: 15
+probability: 20
+type: Dark

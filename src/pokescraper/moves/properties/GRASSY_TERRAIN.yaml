@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: "Restores a little HP of all Pok\xE9mon for 5 turns. "
+isHighCrit: false
+moveType: Grass
+name: Grassy Terrain
+power: null
+pp: 10
+probability: null
+type: Grass

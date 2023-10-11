@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Swaps held items with the opponent.
+isHighCrit: false
+moveType: Psychic
+name: Trick
+power: null
+pp: 10
+probability: null
+type: Psychic

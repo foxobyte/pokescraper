@@ -1,0 +1,10 @@
+accuracy: 85
+category: Status
+effectDescription: Burns opponent.
+isHighCrit: false
+moveType: Fire
+name: Will-O-Wisp
+power: null
+pp: 15
+probability: null
+type: Fire

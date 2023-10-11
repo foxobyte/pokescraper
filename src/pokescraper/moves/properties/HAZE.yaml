@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Resets all stat changes.
+isHighCrit: false
+moveType: Ice
+name: Haze
+power: null
+pp: 30
+probability: null
+type: Ice

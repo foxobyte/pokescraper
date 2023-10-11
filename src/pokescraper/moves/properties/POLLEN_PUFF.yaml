@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Deals damage to opponent or restores HP of teammate.
+isHighCrit: false
+moveType: Bug
+name: Pollen Puff
+power: 90
+pp: 15
+probability: null
+type: Bug

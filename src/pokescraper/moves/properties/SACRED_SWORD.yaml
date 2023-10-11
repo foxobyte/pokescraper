@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Ignores opponent's stat changes.
+isHighCrit: false
+moveType: Fighting
+name: Sacred Sword
+power: 90
+pp: 15
+probability: null
+type: Fighting

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Opponent cannot use the same move in a row.
+isHighCrit: false
+moveType: Dark
+name: Torment
+power: null
+pp: 15
+probability: null
+type: Dark

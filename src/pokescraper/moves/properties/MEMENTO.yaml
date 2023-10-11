@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: User faints, sharply lowers opponent's Attack and Special Attack.
+isHighCrit: false
+moveType: Dark
+name: Memento
+power: null
+pp: 10
+probability: null
+type: Dark

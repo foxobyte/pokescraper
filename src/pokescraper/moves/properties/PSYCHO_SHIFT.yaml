@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Transfers user's status condition to the opponent.
+isHighCrit: false
+moveType: Psychic
+name: Psycho Shift
+power: null
+pp: 10
+probability: null
+type: Psychic

@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: "Revives a fainted party Pok\xE9mon to half HP."
+isHighCrit: false
+moveType: Normal
+name: Revival Blessing
+power: null
+pp: 1
+probability: null
+type: Normal

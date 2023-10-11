@@ -1,0 +1,10 @@
+accuracy: 95
+category: Physical
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Flying
+name: Floaty Fall
+power: 90
+pp: 15
+probability: 30
+type: Flying

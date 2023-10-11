@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May confuse opponent.
+isHighCrit: false
+moveType: Bug
+name: Signal Beam
+power: 75
+pp: 15
+probability: 10
+type: Bug

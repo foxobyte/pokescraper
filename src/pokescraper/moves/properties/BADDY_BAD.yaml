@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Reduces damage from Physical attacks.
+isHighCrit: false
+moveType: Dark
+name: Baddy Bad
+power: 90
+pp: 15
+probability: null
+type: Dark

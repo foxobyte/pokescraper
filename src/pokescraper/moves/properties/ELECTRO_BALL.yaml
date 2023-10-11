@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: The faster the user, the stronger the attack.
+isHighCrit: false
+moveType: Electric
+name: Electro Ball
+power: null
+pp: 10
+probability: null
+type: Electric

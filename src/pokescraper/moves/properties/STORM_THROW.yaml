@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Always results in a critical hit.
+isHighCrit: false
+moveType: Fighting
+name: Storm Throw
+power: 60
+pp: 10
+probability: 100
+type: Fighting

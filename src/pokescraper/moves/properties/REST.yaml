@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User sleeps for 2 turns, but user is fully healed.
+isHighCrit: false
+moveType: Psychic
+name: Rest
+power: null
+pp: 5
+probability: null
+type: Psychic

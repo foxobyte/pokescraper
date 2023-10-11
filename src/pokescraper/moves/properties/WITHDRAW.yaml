@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises user's Defense.
+isHighCrit: false
+moveType: Water
+name: Withdraw
+power: null
+pp: 40
+probability: null
+type: Water

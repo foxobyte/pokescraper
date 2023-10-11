@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Uses a certain move based on the current terrain.
+isHighCrit: false
+moveType: Normal
+name: Nature Power
+power: null
+pp: 20
+probability: null
+type: Normal

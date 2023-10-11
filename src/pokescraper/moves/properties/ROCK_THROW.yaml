@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Rock
+name: Rock Throw
+power: 50
+pp: 15
+probability: null
+type: Rock

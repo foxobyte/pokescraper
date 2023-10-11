@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Prevents use of sound moves for two turns.
+isHighCrit: false
+moveType: Dark
+name: Throat Chop
+power: 80
+pp: 15
+probability: 100
+type: Dark

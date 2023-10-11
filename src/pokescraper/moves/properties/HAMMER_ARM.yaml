@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: Lowers user's Speed.
+isHighCrit: false
+moveType: Fighting
+name: Hammer Arm
+power: 100
+pp: 10
+probability: 100
+type: Fighting

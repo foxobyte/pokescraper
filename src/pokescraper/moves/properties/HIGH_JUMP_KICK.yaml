@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: If it misses, the user loses half their HP.
+isHighCrit: false
+moveType: Fighting
+name: High Jump Kick
+power: 130
+pp: 10
+probability: null
+type: Fighting

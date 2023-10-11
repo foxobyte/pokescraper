@@ -1,0 +1,11 @@
+accuracy: null
+category: Special
+effectDescription: Ultra Necrozma-exclusive Z-Move. Ignores target's ability; uses
+  highest Attack stat.
+isHighCrit: false
+moveType: Psychic
+name: Light That Burns the Sky
+power: 200
+pp: 1
+probability: null
+type: Psychic

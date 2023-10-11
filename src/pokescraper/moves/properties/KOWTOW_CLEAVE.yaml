@@ -1,0 +1,10 @@
+accuracy: null
+category: Physical
+effectDescription: Always hits.
+isHighCrit: false
+moveType: Dark
+name: Kowtow Cleave
+power: 85
+pp: 10
+probability: null
+type: Dark

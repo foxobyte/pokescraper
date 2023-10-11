@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Inflicts damage equal to the user's remaining HP. User faints.
+isHighCrit: false
+moveType: Fighting
+name: Final Gambit
+power: null
+pp: 5
+probability: null
+type: Fighting

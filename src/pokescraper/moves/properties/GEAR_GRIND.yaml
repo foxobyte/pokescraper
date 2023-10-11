@@ -1,0 +1,10 @@
+accuracy: 85
+category: Physical
+effectDescription: Hits twice in one turn.
+isHighCrit: false
+moveType: Steel
+name: Gear Grind
+power: 50
+pp: 15
+probability: null
+type: Steel

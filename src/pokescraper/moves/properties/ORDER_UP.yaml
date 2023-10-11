@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Dragon
+name: Order Up
+power: 80
+pp: 10
+probability: null
+type: Dragon

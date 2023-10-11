@@ -1,4 +1,5 @@
 import json
+import yaml
 
 
 class Pokemon:
@@ -110,6 +111,35 @@ class Pokemon:
         enum_name = enum_name.replace("é", "e")
 
         return enum_name.upper()
+
+    def to_yaml(self):
+        pokemon_dict = vars(self)
+
+        try:
+            pokemon_dict['type'] = pokemon_dict['pokemon_type']
+            del pokemon_dict['pokemon_type']
+        except KeyError:
+            print("already done did dat bruh")
+
+        keys = list(pokemon_dict.keys())
+
+        for key in keys:
+            new_key = ""
+            if "_" in key:
+                for i, word in enumerate(key.split("_")):
+                    if i > 0:
+                        word = word[:1].upper() + word[1:]
+                    new_key += word
+                pokemon_dict[new_key] = pokemon_dict[key]
+                del pokemon_dict[key]
+
+        for e in pokemon_dict['evolutions']:
+            pokemon_dict['evolutions'][e] = pokemon_dict['evolutions'][e].to_json()
+
+        for m in pokemon_dict['movesLearnedAtLevel']:
+            print(m)
+
+        return yaml.dump(pokemon_dict)
 
     def to_json(self):
         pokemon_dict = vars(self)

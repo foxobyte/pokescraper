@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User attacks first.
+isHighCrit: false
+moveType: Water
+name: Aqua Jet
+power: 40
+pp: 20
+probability: null
+type: Water

@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Heals the user's party's status conditions.
+isHighCrit: false
+moveType: Normal
+name: Heal Bell
+power: null
+pp: 5
+probability: null
+type: Normal

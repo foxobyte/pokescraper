@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: User recovers half the HP inflicted on opponent.
+isHighCrit: false
+moveType: Electric
+name: Parabolic Charge
+power: 65
+pp: 20
+probability: null
+type: Electric

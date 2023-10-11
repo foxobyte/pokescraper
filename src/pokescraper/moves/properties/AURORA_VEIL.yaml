@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Halves damage from Physical and Special attacks for five turns.
+isHighCrit: false
+moveType: Ice
+name: Aurora Veil
+power: null
+pp: 20
+probability: null
+type: Ice

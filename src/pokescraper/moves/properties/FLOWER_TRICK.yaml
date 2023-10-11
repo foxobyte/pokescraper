@@ -1,0 +1,10 @@
+accuracy: null
+category: Physical
+effectDescription: Never misses; always results in a critical hit.
+isHighCrit: false
+moveType: Grass
+name: Flower Trick
+power: 70
+pp: 10
+probability: null
+type: Grass

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: "May also injure nearby Pok\xE9mon."
+isHighCrit: false
+moveType: Fire
+name: Flame Burst
+power: 70
+pp: 15
+probability: null
+type: Fire

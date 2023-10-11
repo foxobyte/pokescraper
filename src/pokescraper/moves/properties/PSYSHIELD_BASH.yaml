@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: Raises user's Defense and Special Defense.
+isHighCrit: false
+moveType: Psychic
+name: Psyshield Bash
+power: 70
+pp: 10
+probability: null
+type: Psychic

@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Resets opponent's Evasiveness, removes Dark's Psychic immunity.
+isHighCrit: false
+moveType: Psychic
+name: Miracle Eye
+power: null
+pp: 40
+probability: null
+type: Psychic

@@ -1,0 +1,10 @@
+accuracy: 75
+category: Status
+effectDescription: Puts opponent to sleep.
+isHighCrit: false
+moveType: Normal
+name: Lovely Kiss
+power: null
+pp: 10
+probability: null
+type: Normal

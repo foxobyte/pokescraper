@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: The higher the opponent's HP, the higher the damage.
+isHighCrit: false
+moveType: Normal
+name: Wring Out
+power: null
+pp: 5
+probability: null
+type: Normal

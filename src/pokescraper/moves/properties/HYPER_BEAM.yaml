@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: User must recharge next turn.
+isHighCrit: false
+moveType: Normal
+name: Hyper Beam
+power: 150
+pp: 5
+probability: null
+type: Normal

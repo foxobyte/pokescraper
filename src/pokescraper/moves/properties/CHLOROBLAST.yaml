@@ -1,0 +1,10 @@
+accuracy: 95
+category: Special
+effectDescription: User receives recoil damage.
+isHighCrit: false
+moveType: Grass
+name: Chloroblast
+power: 150
+pp: 5
+probability: null
+type: Grass

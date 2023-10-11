@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: "Any Pok\xE9mon in play when this attack is used faints in 3 turns."
+isHighCrit: false
+moveType: Normal
+name: Perish Song
+power: null
+pp: 5
+probability: null
+type: Normal

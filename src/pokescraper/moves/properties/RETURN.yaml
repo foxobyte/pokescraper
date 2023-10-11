@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power increases with higher Friendship.
+isHighCrit: false
+moveType: Normal
+name: Return
+power: null
+pp: 20
+probability: null
+type: Normal

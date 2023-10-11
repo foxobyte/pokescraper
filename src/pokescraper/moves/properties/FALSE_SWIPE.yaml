@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Always leaves opponent with at least 1 HP.
+isHighCrit: false
+moveType: Normal
+name: False Swipe
+power: 40
+pp: 40
+probability: null
+type: Normal

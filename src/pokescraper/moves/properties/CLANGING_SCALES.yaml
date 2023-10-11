@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Lowers user's Defense.
+isHighCrit: false
+moveType: Dragon
+name: Clanging Scales
+power: 110
+pp: 5
+probability: 100
+type: Dragon

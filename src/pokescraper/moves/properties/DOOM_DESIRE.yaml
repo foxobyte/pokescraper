@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Damage occurs 2 turns later.
+isHighCrit: false
+moveType: Steel
+name: Doom Desire
+power: 140
+pp: 5
+probability: null
+type: Steel

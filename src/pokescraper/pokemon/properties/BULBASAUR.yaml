@@ -1,0 +1,91 @@
+attack: 49
+baseExp: 64
+baseFriendship: 50
+catchRate: 45
+defense: 49
+eggCycles: 20
+eggGroups:
+- Grass
+- Monster
+evYield:
+  Sp. Atk: 1
+evolutions: {}
+gender:
+  female: 12.5%
+  male: 87.5%
+generation: 1
+growthRate: Medium Slow
+height: "0.7\_m (2\u203204\u2033)"
+hiddenAbility: Chlorophyll
+hp: 45
+movesLearnedAtLevel:
+  DOUBLE_EDGE: 33
+  GROWL: 1
+  GROWTH: 6
+  LEECH_SEED: 9
+  POISON_POWDER: 15
+  RAZOR_LEAF: 12
+  SEED_BOMB: 18
+  SLEEP_POWDER: 15
+  SOLAR_BEAM: 36
+  SWEET_SCENT: 24
+  SYNTHESIS: 27
+  TACKLE: 1
+  TAKE_DOWN: 21
+  VINE_WHIP: 3
+  WORRY_SEED: 30
+movesLearnedByEggs:
+- AMNESIA
+- CHARM
+- CURSE
+- GRASSY_TERRAIN
+- INGRAIN
+- LEAF_STORM
+- MAGICAL_LEAF
+- NATURE_POWER
+- PETAL_DANCE
+- POWER_WHIP
+- SKULL_BASH
+- SLUDGE
+movesLearnedByTm:
+  ATTRACT: 45
+  BULLET_SEED: 9
+  CUT: 93
+  DOUBLE_TEAM: 32
+  ENDURE: 58
+  ENERGY_BALL: 53
+  FACADE: 42
+  FALSE_SWIPE: 54
+  FLASH: 70
+  GIGA_DRAIN: 19
+  GRASS_KNOT: 86
+  LIGHT_SCREEN: 16
+  PROTECT: 17
+  REST: 44
+  ROCK_SMASH: 98
+  SAFEGUARD: 20
+  SLEEP_TALK: 82
+  SLUDGE_BOMB: 36
+  SOLAR_BEAM: 22
+  STRENGTH: 96
+  SUBSTITUTE: 90
+  SUNNY_DAY: 11
+  SWAGGER: 87
+  SWORDS_DANCE: 75
+  TOXIC: 6
+  WORK_UP: 10
+movesLearnedByTutor: null
+movesLearnedOnEvolution: null
+name: Bulbasaur
+nationalNumber: 1
+specialAbilities:
+- Overgrow
+specialAttack: 65
+specialDefense: 65
+specialName: null
+species: "Seed Pok\xE9mon"
+speed: 45
+type:
+- Grass
+- Poison
+weight: "0.7\_m (2\u203204\u2033)"

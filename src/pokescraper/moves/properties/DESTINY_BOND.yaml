@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: If the user faints, the opponent also faints.
+isHighCrit: false
+moveType: Ghost
+name: Destiny Bond
+power: null
+pp: 5
+probability: null
+type: Ghost

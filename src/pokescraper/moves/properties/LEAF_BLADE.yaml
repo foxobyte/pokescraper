@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: High critical hit ratio.
+isHighCrit: true
+moveType: Grass
+name: Leaf Blade
+power: 90
+pp: 15
+probability: null
+type: Grass

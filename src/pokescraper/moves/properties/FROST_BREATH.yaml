@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: Always results in a critical hit.
+isHighCrit: false
+moveType: Ice
+name: Frost Breath
+power: 60
+pp: 10
+probability: 100
+type: Ice

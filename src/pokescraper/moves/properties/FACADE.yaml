@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power doubles if user is burned, poisoned, or paralyzed.
+isHighCrit: false
+moveType: Normal
+name: Facade
+power: 70
+pp: 20
+probability: null
+type: Normal

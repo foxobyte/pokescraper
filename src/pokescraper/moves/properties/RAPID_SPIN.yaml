@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Raises user's Speed and removes entry hazards and trap move effects.
+isHighCrit: false
+moveType: Normal
+name: Rapid Spin
+power: 50
+pp: 40
+probability: 100
+type: Normal

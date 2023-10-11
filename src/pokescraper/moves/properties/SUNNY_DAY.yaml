@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Makes it sunny for 5 turns.
+isHighCrit: false
+moveType: Fire
+name: Sunny Day
+power: null
+pp: 5
+probability: null
+type: Fire

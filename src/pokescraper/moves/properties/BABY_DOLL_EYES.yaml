@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Always goes first. Lowers the target's attack.
+isHighCrit: false
+moveType: Fairy
+name: Baby-Doll Eyes
+power: null
+pp: 30
+probability: null
+type: Fairy

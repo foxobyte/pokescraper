@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Lowers opponent's Accuracy.
+isHighCrit: false
+moveType: Ground
+name: Sand Attack
+power: null
+pp: 15
+probability: null
+type: Ground

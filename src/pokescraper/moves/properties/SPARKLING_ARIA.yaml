@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Heals the burns of its target.
+isHighCrit: false
+moveType: Water
+name: Sparkling Aria
+power: 90
+pp: 10
+probability: null
+type: Water

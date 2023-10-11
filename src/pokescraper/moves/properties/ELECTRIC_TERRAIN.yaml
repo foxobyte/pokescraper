@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: "Prevents all Pok\xE9mon from falling asleep for 5 turns."
+isHighCrit: false
+moveType: Electric
+name: Electric Terrain
+power: null
+pp: 10
+probability: null
+type: Electric

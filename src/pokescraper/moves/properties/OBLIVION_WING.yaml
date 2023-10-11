@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: User recovers most of the HP inflicted on opponent.
+isHighCrit: false
+moveType: Flying
+name: Oblivion Wing
+power: 80
+pp: 10
+probability: null
+type: Flying

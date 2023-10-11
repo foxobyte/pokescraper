@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: After using this move, the user will no longer be Electric type.
+isHighCrit: false
+moveType: Electric
+name: Double Shock
+power: 120
+pp: 5
+probability: null
+type: Electric

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Lowers opponent's Accuracy.
+isHighCrit: false
+moveType: Normal
+name: Smokescreen
+power: null
+pp: 20
+probability: null
+type: Normal

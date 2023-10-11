@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User restores HP each turn. User cannot escape/switch.
+isHighCrit: false
+moveType: Grass
+name: Ingrain
+power: null
+pp: 20
+probability: null
+type: Grass

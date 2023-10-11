@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May poison the opponent.
+isHighCrit: false
+moveType: Poison
+name: Poison Sting
+power: 15
+pp: 35
+probability: 30
+type: Poison

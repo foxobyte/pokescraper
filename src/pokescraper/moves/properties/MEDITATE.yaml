@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises user's Attack.
+isHighCrit: false
+moveType: Psychic
+name: Meditate
+power: null
+pp: 40
+probability: null
+type: Psychic

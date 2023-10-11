@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May paralyze opponent.
+isHighCrit: false
+moveType: Fighting
+name: Force Palm
+power: 60
+pp: 10
+probability: 30
+type: Fighting

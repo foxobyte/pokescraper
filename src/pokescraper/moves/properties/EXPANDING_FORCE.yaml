@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Increases power and hits all opponents on Psychic Terrain.
+isHighCrit: false
+moveType: Psychic
+name: Expanding Force
+power: 80
+pp: 10
+probability: null
+type: Psychic

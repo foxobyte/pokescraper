@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: "After making its attack, the user rushes back to switch places\
+  \ with a party Pok\xE9mon in waiting."
+isHighCrit: false
+moveType: Water
+name: Flip Turn
+power: 60
+pp: 20
+probability: null
+type: Water

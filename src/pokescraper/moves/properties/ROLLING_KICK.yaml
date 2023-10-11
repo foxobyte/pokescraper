@@ -1,0 +1,10 @@
+accuracy: 85
+category: Physical
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Fighting
+name: Rolling Kick
+power: 60
+pp: 15
+probability: 30
+type: Fighting

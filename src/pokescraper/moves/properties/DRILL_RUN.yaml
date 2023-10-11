@@ -1,0 +1,10 @@
+accuracy: 95
+category: Physical
+effectDescription: High critical hit ratio.
+isHighCrit: true
+moveType: Ground
+name: Drill Run
+power: 80
+pp: 10
+probability: null
+type: Ground

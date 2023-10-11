@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Increases critical hit ratio.
+isHighCrit: false
+moveType: Normal
+name: Focus Energy
+power: null
+pp: 30
+probability: null
+type: Normal

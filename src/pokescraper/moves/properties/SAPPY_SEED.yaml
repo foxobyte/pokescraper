@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Drains HP from opponent each turn.
+isHighCrit: false
+moveType: Grass
+name: Sappy Seed
+power: 90
+pp: 15
+probability: 100
+type: Grass

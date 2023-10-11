@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Restores a little HP each turn.
+isHighCrit: false
+moveType: Water
+name: Aqua Ring
+power: null
+pp: 20
+probability: null
+type: Water

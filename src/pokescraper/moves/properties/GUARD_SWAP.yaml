@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User and opponent swap Defense and Special Defense.
+isHighCrit: false
+moveType: Psychic
+name: Guard Swap
+power: null
+pp: 10
+probability: null
+type: Psychic

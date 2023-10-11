@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: The heavier the opponent, the stronger the attack.
+isHighCrit: false
+moveType: Fighting
+name: Low Kick
+power: null
+pp: 20
+probability: null
+type: Fighting

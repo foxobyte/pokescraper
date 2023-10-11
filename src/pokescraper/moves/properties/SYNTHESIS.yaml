@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User recovers HP. Amount varies with the weather.
+isHighCrit: false
+moveType: Grass
+name: Synthesis
+power: null
+pp: 5
+probability: null
+type: Grass

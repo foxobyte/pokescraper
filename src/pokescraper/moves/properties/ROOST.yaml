@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User recovers half of its max HP and loses the Flying type temporarily.
+isHighCrit: false
+moveType: Flying
+name: Roost
+power: null
+pp: 5
+probability: null
+type: Flying

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May confuse opponent.
+isHighCrit: false
+moveType: Normal
+name: Dizzy Punch
+power: 70
+pp: 10
+probability: 20
+type: Normal

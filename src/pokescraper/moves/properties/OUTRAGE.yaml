@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User attacks for 2-3 turns but then becomes confused.
+isHighCrit: false
+moveType: Dragon
+name: Outrage
+power: 120
+pp: 10
+probability: null
+type: Dragon

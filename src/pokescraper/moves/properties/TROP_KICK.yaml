@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Lowers opponent's Attack.
+isHighCrit: false
+moveType: Grass
+name: Trop Kick
+power: 70
+pp: 15
+probability: 100
+type: Grass

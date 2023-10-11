@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: User must switch out after attacking.
+isHighCrit: false
+moveType: Electric
+name: Volt Switch
+power: 70
+pp: 20
+probability: null
+type: Electric

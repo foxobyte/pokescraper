@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Reflects moves that cause status conditions back to the attacker.
+isHighCrit: false
+moveType: Psychic
+name: Magic Coat
+power: null
+pp: 15
+probability: null
+type: Psychic

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: The heavier the opponent, the stronger the attack.
+isHighCrit: false
+moveType: Grass
+name: Grass Knot
+power: null
+pp: 20
+probability: null
+type: Grass

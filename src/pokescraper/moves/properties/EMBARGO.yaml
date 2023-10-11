@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Opponent cannot use items.
+isHighCrit: false
+moveType: Dark
+name: Embargo
+power: null
+pp: 15
+probability: null
+type: Dark

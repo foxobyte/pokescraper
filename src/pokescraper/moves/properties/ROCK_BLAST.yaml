@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: Hits 2-5 times in one turn.
+isHighCrit: false
+moveType: Rock
+name: Rock Blast
+power: 25
+pp: 10
+probability: null
+type: Rock

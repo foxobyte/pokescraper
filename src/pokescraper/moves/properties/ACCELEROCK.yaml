@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User attacks first.
+isHighCrit: false
+moveType: Rock
+name: Accelerock
+power: 40
+pp: 20
+probability: null
+type: Rock

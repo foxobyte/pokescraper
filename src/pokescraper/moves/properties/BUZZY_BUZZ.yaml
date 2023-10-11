@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Paralyzes the opponent.
+isHighCrit: false
+moveType: Electric
+name: Buzzy Buzz
+power: 90
+pp: 15
+probability: 100
+type: Electric

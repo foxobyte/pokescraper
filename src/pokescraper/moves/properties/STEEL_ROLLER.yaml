@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Fails if no Terrain in effect.
+isHighCrit: false
+moveType: Steel
+name: Steel Roller
+power: 130
+pp: 5
+probability: null
+type: Steel

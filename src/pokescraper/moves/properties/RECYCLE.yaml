@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User's used hold item is restored.
+isHighCrit: false
+moveType: Normal
+name: Recycle
+power: null
+pp: 10
+probability: null
+type: Normal

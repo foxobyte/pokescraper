@@ -1,0 +1,10 @@
+accuracy: 80
+category: Physical
+effectDescription: User receives recoil damage.
+isHighCrit: false
+moveType: Fighting
+name: Submission
+power: 80
+pp: 20
+probability: null
+type: Fighting

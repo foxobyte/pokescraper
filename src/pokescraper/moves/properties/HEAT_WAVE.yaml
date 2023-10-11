@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: May burn opponent.
+isHighCrit: false
+moveType: Fire
+name: Heat Wave
+power: 95
+pp: 10
+probability: 10
+type: Fire

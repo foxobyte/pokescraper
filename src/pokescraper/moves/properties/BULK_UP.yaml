@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises user's Attack and Defense.
+isHighCrit: false
+moveType: Fighting
+name: Bulk Up
+power: null
+pp: 20
+probability: null
+type: Fighting

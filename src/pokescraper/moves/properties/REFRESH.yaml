@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Cures paralysis, poison, and burns.
+isHighCrit: false
+moveType: Normal
+name: Refresh
+power: null
+pp: 20
+probability: null
+type: Normal

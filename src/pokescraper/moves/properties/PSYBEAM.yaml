@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May confuse opponent.
+isHighCrit: false
+moveType: Psychic
+name: Psybeam
+power: 65
+pp: 20
+probability: 10
+type: Psychic

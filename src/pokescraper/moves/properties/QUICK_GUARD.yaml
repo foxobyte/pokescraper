@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Protects the user's team from high-priority moves.
+isHighCrit: false
+moveType: Fighting
+name: Quick Guard
+power: null
+pp: 15
+probability: null
+type: Fighting

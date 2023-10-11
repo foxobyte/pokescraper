@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Uses the opponent's Attack stat.
+isHighCrit: false
+moveType: Dark
+name: Foul Play
+power: 95
+pp: 15
+probability: null
+type: Dark

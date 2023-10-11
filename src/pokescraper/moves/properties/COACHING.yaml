@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Boosts Attack and Defense of a teammate.
+isHighCrit: false
+moveType: Fighting
+name: Coaching
+power: null
+pp: 10
+probability: null
+type: Fighting

@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: User must recharge next turn.
+isHighCrit: false
+moveType: Dragon
+name: Roar of Time
+power: 150
+pp: 5
+probability: null
+type: Dragon

@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises user's Attack and Speed.
+isHighCrit: false
+moveType: Dragon
+name: Dragon Dance
+power: null
+pp: 20
+probability: null
+type: Dragon

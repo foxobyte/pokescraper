@@ -1,0 +1,11 @@
+accuracy: 90
+category: Physical
+effectDescription: The user slams the target with its wings. The target is hit twice
+  in a row.
+isHighCrit: false
+moveType: Flying
+name: Dual Wingbeat
+power: 40
+pp: 10
+probability: null
+type: Flying

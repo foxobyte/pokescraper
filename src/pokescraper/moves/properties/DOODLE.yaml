@@ -1,0 +1,11 @@
+accuracy: 100
+category: Status
+effectDescription: Changes the abilities of the user and its teammates to that of
+  the target.
+isHighCrit: false
+moveType: Normal
+name: Doodle
+power: null
+pp: 10
+probability: null
+type: Normal

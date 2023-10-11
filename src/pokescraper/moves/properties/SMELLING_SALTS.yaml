@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power doubles if opponent is paralyzed, but cures it.
+isHighCrit: false
+moveType: Normal
+name: Smelling Salts
+power: 70
+pp: 10
+probability: null
+type: Normal

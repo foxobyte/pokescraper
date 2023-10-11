@@ -1,0 +1,10 @@
+accuracy: 75
+category: Physical
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Dragon
+name: Dragon Rush
+power: 100
+pp: 10
+probability: 20
+type: Dragon

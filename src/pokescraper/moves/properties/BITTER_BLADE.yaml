@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User recovers half the HP inflicted on opponent.
+isHighCrit: false
+moveType: Fire
+name: Bitter Blade
+power: 90
+pp: 10
+probability: null
+type: Fire

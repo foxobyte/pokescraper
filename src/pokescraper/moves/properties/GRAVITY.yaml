@@ -1,0 +1,11 @@
+accuracy: null
+category: Status
+effectDescription: Prevents moves like Fly and Bounce and the Ability Levitate for
+  5 turns.
+isHighCrit: false
+moveType: Psychic
+name: Gravity
+power: null
+pp: 5
+probability: null
+type: Psychic

@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: If the user attacks before the target, the power of this move is
+  doubled.
+isHighCrit: false
+moveType: Water
+name: Fishious Rend
+power: 85
+pp: 10
+probability: null
+type: Water

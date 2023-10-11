@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power decreases with higher Friendship.
+isHighCrit: false
+moveType: Normal
+name: Frustration
+power: null
+pp: 20
+probability: null
+type: Normal

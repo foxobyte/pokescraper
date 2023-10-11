@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User becomes the target's type.
+isHighCrit: false
+moveType: Normal
+name: Reflect Type
+power: null
+pp: 15
+probability: null
+type: Normal

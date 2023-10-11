@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Lowers opponent's Evasiveness.
+isHighCrit: false
+moveType: Normal
+name: Sweet Scent
+power: null
+pp: 20
+probability: null
+type: Normal

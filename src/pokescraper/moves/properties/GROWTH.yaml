@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises user's Attack and Special Attack.
+isHighCrit: false
+moveType: Normal
+name: Growth
+power: null
+pp: 20
+probability: null
+type: Normal

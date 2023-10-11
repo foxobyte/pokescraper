@@ -1,0 +1,10 @@
+accuracy: null
+category: Physical
+effectDescription: Ignores Accuracy and Evasiveness.
+isHighCrit: false
+moveType: Dark
+name: Feint Attack
+power: 60
+pp: 20
+probability: null
+type: Dark

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: User recovers most the HP inflicted on opponent.
+isHighCrit: false
+moveType: Fairy
+name: Draining Kiss
+power: 50
+pp: 10
+probability: null
+type: Fairy

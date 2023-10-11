@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: Sharply lowers user's Special Attack.
+isHighCrit: false
+moveType: Dragon
+name: Draco Meteor
+power: 130
+pp: 5
+probability: 100
+type: Dragon

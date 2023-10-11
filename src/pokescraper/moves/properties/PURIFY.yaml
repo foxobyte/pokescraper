@@ -1,0 +1,11 @@
+accuracy: null
+category: Status
+effectDescription: The user heals the target's status condition. If the move succeeds,
+  it also restores the user's own HP.
+isHighCrit: false
+moveType: Poison
+name: Purify
+power: null
+pp: 20
+probability: null
+type: Poison

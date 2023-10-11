@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: Sharply lowers user's Special Attack.
+isHighCrit: false
+moveType: Grass
+name: Leaf Storm
+power: 130
+pp: 5
+probability: 100
+type: Grass

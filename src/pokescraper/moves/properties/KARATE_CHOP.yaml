@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: High critical hit ratio.
+isHighCrit: true
+moveType: Fighting
+name: Karate Chop
+power: 50
+pp: 25
+probability: null
+type: Fighting

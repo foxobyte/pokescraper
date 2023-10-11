@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May lower opponent's Special Defense.
+isHighCrit: false
+moveType: Ground
+name: Earth Power
+power: 90
+pp: 10
+probability: 10
+type: Ground

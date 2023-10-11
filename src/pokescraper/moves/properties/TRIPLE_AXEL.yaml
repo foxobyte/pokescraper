@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: Attacks thrice with more power each time.
+isHighCrit: false
+moveType: Ice
+name: Triple Axel
+power: 20
+pp: 10
+probability: null
+type: Ice

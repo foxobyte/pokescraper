@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May burn opponent.
+isHighCrit: false
+moveType: Fire
+name: Searing Shot
+power: 100
+pp: 5
+probability: 30
+type: Fire

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May poison the opponent.
+isHighCrit: false
+moveType: Poison
+name: Poison Jab
+power: 80
+pp: 20
+probability: 30
+type: Poison

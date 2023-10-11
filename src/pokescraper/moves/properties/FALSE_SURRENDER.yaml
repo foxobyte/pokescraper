@@ -1,0 +1,10 @@
+accuracy: null
+category: Physical
+effectDescription: Ignores Accuracy and Evasiveness.
+isHighCrit: false
+moveType: Dark
+name: False Surrender
+power: 80
+pp: 10
+probability: null
+type: Dark

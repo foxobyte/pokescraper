@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Water
+name: Aqua Tail
+power: 90
+pp: 10
+probability: null
+type: Water

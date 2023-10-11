@@ -1,0 +1,10 @@
+accuracy: 95
+category: Physical
+effectDescription: Hits 3 times in a row.
+isHighCrit: false
+moveType: Water
+name: Triple Dive
+power: 30
+pp: 10
+probability: null
+type: Water

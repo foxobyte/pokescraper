@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: "Hits any Pok\xE9mon that shares a type with the user."
+isHighCrit: false
+moveType: Psychic
+name: Synchronoise
+power: 120
+pp: 10
+probability: null
+type: Psychic

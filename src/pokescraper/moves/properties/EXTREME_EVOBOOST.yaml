@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Eevee-exclusive Z-Move. Sharply raises all stats.
+isHighCrit: false
+moveType: Normal
+name: Extreme Evoboost
+power: null
+pp: 1
+probability: 100
+type: Normal

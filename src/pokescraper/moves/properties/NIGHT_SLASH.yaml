@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: High critical hit ratio.
+isHighCrit: true
+moveType: Dark
+name: Night Slash
+power: 70
+pp: 15
+probability: null
+type: Dark

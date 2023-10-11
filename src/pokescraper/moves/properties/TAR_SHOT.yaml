@@ -1,0 +1,11 @@
+accuracy: 100
+category: Status
+effectDescription: Lowers the opponent's Speed and makes them weaker to Fire-type
+  moves.
+isHighCrit: false
+moveType: Rock
+name: Tar Shot
+power: null
+pp: 15
+probability: 100
+type: Rock

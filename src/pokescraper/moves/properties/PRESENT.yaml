@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: Either deals damage or heals.
+isHighCrit: false
+moveType: Normal
+name: Present
+power: null
+pp: 15
+probability: null
+type: Normal

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Confuses opponent, but raises its Special Attack.
+isHighCrit: false
+moveType: Dark
+name: Flatter
+power: null
+pp: 15
+probability: null
+type: Dark

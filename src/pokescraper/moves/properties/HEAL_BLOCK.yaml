@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Prevents the opponent from restoring HP for 5 turns.
+isHighCrit: false
+moveType: Psychic
+name: Heal Block
+power: null
+pp: 15
+probability: null
+type: Psychic

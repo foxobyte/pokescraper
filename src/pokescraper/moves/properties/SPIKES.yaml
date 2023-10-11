@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Hurts opponents when they switch into battle.
+isHighCrit: false
+moveType: Ground
+name: Spikes
+power: null
+pp: 20
+probability: null
+type: Ground

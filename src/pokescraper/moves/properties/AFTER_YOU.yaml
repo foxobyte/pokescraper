@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Gives target priority in the next turn.
+isHighCrit: false
+moveType: Normal
+name: After You
+power: null
+pp: 15
+probability: null
+type: Normal

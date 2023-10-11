@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Changes the opponent's Ability to Insomnia.
+isHighCrit: false
+moveType: Grass
+name: Worry Seed
+power: null
+pp: 10
+probability: null
+type: Grass

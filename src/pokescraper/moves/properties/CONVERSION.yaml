@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Changes user's type to that of its first move.
+isHighCrit: false
+moveType: Normal
+name: Conversion
+power: null
+pp: 30
+probability: null
+type: Normal

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Poisons opponent and lowers its Speed.
+isHighCrit: false
+moveType: Poison
+name: Toxic Thread
+power: null
+pp: 20
+probability: 100
+type: Poison

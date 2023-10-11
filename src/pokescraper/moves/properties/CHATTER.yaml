@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Confuses opponent.
+isHighCrit: false
+moveType: Flying
+name: Chatter
+power: 65
+pp: 20
+probability: 100
+type: Flying

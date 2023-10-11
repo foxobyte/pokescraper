@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Confuses opponent.
+isHighCrit: false
+moveType: Ghost
+name: Confuse Ray
+power: null
+pp: 10
+probability: null
+type: Ghost

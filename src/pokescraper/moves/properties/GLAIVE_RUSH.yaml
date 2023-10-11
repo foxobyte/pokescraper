@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: "Attacks from opposing Pok\xE9mon during the next turn cannot miss\
+  \ and will inflict double damage."
+isHighCrit: false
+moveType: Dragon
+name: Glaive Rush
+power: 120
+pp: 5
+probability: null
+type: Dragon

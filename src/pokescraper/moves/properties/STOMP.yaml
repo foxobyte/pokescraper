@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Normal
+name: Stomp
+power: 65
+pp: 20
+probability: 30
+type: Normal

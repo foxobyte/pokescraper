@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: "Damages Pok\xE9mon using Fire type moves."
+isHighCrit: false
+moveType: Bug
+name: Powder
+power: null
+pp: 20
+probability: null
+type: Bug

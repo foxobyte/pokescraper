@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Psychic
+name: Zen Headbutt
+power: 80
+pp: 15
+probability: 20
+type: Psychic

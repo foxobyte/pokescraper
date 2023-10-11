@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Inflicts damage 50-150% of user's level.
+isHighCrit: false
+moveType: Psychic
+name: Psywave
+power: null
+pp: 15
+probability: null
+type: Psychic

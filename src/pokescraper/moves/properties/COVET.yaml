@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Opponent's item is stolen by the user.
+isHighCrit: false
+moveType: Normal
+name: Covet
+power: 60
+pp: 25
+probability: null
+type: Normal

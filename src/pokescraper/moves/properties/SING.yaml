@@ -1,0 +1,10 @@
+accuracy: 55
+category: Status
+effectDescription: Puts opponent to sleep.
+isHighCrit: false
+moveType: Normal
+name: Sing
+power: null
+pp: 15
+probability: null
+type: Normal

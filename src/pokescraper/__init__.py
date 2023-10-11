@@ -1,5 +1,6 @@
 import requests
 import json
+import yaml
 
 from os import listdir
 from os.path import isfile, join
@@ -22,26 +23,41 @@ def post_sprites(pokemon: list, url: str = "http://localhost:8080/api/v1/sprites
             requests.post(url, headers={'Content-Type': 'application/octet-stream'}, data=data)
 
 
-def write_pokemon_to_json(pokemon: Pokemon, directory: str = "./pokemon") -> None:
+def post_pokemon(pokemon_list: list, url: str = "http://localhost:8080/api/v1/pokemon") -> None:
+    for pokemon in pokemon_list:
+        requests.post(url, data=pokemon.to_json())
+
+
+def write_pokemon_to_json(pokemon: Pokemon, directory: str = "./pokemon/json") -> None:
     with open(f"{directory}/{pokemon.get_enum_name()}.json", "w") as file:
         file.write(pokemon.to_json())
 
 
-def write_pokemon_list_to_json(pokemon_list: list, directory: str = "./pokemon") -> None:
+def write_pokemon_list_to_json(pokemon_list: list, directory: str = "./pokemon/json") -> None:
     for pokemon in pokemon_list:
         write_pokemon_to_json(pokemon, directory)
 
 
-def generate_moves_json(moves_list: list) -> None:
-    for i, e in enumerate(moves_list):
-        with open(f"./moves/{e.get_enum_name()}.json", 'w') as file:
-            file.write(e.to_json())
+def write_pokemon_to_yaml(pokemon: Pokemon, directory: str = "./pokemon/properties") -> None:
+    try:
+        with open(f"{directory}/{pokemon.get_enum_name()}.yaml", "w") as file:
+            file.write(pokemon.to_yaml())
+    except Exception as e:
+        print(e)
+
+
+def write_pokemon_list_to_yaml(pokemon_list: list, directory: str = "./pokemon/properties") -> None:
+    for pokemon in pokemon_list:
+        write_pokemon_to_yaml(pokemon)
 
 
 def load_pokemon_from_file(file_name: str, directory: str = "./pokemon") -> Pokemon:
-    with open(f"{directory}/{file_name}", "r") as file:
-        data = json.loads(file.read())
-        return build_pokemon_from_json(data)
+    try:
+        with open(f"{directory}/{file_name}", "r") as file:
+            data = json.loads(file.read())
+            return build_pokemon_from_json(data)
+    except:
+        print()
 
 
 def load_all_pokemon(directory: str = "./pokemon") -> list:
@@ -52,6 +68,32 @@ def load_all_pokemon(directory: str = "./pokemon") -> list:
         pokemon_list.append(load_pokemon_from_file(file_name, directory))
 
     return pokemon_list
+
+
+def generate_move_json(move: Move, directory: str = "./moves/json") -> None:
+    try:
+        with open(f"{directory}/{move.get_enum_name()}.json", 'w') as file:
+            file.write(move.to_json())
+    except:
+        print()
+
+
+def generate_moves_json(moves: list, directory: str = "./moves/json") -> None:
+    for move in moves:
+        generate_move_json(move, directory)
+
+
+def generate_move_yaml(move: Move, directory: str = "./moves/properties") -> None:
+    try:
+        with open(f"{directory}/{move.get_enum_name()}.yaml", "w") as file:
+            file.write(move.to_yaml())
+    except Exception as e:
+        print(e)
+
+
+def generate_moves_yaml(moves: list, directory: str = "./moves/properties") -> None:
+    for move in moves:
+        generate_move_yaml(move, directory)
 
 
 def build_pokemon_from_json(data: dict):
@@ -119,10 +161,19 @@ def build_move_from_json(data: dict) -> Move:
     )
 
 
+def post_moves(moves: list, url: str = "http://localhost:8080/api/v1/move"):
+    headers = {
+        'Content-Type': 'application/json'
+    }
+    moves = [move.fix_keys() for move in moves]
+    moves = requests.post(url, json=moves, headers=headers)
+
+
 if __name__ == '__main__':
-    # moves = fetch_moves_from_pokemondb()
-    # generate_moves_json(moves)
-    moves = load_all_moves()
+    moves = fetch_moves_from_pokemondb()
+    moves = post_moves(moves)
+    # generate_moves_yaml(moves)
+    # moves = load_all_moves()
 
     # pokemon_list = fetch_all_pokemon_base_stats_from_pokemondb_pokedex()
 
@@ -133,11 +184,11 @@ if __name__ == '__main__':
     # pokemon_list = load_all_pokemon()
     # for pokemon in pokemon_list:
     #     fetch_pokemon_details_from_pokemondb(pokemon)
-    #     write_pokemon_to_json(pokemon)
+    #     write_pokemon_to_yaml(pokemon)
 
     # generate_pokemon_json(pokemon_list)
 
-    fetch_evolutions_by_level()
+    # fetch_evolutions_by_level()
     # fetch_evolutions_by_elemental_stone()
 
     # pokemon = fetch_pokemon()

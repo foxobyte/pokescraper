@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: Always inflicts 20 HP.
+isHighCrit: false
+moveType: Normal
+name: Sonic Boom
+power: null
+pp: 20
+probability: null
+type: Normal

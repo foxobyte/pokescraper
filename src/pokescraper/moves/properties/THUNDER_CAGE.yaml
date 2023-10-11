@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: Deals damage and traps opponent, damaging them for 4-5 turns.
+isHighCrit: false
+moveType: Electric
+name: Thunder Cage
+power: 80
+pp: 15
+probability: null
+type: Electric

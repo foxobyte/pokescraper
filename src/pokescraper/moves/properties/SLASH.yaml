@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: High critical hit ratio.
+isHighCrit: true
+moveType: Normal
+name: Slash
+power: 70
+pp: 20
+probability: null
+type: Normal

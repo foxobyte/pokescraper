@@ -1,0 +1,11 @@
+accuracy: 100
+category: Special
+effectDescription: May poison opponent. Inflicts either Special or Physical damage,
+  whichever is better.
+isHighCrit: false
+moveType: Poison
+name: Shell Side Arm
+power: 90
+pp: 10
+probability: null
+type: Poison

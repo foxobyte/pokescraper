@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Halves damage from Special attacks for 5 turns.
+isHighCrit: false
+moveType: Psychic
+name: Light Screen
+power: null
+pp: 30
+probability: null
+type: Psychic

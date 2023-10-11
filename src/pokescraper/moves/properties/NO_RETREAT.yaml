@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises all stats but user cannot switch out.
+isHighCrit: false
+moveType: Fighting
+name: No Retreat
+power: null
+pp: 5
+probability: 100
+type: Fighting

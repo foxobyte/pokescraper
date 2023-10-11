@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Grass
+name: Vine Whip
+power: 45
+pp: 25
+probability: null
+type: Grass

@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Averages Attack and Special Attack with the target.
+isHighCrit: false
+moveType: Psychic
+name: Power Split
+power: null
+pp: 10
+probability: null
+type: Psychic

@@ -1,0 +1,10 @@
+accuracy: 80
+category: Physical
+effectDescription: May poison opponent.
+isHighCrit: false
+moveType: Poison
+name: Gunk Shot
+power: 120
+pp: 5
+probability: 30
+type: Poison

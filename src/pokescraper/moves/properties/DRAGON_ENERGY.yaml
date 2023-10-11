@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: The higher the user's HP, the higher the power.
+isHighCrit: false
+moveType: Dragon
+name: Dragon Energy
+power: 150
+pp: 5
+probability: null
+type: Dragon

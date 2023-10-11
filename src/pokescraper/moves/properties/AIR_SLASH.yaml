@@ -1,0 +1,10 @@
+accuracy: 95
+category: Special
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Flying
+name: Air Slash
+power: 75
+pp: 15
+probability: 30
+type: Flying

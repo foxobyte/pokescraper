@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power doubles if user took damage first.
+isHighCrit: false
+moveType: Ice
+name: Avalanche
+power: 60
+pp: 10
+probability: null
+type: Ice

@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Doubles Speed for 4 turns.
+isHighCrit: false
+moveType: Flying
+name: Tailwind
+power: null
+pp: 15
+probability: null
+type: Flying

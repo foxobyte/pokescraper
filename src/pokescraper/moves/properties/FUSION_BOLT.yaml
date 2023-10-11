@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power increases if Fusion Flare is used in the same turn.
+isHighCrit: false
+moveType: Electric
+name: Fusion Bolt
+power: 100
+pp: 5
+probability: null
+type: Electric

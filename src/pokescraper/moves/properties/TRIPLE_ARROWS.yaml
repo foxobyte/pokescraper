@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Raises critical hit ratio and lowers target's Defense.
+isHighCrit: false
+moveType: Fighting
+name: Triple Arrows
+power: 90
+pp: 10
+probability: null
+type: Fighting

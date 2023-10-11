@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Lowers opponent's Defense.
+isHighCrit: false
+moveType: Normal
+name: Leer
+power: null
+pp: 30
+probability: 100
+type: Normal

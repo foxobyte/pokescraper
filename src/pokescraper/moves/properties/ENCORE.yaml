@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Forces opponent to keep using its last move for 3 turns.
+isHighCrit: false
+moveType: Normal
+name: Encore
+power: null
+pp: 5
+probability: null
+type: Normal

@@ -1,0 +1,10 @@
+accuracy: 95
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Normal
+name: Cut
+power: 50
+pp: 30
+probability: null
+type: Normal

@@ -1,0 +1,11 @@
+accuracy: null
+category: Status
+effectDescription: The user regains up to half of its max HP. It restores more HP
+  in a sandstorm.
+isHighCrit: false
+moveType: Ground
+name: Shore Up
+power: null
+pp: 5
+probability: null
+type: Ground

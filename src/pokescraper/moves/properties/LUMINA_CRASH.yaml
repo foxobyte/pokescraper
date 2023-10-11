@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: "Harshly lowers target\u2019s Special Defense."
+isHighCrit: false
+moveType: Psychic
+name: Lumina Crash
+power: 80
+pp: 10
+probability: null
+type: Psychic

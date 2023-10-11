@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Money is earned after the battle.
+isHighCrit: false
+moveType: Normal
+name: Pay Day
+power: 40
+pp: 20
+probability: null
+type: Normal

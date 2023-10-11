@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Dark
+name: Fiery Wrath
+power: 90
+pp: 10
+probability: 20
+type: Dark

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May freeze opponent.
+isHighCrit: false
+moveType: Ice
+name: Powder Snow
+power: 40
+pp: 25
+probability: 10
+type: Ice

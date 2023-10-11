@@ -1,0 +1,10 @@
+accuracy: 55
+category: Status
+effectDescription: Confuses opponent.
+isHighCrit: false
+moveType: Normal
+name: Supersonic
+power: null
+pp: 20
+probability: null
+type: Normal

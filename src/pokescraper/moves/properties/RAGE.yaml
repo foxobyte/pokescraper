@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Raises user's Attack when hit.
+isHighCrit: false
+moveType: Normal
+name: Rage
+power: 20
+pp: 20
+probability: null
+type: Normal

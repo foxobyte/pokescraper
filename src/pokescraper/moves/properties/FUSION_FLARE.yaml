@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Power increases if Fusion Bolt is used in the same turn.
+isHighCrit: false
+moveType: Fire
+name: Fusion Flare
+power: 100
+pp: 5
+probability: null
+type: Fire

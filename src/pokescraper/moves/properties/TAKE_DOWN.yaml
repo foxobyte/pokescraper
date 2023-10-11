@@ -1,0 +1,10 @@
+accuracy: 85
+category: Physical
+effectDescription: User receives recoil damage.
+isHighCrit: false
+moveType: Normal
+name: Take Down
+power: 90
+pp: 20
+probability: null
+type: Normal

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Makes the target act last this turn.
+isHighCrit: false
+moveType: Dark
+name: Quash
+power: null
+pp: 15
+probability: null
+type: Dark

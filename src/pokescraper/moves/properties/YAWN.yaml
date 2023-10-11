@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Puts opponent to sleep in the next turn.
+isHighCrit: false
+moveType: Normal
+name: Yawn
+power: null
+pp: 10
+probability: null
+type: Normal

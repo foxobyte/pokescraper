@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May confuse opponent.
+isHighCrit: false
+moveType: Water
+name: Water Pulse
+power: 60
+pp: 20
+probability: 20
+type: Water

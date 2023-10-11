@@ -1,0 +1,11 @@
+accuracy: null
+category: Status
+effectDescription: "User switches out and gives stat changes to the incoming Pok\xE9\
+  mon."
+isHighCrit: false
+moveType: Normal
+name: Baton Pass
+power: null
+pp: 40
+probability: null
+type: Normal

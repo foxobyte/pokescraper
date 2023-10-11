@@ -1,0 +1,10 @@
+accuracy: 50
+category: Physical
+effectDescription: Confuses opponent.
+isHighCrit: false
+moveType: Fighting
+name: Dynamic Punch
+power: 100
+pp: 5
+probability: 100
+type: Fighting

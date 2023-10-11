@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: "Hits Pok\xE9mon using Fly/Bounce/Sky Drop with double power."
+isHighCrit: false
+moveType: Flying
+name: Gust
+power: 40
+pp: 35
+probability: null
+type: Flying

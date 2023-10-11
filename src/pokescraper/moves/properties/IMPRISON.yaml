@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Opponent is unable to use moves that the user also knows.
+isHighCrit: false
+moveType: Psychic
+name: Imprison
+power: null
+pp: 10
+probability: null
+type: Psychic

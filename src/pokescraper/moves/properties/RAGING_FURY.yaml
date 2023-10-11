@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User keeps repeating the same move over and over.
+isHighCrit: false
+moveType: Fire
+name: Raging Fury
+power: 120
+pp: 10
+probability: null
+type: Fire

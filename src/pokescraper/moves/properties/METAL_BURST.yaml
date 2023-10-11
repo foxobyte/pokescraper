@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Deals damage equal to 1.5x opponent's attack.
+isHighCrit: false
+moveType: Steel
+name: Metal Burst
+power: null
+pp: 10
+probability: null
+type: Steel

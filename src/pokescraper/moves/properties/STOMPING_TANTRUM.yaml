@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: Driven by frustration, the user attacks the target. If the user's
+  previous move has failed, the power of this move doubles.
+isHighCrit: false
+moveType: Ground
+name: Stomping Tantrum
+power: 75
+pp: 10
+probability: null
+type: Ground

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Inflicts damage equal to user's level.
+isHighCrit: false
+moveType: Ghost
+name: Night Shade
+power: null
+pp: 15
+probability: null
+type: Ghost

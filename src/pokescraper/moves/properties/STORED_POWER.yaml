@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Power increases when user's stats have been raised.
+isHighCrit: false
+moveType: Psychic
+name: Stored Power
+power: 20
+pp: 10
+probability: null
+type: Psychic

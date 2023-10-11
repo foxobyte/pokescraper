@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Makes the user and an ally very happy.
+isHighCrit: false
+moveType: Normal
+name: Hold Hands
+power: null
+pp: 40
+probability: null
+type: Normal

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: "Harshly lowers user\u2019s Speed."
+isHighCrit: false
+moveType: Steel
+name: Spin Out
+power: 100
+pp: 5
+probability: null
+type: Steel

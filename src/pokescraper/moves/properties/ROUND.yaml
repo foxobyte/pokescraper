@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Power increases if teammates use it in the same turn.
+isHighCrit: false
+moveType: Normal
+name: Round
+power: 60
+pp: 15
+probability: null
+type: Normal

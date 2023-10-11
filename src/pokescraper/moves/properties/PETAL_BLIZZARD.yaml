@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: "Hits all adjacent Pok\xE9mon."
+isHighCrit: false
+moveType: Grass
+name: Petal Blizzard
+power: 90
+pp: 15
+probability: null
+type: Grass

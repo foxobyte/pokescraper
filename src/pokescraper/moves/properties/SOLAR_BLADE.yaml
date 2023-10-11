@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Charges on first turn, attacks on second.
+isHighCrit: false
+moveType: Grass
+name: Solar Blade
+power: 125
+pp: 10
+probability: null
+type: Grass

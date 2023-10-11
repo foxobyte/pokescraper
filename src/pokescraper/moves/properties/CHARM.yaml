@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Sharply lowers opponent's Attack.
+isHighCrit: false
+moveType: Fairy
+name: Charm
+power: null
+pp: 20
+probability: null
+type: Fairy

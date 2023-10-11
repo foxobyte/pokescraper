@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Power depends on how many times the user performed Stockpile.
+isHighCrit: false
+moveType: Normal
+name: Spit Up
+power: null
+pp: 10
+probability: null
+type: Normal

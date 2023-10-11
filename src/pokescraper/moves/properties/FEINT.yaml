@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Only hits if opponent uses Protect or Detect in the same turn.
+isHighCrit: false
+moveType: Normal
+name: Feint
+power: 30
+pp: 10
+probability: null
+type: Normal

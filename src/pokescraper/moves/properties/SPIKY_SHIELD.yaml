@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Protects the user and inflicts damage on contact.
+isHighCrit: false
+moveType: Grass
+name: Spiky Shield
+power: null
+pp: 10
+probability: null
+type: Grass

@@ -1,0 +1,10 @@
+accuracy: 85
+category: Status
+effectDescription: Sharply lowers opponent's Defense.
+isHighCrit: false
+moveType: Normal
+name: Screech
+power: null
+pp: 40
+probability: null
+type: Normal

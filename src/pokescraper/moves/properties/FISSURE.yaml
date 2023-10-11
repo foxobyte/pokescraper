@@ -1,0 +1,10 @@
+accuracy: 30
+category: Physical
+effectDescription: One-Hit-KO, if it hits.
+isHighCrit: false
+moveType: Ground
+name: Fissure
+power: null
+pp: 5
+probability: null
+type: Ground

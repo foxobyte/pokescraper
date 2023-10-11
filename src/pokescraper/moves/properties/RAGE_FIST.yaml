@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: The more times the user has been hit by attacks, the greater the
+  move's power.
+isHighCrit: false
+moveType: Ghost
+name: Rage Fist
+power: 50
+pp: 10
+probability: null
+type: Ghost

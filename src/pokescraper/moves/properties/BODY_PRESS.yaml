@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: The higher the user's Defense, the stronger the attack.
+isHighCrit: false
+moveType: Fighting
+name: Body Press
+power: 80
+pp: 10
+probability: null
+type: Fighting

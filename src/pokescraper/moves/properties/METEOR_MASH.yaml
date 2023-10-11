@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: May raise user's Attack.
+isHighCrit: false
+moveType: Steel
+name: Meteor Mash
+power: 90
+pp: 10
+probability: 20
+type: Steel

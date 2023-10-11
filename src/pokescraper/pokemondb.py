@@ -1,7 +1,7 @@
 import requests
 from pokemon import Pokemon
 from bs4 import BeautifulSoup, Tag, ResultSet
-from enum_name_gen import generate_pokemon_enum_name
+from enum_name_gen import generate_pokemon_enum_name, generate_move_enum_name
 from evolution_constraint import EvolutionConstraint
 from move import Move
 from pokemon_sprite import PokemonSprite
@@ -238,7 +238,8 @@ def get_moves_learned_by_level(move_tables: dict, pokemon: Pokemon) -> None:
             values = m.findChildren("td", recursive=False)
             level = int(values[0].text)
             move_name = values[1].text
-            moves_dict[move_name] = level
+            move_enum_name = generate_move_enum_name(move_name)
+            moves_dict[move_enum_name] = level
 
         pokemon.moves_learned_at_level = moves_dict
     except KeyError as e:
@@ -255,7 +256,8 @@ def get_moves_learned_by_tm(move_tables: dict, pokemon: Pokemon) -> None:
             values = m.findChildren("td", recursive=False)
             tm = int(values[0].text)
             move_name = values[1].text
-            moves_dict[move_name] = tm
+            move_enum_name = generate_move_enum_name(move_name)
+            moves_dict[move_enum_name] = tm
 
         pokemon.moves_learned_by_tm = moves_dict
     except KeyError as e:
@@ -271,7 +273,8 @@ def get_moves_learned_on_evolution(move_tables: dict, pokemon: Pokemon) -> None:
         for m in move_tables['Moves learnt on evolution']:
             values = m.findChildren("td", recursive=False)
             move_name = values[0].text
-            moves.append(move_name)
+            move_enum_name = generate_move_enum_name(move_name)
+            moves.append(move_enum_name)
 
         pokemon.moves_learned_on_evolution = moves
     except KeyError as e:
@@ -287,8 +290,10 @@ def get_moves_learned_by_eggs(move_tables: dict, pokemon: Pokemon) -> None:
         for m in move_tables['Egg moves']:
             values = m.findChildren("td", recursive=False)
             move_name = values[0].text
+            move_enum_name = generate_move_enum_name(move_name)
+            moves.append(move_enum_name)
 
-            moves.append(move_name)
+        pokemon.moves_learned_by_eggs = moves
     except KeyError as e:
         print(f"\033[93mPokemon {pokemon.name} does not have moves learned by egg\033[0m")
     except Exception as e:
@@ -302,8 +307,8 @@ def get_moves_learned_by_tutor(move_tables: dict, pokemon: Pokemon) -> None:
         for m in move_tables['Move Tutor moves']:
             values = m.findChildren("td", recursive=False)
             move_name = values[0].text
-
-            moves.append(move_name)
+            move_enum_name = generate_move_enum_name(move_name)
+            moves.append(move_enum_name)
 
         pokemon.moves_learned_by_tutor = moves
     except KeyError as e:

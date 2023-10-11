@@ -1,0 +1,10 @@
+accuracy: 70
+category: Special
+effectDescription: May paralyze opponent.
+isHighCrit: false
+moveType: Electric
+name: Thunder
+power: 110
+pp: 10
+probability: 30
+type: Electric

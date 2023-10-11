@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Opponent can't use its last attack for a few turns.
+isHighCrit: false
+moveType: Normal
+name: Disable
+power: null
+pp: 20
+probability: null
+type: Normal

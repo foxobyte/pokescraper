@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May paralyze opponent.
+isHighCrit: false
+moveType: Electric
+name: Thunderbolt
+power: 90
+pp: 15
+probability: 10
+type: Electric

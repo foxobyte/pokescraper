@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: ''
+isHighCrit: false
+moveType: Water
+name: Water Gun
+power: 40
+pp: 25
+probability: null
+type: Water

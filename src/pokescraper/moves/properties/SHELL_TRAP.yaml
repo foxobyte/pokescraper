@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Deals more damage to opponent if hit by a Physical move.
+isHighCrit: false
+moveType: Fire
+name: Shell Trap
+power: 150
+pp: 5
+probability: null
+type: Fire

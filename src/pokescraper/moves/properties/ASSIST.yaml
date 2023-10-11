@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User performs a move known by its allies at random.
+isHighCrit: false
+moveType: Normal
+name: Assist
+power: null
+pp: 20
+probability: null
+type: Normal

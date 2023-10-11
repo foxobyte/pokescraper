@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Hits twice in one turn.
+isHighCrit: false
+moveType: Psychic
+name: Twin Beam
+power: 40
+pp: 10
+probability: null
+type: Psychic

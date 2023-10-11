@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: More powerful when opponent has higher HP.
+isHighCrit: false
+moveType: Normal
+name: Crush Grip
+power: null
+pp: 5
+probability: null
+type: Normal

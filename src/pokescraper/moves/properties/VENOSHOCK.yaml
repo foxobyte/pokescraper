@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Inflicts double damage if the target is poisoned.
+isHighCrit: false
+moveType: Poison
+name: Venoshock
+power: 65
+pp: 10
+probability: null
+type: Poison

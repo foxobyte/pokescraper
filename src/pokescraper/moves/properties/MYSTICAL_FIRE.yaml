@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Lowers opponent's Special Attack.
+isHighCrit: false
+moveType: Fire
+name: Mystical Fire
+power: 75
+pp: 10
+probability: 100
+type: Fire

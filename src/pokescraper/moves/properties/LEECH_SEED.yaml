@@ -1,0 +1,10 @@
+accuracy: 90
+category: Status
+effectDescription: Drains HP from opponent each turn.
+isHighCrit: false
+moveType: Grass
+name: Leech Seed
+power: null
+pp: 10
+probability: null
+type: Grass

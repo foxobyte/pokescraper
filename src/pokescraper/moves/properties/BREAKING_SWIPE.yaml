@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Hits multiple opponents and lowers their attack.
+isHighCrit: false
+moveType: Dragon
+name: Breaking Swipe
+power: 60
+pp: 15
+probability: 100
+type: Dragon

@@ -1,0 +1,10 @@
+accuracy: null
+category: Special
+effectDescription: Ignores Accuracy and Evasiveness.
+isHighCrit: false
+moveType: Fairy
+name: Disarming Voice
+power: 40
+pp: 15
+probability: null
+type: Fairy

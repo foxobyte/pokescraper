@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: May lower opponent's Accuracy.
+isHighCrit: false
+moveType: Grass
+name: Leaf Tornado
+power: 65
+pp: 10
+probability: 50
+type: Grass

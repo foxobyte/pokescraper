@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: The user's and opponent's HP becomes the average of both.
+isHighCrit: false
+moveType: Normal
+name: Pain Split
+power: null
+pp: 20
+probability: null
+type: Normal

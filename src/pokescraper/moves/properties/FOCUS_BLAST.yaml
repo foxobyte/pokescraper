@@ -1,0 +1,10 @@
+accuracy: 70
+category: Special
+effectDescription: May lower opponent's Special Defense.
+isHighCrit: false
+moveType: Fighting
+name: Focus Blast
+power: 120
+pp: 5
+probability: 10
+type: Fighting

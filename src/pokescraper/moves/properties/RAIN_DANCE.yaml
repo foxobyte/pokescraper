@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Makes it rain for 5 turns.
+isHighCrit: false
+moveType: Water
+name: Rain Dance
+power: null
+pp: 5
+probability: null
+type: Water

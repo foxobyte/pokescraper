@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: The user's party is protected from status conditions.
+isHighCrit: false
+moveType: Normal
+name: Safeguard
+power: null
+pp: 25
+probability: null
+type: Normal

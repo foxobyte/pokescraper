@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: High critical hit ratio.
+isHighCrit: true
+moveType: Water
+name: Crabhammer
+power: 100
+pp: 10
+probability: null
+type: Water

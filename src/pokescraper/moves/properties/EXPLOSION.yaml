@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User faints.
+isHighCrit: false
+moveType: Normal
+name: Explosion
+power: 250
+pp: 5
+probability: null
+type: Normal

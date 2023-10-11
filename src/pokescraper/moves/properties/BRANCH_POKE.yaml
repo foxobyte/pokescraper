@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Grass
+name: Branch Poke
+power: 40
+pp: 40
+probability: null
+type: Grass

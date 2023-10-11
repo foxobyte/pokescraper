@@ -1,0 +1,11 @@
+accuracy: 100
+category: Status
+effectDescription: Lowers opponent's Defense and Special Defense every turn, and they
+  cannot flee or switch out.
+isHighCrit: false
+moveType: Fighting
+name: Octolock
+power: null
+pp: 15
+probability: null
+type: Fighting

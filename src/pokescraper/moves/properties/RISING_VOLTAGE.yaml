@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Power doubles on Electric Terrain.
+isHighCrit: false
+moveType: Electric
+name: Rising Voltage
+power: 70
+pp: 20
+probability: null
+type: Electric

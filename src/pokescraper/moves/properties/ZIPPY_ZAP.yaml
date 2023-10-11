@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Always results in a critical hit.
+isHighCrit: false
+moveType: Electric
+name: Zippy Zap
+power: 50
+pp: 15
+probability: 100
+type: Electric

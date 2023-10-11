@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises Attack of allies.
+isHighCrit: false
+moveType: Normal
+name: Howl
+power: null
+pp: 40
+probability: null
+type: Normal

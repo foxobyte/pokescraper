@@ -1,0 +1,10 @@
+accuracy: 80
+category: Special
+effectDescription: ''
+isHighCrit: false
+moveType: Water
+name: Hydro Pump
+power: 110
+pp: 5
+probability: null
+type: Water

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Fighting
+name: Combat Torque
+power: 100
+pp: 10
+probability: null
+type: Fighting

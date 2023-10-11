@@ -1,0 +1,10 @@
+accuracy: 85
+category: Physical
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Ground
+name: Bone Club
+power: 65
+pp: 20
+probability: 10
+type: Ground

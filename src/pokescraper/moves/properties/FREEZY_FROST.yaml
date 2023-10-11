@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Resets all stat changes.
+isHighCrit: false
+moveType: Ice
+name: Freezy Frost
+power: 90
+pp: 15
+probability: null
+type: Ice

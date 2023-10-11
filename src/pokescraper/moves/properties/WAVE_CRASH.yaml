@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User receives recoil damage.
+isHighCrit: false
+moveType: Water
+name: Wave Crash
+power: 120
+pp: 10
+probability: null
+type: Water

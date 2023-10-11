@@ -1,0 +1,10 @@
+accuracy: 95
+category: Special
+effectDescription: User loses 50% of its HP.
+isHighCrit: false
+moveType: Steel
+name: Steel Beam
+power: 140
+pp: 5
+probability: null
+type: Steel

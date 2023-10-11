@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Swaps the effects on either side of the field.
+isHighCrit: false
+moveType: Normal
+name: Court Change
+power: null
+pp: 10
+probability: null
+type: Normal

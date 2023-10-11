@@ -1,0 +1,10 @@
+accuracy: 75
+category: Status
+effectDescription: Poisons opponent.
+isHighCrit: false
+moveType: Poison
+name: Poison Powder
+power: null
+pp: 35
+probability: null
+type: Poison

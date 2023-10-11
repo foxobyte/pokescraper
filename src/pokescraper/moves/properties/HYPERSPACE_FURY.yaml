@@ -1,0 +1,10 @@
+accuracy: null
+category: Physical
+effectDescription: Lowers user's Defense. Can strike through Protect/Detect.
+isHighCrit: false
+moveType: Dark
+name: Hyperspace Fury
+power: 100
+pp: 5
+probability: 100
+type: Dark

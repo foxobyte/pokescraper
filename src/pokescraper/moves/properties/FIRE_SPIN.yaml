@@ -1,0 +1,10 @@
+accuracy: 85
+category: Special
+effectDescription: Traps opponent, damaging them for 4-5 turns.
+isHighCrit: false
+moveType: Fire
+name: Fire Spin
+power: 35
+pp: 15
+probability: 100
+type: Fire

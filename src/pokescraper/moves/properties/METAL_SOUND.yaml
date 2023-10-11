@@ -1,0 +1,10 @@
+accuracy: 85
+category: Status
+effectDescription: Sharply lowers opponent's Special Defense.
+isHighCrit: false
+moveType: Steel
+name: Metal Sound
+power: null
+pp: 40
+probability: null
+type: Steel

@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Always left with at least 1 HP, but may fail if used consecutively.
+isHighCrit: false
+moveType: Normal
+name: Endure
+power: null
+pp: 10
+probability: null
+type: Normal

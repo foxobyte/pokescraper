@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Power increases each turn.
+isHighCrit: false
+moveType: Normal
+name: Echoed Voice
+power: 40
+pp: 15
+probability: null
+type: Normal

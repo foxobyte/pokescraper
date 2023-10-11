@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Copies opponent's last move.
+isHighCrit: false
+moveType: Normal
+name: Copycat
+power: null
+pp: 20
+probability: null
+type: Normal

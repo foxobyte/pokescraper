@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Always goes first.
+isHighCrit: false
+moveType: Water
+name: Jet Punch
+power: 60
+pp: 15
+probability: null
+type: Water

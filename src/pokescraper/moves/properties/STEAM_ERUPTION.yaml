@@ -1,0 +1,10 @@
+accuracy: 95
+category: Special
+effectDescription: May burn opponent.
+isHighCrit: false
+moveType: Water
+name: Steam Eruption
+power: 110
+pp: 5
+probability: 30
+type: Water

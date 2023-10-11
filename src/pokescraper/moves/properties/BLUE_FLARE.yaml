@@ -1,0 +1,10 @@
+accuracy: 85
+category: Special
+effectDescription: May burn opponent.
+isHighCrit: false
+moveType: Fire
+name: Blue Flare
+power: 130
+pp: 5
+probability: 20
+type: Fire

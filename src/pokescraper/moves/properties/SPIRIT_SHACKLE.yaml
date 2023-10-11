@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Prevents the opponent from switching out.
+isHighCrit: false
+moveType: Ghost
+name: Spirit Shackle
+power: 80
+pp: 10
+probability: null
+type: Ghost

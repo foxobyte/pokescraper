@@ -1,0 +1,10 @@
+accuracy: 85
+category: Special
+effectDescription: May burn opponent.
+isHighCrit: false
+moveType: Fire
+name: Fire Blast
+power: 110
+pp: 5
+probability: 10
+type: Fire

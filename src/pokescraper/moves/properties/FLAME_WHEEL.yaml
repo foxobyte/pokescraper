@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May burn opponent.
+isHighCrit: false
+moveType: Fire
+name: Flame Wheel
+power: 60
+pp: 25
+probability: 10
+type: Fire

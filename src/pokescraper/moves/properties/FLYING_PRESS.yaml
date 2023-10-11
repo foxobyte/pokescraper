@@ -1,0 +1,10 @@
+accuracy: 95
+category: Physical
+effectDescription: Deals Fighting and Flying type damage.
+isHighCrit: false
+moveType: Fighting
+name: Flying Press
+power: 100
+pp: 10
+probability: null
+type: Fighting

@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User and teammates recover HP.
+isHighCrit: false
+moveType: Water
+name: Life Dew
+power: null
+pp: 10
+probability: null
+type: Water

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Hits all adjacent opponents.
+isHighCrit: false
+moveType: Fairy
+name: Dazzling Gleam
+power: 80
+pp: 10
+probability: null
+type: Fairy

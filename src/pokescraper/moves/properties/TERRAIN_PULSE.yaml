@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Type and power change depending on the Terrain in effect.
+isHighCrit: false
+moveType: Normal
+name: Terrain Pulse
+power: 50
+pp: 10
+probability: null
+type: Normal

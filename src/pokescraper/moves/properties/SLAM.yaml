@@ -1,0 +1,10 @@
+accuracy: 75
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Normal
+name: Slam
+power: 80
+pp: 20
+probability: null
+type: Normal

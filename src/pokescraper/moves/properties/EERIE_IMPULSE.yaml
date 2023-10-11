@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Sharply lowers opponent's Special Attack.
+isHighCrit: false
+moveType: Electric
+name: Eerie Impulse
+power: null
+pp: 15
+probability: null
+type: Electric

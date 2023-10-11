@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises Attack and Special Attack of Grass-types.
+isHighCrit: false
+moveType: Ground
+name: Rototiller
+power: null
+pp: 10
+probability: 100
+type: Ground

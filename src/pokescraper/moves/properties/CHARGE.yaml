@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises user's Special Defense and next Electric move's power increases.
+isHighCrit: false
+moveType: Electric
+name: Charge
+power: null
+pp: 20
+probability: null
+type: Electric

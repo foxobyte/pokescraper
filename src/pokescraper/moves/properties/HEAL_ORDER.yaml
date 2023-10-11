@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User recovers half its max HP.
+isHighCrit: false
+moveType: Bug
+name: Heal Order
+power: null
+pp: 10
+probability: null
+type: Bug

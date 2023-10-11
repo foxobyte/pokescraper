@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User's next attack is guaranteed to result in a critical hit.
+isHighCrit: false
+moveType: Normal
+name: Laser Focus
+power: null
+pp: 30
+probability: null
+type: Normal

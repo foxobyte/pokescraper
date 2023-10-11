@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Permanently copies the opponent's last move.
+isHighCrit: false
+moveType: Normal
+name: Sketch
+power: null
+pp: 1
+probability: null
+type: Normal

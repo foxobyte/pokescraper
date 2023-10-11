@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Inflicts double damage if the target has a status condition.
+isHighCrit: false
+moveType: Poison
+name: Barb Barrage
+power: 60
+pp: 10
+probability: null
+type: Poison

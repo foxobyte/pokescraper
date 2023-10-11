@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power doubles if opponent is asleep, but wakes it up.
+isHighCrit: false
+moveType: Fighting
+name: Wake-Up Slap
+power: 70
+pp: 10
+probability: null
+type: Fighting

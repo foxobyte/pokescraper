@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May lower opponent's Special Attack.
+isHighCrit: false
+moveType: Fairy
+name: Moonblast
+power: 95
+pp: 15
+probability: 30
+type: Fairy

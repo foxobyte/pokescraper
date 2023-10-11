@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Power increases in harsh sunlight.
+isHighCrit: false
+moveType: Water
+name: Hydro Steam
+power: 80
+pp: 15
+probability: null
+type: Water

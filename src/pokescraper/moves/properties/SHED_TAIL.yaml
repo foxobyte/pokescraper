@@ -1,0 +1,11 @@
+accuracy: null
+category: Status
+effectDescription: "Creates a substitute, then swaps places with a party Pok\xE9mon\
+  \ in waiting."
+isHighCrit: false
+moveType: Normal
+name: Shed Tail
+power: null
+pp: 10
+probability: null
+type: Normal

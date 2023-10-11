@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: Hits 1-10 times in a row.
+isHighCrit: false
+moveType: Normal
+name: Population Bomb
+power: 20
+pp: 10
+probability: null
+type: Normal

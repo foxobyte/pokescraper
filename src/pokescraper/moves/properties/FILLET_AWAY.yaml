@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Lowers HP but sharply boosts Attack, Special Attack, and Speed.
+isHighCrit: false
+moveType: Normal
+name: Fillet Away
+power: null
+pp: 10
+probability: null
+type: Normal

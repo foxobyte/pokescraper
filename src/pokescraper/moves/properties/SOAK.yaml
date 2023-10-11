@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Changes the target's type to water.
+isHighCrit: false
+moveType: Water
+name: Soak
+power: null
+pp: 20
+probability: null
+type: Water

@@ -1,0 +1,11 @@
+accuracy: 100
+category: Special
+effectDescription: "The user attacks by sending a frightful amount of small ghosts\
+  \ at opposing Pok\xE9mon."
+isHighCrit: false
+moveType: Ghost
+name: Astral Barrage
+power: 120
+pp: 5
+probability: null
+type: Ghost

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: "Hits all adjacent Pok\xE9mon."
+isHighCrit: false
+moveType: Normal
+name: Boomburst
+power: 140
+pp: 10
+probability: null
+type: Normal

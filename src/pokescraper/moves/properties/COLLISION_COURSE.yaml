@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Boosted even more if it's super-effective.
+isHighCrit: false
+moveType: Fighting
+name: Collision Course
+power: 100
+pp: 5
+probability: null
+type: Fighting

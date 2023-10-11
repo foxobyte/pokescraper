@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Opponent can only use moves that attack.
+isHighCrit: false
+moveType: Dark
+name: Taunt
+power: null
+pp: 20
+probability: null
+type: Dark

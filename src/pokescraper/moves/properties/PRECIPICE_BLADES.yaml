@@ -1,0 +1,10 @@
+accuracy: 85
+category: Physical
+effectDescription: Hits all adjacent opponents.
+isHighCrit: false
+moveType: Ground
+name: Precipice Blades
+power: 120
+pp: 10
+probability: null
+type: Ground

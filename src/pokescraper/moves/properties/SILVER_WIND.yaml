@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May raise all stats of user at once.
+isHighCrit: false
+moveType: Bug
+name: Silver Wind
+power: 60
+pp: 5
+probability: 10
+type: Bug

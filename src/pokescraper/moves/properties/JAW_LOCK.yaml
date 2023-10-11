@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Prevents user and opponent from switching out.
+isHighCrit: false
+moveType: Dark
+name: Jaw Lock
+power: 80
+pp: 10
+probability: null
+type: Dark

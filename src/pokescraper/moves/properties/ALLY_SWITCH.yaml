@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User switches with opposite teammate.
+isHighCrit: false
+moveType: Psychic
+name: Ally Switch
+power: null
+pp: 15
+probability: null
+type: Psychic

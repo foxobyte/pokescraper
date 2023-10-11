@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May burn opponent.
+isHighCrit: false
+moveType: Fire
+name: Ember
+power: 40
+pp: 25
+probability: 10
+type: Fire

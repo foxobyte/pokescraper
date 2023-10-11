@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: User can't move on the next turn.
+isHighCrit: false
+moveType: Dragon
+name: Eternabeam
+power: 160
+pp: 5
+probability: null
+type: Dragon

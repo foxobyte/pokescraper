@@ -1,0 +1,10 @@
+accuracy: 85
+category: Status
+effectDescription: Confuses opponent, but sharply raises its Attack.
+isHighCrit: false
+moveType: Normal
+name: Swagger
+power: null
+pp: 15
+probability: null
+type: Normal

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Inflicts double damage if the target has a status condition.
+isHighCrit: false
+moveType: Ghost
+name: Infernal Parade
+power: 60
+pp: 15
+probability: null
+type: Ghost

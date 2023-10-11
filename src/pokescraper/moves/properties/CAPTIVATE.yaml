@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Sharply lowers opponent's Special Attack if opposite gender.
+isHighCrit: false
+moveType: Normal
+name: Captivate
+power: null
+pp: 20
+probability: null
+type: Normal

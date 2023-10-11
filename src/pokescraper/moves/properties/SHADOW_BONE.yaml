@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May lower opponent's Defense.
+isHighCrit: false
+moveType: Ghost
+name: Shadow Bone
+power: 85
+pp: 10
+probability: 20
+type: Ghost

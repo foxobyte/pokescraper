@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: ''
+isHighCrit: false
+moveType: Dragon
+name: Dragon Pulse
+power: 85
+pp: 10
+probability: null
+type: Dragon

@@ -1,0 +1,10 @@
+accuracy: 70
+category: Special
+effectDescription: May poison opponent.
+isHighCrit: false
+moveType: Poison
+name: Smog
+power: 30
+pp: 20
+probability: 40
+type: Poison

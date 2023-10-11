@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: "Cures all status problems in the party Pok\xE9mon."
+isHighCrit: false
+moveType: Fairy
+name: Sparkly Swirl
+power: 90
+pp: 15
+probability: null
+type: Fairy

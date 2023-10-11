@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User attacks twice.
+isHighCrit: false
+moveType: Dragon
+name: Dragon Darts
+power: 50
+pp: 10
+probability: null
+type: Dragon

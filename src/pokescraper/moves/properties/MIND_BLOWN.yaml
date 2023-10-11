@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: User receives recoil damage.
+isHighCrit: false
+moveType: Fire
+name: Mind Blown
+power: 150
+pp: 5
+probability: null
+type: Fire

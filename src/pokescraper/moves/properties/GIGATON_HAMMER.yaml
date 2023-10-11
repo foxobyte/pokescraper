@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Cannot be used twice in a row.
+isHighCrit: false
+moveType: Steel
+name: Gigaton Hammer
+power: 160
+pp: 5
+probability: null
+type: Steel

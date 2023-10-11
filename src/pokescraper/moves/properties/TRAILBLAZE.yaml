@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Raises user's Speed.
+isHighCrit: false
+moveType: Grass
+name: Trailblaze
+power: 50
+pp: 20
+probability: null
+type: Grass

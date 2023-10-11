@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Protects the user and poisons opponent on contact.
+isHighCrit: false
+moveType: Poison
+name: Baneful Bunker
+power: null
+pp: 10
+probability: null
+type: Poison

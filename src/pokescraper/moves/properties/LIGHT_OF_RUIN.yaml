@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: User receives recoil damage.
+isHighCrit: false
+moveType: Fairy
+name: Light of Ruin
+power: 140
+pp: 5
+probability: null
+type: Fairy

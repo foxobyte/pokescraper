@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Creates a sandstorm for 5 turns.
+isHighCrit: false
+moveType: Rock
+name: Sandstorm
+power: null
+pp: 10
+probability: null
+type: Rock

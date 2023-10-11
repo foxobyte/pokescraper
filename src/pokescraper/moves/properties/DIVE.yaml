@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Dives underwater on first turn, attacks on second turn.
+isHighCrit: false
+moveType: Water
+name: Dive
+power: 80
+pp: 10
+probability: null
+type: Water

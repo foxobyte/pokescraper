@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May freeze opponent. Super-effective against Water types.
+isHighCrit: false
+moveType: Ice
+name: Freeze-Dry
+power: 70
+pp: 20
+probability: 10
+type: Ice

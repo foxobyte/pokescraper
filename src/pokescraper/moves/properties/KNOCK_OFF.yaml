@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Removes opponent's held item for the rest of the battle.
+isHighCrit: false
+moveType: Dark
+name: Knock Off
+power: 65
+pp: 20
+probability: null
+type: Dark

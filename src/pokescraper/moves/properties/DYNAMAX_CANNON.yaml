@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Damage doubles if opponent is Dynamaxed.
+isHighCrit: false
+moveType: Dragon
+name: Dynamax Cannon
+power: 100
+pp: 5
+probability: null
+type: Dragon

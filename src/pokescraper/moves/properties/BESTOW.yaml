@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Gives the user's held item to the target.
+isHighCrit: false
+moveType: Normal
+name: Bestow
+power: null
+pp: 15
+probability: null
+type: Normal

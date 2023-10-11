@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User recovers half its max HP.
+isHighCrit: false
+moveType: Normal
+name: Recover
+power: null
+pp: 5
+probability: null
+type: Normal

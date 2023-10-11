@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Lowers poisoned opponent's Special Attack and Speed.
+isHighCrit: false
+moveType: Poison
+name: Venom Drench
+power: null
+pp: 20
+probability: 100
+type: Poison

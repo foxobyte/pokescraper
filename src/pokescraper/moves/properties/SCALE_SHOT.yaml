@@ -1,0 +1,11 @@
+accuracy: 90
+category: Physical
+effectDescription: Hits 2-5 times in one turn. Boosts user's Speed but lowers its
+  Defense.
+isHighCrit: false
+moveType: Dragon
+name: Scale Shot
+power: 25
+pp: 20
+probability: null
+type: Dragon

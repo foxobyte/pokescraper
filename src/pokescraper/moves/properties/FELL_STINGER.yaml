@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Drastically raises user's Attack if target is KO'd.
+isHighCrit: false
+moveType: Bug
+name: Fell Stinger
+power: 50
+pp: 25
+probability: null
+type: Bug

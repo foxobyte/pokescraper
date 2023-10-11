@@ -1,0 +1,10 @@
+accuracy: 85
+category: Special
+effectDescription: Hits all adjacent opponents.
+isHighCrit: false
+moveType: Water
+name: Origin Pulse
+power: 110
+pp: 10
+probability: null
+type: Water

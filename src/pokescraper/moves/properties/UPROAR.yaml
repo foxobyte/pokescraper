@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: User attacks for 3 turns and prevents sleep.
+isHighCrit: false
+moveType: Normal
+name: Uproar
+power: 90
+pp: 10
+probability: null
+type: Normal

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Inflicts damage equal to user's level.
+isHighCrit: false
+moveType: Fighting
+name: Seismic Toss
+power: null
+pp: 20
+probability: null
+type: Fighting

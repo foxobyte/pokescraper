@@ -1,0 +1,10 @@
+accuracy: 50
+category: Special
+effectDescription: Paralyzes opponent.
+isHighCrit: false
+moveType: Electric
+name: Zap Cannon
+power: 120
+pp: 5
+probability: 100
+type: Electric

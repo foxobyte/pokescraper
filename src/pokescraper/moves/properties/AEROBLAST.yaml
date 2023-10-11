@@ -1,0 +1,10 @@
+accuracy: 95
+category: Special
+effectDescription: High critical hit ratio.
+isHighCrit: true
+moveType: Flying
+name: Aeroblast
+power: 100
+pp: 5
+probability: null
+type: Flying

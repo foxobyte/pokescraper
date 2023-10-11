@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: The user bites the target with its psychic capabilities. This can
+  also destroy Light Screen and Reflect.
+isHighCrit: false
+moveType: Psychic
+name: Psychic Fangs
+power: 85
+pp: 10
+probability: null
+type: Psychic

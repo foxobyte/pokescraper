@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power increases on Electric Terrain.
+isHighCrit: false
+moveType: Psychic
+name: Psyblade
+power: 80
+pp: 15
+probability: null
+type: Psychic

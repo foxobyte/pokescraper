@@ -1,0 +1,11 @@
+accuracy: 90
+category: Physical
+effectDescription: Charges on first turn, attacks on second. May cause flinching.
+  High critical hit ratio.
+isHighCrit: false
+moveType: Flying
+name: Sky Attack
+power: 140
+pp: 5
+probability: 30
+type: Flying

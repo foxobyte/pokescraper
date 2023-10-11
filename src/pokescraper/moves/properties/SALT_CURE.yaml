@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Deals damage each turn; Steel and Water types are more affected.
+isHighCrit: false
+moveType: Rock
+name: Salt Cure
+power: 40
+pp: 15
+probability: null
+type: Rock

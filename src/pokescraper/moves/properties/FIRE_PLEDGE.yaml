@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Added effects appear if combined with Grass Pledge or Water Pledge.
+isHighCrit: false
+moveType: Fire
+name: Fire Pledge
+power: 80
+pp: 10
+probability: null
+type: Fire

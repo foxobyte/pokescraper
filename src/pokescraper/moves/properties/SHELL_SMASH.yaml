@@ -1,0 +1,11 @@
+accuracy: null
+category: Status
+effectDescription: Sharply raises user's Attack, Special Attack and Speed but lowers
+  Defense and Special Defense.
+isHighCrit: false
+moveType: Normal
+name: Shell Smash
+power: null
+pp: 15
+probability: null
+type: Normal

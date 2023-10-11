@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Protects the user and sharply lowers Defence on contact.
+isHighCrit: false
+moveType: Dark
+name: Obstruct
+power: null
+pp: 10
+probability: null
+type: Dark

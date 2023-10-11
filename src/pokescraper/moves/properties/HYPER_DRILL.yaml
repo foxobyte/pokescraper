@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Can strike through Protect/Detect.
+isHighCrit: false
+moveType: Normal
+name: Hyper Drill
+power: 100
+pp: 5
+probability: null
+type: Normal

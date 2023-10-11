@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Lowers user's Defense and Special Defense.
+isHighCrit: false
+moveType: Flying
+name: Dragon Ascent
+power: 120
+pp: 5
+probability: 100
+type: Flying

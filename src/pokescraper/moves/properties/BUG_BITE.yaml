@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Receives the effect from the opponent's held berry.
+isHighCrit: false
+moveType: Bug
+name: Bug Bite
+power: 60
+pp: 20
+probability: null
+type: Bug

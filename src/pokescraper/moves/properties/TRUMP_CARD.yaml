@@ -1,0 +1,10 @@
+accuracy: null
+category: Special
+effectDescription: The lower the PP, the higher the power.
+isHighCrit: false
+moveType: Normal
+name: Trump Card
+power: null
+pp: 5
+probability: null
+type: Normal

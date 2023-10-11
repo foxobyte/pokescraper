@@ -1,0 +1,10 @@
+accuracy: 85
+category: Special
+effectDescription: May lower opponent's Special Defense.
+isHighCrit: false
+moveType: Grass
+name: Seed Flare
+power: 120
+pp: 5
+probability: 40
+type: Grass

@@ -1,0 +1,10 @@
+accuracy: 75
+category: Special
+effectDescription: Traps opponent, damaging them for 4-5 turns.
+isHighCrit: false
+moveType: Fire
+name: Magma Storm
+power: 100
+pp: 5
+probability: 100
+type: Fire

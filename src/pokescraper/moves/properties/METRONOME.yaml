@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User performs almost any move in the game at random.
+isHighCrit: false
+moveType: Normal
+name: Metronome
+power: null
+pp: 10
+probability: null
+type: Normal

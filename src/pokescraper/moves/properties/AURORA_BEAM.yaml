@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May lower opponent's Attack.
+isHighCrit: false
+moveType: Ice
+name: Aurora Beam
+power: 65
+pp: 20
+probability: 10
+type: Ice

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Breaks through Reflect and Light Screen barriers.
+isHighCrit: false
+moveType: Fighting
+name: Brick Break
+power: 75
+pp: 15
+probability: null
+type: Fighting

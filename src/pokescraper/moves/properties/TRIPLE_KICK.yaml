@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: Hits thrice in one turn at increasing power.
+isHighCrit: false
+moveType: Fighting
+name: Triple Kick
+power: 10
+pp: 10
+probability: null
+type: Fighting

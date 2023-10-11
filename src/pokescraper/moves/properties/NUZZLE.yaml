@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Paralyzes opponent.
+isHighCrit: false
+moveType: Electric
+name: Nuzzle
+power: 20
+pp: 20
+probability: 100
+type: Electric

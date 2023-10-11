@@ -1,0 +1,11 @@
+accuracy: 100
+category: Special
+effectDescription: "May cause flinching. Hits Pok\xE9mon using Fly/Bounce with double\
+  \ power."
+isHighCrit: false
+moveType: Dragon
+name: Twister
+power: 40
+pp: 20
+probability: 20
+type: Dragon

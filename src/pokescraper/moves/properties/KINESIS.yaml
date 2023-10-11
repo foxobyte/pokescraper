@@ -1,0 +1,10 @@
+accuracy: 80
+category: Status
+effectDescription: Lowers opponent's Accuracy.
+isHighCrit: false
+moveType: Psychic
+name: Kinesis
+power: null
+pp: 15
+probability: null
+type: Psychic

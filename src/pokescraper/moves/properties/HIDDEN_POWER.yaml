@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Type and power depends on user's IVs.
+isHighCrit: false
+moveType: Normal
+name: Hidden Power
+power: 60
+pp: 15
+probability: null
+type: Normal

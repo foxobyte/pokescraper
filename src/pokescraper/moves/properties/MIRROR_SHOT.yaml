@@ -1,0 +1,10 @@
+accuracy: 85
+category: Special
+effectDescription: May lower opponent's Accuracy.
+isHighCrit: false
+moveType: Steel
+name: Mirror Shot
+power: 65
+pp: 10
+probability: 30
+type: Steel

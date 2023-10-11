@@ -1,0 +1,11 @@
+accuracy: null
+category: Status
+effectDescription: Resets opponent's Evasiveness, and allows Normal- and Fighting-type
+  attacks to hit Ghosts.
+isHighCrit: false
+moveType: Normal
+name: Foresight
+power: null
+pp: 40
+probability: null
+type: Normal

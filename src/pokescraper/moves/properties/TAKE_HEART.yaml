@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Heals user's status conditions and raises its stats.
+isHighCrit: false
+moveType: Psychic
+name: Take Heart
+power: null
+pp: 10
+probability: null
+type: Psychic

@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: The user swings its body around violently to inflict damage on
+  everything in its vicinity.
+isHighCrit: false
+moveType: Dark
+name: Brutal Swing
+power: 60
+pp: 20
+probability: null
+type: Dark

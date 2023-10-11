@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User's next attack is guaranteed to hit.
+isHighCrit: false
+moveType: Normal
+name: Mind Reader
+power: null
+pp: 5
+probability: null
+type: Normal

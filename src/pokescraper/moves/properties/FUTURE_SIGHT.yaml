@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Damage occurs 2 turns later.
+isHighCrit: false
+moveType: Psychic
+name: Future Sight
+power: 120
+pp: 10
+probability: null
+type: Psychic

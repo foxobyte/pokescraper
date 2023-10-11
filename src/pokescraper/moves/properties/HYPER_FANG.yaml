@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Normal
+name: Hyper Fang
+power: 80
+pp: 15
+probability: 10
+type: Normal

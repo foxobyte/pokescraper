@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Bug
+name: X-Scissor
+power: 80
+pp: 15
+probability: null
+type: Bug

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User must recharge next turn.
+isHighCrit: false
+moveType: Fighting
+name: Meteor Assault
+power: 150
+pp: 5
+probability: null
+type: Fighting

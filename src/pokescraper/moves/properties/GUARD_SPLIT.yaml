@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Averages Defense and Special Defense with the target.
+isHighCrit: false
+moveType: Psychic
+name: Guard Split
+power: null
+pp: 10
+probability: null
+type: Psychic

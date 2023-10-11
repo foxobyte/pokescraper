@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Protects the user, but may fail if used consecutively.
+isHighCrit: false
+moveType: Normal
+name: Protect
+power: null
+pp: 10
+probability: null
+type: Normal

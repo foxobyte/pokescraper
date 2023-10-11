@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Lowers opponent's Attack.
+isHighCrit: false
+moveType: Water
+name: Chilling Water
+power: 50
+pp: 20
+probability: null
+type: Water

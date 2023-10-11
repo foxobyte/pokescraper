@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Adds Grass type to opponent.
+isHighCrit: false
+moveType: Grass
+name: Forest's Curse
+power: null
+pp: 20
+probability: null
+type: Grass

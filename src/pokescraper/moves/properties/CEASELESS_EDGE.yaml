@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: High critical hit ratio. Damages target with splinters each turn.
+isHighCrit: true
+moveType: Dark
+name: Ceaseless Edge
+power: 65
+pp: 15
+probability: null
+type: Dark

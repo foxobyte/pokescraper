@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Double power if the opponent is switching out.
+isHighCrit: false
+moveType: Dark
+name: Pursuit
+power: 40
+pp: 20
+probability: null
+type: Dark

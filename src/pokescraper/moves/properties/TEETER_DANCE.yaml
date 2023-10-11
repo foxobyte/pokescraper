@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: "Confuses all Pok\xE9mon."
+isHighCrit: false
+moveType: Normal
+name: Teeter Dance
+power: null
+pp: 20
+probability: null
+type: Normal

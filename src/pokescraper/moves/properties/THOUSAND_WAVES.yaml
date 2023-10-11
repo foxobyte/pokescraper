@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Opponent cannot flee or switch.
+isHighCrit: false
+moveType: Ground
+name: Thousand Waves
+power: 90
+pp: 10
+probability: null
+type: Ground

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Adds Ghost type to opponent.
+isHighCrit: false
+moveType: Ghost
+name: Trick-or-Treat
+power: null
+pp: 20
+probability: null
+type: Ghost

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Inflicts damage based on the target's Defense, not Special Defense.
+isHighCrit: false
+moveType: Psychic
+name: Psyshock
+power: 80
+pp: 10
+probability: null
+type: Psychic

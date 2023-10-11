@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: Digs underground on first turn, attacks on second. Can also escape
+  from caves.
+isHighCrit: false
+moveType: Ground
+name: Dig
+power: 80
+pp: 10
+probability: null
+type: Ground

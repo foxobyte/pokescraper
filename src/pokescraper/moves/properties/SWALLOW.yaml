@@ -1,0 +1,11 @@
+accuracy: null
+category: Status
+effectDescription: The more times the user has performed Stockpile, the more HP is
+  recovered.
+isHighCrit: false
+moveType: Normal
+name: Swallow
+power: null
+pp: 10
+probability: null
+type: Normal

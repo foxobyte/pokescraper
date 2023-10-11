@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: "Makes Flying-type Pok\xE9mon vulnerable to Ground moves."
+isHighCrit: false
+moveType: Ground
+name: Thousand Arrows
+power: 90
+pp: 10
+probability: null
+type: Ground

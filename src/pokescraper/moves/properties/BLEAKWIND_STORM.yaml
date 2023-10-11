@@ -1,0 +1,10 @@
+accuracy: 80
+category: Special
+effectDescription: May cause frostbite.
+isHighCrit: false
+moveType: Flying
+name: Bleakwind Storm
+power: 100
+pp: 10
+probability: null
+type: Flying

@@ -1,0 +1,10 @@
+accuracy: 95
+category: Physical
+effectDescription: May cause flinching and/or paralyze opponent.
+isHighCrit: false
+moveType: Electric
+name: Thunder Fang
+power: 65
+pp: 15
+probability: 10
+type: Electric

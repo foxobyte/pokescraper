@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: ''
+isHighCrit: false
+moveType: Rock
+name: Power Gem
+power: 80
+pp: 20
+probability: null
+type: Rock

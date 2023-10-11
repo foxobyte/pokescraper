@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Double power if stats were lowered during the turn.
+isHighCrit: false
+moveType: Dark
+name: Lash Out
+power: 75
+pp: 5
+probability: null
+type: Dark

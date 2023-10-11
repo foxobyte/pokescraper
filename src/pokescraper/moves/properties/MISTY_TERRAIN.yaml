@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Protects the field from status conditions for 5 turns.
+isHighCrit: false
+moveType: Fairy
+name: Misty Terrain
+power: null
+pp: 10
+probability: null
+type: Fairy

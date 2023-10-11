@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Strikes opponent with leaves.
+isHighCrit: false
+moveType: Grass
+name: Leafage
+power: 40
+pp: 40
+probability: null
+type: Grass

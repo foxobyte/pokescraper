@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Sharply raises a random stat.
+isHighCrit: false
+moveType: Normal
+name: Acupressure
+power: null
+pp: 30
+probability: null
+type: Normal

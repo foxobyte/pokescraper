@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: The lower the user's HP, the higher the power.
+isHighCrit: false
+moveType: Fighting
+name: Reversal
+power: null
+pp: 15
+probability: null
+type: Fighting

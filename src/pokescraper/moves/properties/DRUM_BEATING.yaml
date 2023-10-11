@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Lowers opponent's Speed.
+isHighCrit: false
+moveType: Grass
+name: Drum Beating
+power: 80
+pp: 10
+probability: 100
+type: Grass

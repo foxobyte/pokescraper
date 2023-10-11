@@ -1,0 +1,10 @@
+accuracy: 95
+category: Special
+effectDescription: May confuse opponent.
+isHighCrit: false
+moveType: Fairy
+name: Strange Steam
+power: 90
+pp: 10
+probability: 20
+type: Fairy

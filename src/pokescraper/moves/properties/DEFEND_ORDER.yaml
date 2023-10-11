@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises user's Defense and Special Defense.
+isHighCrit: false
+moveType: Bug
+name: Defend Order
+power: null
+pp: 10
+probability: null
+type: Bug

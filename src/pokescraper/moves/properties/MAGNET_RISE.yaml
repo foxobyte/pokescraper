@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User becomes immune to Ground-type moves for 5 turns.
+isHighCrit: false
+moveType: Electric
+name: Magnet Rise
+power: null
+pp: 10
+probability: null
+type: Electric

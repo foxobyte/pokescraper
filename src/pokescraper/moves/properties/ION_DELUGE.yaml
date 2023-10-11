@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Changes Normal-type moves to Electric-type.
+isHighCrit: false
+moveType: Electric
+name: Ion Deluge
+power: null
+pp: 25
+probability: null
+type: Electric

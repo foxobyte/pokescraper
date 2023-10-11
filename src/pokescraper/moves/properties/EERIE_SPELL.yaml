@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Deals damage and reduces opponent's PP.
+isHighCrit: false
+moveType: Psychic
+name: Eerie Spell
+power: 80
+pp: 5
+probability: null
+type: Psychic

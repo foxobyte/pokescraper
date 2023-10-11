@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Changes target's ability to Simple.
+isHighCrit: false
+moveType: Normal
+name: Simple Beam
+power: null
+pp: 15
+probability: null
+type: Normal

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User recovers half the HP inflicted on opponent.
+isHighCrit: false
+moveType: Fighting
+name: Drain Punch
+power: 75
+pp: 10
+probability: null
+type: Fighting

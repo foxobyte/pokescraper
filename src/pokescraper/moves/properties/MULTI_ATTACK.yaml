@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Type matches Memory item held.
+isHighCrit: false
+moveType: Normal
+name: Multi-Attack
+power: 120
+pp: 10
+probability: null
+type: Normal

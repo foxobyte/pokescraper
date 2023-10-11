@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Uses Attack or Special Attack stat, whichever is higher.
+isHighCrit: false
+moveType: Psychic
+name: Photon Geyser
+power: 100
+pp: 5
+probability: null
+type: Psychic

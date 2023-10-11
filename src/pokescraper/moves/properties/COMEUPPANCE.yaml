@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: Deals more damage to the opponent that last inflicted damage on
+  it.
+isHighCrit: false
+moveType: Dark
+name: Comeuppance
+power: 1
+pp: 10
+probability: null
+type: Dark

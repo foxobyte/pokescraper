@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: The heavier the user, the stronger the attack.
+isHighCrit: false
+moveType: Steel
+name: Heavy Slam
+power: null
+pp: 10
+probability: null
+type: Steel

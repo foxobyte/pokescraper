@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Ground
+name: Land's Wrath
+power: 90
+pp: 10
+probability: null
+type: Ground

@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: User must recharge next turn.
+isHighCrit: false
+moveType: Rock
+name: Rock Wrecker
+power: 150
+pp: 5
+probability: null
+type: Rock

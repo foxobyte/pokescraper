@@ -1,0 +1,11 @@
+accuracy: null
+category: Status
+effectDescription: The user shines a spotlight on the target so that only the target
+  will be attacked during the turn.
+isHighCrit: false
+moveType: Normal
+name: Spotlight
+power: null
+pp: 15
+probability: null
+type: Normal

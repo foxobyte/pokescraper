@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Damage doubles if target is Dynamaxed.
+isHighCrit: false
+moveType: Steel
+name: Behemoth Bash
+power: 100
+pp: 5
+probability: null
+type: Steel

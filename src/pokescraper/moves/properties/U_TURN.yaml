@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User switches out immediately after attacking.
+isHighCrit: false
+moveType: Bug
+name: U-turn
+power: 70
+pp: 20
+probability: null
+type: Bug

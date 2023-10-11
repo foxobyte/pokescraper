@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: The user strikes the target with a burning lash. This also lowers
+  the target's Defense stat.
+isHighCrit: false
+moveType: Fire
+name: Fire Lash
+power: 80
+pp: 15
+probability: 100
+type: Fire

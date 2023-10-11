@@ -1,0 +1,11 @@
+accuracy: 100
+category: Special
+effectDescription: To inflict massive damage, the user burns itself out. After using
+  this move, the user will no longer be Fire type.
+isHighCrit: false
+moveType: Fire
+name: Burn Up
+power: 130
+pp: 5
+probability: null
+type: Fire

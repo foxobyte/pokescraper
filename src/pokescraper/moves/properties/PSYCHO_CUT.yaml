@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: High critical hit ratio.
+isHighCrit: true
+moveType: Psychic
+name: Psycho Cut
+power: 70
+pp: 20
+probability: null
+type: Psychic

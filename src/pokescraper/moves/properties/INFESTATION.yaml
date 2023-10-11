@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Traps opponent, damaging them for 4-5 turns.
+isHighCrit: false
+moveType: Bug
+name: Infestation
+power: 20
+pp: 20
+probability: 100
+type: Bug

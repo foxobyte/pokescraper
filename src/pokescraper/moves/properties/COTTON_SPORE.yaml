@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Sharply lowers opponent's Speed.
+isHighCrit: false
+moveType: Grass
+name: Cotton Spore
+power: null
+pp: 40
+probability: null
+type: Grass

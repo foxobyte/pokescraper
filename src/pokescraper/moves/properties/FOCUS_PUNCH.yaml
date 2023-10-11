@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: If the user is hit before attacking, it flinches instead.
+isHighCrit: false
+moveType: Fighting
+name: Focus Punch
+power: 150
+pp: 20
+probability: null
+type: Fighting

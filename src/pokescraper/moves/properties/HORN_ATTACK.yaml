@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Normal
+name: Horn Attack
+power: 65
+pp: 25
+probability: null
+type: Normal

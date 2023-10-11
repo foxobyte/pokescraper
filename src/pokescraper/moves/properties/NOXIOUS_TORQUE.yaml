@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Poison
+name: Noxious Torque
+power: 100
+pp: 10
+probability: null
+type: Poison

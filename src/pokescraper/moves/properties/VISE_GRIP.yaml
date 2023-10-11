@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Normal
+name: Vise Grip
+power: 55
+pp: 30
+probability: null
+type: Normal

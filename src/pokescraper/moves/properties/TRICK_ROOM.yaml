@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: "Slower Pok\xE9mon move first in the turn for 5 turns."
+isHighCrit: false
+moveType: Psychic
+name: Trick Room
+power: null
+pp: 5
+probability: null
+type: Psychic

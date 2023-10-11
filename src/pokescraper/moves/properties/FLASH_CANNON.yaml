@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May lower opponent's Special Defense.
+isHighCrit: false
+moveType: Steel
+name: Flash Cannon
+power: 80
+pp: 10
+probability: 10
+type: Steel

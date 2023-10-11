@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Opponent cannot escape/switch.
+isHighCrit: false
+moveType: Bug
+name: Spider Web
+power: null
+pp: 10
+probability: null
+type: Bug

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User attacks first, foe flinches. Only usable on first turn.
+isHighCrit: false
+moveType: Normal
+name: Fake Out
+power: 40
+pp: 10
+probability: 100
+type: Normal

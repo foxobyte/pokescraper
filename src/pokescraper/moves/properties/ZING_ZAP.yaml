@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Electric
+name: Zing Zap
+power: 80
+pp: 10
+probability: 30
+type: Electric

@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises Defense of Ice types for 5 turns.
+isHighCrit: false
+moveType: Ice
+name: Snowscape
+power: null
+pp: 10
+probability: null
+type: Ice

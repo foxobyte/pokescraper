@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Reduces damage from Special attacks.
+isHighCrit: false
+moveType: Psychic
+name: Glitzy Glow
+power: 90
+pp: 15
+probability: null
+type: Psychic

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: "Hits all adjacent Pok\xE9mon."
+isHighCrit: false
+moveType: Water
+name: Surf
+power: 90
+pp: 15
+probability: null
+type: Water

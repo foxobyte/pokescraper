@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Power increases on Misty Terrain.
+isHighCrit: false
+moveType: Fairy
+name: Misty Explosion
+power: 100
+pp: 5
+probability: null
+type: Fairy

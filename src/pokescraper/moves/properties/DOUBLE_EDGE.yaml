@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User receives recoil damage.
+isHighCrit: false
+moveType: Normal
+name: Double-Edge
+power: 120
+pp: 15
+probability: null
+type: Normal

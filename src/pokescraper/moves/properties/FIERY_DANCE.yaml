@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May raise user's Special Attack.
+isHighCrit: false
+moveType: Fire
+name: Fiery Dance
+power: 80
+pp: 10
+probability: 50
+type: Fire

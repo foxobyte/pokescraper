@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Restores team's HP and cures status conditions.
+isHighCrit: false
+moveType: Grass
+name: Jungle Healing
+power: null
+pp: 10
+probability: null
+type: Grass

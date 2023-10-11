@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power is doubled if opponent is underground from using Dig.
+isHighCrit: false
+moveType: Ground
+name: Earthquake
+power: 100
+pp: 10
+probability: null
+type: Ground

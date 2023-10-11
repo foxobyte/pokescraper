@@ -1,0 +1,10 @@
+accuracy: null
+category: Physical
+effectDescription: User takes damage for two turns then strikes back double.
+isHighCrit: false
+moveType: Normal
+name: Bide
+power: null
+pp: 10
+probability: null
+type: Normal

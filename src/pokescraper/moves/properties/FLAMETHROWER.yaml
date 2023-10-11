@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May burn opponent.
+isHighCrit: false
+moveType: Fire
+name: Flamethrower
+power: 90
+pp: 15
+probability: 10
+type: Fire

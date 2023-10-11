@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Can only be used if asleep. May cause flinching.
+isHighCrit: false
+moveType: Normal
+name: Snore
+power: 50
+pp: 15
+probability: 30
+type: Normal

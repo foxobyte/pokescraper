@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power increases when opponent's stats have been raised.
+isHighCrit: false
+moveType: Dark
+name: Punishment
+power: null
+pp: 5
+probability: null
+type: Dark

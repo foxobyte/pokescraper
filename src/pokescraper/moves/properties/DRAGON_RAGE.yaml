@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Always inflicts 40 HP.
+isHighCrit: false
+moveType: Dragon
+name: Dragon Rage
+power: null
+pp: 10
+probability: null
+type: Dragon

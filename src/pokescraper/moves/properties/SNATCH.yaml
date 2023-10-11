@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Steals the effects of the opponent's next move.
+isHighCrit: false
+moveType: Dark
+name: Snatch
+power: null
+pp: 10
+probability: null
+type: Dark

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User attacks first.
+isHighCrit: false
+moveType: Steel
+name: Bullet Punch
+power: 40
+pp: 30
+probability: null
+type: Steel

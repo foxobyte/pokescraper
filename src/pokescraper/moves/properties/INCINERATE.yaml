@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Destroys the target's held berry.
+isHighCrit: false
+moveType: Fire
+name: Incinerate
+power: 60
+pp: 15
+probability: null
+type: Fire

@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Protects the user, but may fail if used consecutively.
+isHighCrit: false
+moveType: Fighting
+name: Detect
+power: null
+pp: 5
+probability: null
+type: Fighting

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Lowers opponent's Attack and Defense.
+isHighCrit: false
+moveType: Normal
+name: Tickle
+power: null
+pp: 20
+probability: null
+type: Normal

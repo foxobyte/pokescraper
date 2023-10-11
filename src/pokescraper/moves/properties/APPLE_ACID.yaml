@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Lowers target's Special Defense.
+isHighCrit: false
+moveType: Grass
+name: Apple Acid
+power: 80
+pp: 10
+probability: 100
+type: Grass

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Cancels out the effect of the opponent's Ability.
+isHighCrit: false
+moveType: Poison
+name: Gastro Acid
+power: null
+pp: 10
+probability: null
+type: Poison

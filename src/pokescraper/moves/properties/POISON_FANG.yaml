@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May badly poison opponent.
+isHighCrit: false
+moveType: Poison
+name: Poison Fang
+power: 50
+pp: 15
+probability: 50
+type: Poison

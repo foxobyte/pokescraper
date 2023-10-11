@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Stores energy for use with Spit Up and Swallow.
+isHighCrit: false
+moveType: Normal
+name: Stockpile
+power: null
+pp: 20
+probability: null
+type: Normal

@@ -1,0 +1,10 @@
+accuracy: 80
+category: Special
+effectDescription: May burn target.
+isHighCrit: false
+moveType: Ground
+name: Sandsear Storm
+power: 100
+pp: 10
+probability: null
+type: Ground

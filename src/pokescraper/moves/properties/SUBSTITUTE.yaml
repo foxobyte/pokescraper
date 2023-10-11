@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Uses HP to creates a decoy that takes hits.
+isHighCrit: false
+moveType: Normal
+name: Substitute
+power: null
+pp: 10
+probability: null
+type: Normal

@@ -1,0 +1,11 @@
+accuracy: 100
+category: Special
+effectDescription: Added effects appear if preceded by Water Pledge or succeeded by
+  Fire Pledge.
+isHighCrit: false
+moveType: Grass
+name: Grass Pledge
+power: 80
+pp: 10
+probability: null
+type: Grass

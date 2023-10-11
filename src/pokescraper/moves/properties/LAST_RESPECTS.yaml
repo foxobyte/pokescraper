@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: "Damages increases the more party Pok\xE9mon have been defeated."
+isHighCrit: false
+moveType: Ghost
+name: Last Respects
+power: 50
+pp: 10
+probability: null
+type: Ghost

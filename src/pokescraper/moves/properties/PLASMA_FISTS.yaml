@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Changes Normal-type moves to Electric-type moves.
+isHighCrit: false
+moveType: Electric
+name: Plasma Fists
+power: 100
+pp: 15
+probability: null
+type: Electric

@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User performs one of its own moves while sleeping.
+isHighCrit: false
+moveType: Normal
+name: Sleep Talk
+power: null
+pp: 10
+probability: null
+type: Normal

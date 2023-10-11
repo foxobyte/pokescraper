@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Also steals opponent's held item.
+isHighCrit: false
+moveType: Dark
+name: Thief
+power: 60
+pp: 25
+probability: null
+type: Dark

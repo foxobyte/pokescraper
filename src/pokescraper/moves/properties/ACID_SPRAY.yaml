@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Sharply lowers opponent's Special Defense.
+isHighCrit: false
+moveType: Poison
+name: Acid Spray
+power: 40
+pp: 20
+probability: 100
+type: Poison

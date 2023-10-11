@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: User attacks first.
+isHighCrit: false
+moveType: Fighting
+name: Vacuum Wave
+power: 40
+pp: 30
+probability: null
+type: Fighting

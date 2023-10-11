@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Reduces opponent's HP to same as user's.
+isHighCrit: false
+moveType: Normal
+name: Endeavor
+power: null
+pp: 5
+probability: null
+type: Normal

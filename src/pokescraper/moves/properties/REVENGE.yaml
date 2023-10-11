@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power increases if user was hit first.
+isHighCrit: false
+moveType: Fighting
+name: Revenge
+power: 60
+pp: 10
+probability: null
+type: Fighting

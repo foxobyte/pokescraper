@@ -1,0 +1,10 @@
+accuracy: 75
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Normal
+name: Mega Kick
+power: 120
+pp: 5
+probability: null
+type: Normal

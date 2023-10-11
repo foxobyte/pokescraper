@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Sharply lowers opponent's Special Defense.
+isHighCrit: false
+moveType: Dark
+name: Fake Tears
+power: null
+pp: 20
+probability: null
+type: Dark

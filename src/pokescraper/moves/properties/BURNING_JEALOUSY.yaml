@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Hits all opponents, and burns any that have had their stats boosted.
+isHighCrit: false
+moveType: Fire
+name: Burning Jealousy
+power: 70
+pp: 5
+probability: null
+type: Fire

@@ -1,0 +1,10 @@
+accuracy: 90
+category: Status
+effectDescription: Paralyzes opponent.
+isHighCrit: false
+moveType: Electric
+name: Thunder Wave
+power: null
+pp: 20
+probability: null
+type: Electric

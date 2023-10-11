@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Switches out and summons a snowstorm lasting 5 turns.
+isHighCrit: false
+moveType: Ice
+name: Chilly Reception
+power: null
+pp: 10
+probability: null
+type: Ice

@@ -1,0 +1,10 @@
+accuracy: 95
+category: Special
+effectDescription: May lower opponent's Accuracy.
+isHighCrit: false
+moveType: Dark
+name: Night Daze
+power: 85
+pp: 10
+probability: 40
+type: Dark

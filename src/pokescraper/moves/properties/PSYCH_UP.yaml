@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Copies the opponent's stat changes.
+isHighCrit: false
+moveType: Normal
+name: Psych Up
+power: null
+pp: 10
+probability: null
+type: Normal

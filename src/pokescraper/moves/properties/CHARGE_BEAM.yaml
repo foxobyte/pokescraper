@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: May raise user's Special Attack.
+isHighCrit: false
+moveType: Electric
+name: Charge Beam
+power: 50
+pp: 10
+probability: 70
+type: Electric

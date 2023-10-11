@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Allows an ally to use a move instead.
+isHighCrit: false
+moveType: Psychic
+name: Instruct
+power: null
+pp: 15
+probability: null
+type: Psychic

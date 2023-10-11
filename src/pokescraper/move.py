@@ -1,4 +1,5 @@
 import json
+import yaml
 
 
 class Move:
@@ -34,12 +35,18 @@ class Move:
 
         return enum_name.upper()
 
+    def to_yaml(self):
+        return yaml.dump(self.fix_keys())
+
     def to_json(self):
+        return json.dumps(self.fix_keys())
+
+    def fix_keys(self):
         move_dict = vars(self)
 
         try:
             move_dict['type'] = move_dict['move_type']
-            del move_dict['pokemon_type']
+            del move_dict['move_type']
         except KeyError:
             print("already done did dat bruh")
 
@@ -55,4 +62,4 @@ class Move:
                 move_dict[new_key] = move_dict[key]
                 del move_dict[key]
 
-        return json.dumps(move_dict, indent=4)
+        return move_dict

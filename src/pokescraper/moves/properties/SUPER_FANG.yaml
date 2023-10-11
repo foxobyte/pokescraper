@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: Always takes off half of the opponent's HP.
+isHighCrit: false
+moveType: Normal
+name: Super Fang
+power: null
+pp: 10
+probability: null
+type: Normal

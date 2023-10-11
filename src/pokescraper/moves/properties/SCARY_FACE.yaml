@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Sharply lowers opponent's Speed.
+isHighCrit: false
+moveType: Normal
+name: Scary Face
+power: null
+pp: 10
+probability: null
+type: Normal

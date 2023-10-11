@@ -1,0 +1,10 @@
+accuracy: 80
+category: Physical
+effectDescription: High critical hit ratio.
+isHighCrit: true
+moveType: Rock
+name: Stone Edge
+power: 100
+pp: 5
+probability: null
+type: Rock

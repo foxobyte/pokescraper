@@ -1,0 +1,10 @@
+accuracy: 85
+category: Physical
+effectDescription: Hits 2-5 times in one turn.
+isHighCrit: false
+moveType: Normal
+name: Fury Attack
+power: 15
+pp: 20
+probability: null
+type: Normal

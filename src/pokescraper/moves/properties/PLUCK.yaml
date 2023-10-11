@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: If the opponent is holding a berry, its effect is stolen by user.
+isHighCrit: false
+moveType: Flying
+name: Pluck
+power: 60
+pp: 20
+probability: null
+type: Flying

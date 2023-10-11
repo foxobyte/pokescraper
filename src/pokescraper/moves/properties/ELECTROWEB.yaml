@@ -1,0 +1,10 @@
+accuracy: 95
+category: Special
+effectDescription: Lowers opponent's Speed.
+isHighCrit: false
+moveType: Electric
+name: Electroweb
+power: 55
+pp: 15
+probability: 100
+type: Electric

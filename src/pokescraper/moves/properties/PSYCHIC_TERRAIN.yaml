@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Prevents priority moves from being used for 5 turns.
+isHighCrit: false
+moveType: Psychic
+name: Psychic Terrain
+power: null
+pp: 10
+probability: null
+type: Psychic

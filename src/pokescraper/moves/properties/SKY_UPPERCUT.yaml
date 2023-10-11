@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: Hits the opponent, even during Fly.
+isHighCrit: false
+moveType: Fighting
+name: Sky Uppercut
+power: 85
+pp: 15
+probability: null
+type: Fighting

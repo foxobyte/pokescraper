@@ -1,0 +1,10 @@
+accuracy: 80
+category: Physical
+effectDescription: High critical hit ratio.
+isHighCrit: true
+moveType: Fighting
+name: Cross Chop
+power: 100
+pp: 5
+probability: null
+type: Fighting

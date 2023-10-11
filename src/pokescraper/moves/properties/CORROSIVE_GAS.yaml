@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Removes opponent's items.
+isHighCrit: false
+moveType: Poison
+name: Corrosive Gas
+power: null
+pp: 40
+probability: null
+type: Poison

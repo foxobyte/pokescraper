@@ -1,0 +1,11 @@
+accuracy: 90
+category: Physical
+effectDescription: "In battles, the opponent switches. In the wild, the Pok\xE9mon\
+  \ runs."
+isHighCrit: false
+moveType: Fighting
+name: Circle Throw
+power: 60
+pp: 10
+probability: null
+type: Fighting

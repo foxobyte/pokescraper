@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Lowers opponent's Attack. Always hits.
+isHighCrit: false
+moveType: Normal
+name: Play Nice
+power: null
+pp: 20
+probability: 100
+type: Normal

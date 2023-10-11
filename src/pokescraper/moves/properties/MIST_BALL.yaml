@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May lower opponent's Special Attack.
+isHighCrit: false
+moveType: Psychic
+name: Mist Ball
+power: 70
+pp: 5
+probability: 50
+type: Psychic

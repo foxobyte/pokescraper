@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Removes effects of Terrain.
+isHighCrit: false
+moveType: Ice
+name: Ice Spinner
+power: 80
+pp: 15
+probability: null
+type: Ice

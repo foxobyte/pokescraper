@@ -1,0 +1,11 @@
+accuracy: 100
+category: Physical
+effectDescription: "The user attacks by hurling a blizzard-cloaked icicle lance at\
+  \ opposing Pok\xE9mon."
+isHighCrit: false
+moveType: Ice
+name: Glacial Lance
+power: 120
+pp: 5
+probability: null
+type: Ice

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Lowers user's Defense.
+isHighCrit: false
+moveType: Ground
+name: Headlong Rush
+power: 120
+pp: 5
+probability: null
+type: Ground

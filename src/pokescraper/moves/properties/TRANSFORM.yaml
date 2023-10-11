@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User takes on the form and attacks of the opponent.
+isHighCrit: false
+moveType: Normal
+name: Transform
+power: null
+pp: 10
+probability: null
+type: Normal

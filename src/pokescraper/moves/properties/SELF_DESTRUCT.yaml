@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: User faints.
+isHighCrit: false
+moveType: Normal
+name: Self-Destruct
+power: 200
+pp: 5
+probability: null
+type: Normal

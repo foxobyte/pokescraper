@@ -1,0 +1,10 @@
+accuracy: 70
+category: Special
+effectDescription: May confuse opponent.
+isHighCrit: false
+moveType: Flying
+name: Hurricane
+power: 110
+pp: 10
+probability: 30
+type: Flying

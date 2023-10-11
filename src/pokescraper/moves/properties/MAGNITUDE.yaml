@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Hits with random power.
+isHighCrit: false
+moveType: Ground
+name: Magnitude
+power: null
+pp: 30
+probability: null
+type: Ground

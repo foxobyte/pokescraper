@@ -1,0 +1,10 @@
+accuracy: 85
+category: Physical
+effectDescription: May confuse opponent.
+isHighCrit: false
+moveType: Normal
+name: Rock Climb
+power: 90
+pp: 20
+probability: 20
+type: Normal

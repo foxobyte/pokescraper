@@ -1,0 +1,10 @@
+accuracy: 75
+category: Physical
+effectDescription: May lower opponent's Defense.
+isHighCrit: false
+moveType: Steel
+name: Iron Tail
+power: 100
+pp: 15
+probability: 30
+type: Steel

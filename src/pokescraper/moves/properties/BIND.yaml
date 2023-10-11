@@ -1,0 +1,10 @@
+accuracy: 85
+category: Physical
+effectDescription: Traps opponent, damaging them for 4-5 turns.
+isHighCrit: false
+moveType: Normal
+name: Bind
+power: 15
+pp: 20
+probability: 100
+type: Normal

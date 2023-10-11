@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Raises all user's stats but loses HP.
+isHighCrit: false
+moveType: Dragon
+name: Clangorous Soul
+power: null
+pp: 5
+probability: 100
+type: Dragon

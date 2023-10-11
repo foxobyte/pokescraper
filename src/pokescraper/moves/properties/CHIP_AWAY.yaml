@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Ignores opponent's stat changes.
+isHighCrit: false
+moveType: Normal
+name: Chip Away
+power: 70
+pp: 20
+probability: null
+type: Normal

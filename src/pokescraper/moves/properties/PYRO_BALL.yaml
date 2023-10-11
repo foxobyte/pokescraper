@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: May burn opponent.
+isHighCrit: false
+moveType: Fire
+name: Pyro Ball
+power: 120
+pp: 5
+probability: 10
+type: Fire

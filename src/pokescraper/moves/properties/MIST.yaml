@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: User's stats cannot be changed for a period of time.
+isHighCrit: false
+moveType: Ice
+name: Mist
+power: null
+pp: 30
+probability: null
+type: Ice

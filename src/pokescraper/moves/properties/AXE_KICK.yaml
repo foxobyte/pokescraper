@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: May confuse opponent. If it misses, the user loses HP.
+isHighCrit: false
+moveType: Fighting
+name: Axe Kick
+power: 120
+pp: 10
+probability: null
+type: Fighting

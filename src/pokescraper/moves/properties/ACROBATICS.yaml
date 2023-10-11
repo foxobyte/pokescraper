@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Stronger when the user does not have a held item.
+isHighCrit: false
+moveType: Flying
+name: Acrobatics
+power: 55
+pp: 15
+probability: null
+type: Flying

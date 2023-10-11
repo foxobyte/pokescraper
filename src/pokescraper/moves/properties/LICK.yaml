@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May paralyze opponent.
+isHighCrit: false
+moveType: Ghost
+name: Lick
+power: 30
+pp: 30
+probability: 30
+type: Ghost

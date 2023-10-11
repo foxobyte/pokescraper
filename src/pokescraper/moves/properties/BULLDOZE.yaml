@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Lowers opponent's Speed.
+isHighCrit: false
+moveType: Ground
+name: Bulldoze
+power: 60
+pp: 20
+probability: 100
+type: Ground

@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Stat changes are swapped with the opponent.
+isHighCrit: false
+moveType: Psychic
+name: Heart Swap
+power: null
+pp: 10
+probability: null
+type: Psychic

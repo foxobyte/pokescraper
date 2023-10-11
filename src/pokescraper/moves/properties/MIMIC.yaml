@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Copies the opponent's last move.
+isHighCrit: false
+moveType: Normal
+name: Mimic
+power: null
+pp: 10
+probability: null
+type: Normal

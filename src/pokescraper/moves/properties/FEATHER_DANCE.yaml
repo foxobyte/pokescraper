@@ -1,0 +1,10 @@
+accuracy: 100
+category: Status
+effectDescription: Sharply lowers opponent's Attack.
+isHighCrit: false
+moveType: Flying
+name: Feather Dance
+power: null
+pp: 15
+probability: null
+type: Flying

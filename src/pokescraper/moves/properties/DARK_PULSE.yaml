@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May cause flinching.
+isHighCrit: false
+moveType: Dark
+name: Dark Pulse
+power: 80
+pp: 15
+probability: 20
+type: Dark

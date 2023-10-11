@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises user's Evasiveness.
+isHighCrit: false
+moveType: Normal
+name: Double Team
+power: null
+pp: 15
+probability: null
+type: Normal

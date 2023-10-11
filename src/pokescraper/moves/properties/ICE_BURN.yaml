@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: Charges on first turn, attacks on second. May burn opponent.
+isHighCrit: false
+moveType: Ice
+name: Ice Burn
+power: 140
+pp: 5
+probability: 30
+type: Ice

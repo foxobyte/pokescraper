@@ -1,0 +1,11 @@
+accuracy: null
+category: Status
+effectDescription: "In battles, the opponent switches. In the wild, the Pok\xE9mon\
+  \ runs."
+isHighCrit: false
+moveType: Normal
+name: Roar
+power: null
+pp: 20
+probability: null
+type: Normal

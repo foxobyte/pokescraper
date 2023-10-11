@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May paralyze opponent.
+isHighCrit: false
+moveType: Dragon
+name: Dragon Breath
+power: 60
+pp: 20
+probability: 30
+type: Dragon

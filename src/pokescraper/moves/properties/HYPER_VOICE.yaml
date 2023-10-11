@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: ''
+isHighCrit: false
+moveType: Normal
+name: Hyper Voice
+power: 90
+pp: 10
+probability: null
+type: Normal

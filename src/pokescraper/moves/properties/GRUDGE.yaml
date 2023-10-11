@@ -1,0 +1,11 @@
+accuracy: null
+category: Status
+effectDescription: If the users faints after using this move, the PP for the opponent's
+  last move is depleted.
+isHighCrit: false
+moveType: Ghost
+name: Grudge
+power: null
+pp: 5
+probability: null
+type: Ghost

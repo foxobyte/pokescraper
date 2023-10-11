@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises user's Attack, Defense and Accuracy.
+isHighCrit: false
+moveType: Poison
+name: Coil
+power: null
+pp: 20
+probability: null
+type: Poison

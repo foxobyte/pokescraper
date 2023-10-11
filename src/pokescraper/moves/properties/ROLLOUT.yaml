@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: Doubles in power each turn for 5 turns.
+isHighCrit: false
+moveType: Rock
+name: Rollout
+power: 30
+pp: 20
+probability: null
+type: Rock

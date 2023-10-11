@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: High critical hit ratio. May burn opponent.
+isHighCrit: true
+moveType: Fire
+name: Blaze Kick
+power: 85
+pp: 10
+probability: 10
+type: Fire

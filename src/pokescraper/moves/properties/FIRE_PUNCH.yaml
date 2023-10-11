@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May burn opponent.
+isHighCrit: false
+moveType: Fire
+name: Fire Punch
+power: 75
+pp: 15
+probability: 10
+type: Fire

@@ -1,0 +1,10 @@
+accuracy: null
+category: Special
+effectDescription: Ignores Accuracy and Evasiveness.
+isHighCrit: false
+moveType: Grass
+name: Magical Leaf
+power: 60
+pp: 20
+probability: null
+type: Grass

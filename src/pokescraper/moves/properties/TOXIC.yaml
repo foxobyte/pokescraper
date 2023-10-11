@@ -1,0 +1,10 @@
+accuracy: 90
+category: Status
+effectDescription: Badly poisons opponent.
+isHighCrit: false
+moveType: Poison
+name: Toxic
+power: null
+pp: 10
+probability: null
+type: Poison

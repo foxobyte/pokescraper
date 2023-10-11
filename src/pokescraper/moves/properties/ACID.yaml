@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May lower opponent's Special Defense.
+isHighCrit: false
+moveType: Poison
+name: Acid
+power: 40
+pp: 30
+probability: 10
+type: Poison

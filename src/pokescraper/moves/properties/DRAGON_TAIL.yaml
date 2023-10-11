@@ -1,0 +1,11 @@
+accuracy: 90
+category: Physical
+effectDescription: "In battles, the opponent switches. In the wild, the Pok\xE9mon\
+  \ runs."
+isHighCrit: false
+moveType: Dragon
+name: Dragon Tail
+power: 60
+pp: 10
+probability: null
+type: Dragon

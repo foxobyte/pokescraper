@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Power doubles if the user was attacked first.
+isHighCrit: false
+moveType: Dark
+name: Payback
+power: 50
+pp: 10
+probability: null
+type: Dark

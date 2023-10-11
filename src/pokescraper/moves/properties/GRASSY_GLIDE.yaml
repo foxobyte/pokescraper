@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: High priority during Grassy Terrain.
+isHighCrit: false
+moveType: Grass
+name: Grassy Glide
+power: 60
+pp: 20
+probability: null
+type: Grass

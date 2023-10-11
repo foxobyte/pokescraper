@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: "Forces all Pok\xE9mon on the field to eat their berries."
+isHighCrit: false
+moveType: Normal
+name: Teatime
+power: null
+pp: 10
+probability: null
+type: Normal

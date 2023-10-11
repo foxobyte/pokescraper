@@ -1,0 +1,10 @@
+accuracy: 95
+category: Special
+effectDescription: High critical hit ratio.
+isHighCrit: true
+moveType: Flying
+name: Air Cutter
+power: 60
+pp: 25
+probability: null
+type: Flying

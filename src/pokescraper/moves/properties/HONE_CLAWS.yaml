@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises user's Attack and Accuracy.
+isHighCrit: false
+moveType: Dark
+name: Hone Claws
+power: null
+pp: 15
+probability: null
+type: Dark

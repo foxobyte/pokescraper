@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Prevents fleeing in the next turn.
+isHighCrit: false
+moveType: Fairy
+name: Fairy Lock
+power: null
+pp: 10
+probability: null
+type: Fairy

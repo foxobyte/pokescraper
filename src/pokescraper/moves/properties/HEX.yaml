@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Inflicts more damage if the target has a status condition.
+isHighCrit: false
+moveType: Ghost
+name: Hex
+power: 65
+pp: 10
+probability: null
+type: Ghost

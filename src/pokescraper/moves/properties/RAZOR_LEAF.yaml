@@ -1,0 +1,10 @@
+accuracy: 95
+category: Physical
+effectDescription: High critical hit ratio.
+isHighCrit: true
+moveType: Grass
+name: Razor Leaf
+power: 55
+pp: 25
+probability: null
+type: Grass

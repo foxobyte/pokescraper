@@ -1,0 +1,10 @@
+accuracy: 90
+category: Special
+effectDescription: User must recharge next turn.
+isHighCrit: false
+moveType: Fire
+name: Blast Burn
+power: 150
+pp: 5
+probability: null
+type: Fire

@@ -1,0 +1,10 @@
+accuracy: null
+category: Special
+effectDescription: Removes all of the target's stat changes.
+isHighCrit: false
+moveType: Poison
+name: Clear Smog
+power: 50
+pp: 15
+probability: null
+type: Poison

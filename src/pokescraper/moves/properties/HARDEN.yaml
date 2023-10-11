@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Raises user's Defense.
+isHighCrit: false
+moveType: Normal
+name: Harden
+power: null
+pp: 30
+probability: null
+type: Normal

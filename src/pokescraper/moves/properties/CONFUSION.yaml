@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: May confuse opponent.
+isHighCrit: false
+moveType: Psychic
+name: Confusion
+power: 50
+pp: 25
+probability: 10
+type: Psychic

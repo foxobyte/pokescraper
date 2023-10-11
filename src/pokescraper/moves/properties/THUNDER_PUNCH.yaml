@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: May paralyze opponent.
+isHighCrit: false
+moveType: Electric
+name: Thunder Punch
+power: 75
+pp: 15
+probability: 10
+type: Electric

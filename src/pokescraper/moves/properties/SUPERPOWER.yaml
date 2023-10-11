@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Lowers user's Attack and Defense.
+isHighCrit: false
+moveType: Fighting
+name: Superpower
+power: 120
+pp: 5
+probability: 100
+type: Fighting

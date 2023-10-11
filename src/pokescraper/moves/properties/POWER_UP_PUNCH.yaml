@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: Raises Attack.
+isHighCrit: false
+moveType: Fighting
+name: Power-Up Punch
+power: 40
+pp: 20
+probability: 100
+type: Fighting

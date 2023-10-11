@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Suppresses the effects of held items for five turns.
+isHighCrit: false
+moveType: Psychic
+name: Magic Room
+power: null
+pp: 10
+probability: null
+type: Psychic

@@ -1,0 +1,10 @@
+accuracy: 90
+category: Physical
+effectDescription: May lower opponent's Attack.
+isHighCrit: false
+moveType: Fairy
+name: Play Rough
+power: 90
+pp: 10
+probability: 10
+type: Fairy

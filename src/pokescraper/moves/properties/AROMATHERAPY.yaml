@@ -1,0 +1,10 @@
+accuracy: null
+category: Status
+effectDescription: Cures all status problems in your party.
+isHighCrit: false
+moveType: Grass
+name: Aromatherapy
+power: null
+pp: 5
+probability: null
+type: Grass

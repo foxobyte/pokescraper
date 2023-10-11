@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Hits all adjacent opponents.
+isHighCrit: false
+moveType: Electric
+name: Overdrive
+power: 80
+pp: 10
+probability: null
+type: Electric

@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Flying
+name: Wing Attack
+power: 60
+pp: 35
+probability: null
+type: Flying

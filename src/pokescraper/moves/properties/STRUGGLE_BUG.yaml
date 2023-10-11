@@ -1,0 +1,10 @@
+accuracy: 100
+category: Special
+effectDescription: Lowers opponent's Special Attack.
+isHighCrit: false
+moveType: Bug
+name: Struggle Bug
+power: 50
+pp: 20
+probability: 100
+type: Bug

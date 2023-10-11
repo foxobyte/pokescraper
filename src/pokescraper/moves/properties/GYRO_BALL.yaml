@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: The slower the user, the stronger the attack.
+isHighCrit: false
+moveType: Steel
+name: Gyro Ball
+power: null
+pp: 5
+probability: null
+type: Steel

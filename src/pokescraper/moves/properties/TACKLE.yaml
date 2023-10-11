@@ -1,0 +1,10 @@
+accuracy: 100
+category: Physical
+effectDescription: ''
+isHighCrit: false
+moveType: Normal
+name: Tackle
+power: 40
+pp: 35
+probability: null
+type: Normal
